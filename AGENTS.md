@@ -279,9 +279,9 @@ O aluno está matriculado em **3 disciplinas** no semestre 2026.1 (30/03 a 16/05
 
 | Código | Disciplina | Professor(a) |
 |--------|-----------|--------------|
-| GCETENS839 | Fundamentos de Sistemas de Informação | Daiana Conceição Souza |
+| GCETENS839 | Fundamentos de Sistemas de Informação | Profª. Me. Daiana Conceição Souza |
 | GCETENS841 | Algoritmos e Programação I | Luis Paulo Morais Conceição |
-| GCETENS842 | Lógica Matemática Discreta | — |
+| GCETENS842 | Lógica Matemática Discreta | Anderon Melhor Miranda |
 
 ### 📅 Avaliações Pendentes (14/05/2026)
 

@@ -1,7 +1,10 @@
 # PADRÃO DE SUBMISSÃO UFRB — Metodologia EAD
 
-> **Arquivo de referência para criação de TODAS as avaliações**
-> Este documento define o padrão obrigatório de cabeçalho, nomenclatura e formatação.
+> **Baseado na análise de documentos reais baixados do Moodle:**
+> - Resumo Crítico - Trilha 1 (PDF real enviado)
+> - Atividade 2 - Álgebra de Conjuntos (DOCX real)
+> - Lista 5 - Vetores (PDF da disciplina)
+> - Lista 7 - Funções em C (PDF da disciplina)
 
 ---
 
@@ -11,109 +14,125 @@
 <codigo-disciplina>-trilha-<N>-<tipo-atividade>-<nome-do-aluno>.<extensao>
 ```
 
-### Regras:
-- Tudo **minúsculo** (linux é case-sensitive)
+**Regras:**
+- Tudo **minúsculo**, sem acentos
 - Separador: hífen `-`
-- Sem acentos, sem cedilha, sem espaços
-- Extensão: `.docx` (preferencial) ou `.pdf`
-- Nome do aluno em slug: `deivison-de-lima-santana`
+- Extensão: `.pdf` (preferencial) ou `.docx`
+- Nome aluno em slug: `deivison-de-lima-santana`
 
-### Exemplos:
+**Exemplos:**
 ```
-gcetens839-trilha-1-avaliacao-deivison-de-lima-santana.docx
-gcetens839-trilha-2-avaliacao-deivison-de-lima-santana.pdf
-gcetens841-trilha-7-lista-deivison-de-lima-santana.docx
+gcetens839-trilha-3-avaliacao-deivison-de-lima-santana.pdf
 gcetens839-atividade-2-lista-deivison-de-lima-santana.pdf
+gcetens841-trilha-5-lista-deivison-de-lima-santana.docx
 ```
 
 ---
 
-## 2. CABEÇALHO PADRÃO (OBRIGATÓRIO)
+## 2. CABEÇALHO — TRILHAS / RESUMOS CRÍTICOS
+
+*Baseado no arquivo real: Resumo Crítico Trilha 1*
 
 ```
-UNIVERSIDADE FEDERAL DO RECÔNCAVO DA BAHIA — UFRB
-CENTRO DE CIÊNCIA E TECNOLOGIA — CETENS
-BACHARELADO EM SISTEMAS DE INFORMAÇÃO (EAD)
+UNIVERSIDADE FEDERAL DO RECÔNCAVO DA BAHIA
+SUPERINTENDÊNCIA DE EDUCAÇÃO ABERTA E A DISTÂNCIA – SEAD
+Bacharelado em Sistemas de Informação
+
+RESUMO CRÍTICO DA TRILHA <N>
+<Subtítulo>
+
+Discente: Deivison de Lima Santana
+Docente: Profª. Me. Daiana Conceição Souza
+Componente Curricular: GCETENS839 – Fundamentos de Sistemas de Informação
+Turma: 2026.1 T01
+
+Feira de Santana – BA
+Maio de 2026
+```
+
+### Observações:
+- **Docente** usa título acadêmico: `Profª. Me.`, `Prof. Dr.`, etc.
+- **Superintendência** é SEAD, não CETENS
+- Inclui **cidade e mês/ano** no final
+- Título em caixa alta: `RESUMO CRÍTICO DA TRILHA N`
+- Subtítulo explicativo abaixo
 
 ---
 
-DISCIPLINA: GCETENS839 — Fundamentos de Sistemas de Informação
-SEMESTRE: 2026.1
-TRILHA: 3 — Grace Hopper
+## 3. CABEÇALHO — ATIVIDADES / LISTAS
 
-DOCENTE: Daiana Conceição Souza
-DISCENTE: Deivison de Lima Santana
+*Baseado nos arquivos reais: Atividade_2.docx, Lista_5_VETOR.pdf, Lista_7_FUNCAO.pdf*
 
-ATIVIDADE: Avaliação 3 — Resumo Crítico
-DATA DE ENTREGA: 16/05/2026
-FORMATO DE ENTREGA: Word (.docx)
+```
+Universidade Federal do Recôncavo da Bahia
+Superintendência de Educação Aberta e a Distância
+
+Sistemas de Informação (EaD) - UFRB
+Componente curricular: <Nome da Disciplina>
+<tipo> - <Título>
+<Semana/Período>
+Prof. <Nome>
+
+Atividade a ser entregue/enviada no dia <data>: <valor da nota>
+```
+
+**Ou versão simplificada (Atividade_2.docx):**
+```
+UNIVERSIDADE FEDERAL DO RECÔNCAVO DA BAHIA - UFRB
+<Disciplina> - <Semestre>
+<tipo> - <TÍTULO>
+Discente:
+```
 
 ---
 
+## 4. ESTRUTURA DO CONTEÚDO — RESUMO CRÍTICO (max 3 páginas)
+
+```
+1. Introdução — Contexto + pergunta central (1 parágrafo)
+2. Desenvolvimento — Análise articulando autores (2-3 seções)
+3. Conclusão — Síntese crítica respondendo à pergunta
+— Referências (formato ABNT)
 ```
 
-### Campos fixos:
-- **Instituição:** UNIVERSIDADE FEDERAL DO RECÔNCAVO DA BAHIA — UFRB
-- **Centro:** CENTRO DE CIÊNCIA E TECNOLOGIA — CETENS
-- **Curso:** BACHARELADO EM SISTEMAS DE INFORMAÇÃO (EAD)
-- **Semestre:** 2026.1
-- **Discente:** Deivison de Lima Santana
+### Regras de tamanho:
+- **Máximo 3 páginas** (exigência do professor)
+- Fonte: Times New Roman ou similar, 12pt
+- Espaçamento 1.5
+- Margens 3cm (padrão ABNT)
 
-### Professores por Disciplina:
+---
+
+## 5. PROFESSORES CONFIRMADOS
+
 | Código | Disciplina | Docente |
 |--------|-----------|---------|
-| GCETENS839 | Fundamentos de Sistemas de Informação | Daiana Conceição Souza |
-| GCETENS841 | Algoritmos e Programação I | Luis Paulo Morais Conceição |
+| GCETENS839 | Fundamentos de Sistemas de Informação | Profª. Me. Daiana Conceição Souza |
+| GCETENS841 | Algoritmos e Programação I | (verificar no Moodle atual) |
 | GCETENS842 | Lógica Matemática Discreta | Anderon Melhor Miranda |
 
 ---
 
-## 3. ESTRUTURA DO CONTEÚDO
+## 6. LOGO DA INSTITUIÇÃO
 
-### Para resumos críticos (como Avaliação 3):
-```
-1. Introdução — Contextualização do tema e pergunta central
-2. Desenvolvimento — Análise das leituras e vídeos, articulando conceitos
-3. Conclusão — Síntese crítica respondendo à pergunta proposta
-4. Referências — Obras citadas no formato ABNT
-```
-
-### Para listas de exercícios (como Avaliação 7 - Algoritmos):
-```
-1. Questão 1 — Enunciado + Resolução
-2. Questão 2 — Enunciado + Resolução
-...
-N. Referências (se houver)
-```
+Disponível em `assets/img/`:
+- `logo-ufrb-20-anos.png` — Logo oficial com selo comemorativo 20 anos (obrigatório desde Portaria nº 896/2025)
+- `logo-ufrb.svg` — Versão SVG
 
 ---
 
-## 4. LOGO DA INSTITUIÇÃO
-
-A logo da UFRB está disponível em `assets/img/`:
-- `logo-ufrb.svg` — Versão oficial SVG
-- `favicon-ufrb.ico` — Favicon
-
-Para inserir em documentos .docx, usar a logo SVG convertida para PNG
-ou referenciar no cabeçalho do documento.
-
----
-
-## 5. PIPELINE DE GERAÇÃO
+## 7. PIPELINE DE GERAÇÃO
 
 ```bash
-# 1. Gerar arquivo markdown com cabeçalho padrão
-bun run scripts/gerar-submissao.js <disciplina> <trilha> <atividade> --format md
+# 1. Gerar markdown com cabeçalho correto
+# 2. Converter para PDF (max 3 paginas)
+pandoc arquivo.md --pdf-engine=weasyprint -o arquivo.pdf
 
-# 2. Editar o .md com o conteúdo da atividade
-# 3. Converter para .docx
-pandoc arquivo.md -o arquivo.docx
-
-# 4. (Opcional) Converter para .pdf
-pandoc arquivo.md -o arquivo.pdf
+# 3. Verificar numero de paginas
+# 4. Submeter via BrowserOS no Moodle SEAD
 ```
 
 ---
 
 > **Última atualização:** 14/05/2026
-> **Versão do padrão:** 2.0
+> **Versão do padrão:** 3.0 (baseado em documentos reais)
