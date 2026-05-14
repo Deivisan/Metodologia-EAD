@@ -1,0 +1,46 @@
+# ─── Sistema ───────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+*.bak
+*.tmp
+
+# ─── Python ────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# ─── Node ──────────────────────────────────────────────
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ─── Documentos temporários ────────────────────────────
+*.~docx
+*.~pdf
+~$*.docx
+~$*.xlsx
+
+# ─── IDE / Editor ──────────────────────────────────────
+.vscode/settings.json
+.idea/
+*.sublime-*
+
+# ─── Arquivos grandes / mídia ──────────────────────────
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.zip
+*.rar
+*.7z
+
+# ─── Logs ──────────────────────────────────────────────
+*.log
