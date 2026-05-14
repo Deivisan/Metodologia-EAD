@@ -283,17 +283,19 @@ O aluno está matriculado em **3 disciplinas** no semestre 2026.1 (30/03 a 16/05
 | GCETENS841 | Algoritmos e Programação I | Luis Paulo Morais Conceição |
 | GCETENS842 | Lógica Matemática Discreta | Anderon Melhor Miranda |
 
-### 📅 Avaliações Pendentes (14/05/2026)
+### 📅 Situação das Avaliações (14/05/2026)
 
-#### 🔴 URGENTE — 16/05/2026 (sábado, 2 dias)
-- **GCETENS839** — Avaliação 1 - Trilha 1 (Alan Turing)
-- **GCETENS839** — Avaliação 2 - Trilha 2 (Ada Lovelace)
-- **GCETENS839** — Avaliação 3 - Trilha 3 (Grace Hopper)
-- **GCETENS839** — Atividade 2 - Lista de Exercícios
+#### ✅ ENVIADAS — 16/05/2026
+- **GCETENS839** — Avaliação 1 - Trilha 1 (Alan Turing) ~~ Pendente ~~ ✅ **Enviada pelo aluno**
+- **GCETENS839** — Avaliação 2 - Trilha 2 (Ada Lovelace) ✅ **PDF gerado e enviado**
+- **GCETENS839** — Avaliação 3 - Trilha 3 (Grace Hopper) ✅ **PDF gerado e enviado**
+- **GCETENS839** — Atividade 2 - Lista de Exercícios ~~ Pendente ~~ ✅ **Enviada pelo aluno**
+- **GCETENS842** — Mapa Conceitual (Grafos) ✅ **PDF gerado e enviado**
+- **GCETENS842** — Atividade Indução/Recorrência ✅ **PDF gerado e enviado**
 
 #### 🟡 17/05/2026 (domingo)
-- **GCETENS839** — Avaliação 5 - 100% da Nota (envio até 31/05)
-- Atividade Avaliativa 06
+- **GCETENS841** — Avaliação 5 - 100% da Nota — **Lista 5 - Vetores em C** ✅ **PDF gerado** (enviar até 17/05 23:59)
+- **GCETENS842** — Atividade Avaliativa 06 — **Grafos no Cotidiano** ✅ **PDF gerado** (enviar até 17/05 23:59)
 
 #### 🟢 31/05/2026 (final do prazo)
 - **GCETENS841** — Avaliação 7 - 100% da Nota — **Lista de Funções em C** (Lista_7_FUNCAO.pdf)
@@ -328,8 +330,10 @@ O aluno está matriculado em **3 disciplinas** no semestre 2026.1 (30/03 a 16/05
   3. ~~Criar estrutura de diretórios~~ ✅
   4. ~~Criar templates para planos de ensino, aulas e atividades~~ ✅
   5. ~~Criar scripts de automação (geração, conversão, publicação)~~ ✅
-  6. **⚡ RESOLVER AVALIAÇÕES PENDENTES** (16/05, 17/05, 31/05)
-  7. Fazer upload e submeter via BrowserOS no Moodle SEAD
+  6. ~~RESOLVER AVALIAÇÕES PENDENTES (16/05)~~ ✅
+  7. ⚡ RESOLVER AVALIAÇÕES PENDENTES (17/05: Lista 5 Vetores + Grafos)
+  8. 🗓️ RESOLVER AVALIAÇÕES (31/05: Lista 7 Funções + Avaliações 1-4 Algoritmos)
+  9. Fazer upload e submeter via BrowserOS no Moodle SEAD
 
 ---
 
