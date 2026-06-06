@@ -45,7 +45,7 @@ Ele deve sempre responder rapidamente:
 | Integrante | Situação atual |
 |---|---|
 | **Deivison de Lima Santana** | Organização inicial, documentação e participação ativa no projeto. |
-| **Ausiane** | Contribui com ideias de educação, inclusão, acessibilidade, TEA e deficiência auditiva. |
+| **Ausiane** | Contribui com ideias de educação, inclusão, acessibilidade, TEA, deficiência auditiva e impactos de diagnósticos tardios na trajetória educacional. |
 | **Nubia de Asiká** | Estudando o material e pensando em sugestões. |
 | **Rios** | Ajudou a esclarecer que o tema é livre e que os exemplos estão no vídeo do professor. |
 | **Wallace** | Integrante confirmado; aguardando sugestão ou concordância com um tema. |
@@ -162,7 +162,7 @@ Ideia ligada a prazos, trilhas, materiais, progresso e participação em aulas.
 | Integrante | Próxima contribuição esperada |
 |---|---|
 | **Deivison de Lima Santana** | Manter o core atualizado, organizar documentos e participar da escolha/estruturação do tema. |
-| **Ausiane** | Detalhar melhor ideias de acessibilidade, TEA, deficiência auditiva e educação. |
+| **Ausiane** | Detalhar melhor ideias de acessibilidade, TEA, deficiência auditiva, educação e como diagnósticos tardios podem gerar dificuldades, frustrações e necessidade de apoio mais acolhedor. |
 | **Nubia de Asiká** | Sugerir tema próprio ou indicar concordância com algum tema existente. |
 | **Rios** | Comentar os temas existentes ou ajudar na escolha por enquete. |
 | **Wallace** | Sugerir tema próprio ou indicar concordância com algum tema existente. |
