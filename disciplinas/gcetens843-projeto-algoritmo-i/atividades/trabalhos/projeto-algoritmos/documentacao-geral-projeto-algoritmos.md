@@ -1,228 +1,257 @@
-# documentação geral — projeto de algoritmos
+# Documentação Geral — Projeto Algoritmo I
 
-> disciplina: **gcetens843 — projeto algoritmo i**  
-> curso: **bacharelado em sistemas de informação**  
-> semestre: **2026.1**  
-> professor: **a confirmar no moodle/ava**  
-> fonte-base: vídeo do professor — <https://www.youtube.com/watch?v=Aa5xV9GRsig>  
-> transcrição de apoio: [`transcricao-video-aa5xv9grsig.md`](../../../../../transcricao-video-aa5xv9grsig.md)  
-> status: documento inicial para alinhamento do grupo
+> Documento inicial para alinhamento do grupo e organização da apresentação.
 
----
+## Metadados do Trabalho
 
-## 1. equipe do projeto
-
-integrantes informados até o momento:
-
-| integrante | observação |
+| Campo | Informação |
 |---|---|
-| **deivison de lima santana** / **davis do santana** | organização inicial, documentação e apoio técnico |
-| **alciane** | integrante do grupo |
-| **nubia de asika** | integrante do grupo; sobrenome informado como **a-s-i-k-a** |
-| **rios** | integrante do grupo |
-| **wallace** | integrante do grupo |
-
-> observação: o professor citou equipes de **8 pessoas**, mas este documento registra apenas os nomes já confirmados. se novos integrantes entrarem, atualizar esta seção.
-
----
-
-## 2. entendimento da proposta do professor
-
-o trabalho deve propor uma **solução computacional para um problema real**, preferencialmente ligada a um setor da sociedade, comunidade, universidade ou mercado. a ideia central é observar um problema existente, pesquisar soluções já usadas e apresentar uma proposta própria, com organização visual e lógica.
-
-### pontos principais extraídos do vídeo
-
-- o projeto deve partir de um **problema real**.
-- o grupo pode escolher um **setor específico** ou um problema da comunidade.
-- a proposta deve usar **computação** para melhorar um processo existente ou criar uma solução nova.
-- o professor sugeriu setores como:
-  - banco digital;
-  - indústria automotiva;
-  - universidades;
-  - e-commerce;
-  - hospitais/saúde.
-- a equipe deve apresentar:
-  - problema a ser resolvido;
-  - casos/soluções existentes;
-  - proposta do grupo;
-  - o que a proposta melhora ou inova;
-  - fluxograma explicando o funcionamento;
-  - protótipo de telas;
-  - código opcional em c ou outra linguagem.
-- a apresentação vale **10 pontos**.
-- prazo informado no vídeo: **29/06 às 20h**.
+| **Disciplina** | **GCETENS843 — Projeto Algoritmo I** |
+| **Curso** | **Bacharelado em Sistemas de Informação** |
+| **Semestre** | **2026.1** |
+| **Professor(a)** | A confirmar no Moodle/AVA |
+| **Fonte-base** | Vídeo do professor: <https://www.youtube.com/watch?v=Aa5xV9GRsig> |
+| **Transcrição de apoio** | [`transcricao-video-aa5xv9grsig.md`](../../../../../transcricao-video-aa5xv9grsig.md) |
+| **Status** | Documento inicial para planejamento do grupo |
 
 ---
 
-## 3. materiais visuais extraídos do vídeo
+## 1. Equipe do Projeto
 
-foram gerados screenshots do vídeo para apoio na criação dos slides. eles podem ser usados como referência visual ou como evidência do enunciado apresentado pelo professor.
+Integrantes informados até o momento:
 
-| imagem | uso sugerido |
+| Integrante | Observação |
 |---|---|
-| `screenshots/slide-01-boas-vindas.png` | abertura/contexto do vídeo |
-| `screenshots/slide-02-propostas-iniciais.png` | introdução às propostas e setores |
-| `screenshots/slide-03-industria-automotiva.png` | exemplo de setor: automotivo |
-| `screenshots/slide-04-universidades.png` | exemplo de setor: universidades |
-| `screenshots/slide-05-hospitais.png` | exemplo de setor: hospitais/saúde |
-| `screenshots/slide-06-equipe.png` | orientação sobre equipes |
-| `screenshots/slide-07-fluxograma-prototipo.png` | orientação sobre fluxograma/protótipo |
-| `screenshots/slide-08-prazo-avaliacao.png` | prazo, apresentação e pontuação |
+| **Deivison de Lima Santana** / **Davis do Santana** | Organização inicial, documentação e apoio técnico |
+| **Ausiane** | Integrante do grupo |
+| **Nubia de Asika** | Integrante do grupo; sobrenome informado como **A-S-I-K-A** |
+| **Rios** | Integrante do grupo |
+| **Wallace** | Integrante do grupo |
 
-> sugestão: não colocar todos os screenshots na apresentação final. usar apenas 1 ou 2 como referência do enunciado e produzir slides próprios com identidade visual limpa.
+> **Observação:** o professor citou equipes de **8 pessoas**, mas este documento registra apenas os nomes já confirmados. Caso novos integrantes entrem no grupo, esta seção deve ser atualizada.
 
 ---
 
-## 4. entregáveis esperados
+## 2. Entendimento da Proposta do Professor
 
-| item | descrição | obrigatório? |
+O trabalho deve propor uma **solução computacional para um problema real**, preferencialmente ligada a algum setor da sociedade, da comunidade, da universidade ou do mercado.
+
+A ideia central é:
+
+1. observar um problema existente;
+2. pesquisar soluções ou casos semelhantes;
+3. propor uma solução própria;
+4. explicar a lógica da solução com fluxograma;
+5. apresentar um protótipo visual;
+6. opcionalmente, entregar uma simulação ou módulo em **C** ou em outra linguagem.
+
+### Pontos Principais Extraídos do Vídeo
+
+- O projeto deve partir de um **problema real**.
+- O grupo pode escolher um **setor específico** ou um problema da comunidade.
+- A proposta deve usar **computação** para melhorar um processo existente ou criar uma solução nova.
+- A apresentação vale **10 pontos**.
+- O prazo informado no vídeo é **29/06 às 20h**.
+
+### Setores Citados pelo Professor
+
+- **Banco Digital**
+- **Indústria Automotiva**
+- **Universidades**
+- **E-commerce**
+- **Hospitais / Saúde**
+
+### O Que a Equipe Deve Apresentar
+
+- Problema a ser resolvido;
+- Casos ou soluções existentes;
+- Proposta do grupo;
+- O que a proposta melhora ou inova;
+- Fluxograma explicando o funcionamento;
+- Protótipo de telas;
+- Código opcional em **C** ou em outra linguagem.
+
+---
+
+## 3. Materiais Visuais Extraídos do Vídeo
+
+Foram gerados screenshots do vídeo para apoiar a criação dos slides. Eles podem ser usados como referência visual ou como evidência do enunciado apresentado pelo professor.
+
+| Imagem | Uso sugerido |
+|---|---|
+| `screenshots/slide-01-boas-vindas.png` | Abertura e contexto do vídeo |
+| `screenshots/slide-02-propostas-iniciais.png` | Introdução às propostas e aos setores |
+| `screenshots/slide-03-industria-automotiva.png` | Exemplo de setor: indústria automotiva |
+| `screenshots/slide-04-universidades.png` | Exemplo de setor: universidades |
+| `screenshots/slide-05-hospitais.png` | Exemplo de setor: hospitais/saúde |
+| `screenshots/slide-06-equipe.png` | Orientação sobre formação da equipe |
+| `screenshots/slide-07-fluxograma-prototipo.png` | Orientação sobre fluxograma e protótipo |
+| `screenshots/slide-08-prazo-avaliacao.png` | Prazo, apresentação e pontuação |
+
+> **Sugestão:** não colocar todos os screenshots na apresentação final. Usar apenas 1 ou 2 como referência ao enunciado e produzir slides próprios, com identidade visual limpa.
+
+---
+
+## 4. Entregáveis Esperados
+
+| Item | Descrição | Obrigatório? |
 |---|---|---|
-| formação da equipe | definir integrantes e divisão de responsabilidades | sim |
-| problema real | explicar o problema escolhido e quem é afetado | sim |
-| casos existentes | mostrar soluções semelhantes já utilizadas no mercado/comunidade | sim |
-| proposta do grupo | explicar a solução computacional proposta | sim |
-| diferencial | indicar o que melhora, simplifica ou torna a proposta inovadora | sim |
-| fluxograma | representar a lógica/processo da solução | sim |
-| protótipo de telas | simular visualmente como o sistema poderia funcionar | sim |
-| código em c | implementação simples, simulação ou módulo da solução | opcional, mas recomendado |
-| apresentação | apresentação oral/visual do trabalho | sim |
+| **Formação da equipe** | Definir integrantes e divisão de responsabilidades | Sim |
+| **Problema real** | Explicar o problema escolhido e quem é afetado por ele | Sim |
+| **Casos existentes** | Mostrar soluções semelhantes já usadas no mercado ou na comunidade | Sim |
+| **Proposta do grupo** | Explicar a solução computacional proposta | Sim |
+| **Diferencial** | Indicar o que melhora, simplifica ou torna a proposta inovadora | Sim |
+| **Fluxograma** | Representar a lógica ou o processo da solução | Sim |
+| **Protótipo de telas** | Simular visualmente como o sistema poderia funcionar | Sim |
+| **Código em C** | Implementação simples, simulação ou módulo da solução | Opcional, mas recomendado |
+| **Apresentação** | Apresentação oral e visual do trabalho | Sim |
 
 ---
 
-## 5. estrutura sugerida para organização interna
+## 5. Estrutura Sugerida para Organização Interna
 
-| frente | responsável sugerido | atividades |
+| Frente de trabalho | Responsável sugerido | Atividades |
 |---|---|---|
-| pesquisa do problema | equipe inteira | levantar problemas reais e escolher a melhor opção |
-| pesquisa de casos existentes | 1 ou 2 integrantes | buscar exemplos na web e no mercado |
-| proposta e narrativa | 1 ou 2 integrantes | organizar o que será explicado na apresentação |
-| fluxograma | 1 integrante | criar o fluxo da solução usando ferramenta visual |
-| protótipo | 1 ou 2 integrantes | criar telas simples no figma, canva, excalidraw ou ferramenta similar |
-| código em c | integrante(s) com mais familiaridade técnica | implementar uma simulação ou módulo simples |
-| slides | equipe inteira com revisão final | preparar a apresentação e ensaiar |
+| **Pesquisa do problema** | Equipe inteira | Levantar problemas reais e escolher a melhor opção |
+| **Pesquisa de casos existentes** | 1 ou 2 integrantes | Buscar exemplos na web e no mercado |
+| **Proposta e narrativa** | 1 ou 2 integrantes | Organizar o que será explicado na apresentação |
+| **Fluxograma** | 1 integrante | Criar o fluxo da solução usando ferramenta visual |
+| **Protótipo** | 1 ou 2 integrantes | Criar telas simples no Figma, Canva, Excalidraw ou ferramenta similar |
+| **Código em C** | Integrante(s) com mais familiaridade técnica | Implementar uma simulação ou módulo simples |
+| **Slides** | Equipe inteira, com revisão final | Preparar a apresentação e ensaiar |
 
 ---
 
-## 6. dez ideias de problemas reais e soluções possíveis
+## 6. Dez Ideias de Problemas Reais e Soluções Possíveis
 
-> as ideias abaixo são pontos de partida. o grupo deve escolher uma e ajustar conforme viabilidade, tempo e interesse.
+> As ideias abaixo são pontos de partida. O grupo deve escolher uma e ajustar conforme viabilidade, tempo e interesse.
 
-| nº | problema real | solução proposta | setor | pode ter código em c? |
-|---:|---|---|---|---|
-| 1 | estudantes perdem prazos de atividades no ava/moodle | sistema simples de lembretes e priorização de tarefas acadêmicas | universidade | **sim** |
-| 2 | dificuldade de organizar filas e atendimentos em setores da universidade | simulador de fila com senhas e prioridade | universidade/gestão | **sim** |
-| 3 | pacientes esquecem horários de medicamentos ou consultas | agenda de saúde com alertas e cadastro básico | saúde | **sim** |
-| 4 | pequenos comércios não sabem controlar estoque mínimo | controle simples de estoque com alerta de reposição | comércio/e-commerce | **sim** |
-| 5 | clientes têm dificuldade de comparar tarifas/serviços bancários | comparador simplificado de serviços financeiros | banco digital | **sim** |
-| 6 | estudantes têm dificuldade para acompanhar notas e desempenho | painel acadêmico com cálculo de média e situação | universidade | **sim** |
-| 7 | motoristas não têm noção clara de consumo médio e custo por rota | calculadora de consumo, autonomia e custo estimado | automotivo | **sim** |
-| 8 | hospitais e clínicas têm dificuldade em priorizar atendimentos simples | triagem básica por sintomas e nível de urgência | saúde | opcional |
-| 9 | compras online geram dúvidas sobre prazo, frete e confiabilidade | assistente de decisão para compras em e-commerce | e-commerce | opcional |
-| 10 | moradores não têm canal simples para registrar problemas comunitários | sistema de registro de ocorrências locais com categoria e prioridade | comunidade | opcional |
+| Nº | Problema real | Solução proposta | Setor | Pode ter código em C? |
+|---:|---|---|---|:---:|
+| 1 | Estudantes perdem prazos de atividades no AVA/Moodle | Sistema simples de lembretes e priorização de tarefas acadêmicas | Universidade | **Sim** |
+| 2 | Dificuldade de organizar filas e atendimentos em setores da universidade | Simulador de fila com tickets/senhas e prioridade | Universidade / Gestão | **Sim** |
+| 3 | Pacientes esquecem horários de medicamentos ou consultas | Agenda de saúde com alertas e cadastro básico | Saúde | **Sim** |
+| 4 | Pequenos comércios não sabem controlar estoque mínimo | Controle simples de estoque com alerta de reposição | Comércio / E-commerce | **Sim** |
+| 5 | Clientes têm dificuldade de comparar tarifas e serviços bancários | Comparador simplificado de serviços financeiros | Banco Digital | **Sim** |
+| 6 | Estudantes têm dificuldade para acompanhar notas e desempenho | Painel acadêmico com cálculo de média e situação | Universidade | **Sim** |
+| 7 | Motoristas não têm noção clara de consumo médio e custo por rota | Calculadora de consumo, autonomia e custo estimado | Automotivo | **Sim** |
+| 8 | Hospitais e clínicas têm dificuldade em priorizar atendimentos simples | Triagem básica por sintomas e nível de urgência | Saúde | Opcional |
+| 9 | Compras online geram dúvidas sobre prazo, frete e confiabilidade | Assistente de decisão para compras em e-commerce | E-commerce | Opcional |
+| 10 | Moradores não têm canal simples para registrar problemas comunitários | Sistema de registro de ocorrências locais com categoria e prioridade | Comunidade | Opcional |
 
-### ideias mais recomendadas para código em c
+### Ideias Mais Recomendadas para Código em C
 
-para aumentar a aderência à disciplina, as melhores opções para entregar algum código simples em c são:
+Para aumentar a aderência à disciplina, as melhores opções para entregar algum código simples em **C** são:
 
-1. **controle de prazos acadêmicos** — cadastro de atividades, datas e prioridade.
-2. **simulador de fila** — fila comum, fila prioritária e ordem de atendimento.
-3. **controle de estoque** — cadastro de produto, quantidade e alerta de estoque baixo.
-4. **calculadora acadêmica** — média, nota mínima e situação do aluno.
-5. **calculadora de consumo automotivo** — distância, combustível, custo e autonomia.
-
----
-
-## 7. modelo de apresentação sugerido
-
-### roteiro de slides
-
-1. **capa** — nome do projeto, disciplina, professor e integrantes.
-2. **contexto do trabalho** — o que o professor pediu, com base no vídeo.
-3. **problema real escolhido** — explicar quem sofre com o problema e por quê.
-4. **casos existentes** — exemplos semelhantes encontrados na web/mercado.
-5. **proposta do grupo** — solução computacional em linguagem simples.
-6. **diferencial da proposta** — o que melhora, simplifica ou torna útil.
-7. **fluxograma** — mostrar o funcionamento lógico.
-8. **protótipo de telas** — mostrar como o usuário interage.
-9. **código/simulação** — se houver, explicar o que o código em c faz.
-10. **conclusão** — impacto esperado, limitações e próximos passos.
-
-### cuidado com a apresentação
-
-- não fazer slides com texto demais.
-- usar imagens, ícones, diagramas e tabelas simples.
-- explicar o problema antes da solução.
-- evitar prometer um sistema completo se o grupo só conseguirá entregar protótipo.
-- se houver código, mostrar apenas a lógica principal e o resultado.
+1. **Controle de prazos acadêmicos** — cadastro de atividades, datas e prioridade.
+2. **Simulador de fila** — fila comum, fila prioritária e ordem de atendimento.
+3. **Controle de estoque** — cadastro de produto, quantidade e alerta de estoque baixo.
+4. **Calculadora acadêmica** — média, nota mínima e situação do aluno.
+5. **Calculadora de consumo automotivo** — distância, combustível, custo e autonomia.
 
 ---
 
-## 8. como usar notebooklm para melhorar a apresentação
+## 7. Modelo de Apresentação Sugerido
 
-o grupo pode usar o **notebooklm** como apoio para organizar as fontes e transformar o material em roteiro de apresentação.
+### Roteiro de Slides
 
-### materiais para adicionar no notebooklm
+| Slide | Tema | Conteúdo principal |
+|---:|---|---|
+| 1 | **Capa** | Nome do projeto, disciplina, professor(a) e integrantes |
+| 2 | **Contexto do trabalho** | O que o professor pediu, com base no vídeo |
+| 3 | **Problema real escolhido** | Quem sofre com o problema e por que ele importa |
+| 4 | **Casos existentes** | Exemplos semelhantes encontrados na web ou no mercado |
+| 5 | **Proposta do grupo** | Solução computacional em linguagem simples |
+| 6 | **Diferencial da proposta** | O que melhora, simplifica ou torna a solução útil |
+| 7 | **Fluxograma** | Funcionamento lógico da solução |
+| 8 | **Protótipo de telas** | Como o usuário interage com a proposta |
+| 9 | **Código / simulação** | Se houver, explicar o que o código em C faz |
+| 10 | **Conclusão** | Impacto esperado, limitações e próximos passos |
 
-- esta documentação geral;
-- transcrição do vídeo;
-- prints do vídeo;
-- pesquisas de soluções parecidas na web;
-- rascunho do fluxograma;
-- descrição do protótipo;
-- código em c, caso exista.
+### Cuidados com a Apresentação
 
-### prompts úteis para notebooklm
+- Evitar slides com texto demais.
+- Usar imagens, ícones, diagramas e tabelas simples.
+- Explicar o problema antes da solução.
+- Evitar prometer um sistema completo se o grupo vai entregar apenas protótipo.
+- Se houver código, mostrar apenas a lógica principal e o resultado.
+- Dividir as falas para que todos os integrantes participem.
+
+---
+
+## 8. Como Usar NotebookLM para Melhorar a Apresentação
+
+O grupo pode usar o **NotebookLM** como apoio para organizar fontes, transformar materiais em roteiro e revisar a apresentação.
+
+### Materiais para Adicionar no NotebookLM
+
+- Esta documentação geral;
+- Transcrição do vídeo;
+- Prints do vídeo;
+- Pesquisas de soluções parecidas na web;
+- Rascunho do fluxograma;
+- Descrição do protótipo;
+- Código em **C**, caso exista.
+
+### Prompts Úteis para NotebookLM
 
 ```text
-com base nos documentos enviados, crie um roteiro de apresentação de 10 slides para um trabalho de projeto algoritmo i. mantenha linguagem simples, acadêmica e objetiva.
+Com base nos documentos enviados, crie um roteiro de apresentação de 10 slides para um trabalho de Projeto Algoritmo I. Mantenha linguagem simples, acadêmica e objetiva.
 ```
 
 ```text
-identifique os requisitos do professor e organize em uma lista de verificação para garantir que a apresentação atenda ao enunciado.
+Identifique os requisitos do professor e organize em uma lista de verificação para garantir que a apresentação atenda ao enunciado.
 ```
 
 ```text
-gere falas curtas para cada slide, dividindo a apresentação entre cinco integrantes: deivison, alciane, nubia de asika, rios e wallace.
+Gere falas curtas para cada slide, dividindo a apresentação entre cinco integrantes: Deivison, Ausiane, Nubia de Asika, Rios e Wallace.
 ```
 
 ```text
-sugira melhorias para a proposta, comparando com soluções reais encontradas na web, sem deixar o projeto complexo demais.
+Sugira melhorias para a proposta, comparando com soluções reais encontradas na web, sem deixar o projeto complexo demais.
 ```
 
-### uso da web para melhorar o resultado
+### Uso da Web para Melhorar o Resultado
 
-- pesquisar rapidamente soluções existentes no setor escolhido.
-- coletar 2 ou 3 referências confiáveis.
-- comparar a proposta do grupo com ferramentas reais.
-- usar dados simples para justificar o problema.
-- evitar copiar solução pronta: a web deve servir para referência e inspiração.
-
----
-
-## 9. checklist final do grupo
-
-- [ ] escolher a ideia final do projeto;
-- [ ] confirmar todos os integrantes;
-- [ ] definir divisão de tarefas;
-- [ ] pesquisar casos existentes;
-- [ ] escrever problema e justificativa;
-- [ ] desenhar fluxograma;
-- [ ] criar protótipo de telas;
-- [ ] decidir se haverá código em c;
-- [ ] preparar slides;
-- [ ] ensaiar apresentação;
-- [ ] revisar se todos os pontos pedidos pelo professor aparecem nos slides.
+- Pesquisar rapidamente soluções existentes no setor escolhido.
+- Coletar 2 ou 3 referências confiáveis.
+- Comparar a proposta do grupo com ferramentas reais.
+- Usar dados simples para justificar o problema.
+- Evitar copiar solução pronta: a web deve servir para referência e inspiração.
 
 ---
 
-## 10. recomendação inicial
+## 9. Checklist Final do Grupo
 
-para este grupo, uma boa opção é escolher uma ideia que permita **apresentação clara + protótipo simples + código em c demonstrável**. por isso, as opções mais práticas são:
+- [ ] Escolher a ideia final do projeto;
+- [ ] Confirmar todos os integrantes;
+- [ ] Definir divisão de tarefas;
+- [ ] Pesquisar casos existentes;
+- [ ] Escrever problema e justificativa;
+- [ ] Desenhar fluxograma;
+- [ ] Criar protótipo de telas;
+- [ ] Decidir se haverá código em **C**;
+- [ ] Preparar slides;
+- [ ] Ensaiar apresentação;
+- [ ] Revisar se todos os pontos pedidos pelo professor aparecem nos slides.
 
-1. controle de prazos acadêmicos;
-2. simulador de fila/atendimento;
-3. controle de estoque simples;
-4. painel de notas e desempenho;
-5. calculadora de consumo/custo automotivo.
+---
 
-essas ideias não exigem sistema completo e permitem mostrar lógica algorítmica, fluxograma, protótipo e possível código em c dentro do tempo da disciplina.
+## 10. Recomendação Inicial
+
+Para este grupo, uma boa opção é escolher uma ideia que permita:
+
+- **apresentação clara**;
+- **protótipo simples**;
+- **fluxograma objetivo**;
+- **código em C demonstrável**.
+
+Por isso, as opções mais práticas são:
+
+1. **Controle de prazos acadêmicos**;
+2. **Simulador de fila/atendimento**;
+3. **Controle de estoque simples**;
+4. **Painel de notas e desempenho**;
+5. **Calculadora de consumo/custo automotivo**.
+
+Essas ideias não exigem um sistema completo e permitem mostrar lógica algorítmica, fluxograma, protótipo e possível código em **C** dentro do tempo da disciplina.
