@@ -163,7 +163,7 @@ Ideia ligada a prazos, trilhas, materiais, progresso e participação em aulas.
 |---|---|
 | **Deivison de Lima Santana** | Manter o core atualizado, organizar documentos e participar da escolha/estruturação do tema. |
 | **Ausiane** | Detalhar melhor ideias de acessibilidade, TEA, deficiência auditiva, educação e como diagnósticos tardios podem gerar dificuldades, frustrações e necessidade de apoio mais acolhedor. |
-| **Nubia de Asiká** | Sugerir tema próprio ou indicar concordância com algum tema existente. |
+| **Nubia de Asiká** | ✅ Já contribuiu — está estudando o material e pensando em sugestões. Próximo passo: compartilhar as ideias com o grupo quando estiver pronta. |
 | **Rios** | Comentar os temas existentes ou ajudar na escolha por enquete. |
 | **Wallace** | Sugerir tema próprio ou indicar concordância com algum tema existente. |
 
