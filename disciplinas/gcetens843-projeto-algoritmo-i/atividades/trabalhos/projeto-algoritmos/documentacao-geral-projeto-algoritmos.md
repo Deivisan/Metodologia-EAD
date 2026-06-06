@@ -1,7 +1,9 @@
 # documentação geral — projeto de algoritmos
 
-> disciplina: **gcetens841 — algoritmos e programação i**  
-> professor: **luis paulo morais conceição**  
+> disciplina: **gcetens843 — projeto algoritmo i**  
+> curso: **bacharelado em sistemas de informação**  
+> semestre: **2026.1**  
+> professor: **a confirmar no moodle/ava**  
 > fonte-base: vídeo do professor — <https://www.youtube.com/watch?v=Aa5xV9GRsig>  
 > transcrição de apoio: [`transcricao-video-aa5xv9grsig.md`](../../../../../transcricao-video-aa5xv9grsig.md)  
 > status: documento inicial para alinhamento do grupo
@@ -172,7 +174,7 @@ o grupo pode usar o **notebooklm** como apoio para organizar as fontes e transfo
 ### prompts úteis para notebooklm
 
 ```text
-com base nos documentos enviados, crie um roteiro de apresentação de 10 slides para um trabalho de algoritmos e programação i. mantenha linguagem simples, acadêmica e objetiva.
+com base nos documentos enviados, crie um roteiro de apresentação de 10 slides para um trabalho de projeto algoritmo i. mantenha linguagem simples, acadêmica e objetiva.
 ```
 
 ```text

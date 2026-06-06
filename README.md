@@ -24,6 +24,7 @@
 | GCETENS839 | Fundamentos de Sistemas de Informação | Profª. Me. Daiana Conceição Souza |
 | GCETENS841 | Algoritmos e Programação I | Luis Paulo Morais Conceição |
 | GCETENS842 | Lógica Matemática Discreta | Anderon Melhor Miranda |
+| GCETENS843 | Projeto Algoritmo I | A confirmar no Moodle/AVA |
 
 ---
 
@@ -34,7 +35,8 @@ Metodologia-EAD/
 ├── disciplinas/                    # Conteúdo por disciplina
 │   ├── gcetens839-fundamentos-si/  # Fundamentos de Sistemas de Informação
 │   ├── gcetens841-algoritmos/      # Algoritmos e Programação I
-│   └── gcetens842-logica/          # Lógica Matemática Discreta
+│   ├── gcetens842-logica/          # Lógica Matemática Discreta
+│   └── gcetens843-projeto-algoritmo-i/ # Projeto Algoritmo I
 ├── templates/                      # Modelos reutilizáveis
 ├── scripts/                        # Automações CLI
 ├── assets/                         # Logo UFRB e recursos

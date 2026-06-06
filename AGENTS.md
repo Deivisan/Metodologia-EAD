@@ -275,13 +275,18 @@ Quando solicitado a divulgar ou publicar materiais, use:
 
 ### 🏫 Disciplinas Ativas — UFRB 2026.1
 
-O aluno está matriculado em **3 disciplinas** no semestre 2026.1 (30/03 a 16/05/2026):
+O aluno está matriculado em **4 disciplinas** no semestre 2026.1 (30/03 a 16/05/2026):
 
 | Código | Disciplina | Professor(a) |
 |--------|-----------|--------------|
 | GCETENS839 | Fundamentos de Sistemas de Informação | Profª. Me. Daiana Conceição Souza |
 | GCETENS841 | Algoritmos e Programação I | Luis Paulo Morais Conceição |
 | GCETENS842 | Lógica Matemática Discreta | Anderon Melhor Miranda |
+| GCETENS843 | Projeto Algoritmo I | A confirmar no Moodle/AVA |
+
+### 📌 Disciplina adicional identificada — 2026.1
+
+- **GCETENS843 — Projeto Algoritmo I**: disciplina de projeto em grupo vinculada ao Bacharelado em Sistemas de Informação, semestre 2026.1. O trabalho atual exige proposta de solução computacional para problema real, com pesquisa de casos existentes, fluxograma, protótipo de telas, apresentação e código opcional em C/outra linguagem.
 
 ### 📅 Situação das Avaliações (14/05/2026)
 
