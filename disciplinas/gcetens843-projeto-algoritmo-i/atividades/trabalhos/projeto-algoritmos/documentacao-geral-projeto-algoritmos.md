@@ -1,6 +1,7 @@
 # Documentação Geral — Projeto Algoritmo I
 
 > Documento inicial para alinhamento do grupo e organização da apresentação.
+> Para visão geral atualizada do projeto, comece por: [`Index-Geral.md`](Index-Geral.md).
 
 ## Metadados do Trabalho
 

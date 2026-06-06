@@ -4,6 +4,7 @@
 > **Curso:** Bacharelado em Sistemas de Informação  
 > **Semestre:** 2026.1  
 > **Objetivo deste documento:** organizar as ideias discutidas pelo grupo para facilitar a escolha do tema do projeto.
+> Para visão geral atualizada do projeto, comece por: [`Index-Geral.md`](Index-Geral.md).
 
 ---
 
