@@ -288,6 +288,64 @@ O aluno está matriculado em **4 disciplinas** no semestre 2026.1 (30/03 a 16/05
 
 - **GCETENS843 — Projeto Algoritmo I**: disciplina de projeto em grupo vinculada ao Bacharelado em Sistemas de Informação, semestre 2026.1. O trabalho atual exige proposta de solução computacional para problema real, com pesquisa de casos existentes, fluxograma, protótipo de telas, apresentação e código opcional em C/outra linguagem.
 
+### 🧩 Projeto em Grupo — GCETENS843 (Core Vivo)
+
+Este projeto passou a ser um eixo importante do repositório. A pasta principal é:
+
+```text
+disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/
+```
+
+O arquivo central do grupo é:
+
+```text
+disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/Index-Geral.md
+```
+
+#### Função do `Index-Geral.md`
+
+- Servir como **core vivo** do grupo.
+- Centralizar datas, integrantes, temas, documentos existentes, documentos planejados, roadmap e próximas decisões.
+- Receber atualizações sempre que novas conversas do grupo forem enviadas pelo usuário.
+- Linkar todos os documentos importantes do projeto.
+- Manter nomes e links legíveis para colegas que não têm familiaridade com ferramentas técnicas do repositório.
+
+#### Integrantes confirmados até agora
+
+| Integrante | Observação |
+|---|---|
+| Deivison de Lima Santana | Organização inicial, documentação e participação ativa no projeto. |
+| Ausiane | Educação, inclusão, acessibilidade, TEA e deficiência auditiva. |
+| Nubia de Asiká | Estudando o material e pensando em sugestões. |
+| Rios | Participou da organização inicial e reforçou orientação do vídeo do professor. |
+| Wallace | Integrante confirmado; aguardando sugestão/concordância de tema. |
+
+> Regra de privacidade: não publicar telefones, senhas ou dados pessoais sensíveis no repositório aberto. Se o usuário enviar conversas do WhatsApp, extrair apenas conteúdo útil, nomes, decisões e contexto acadêmico.
+
+#### Datas importantes do projeto
+
+| Data | Evento |
+|---|---|
+| 08/06/2026 | Decisão prevista do tema pelo grupo. |
+| 29/06/2026 às 20h | Apresentação informada no vídeo do professor. |
+
+#### Temas em discussão no momento
+
+1. **Educação, acessibilidade e inclusão** — foco em estudantes EAD, plataformas, acessibilidade, TEA, deficiência auditiva, baixa visão e organização de estudos.
+2. **Filas inteligentes em clínicas/hospitais** — foco em transparência de atendimento, acompanhamento por celular, painéis claros e acessibilidade.
+3. **Organização acadêmica para estudantes EAD** — foco em trilhas, prazos, materiais, progresso e participação em aulas.
+
+#### Metodologia de atualização
+
+Quando o usuário enviar novas conversas do grupo:
+
+1. Identificar novas sugestões, decisões, discordâncias, preferências e tarefas.
+2. Atualizar o `Index-Geral.md` primeiro.
+3. Criar ou atualizar documentos planejados somente quando houver conteúdo suficiente.
+4. Manter links coesos e nomes legíveis.
+5. Evitar excesso de emojis; priorizar clareza, tabelas, roadmap e pequenos gráficos Mermaid quando úteis.
+6. Fazer commit e push após alterações no repositório, conforme preferência do usuário.
+
 ### 📅 Situação das Avaliações (14/05/2026)
 
 #### ✅ ENVIADAS — 16/05/2026

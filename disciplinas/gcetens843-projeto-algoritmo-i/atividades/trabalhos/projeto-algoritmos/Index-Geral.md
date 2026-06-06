@@ -1,7 +1,21 @@
 # Index Geral — Core do Grupo
 
 > **Este é o arquivo principal do projeto.**  
-> A partir dele, qualquer integrante deve conseguir entender o que está acontecendo, quais decisões já foram tomadas, o que ainda falta decidir e onde cada informação será organizada.
+> Tudo que for necessário para entender, acompanhar e organizar o trabalho deve passar por aqui.
+
+---
+
+## Visão Rápida do Projeto
+
+```mermaid
+flowchart LR
+    A[conversas do grupo] --> B[Index Geral]
+    B --> C[tema]
+    B --> D[tarefas]
+    B --> E[pesquisa]
+    B --> F[protótipo]
+    B --> G[apresentação]
+```
 
 ---
 
@@ -9,286 +23,216 @@
 
 | Campo | Informação |
 |---|---|
-| **Disciplina** | **GCETENS843 — Projeto Algoritmo I** |
+| **Instituição** | **UFRB — Universidade Federal do Recôncavo da Bahia** |
 | **Curso** | **Bacharelado em Sistemas de Informação** |
+| **Disciplina** | **GCETENS843 — Projeto Algoritmo I** |
 | **Semestre** | **2026.1** |
-| **Tipo de trabalho** | Projeto em grupo com proposta de solução computacional para problema real |
-| **Status atual** | Fase de escolha do tema e organização do grupo |
+| **Tipo de trabalho** | Projeto em grupo com proposta de solução computacional para um problema real |
+| **Status atual** | Escolha do tema e organização inicial |
 | **Data prevista para decidir o tema** | **08/06/2026** |
 | **Data de apresentação informada no vídeo** | **29/06/2026 às 20h** |
 
 ---
 
-## 2. Como Este Arquivo Deve Ser Usado
+## 2. Como Este Arquivo Deve Funcionar
 
-Este arquivo funciona como um **painel central vivo** do grupo.
+Este arquivo é o **painel central vivo** do grupo. Ele não é um texto fixo: será atualizado conforme novas conversas, decisões e contribuições surgirem.
 
-Sempre que o projeto evoluir, este arquivo deve ser atualizado com:
+Sempre que o projeto avançar, este arquivo deve registrar:
 
 - decisões tomadas;
-- sugestões novas dos integrantes;
-- links para novos documentos;
-- enquetes internas;
-- divisão de tarefas;
-- tema escolhido;
-- protótipo;
-- fluxograma;
-- código;
-- roteiro de apresentação;
-- dúvidas pendentes.
+- temas sugeridos;
+- preferências dos integrantes;
+- novos documentos criados;
+- links importantes;
+- tarefas e responsáveis;
+- próximos passos;
+- dúvidas ainda abertas.
 
-> **Regra principal:** se alguém do grupo estiver perdido, deve começar lendo este arquivo.
+> **Regra prática:** se alguém estiver perdido, deve começar por este arquivo.
 
 ---
 
 ## 3. Integrantes Confirmados
 
-| Integrante | Situação atual no projeto |
+| Integrante | Participação atual |
 |---|---|
-| **Deivison de Lima Santana / Davis do Santana** | Organização inicial, documentação, GitHub e sugestões de temas. |
-| **Ausiane** | Sugestões fortes sobre educação, acessibilidade, TEA, deficiência auditiva e inclusão. |
-| **Nubia de Asiká** | Estudando o material e pensando em sugestões. |
-| **Rios** | Participou da organização inicial e reforçou que o tema é livre, com base no vídeo do professor. |
-| **Wallace** | Integrante confirmado; aguardando sugestão ou concordância com algum tema. |
+| **Deivison de Lima Santana** | Fez a organização inicial, iniciou a documentação e participará ativamente do projeto. Também sugeriu temas ligados à educação, acessibilidade e filas em clínicas/hospitais. |
+| **Ausiane** | Sugeriu temas ligados à educação, inclusão, acessibilidade, TEA, deficiência auditiva, baixa visão e dificuldades em plataformas educacionais. |
+| **Nubia de Asiká** | Informou que começou a estudar o material e está pensando em sugestões. |
+| **Rios** | Participou da organização inicial, perguntou sobre sugestões de problemas e reforçou que o tema é livre, com base no vídeo do professor. |
+| **Wallace** | Integrante confirmado; aguardando sugestão própria ou concordância com algum tema já discutido. |
 
-> O professor citou equipes com **8 pessoas**. Caso novos integrantes entrem, esta tabela deve ser atualizada.
+> O professor citou equipes com **8 pessoas**. Se novos integrantes entrarem, esta tabela deve ser atualizada.
 
 ---
 
-## 4. O Que o Professor Pediu
+## 4. O Que Precisa Ser Feito no Projeto
 
-Com base no vídeo de apresentação da disciplina, o projeto deve conter:
+Com base no vídeo do professor, o trabalho precisa apresentar uma solução computacional para um problema real.
 
-- escolha de um **problema real**;
-- proposta de uma **solução computacional**;
-- pesquisa de **casos ou soluções existentes**;
+O projeto deve conter:
+
+- problema real escolhido;
+- pesquisa de soluções ou casos existentes;
+- proposta do grupo;
 - explicação do diferencial da proposta;
-- **fluxograma** explicando a lógica;
-- **protótipo de telas**;
+- fluxograma;
+- protótipo de telas;
 - apresentação final;
-- código em **C** ou outra linguagem, se o grupo quiser implementar algo.
+- código opcional em **C** ou em outra linguagem.
 
-### Entregáveis principais
+### Formatos possíveis
 
-| Entregável | Obrigatório? | Observação |
-|---|:---:|---|
-| Problema real | Sim | Deve ser claro e fácil de explicar. |
-| Casos existentes | Sim | Mostrar que o grupo pesquisou soluções parecidas. |
-| Proposta do grupo | Sim | Deve resolver ou melhorar o problema escolhido. |
-| Fluxograma | Sim | Representar o funcionamento da solução. |
-| Protótipo de telas | Sim | Mostrar como a solução poderia ser usada. |
-| Código em C | Opcional | Recomendado se for simples e demonstrável. |
-| Apresentação | Sim | Vale **10 pontos**. |
+Não estamos presos a um único formato de entrega. Conforme a necessidade do grupo, podem existir materiais em vários formatos, por exemplo:
+
+- documentos de texto;
+- apresentações;
+- imagens;
+- protótipos;
+- fluxogramas;
+- arquivos de código;
+- PDFs;
+- links externos;
+- anotações de reunião;
+- materiais de pesquisa.
+
+O importante é que tudo esteja organizado e linkado a partir deste `Index Geral`.
 
 ---
 
 ## 5. Documentos Existentes
 
-| Documento | Função |
-|---|---|
-| [`documentacao-geral-projeto-algoritmos.md`](documentacao-geral-projeto-algoritmos.md) | Documentação geral inicial com requisitos do professor, equipe, entregáveis e ideias amplas. |
-| [`temas-sugeridos-decisao-08-06-2026.md`](temas-sugeridos-decisao-08-06-2026.md) | Organização das ideias surgidas no grupo antes da escolha do tema. |
-| [`screenshots/`](screenshots/) | Prints extraídos do vídeo do professor para apoiar os slides e a documentação. |
-| [`../../../../../transcricao-video-aa5xv9grsig.md`](../../../../../transcricao-video-aa5xv9grsig.md) | Transcrição estruturada do vídeo usado como base para entender o trabalho. |
+| Nome para leitura | Link | Função |
+|---|---|---|
+| **Documentação Geral do Projeto** | [`abrir documento`](documentacao-geral-projeto-algoritmos.md) | Reúne requisitos do professor, entregáveis, equipe e ideias amplas. |
+| **Temas Sugeridos para Decisão** | [`abrir documento`](temas-sugeridos-decisao-08-06-2026.md) | Organiza as ideias discutidas pelo grupo antes da escolha do tema. |
+| **Prints do Vídeo do Professor** | [`abrir pasta`](screenshots/) | Guarda imagens extraídas do vídeo para consulta e apoio visual. |
+| **Transcrição do Vídeo do Professor** | [`abrir transcrição`](../../../../../transcricao-video-aa5xv9grsig.md) | Registra o conteúdo falado no vídeo usado como base para entender o trabalho. |
 
 ---
 
 ## 6. Documentos Planejados
 
-Os links abaixo já deixam organizado o caminho do projeto. Alguns ainda estão “bloqueados” porque serão criados quando a informação existir.
+> Esta lista ainda está em aberto. Os documentos planejados podem mudar conforme o grupo decidir o tema, a forma de trabalho e os materiais necessários.
 
-| Status | Documento planejado | Para que servirá |
-|---|---|---|
-| 🔒 | [`enquete-tema-08-06-2026.md`](enquete-tema-08-06-2026.md) | Registrar votos, preferências e justificativas para escolha do tema. |
-| 🔒 | [`tema-escolhido.md`](tema-escolhido.md) | Consolidar o tema final depois da decisão do grupo. |
-| 🔒 | [`divisao-de-tarefas.md`](divisao-de-tarefas.md) | Registrar quem ficará responsável por cada parte. |
-| 🔒 | [`casos-existentes.md`](casos-existentes.md) | Organizar exemplos reais pesquisados na web/mercado. |
-| 🔒 | [`referencias-web.md`](referencias-web.md) | Guardar links, fontes e referências externas. |
-| 🔒 | [`fluxograma.md`](fluxograma.md) | Documentar o fluxo lógico da solução. |
-| 🔒 | [`prototipo-telas.md`](prototipo-telas.md) | Explicar as telas que serão apresentadas. |
-| 🔒 | [`codigo-c/README.md`](codigo-c/README.md) | Organizar possível implementação ou simulação em C. |
-| 🔒 | [`roteiro-apresentacao.md`](roteiro-apresentacao.md) | Estruturar a fala e os slides da apresentação. |
-| 🔒 | [`slides-apresentacao.md`](slides-apresentacao.md) | Planejar os slides finais em formato Markdown. |
-| 🔒 | [`ata-decisoes.md`](ata-decisoes.md) | Registrar decisões importantes do grupo ao longo do tempo. |
-| 🔒 | [`duvidas-e-perguntas.md`](duvidas-e-perguntas.md) | Guardar dúvidas para levar ao professor ou discutir no grupo. |
+Os links com 🔒 representam documentos que **ainda não existem**, mas já foram previstos para organizar o projeto.
 
-> **Legenda:** 🔒 = documento ainda não criado. O link pode aparecer quebrado até o grupo ter conteúdo suficiente para criá-lo.
+| Status | Nome legível | Local previsto | Para que servirá |
+|---|---|---|---|
+| 🔒 | **Enquete de Escolha do Tema** | [`enquete-tema-08-06-2026`](enquete-tema-08-06-2026.md) | Registrar votos, preferências e justificativas. |
+| 🔒 | **Tema Escolhido pelo Grupo** | [`tema-escolhido`](tema-escolhido.md) | Consolidar o tema final depois da decisão. |
+| 🔒 | **Divisão de Tarefas** | [`divisao-de-tarefas`](divisao-de-tarefas.md) | Registrar responsáveis por pesquisa, protótipo, apresentação e possível código. |
+| 🔒 | **Casos Existentes e Soluções Semelhantes** | [`casos-existentes`](casos-existentes.md) | Organizar exemplos reais pesquisados na web ou no mercado. |
+| 🔒 | **Referências e Links de Pesquisa** | [`referencias-web`](referencias-web.md) | Guardar fontes externas que ajudem na justificativa. |
+| 🔒 | **Fluxograma da Solução** | [`fluxograma`](fluxograma.md) | Documentar o fluxo lógico da proposta. |
+| 🔒 | **Protótipo de Telas** | [`prototipo-telas`](prototipo-telas.md) | Explicar as telas, ideias visuais e navegação do sistema. |
+| 🔒 | **Código ou Simulação em C** | [`codigo-c`](codigo-c/README.md) | Organizar possível implementação, simulação ou explicação do código. |
+| 🔒 | **Roteiro da Apresentação** | [`roteiro-apresentacao`](roteiro-apresentacao.md) | Dividir falas, ordem dos assuntos e pontos principais. |
+| 🔒 | **Apresentação Final** | [`apresentacao-final`](apresentacao-final.md) | Organizar slides, imagens, texto de apresentação e estrutura final. |
+| 🔒 | **Ata de Decisões do Grupo** | [`ata-decisoes`](ata-decisoes.md) | Registrar decisões importantes ao longo do projeto. |
+| 🔒 | **Dúvidas para Resolver** | [`duvidas-e-perguntas`](duvidas-e-perguntas.md) | Guardar dúvidas para discutir com o professor ou com o grupo. |
 
 ---
 
 ## 7. Temas em Discussão
 
+> Estes temas ainda são sugestões. O grupo ainda vai decidir qual caminho seguir.
+
 ### 7.1 Educação, Acessibilidade e Inclusão
 
-Tema sugerido a partir da conversa sobre estudantes com dificuldade de acompanhar conteúdos, prazos, plataformas e aulas. A ideia também considera estudantes com deficiência auditiva, baixa visão, TEA e outras necessidades de acessibilidade.
+Tema sugerido a partir das conversas sobre dificuldades de acesso a conteúdos, vídeos, plataformas educacionais, organização de estudos, TEA, deficiência auditiva e baixa visão.
 
-**Problemas possíveis:**
+**Ideia central:** criar uma solução que ajude estudantes a se organizarem melhor e/ou acessarem conteúdos educacionais com mais clareza e inclusão.
 
-- dificuldade de navegação no AVA/Moodle;
-- falta de suporte em vídeos para pessoas com deficiência auditiva;
-- leitores de tela que não reconhecem bem todos os componentes;
-- dificuldade de organização para estudantes com TEA;
-- baixa participação em aulas síncronas;
-- horários incompatíveis com a rotina de alguns alunos.
-
-**Possíveis soluções:**
-
-- organizador acadêmico acessível;
-- painel de prazos, trilhas e pendências;
-- checklist visual para estudantes EAD;
-- módulo de apoio à acessibilidade em conteúdos;
-- sistema de lembretes e prioridades.
-
-**Força do tema:** muito conectado à realidade do curso e à experiência dos próprios integrantes.
+**Pontos fortes:** próximo da realidade do curso, tem base em vivências do grupo e permite protótipo simples.
 
 ---
 
 ### 7.2 Filas Inteligentes em Clínicas e Hospitais
 
-Tema sugerido a partir da experiência com filas confusas em clínicas e hospitais. O problema envolve painéis pouco claros, chamadas por voz, códigos aleatórios, ausência de previsão de atendimento e falta de transparência.
+Tema sugerido a partir da dificuldade de acompanhar a ordem de atendimento em clínicas e hospitais, especialmente quando os painéis e chamadas não são claros.
 
-**Problemas possíveis:**
+**Ideia central:** criar uma solução que torne a fila mais transparente, acessível e acompanhável, inclusive pelo celular.
 
-- o usuário não sabe quando será atendido;
-- chamadas com códigos pouco intuitivos;
-- alternância entre filas comum, prioridade e setores diferentes;
-- impossibilidade de acompanhar a fila pelo celular;
-- sensação de favorecimento;
-- dificuldade para pessoas com deficiência auditiva ou baixa visão.
-
-**Possíveis soluções:**
-
-- painel de fila mais claro;
-- acompanhamento da fila pelo celular;
-- posição aproximada na fila;
-- notificação quando a vez estiver próxima;
-- histórico de senhas chamadas;
-- separação transparente entre fila comum e prioridade.
-
-**Força do tema:** fácil de explicar, fácil de prototipar e excelente para simular em C com fila e prioridade.
+**Pontos fortes:** problema fácil de explicar, bom para protótipo e excelente para simular com algoritmo de fila.
 
 ---
 
 ### 7.3 Organização Acadêmica para Estudantes EAD
 
-Tema relacionado à observação de que havia muitos alunos matriculados, mas poucos presentes na aula. Pode estar ligado a rotina, prazos, engajamento, dificuldade de acompanhar trilhas e organização do estudo.
+Tema ligado à baixa participação em aulas, dificuldade de acompanhar trilhas, prazos, vídeos, PDFs e atividades.
 
-**Problemas possíveis:**
+**Ideia central:** criar um painel ou organizador simples para estudantes EAD acompanharem progresso, pendências e prioridades.
 
-- estudantes se perdem entre vídeos, PDFs, atividades e prazos;
-- baixa participação nas aulas;
-- falta de visão geral do progresso;
-- dificuldade de saber o que fazer primeiro.
-
-**Possíveis soluções:**
-
-- painel de progresso acadêmico;
-- priorizador de tarefas por prazo;
-- agenda de trilhas e atividades;
-- relatório de pendências;
-- checklist de estudo.
-
-**Força do tema:** pode se unir ao tema de acessibilidade e ficar muito próximo da realidade do grupo.
+**Pontos fortes:** pode se juntar ao tema de acessibilidade e ficar bastante conectado à realidade da turma.
 
 ---
 
-### 7.4 Finanças de Empresas
+## 8. Enquete Interna
 
-Tema citado como possibilidade, mas ainda pouco detalhado.
+> A enquete pode ganhar um documento próprio, mas por enquanto a visão geral fica registrada aqui.
 
-**Possíveis caminhos:**
-
-- controle de entradas e saídas;
-- alerta de saldo negativo;
-- fluxo de caixa simples;
-- cálculo de lucro/prejuízo;
-- organização financeira para pequenos negócios.
-
-**Situação atual:** aguardando mais discussão, caso alguém do grupo tenha interesse.
-
----
-
-### 7.5 Saúde e Atendimento Acessível
-
-Pode ser uma variação ou expansão do tema de filas, incluindo acessibilidade para pacientes e melhor comunicação entre clínica/hospital e usuário.
-
-**Possíveis caminhos:**
-
-- atendimento com suporte visual e textual;
-- notificações acessíveis;
-- linguagem simples para pacientes;
-- fluxo de triagem mais claro;
-- painel mais acessível.
-
----
-
-## 8. Enquete Interna de Tema
-
-> Esta seção pode ser usada como enquete simples até o arquivo específico ser criado.
-
-| Tema | Votos / preferências | Observações |
+| Tema | Preferências já percebidas | Observação |
 |---|---|---|
-| Educação + acessibilidade | Ausiane demonstrou forte interesse; Deivison também tem preferência por educação. | Tema próximo da realidade do curso. |
-| Filas em clínicas/hospitais | Deivison sugeriu; Ausiane achou interessante. | Bom para simulação em C. |
-| Organização acadêmica EAD | Surgiu a partir da baixa participação nas aulas. | Pode se juntar ao tema de acessibilidade. |
-| Finanças de empresas | Citado como possibilidade. | Ainda pouco desenvolvido. |
-| Saúde/atendimento acessível | Pode se juntar ao tema de filas. | Pode ampliar impacto social. |
+| **Educação + acessibilidade** | Ausiane demonstrou forte interesse; Deivison também tem afinidade com educação. | Tema próximo do curso e das experiências relatadas. |
+| **Filas em clínicas/hospitais** | Deivison sugeriu; Ausiane achou interessante. | Tema prático e bom para simulação em C. |
+| **Organização acadêmica EAD** | Surgiu a partir da baixa participação nas aulas. | Pode se unir ao tema de educação/acessibilidade. |
 
-### Pergunta central para 08/06/2026
-
-> O grupo prefere seguir pelo caminho de **educação/acessibilidade** ou pelo caminho de **saúde/filas inteligentes**?
+**Pergunta principal para 08/06/2026:**  
+o grupo prefere seguir pelo caminho de **educação/acessibilidade** ou pelo caminho de **saúde/filas inteligentes**?
 
 ---
 
 ## 9. Roadmap do Projeto
 
-### Fase 1 — Organização inicial
+### Fase 1 — Organização Inicial
 
 | Etapa | Status |
 |---|---|
-| Criar grupo de comunicação | ✅ Feito |
-| Confirmar integrantes iniciais | ✅ Feito |
-| Transcrever vídeo do professor | ✅ Feito |
-| Criar documentação geral | ✅ Feito |
-| Criar arquivo central do projeto | ✅ Feito |
+| Criar grupo de comunicação | Concluído |
+| Confirmar integrantes iniciais | Concluído |
+| Transcrever vídeo do professor | Concluído |
+| Criar documentação geral | Concluído |
+| Criar arquivo central do grupo | Concluído |
 
-### Fase 2 — Escolha do tema
-
-| Etapa | Status |
-|---|---|
-| Listar temas possíveis | ✅ Em andamento |
-| Ouvir sugestões de todos | 🟡 Em andamento |
-| Fazer enquete/decisão | 🔒 Previsto para 08/06/2026 |
-| Registrar tema escolhido | 🔒 Pendente |
-
-### Fase 3 — Pesquisa e proposta
+### Fase 2 — Escolha do Tema
 
 | Etapa | Status |
 |---|---|
-| Pesquisar casos existentes | 🔒 Pendente |
-| Definir problema final | 🔒 Pendente |
-| Escrever justificativa | 🔒 Pendente |
-| Definir solução proposta | 🔒 Pendente |
-| Definir diferencial | 🔒 Pendente |
+| Listar temas possíveis | Em andamento |
+| Ouvir sugestões de todos | Em andamento |
+| Fazer enquete ou decisão do tema | Previsto para **08/06/2026** |
+| Registrar tema escolhido | Pendente |
 
-### Fase 4 — Construção do material
+### Fase 3 — Pesquisa e Proposta
 
 | Etapa | Status |
 |---|---|
-| Criar fluxograma | 🔒 Pendente |
-| Criar protótipo de telas | 🔒 Pendente |
-| Decidir se haverá código em C | 🔒 Pendente |
-| Implementar simulação em C, se escolhida | 🔒 Pendente |
+| Pesquisar casos existentes | Pendente |
+| Definir problema final | Pendente |
+| Escrever justificativa | Pendente |
+| Definir solução proposta | Pendente |
+| Definir diferencial | Pendente |
+
+### Fase 4 — Construção do Material
+
+| Etapa | Status |
+|---|---|
+| Criar fluxograma | Pendente |
+| Criar protótipo de telas | Pendente |
+| Decidir se haverá código em C | Pendente |
+| Implementar simulação/código, se escolhido | Pendente |
 
 ### Fase 5 — Apresentação
 
 | Etapa | Status |
 |---|---|
-| Criar roteiro de apresentação | 🔒 Pendente |
-| Criar slides | 🔒 Pendente |
-| Dividir falas | 🔒 Pendente |
-| Ensaiar apresentação | 🔒 Pendente |
-| Apresentar em 29/06/2026 às 20h | 🔒 Pendente |
+| Criar roteiro de apresentação | Pendente |
+| Preparar material visual | Pendente |
+| Dividir falas | Pendente |
+| Ensaiar apresentação | Pendente |
+| Apresentar em **29/06/2026 às 20h** | Pendente |
 
 ---
 
@@ -296,22 +240,22 @@ Pode ser uma variação ou expansão do tema de filas, incluindo acessibilidade 
 
 | Integrante | Próxima contribuição esperada |
 |---|---|
-| **Deivison / Davis** | Manter documentação, GitHub, organização dos arquivos e estruturar próximos documentos. |
-| **Ausiane** | Detalhar melhor a ideia de acessibilidade, TEA, deficiência auditiva e experiência em educação. |
-| **Nubia de Asiká** | Sugerir tema próprio ou indicar concordância com um dos temas já propostos. |
-| **Rios** | Sugerir tema próprio, comentar os temas existentes ou ajudar na escolha por enquete. |
-| **Wallace** | Sugerir tema próprio ou indicar concordância com um dos temas já propostos. |
+| **Deivison de Lima Santana** | Manter a organização inicial, atualizar este core, participar ativamente da escolha do tema e ajudar na estrutura técnica do projeto. |
+| **Ausiane** | Detalhar melhor as ideias ligadas a acessibilidade, TEA, deficiência auditiva e educação. |
+| **Nubia de Asiká** | Sugerir tema próprio ou indicar concordância com algum tema já existente. |
+| **Rios** | Comentar os temas existentes, sugerir novo tema ou ajudar na escolha final por enquete. |
+| **Wallace** | Sugerir tema próprio ou indicar concordância com algum tema já existente. |
 
 ---
 
 ## 11. Regras de Organização do Repositório
 
 - Este arquivo é o **ponto de partida**.
-- Documentos novos devem ser linkados aqui.
+- Todo documento novo deve ser linkado aqui.
 - Decisões importantes devem ser registradas.
-- Evitar dados sensíveis, telefones, senhas ou informações pessoais desnecessárias.
-- O repositório é aberto para consulta dos membros, então os textos devem ser claros e respeitosos.
-- O grupo pode ir ajustando a estrutura conforme o trabalho evoluir.
+- Não publicar telefones, senhas ou dados pessoais desnecessários.
+- O repositório é aberto para visualização dos membros, então os textos devem ser claros e respeitosos.
+- A estrutura pode mudar conforme o projeto evoluir.
 
 ---
 
@@ -320,20 +264,46 @@ Pode ser uma variação ou expansão do tema de filas, incluindo acessibilidade 
 Até **08/06/2026**, o grupo deve decidir:
 
 1. qual tema será escolhido;
-2. se o projeto terá código em C;
+2. se haverá código em C ou apenas protótipo/fluxograma;
 3. quem ficará responsável por cada parte;
 4. quais materiais precisam ser pesquisados;
-5. qual será o caminho da apresentação.
+5. como será organizada a apresentação.
 
 ---
 
-## 13. Estado Atual Resumido
+## 13. Visão Geral Completa
 
-O grupo está entre duas linhas fortes:
+```mermaid
+flowchart TD
+    A[Index Geral] --> B[Documentos Existentes]
+    A --> C[Documentos Planejados]
+    A --> D[Temas em Discussão]
+    A --> E[Roadmap]
+    A --> F[Contribuições dos Integrantes]
 
-1. **Educação, acessibilidade e inclusão** — tema mais próximo da experiência de Ausiane e da realidade do curso EAD.
-2. **Filas inteligentes em clínicas/hospitais** — tema prático, fácil de visualizar e muito bom para simular com algoritmo de fila.
+    B --> B1[Documentação Geral]
+    B --> B2[Temas Sugeridos]
+    B --> B3[Prints do Vídeo]
+    B --> B4[Transcrição do Vídeo]
 
-As duas ideias são válidas. A decisão deve considerar o que o grupo consegue defender melhor, prototipar melhor e apresentar com clareza.
+    C --> C1[Enquete]
+    C --> C2[Tema Escolhido]
+    C --> C3[Divisão de Tarefas]
+    C --> C4[Casos Existentes]
+    C --> C5[Fluxograma]
+    C --> C6[Protótipo]
+    C --> C7[Código ou Simulação]
+    C --> C8[Apresentação Final]
 
-> **Este arquivo deve continuar sendo atualizado conforme as conversas avançarem.**
+    D --> D1[Educação + Acessibilidade]
+    D --> D2[Filas Inteligentes]
+    D --> D3[Organização Acadêmica EAD]
+
+    E --> E1[Escolher Tema - 08/06]
+    E --> E2[Pesquisar]
+    E --> E3[Propor Solução]
+    E --> E4[Criar Materiais]
+    E --> E5[Apresentar - 29/06]
+```
+
+> Este arquivo continuará sendo atualizado conforme as conversas do grupo avançarem.
