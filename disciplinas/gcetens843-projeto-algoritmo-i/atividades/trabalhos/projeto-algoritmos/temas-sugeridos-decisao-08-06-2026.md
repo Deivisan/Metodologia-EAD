@@ -40,6 +40,8 @@ Até lá, este documento serve como espaço de organização das ideias iniciais
 
 A ideia parte da dificuldade que muitos estudantes podem ter para acompanhar conteúdos, prazos, aulas e plataformas educacionais, especialmente em contextos de EAD. Também foi levantada a possibilidade de pensar em acessibilidade para pessoas com deficiência, TEA, baixa visão ou deficiência auditiva.
 
+Uma nova contribuição reforça que o tema é especialmente importante no momento atual, em que muitas pessoas recebem diagnósticos tardios. Quando essas necessidades não são percebidas ou acolhidas antes, podem surgir dificuldades, frustrações e traumas que impactam a trajetória educacional. Por isso, uma solução voltada à educação e acessibilidade pode ajudar não apenas na organização dos estudos, mas também no acolhimento e na criação de caminhos mais inclusivos.
+
 #### Problemas observados
 
 - Dificuldade de acesso e navegação em plataformas educacionais.
@@ -49,6 +51,8 @@ A ideia parte da dificuldade que muitos estudantes podem ter para acompanhar con
 - Pessoas com baixa visão enfrentando obstáculos com leitores de tela.
 - Pessoas com deficiência auditiva sem suporte adequado em vídeos ou conteúdos falados.
 - Pessoas com TEA podendo precisar de mais organização, previsibilidade e estrutura para acompanhar atividades.
+- Diagnósticos tardios podem fazer com que estudantes passem anos sem apoio adequado.
+- Falta de acolhimento e adaptação pode gerar traumas, evasão ou baixo desempenho.
 
 #### Possíveis soluções computacionais
 
@@ -58,12 +62,15 @@ A ideia parte da dificuldade que muitos estudantes podem ter para acompanhar con
 - Protótipo de plataforma ou módulo com foco em acessibilidade.
 - Assistente de organização para estudantes com TEA, com rotina, prazos e alertas claros.
 - Módulo de apoio para vídeos, com indicação de legenda, resumo e material complementar.
+- Questionário ou triagem inicial não diagnóstica para mapear dificuldades de acesso, organização e acompanhamento.
+- Painel de necessidades de apoio, ajudando o estudante a identificar barreiras e buscar orientação adequada.
 
 #### Pontos fortes do tema
 
 - Tem relação direta com a realidade do curso EAD.
 - Pode ser justificado pela própria vivência dos integrantes.
 - Permite falar de inclusão, permanência estudantil e melhoria de acesso.
+- Permite discutir acolhimento e prevenção de dificuldades acumuladas por diagnósticos tardios.
 - Pode gerar protótipo simples e bem compreensível.
 - Pode permitir uma implementação simples em C, como simulador de prazos, checklist ou prioridade de tarefas.
 

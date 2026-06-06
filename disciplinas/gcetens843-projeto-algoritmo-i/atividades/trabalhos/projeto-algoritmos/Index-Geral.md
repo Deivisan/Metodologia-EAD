@@ -121,6 +121,8 @@ O grupo pode organizar materiais em qualquer formato necessário: texto, apresen
 
 Ideia ligada a estudantes EAD, plataformas, acesso a conteúdo, organização de estudos, TEA, deficiência auditiva e baixa visão.
 
+Também surgiu a observação de que muitas pessoas recebem diagnósticos tardios, especialmente em questões relacionadas a neurodivergências e acessibilidade. Se essas necessidades tivessem sido percebidas e acolhidas antes, muitos obstáculos, frustrações e traumas educacionais poderiam ter sido evitados. Isso fortalece a ideia de pensar em uma solução que ajude a identificar necessidades, organizar apoio e tornar o ambiente educacional mais inclusivo.
+
 ### 7.2 Filas Inteligentes em Clínicas e Hospitais
 
 Ideia ligada a melhorar a transparência de filas, chamadas, painéis e acompanhamento pelo celular.
@@ -135,7 +137,7 @@ Ideia ligada a prazos, trilhas, materiais, progresso e participação em aulas.
 
 | Tema | Preferências percebidas até agora |
 |---|---|
-| **Educação + acessibilidade** | Ausiane demonstrou forte interesse; Deivison também tem afinidade com educação. |
+| **Educação + acessibilidade** | Ausiane demonstrou forte interesse; Deivison também tem afinidade com educação. Nova contribuição reforça o impacto de diagnósticos tardios e da falta de apoio adequado. |
 | **Filas em clínicas/hospitais** | Deivison sugeriu; Ausiane achou interessante. |
 | **Organização acadêmica EAD** | Pode se juntar ao tema de educação/acessibilidade. |
 
