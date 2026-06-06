@@ -305,10 +305,11 @@ disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritm
 #### Função do `Index-Geral.md`
 
 - Servir como **core vivo** do grupo.
-- Centralizar datas, integrantes, temas, documentos existentes, documentos planejados, roadmap e próximas decisões.
+- Centralizar apenas o necessário: datas, integrantes, temas em discussão, documentos existentes, documentos pendentes, roadmap curto e próxima decisão.
 - Receber atualizações sempre que novas conversas do grupo forem enviadas pelo usuário.
-- Linkar todos os documentos importantes do projeto.
+- Linkar todos os documentos importantes do projeto com nomes legíveis para colegas não técnicos.
 - Manter nomes e links legíveis para colegas que não têm familiaridade com ferramentas técnicas do repositório.
+- Evitar excesso de complexidade visual: não assustar novos integrantes com muitos gráficos, termos técnicos ou textos longos.
 
 #### Integrantes confirmados até agora
 
@@ -341,10 +342,11 @@ Quando o usuário enviar novas conversas do grupo:
 
 1. Identificar novas sugestões, decisões, discordâncias, preferências e tarefas.
 2. Atualizar o `Index-Geral.md` primeiro.
-3. Criar ou atualizar documentos planejados somente quando houver conteúdo suficiente.
-4. Manter links coesos e nomes legíveis.
-5. Evitar excesso de emojis; priorizar clareza, tabelas, roadmap e pequenos gráficos Mermaid quando úteis.
-6. Fazer commit e push após alterações no repositório, conforme preferência do usuário.
+3. Manter placeholders pendentes já criados para documentos futuros, com cadeado e texto simples.
+4. Criar ou atualizar documentos planejados somente quando houver conteúdo suficiente.
+5. Manter links coesos e nomes legíveis, sem expor extensão técnica como foco principal para colegas.
+6. Evitar excesso de emojis, gráficos e detalhes prematuros; priorizar clareza, tabelas simples e roadmap curto.
+7. Fazer commit e push após alterações no repositório, conforme preferência do usuário.
 
 ### 📅 Situação das Avaliações (14/05/2026)
 

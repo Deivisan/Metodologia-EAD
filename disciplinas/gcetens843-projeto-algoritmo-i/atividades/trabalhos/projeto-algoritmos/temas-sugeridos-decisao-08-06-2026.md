@@ -24,7 +24,7 @@ Até lá, este documento serve como espaço de organização das ideias iniciais
 
 | Integrante | Situação atual |
 |---|---|
-| **Deivison de Lima Santana / Davis do Santana** | Sugeriu ideias ligadas à educação, acessibilidade e organização de filas em clínicas/hospitais. Também demonstrou preferência por temas de educação, por afinidade com o meio acadêmico. |
+| **Deivison de Lima Santana** | Sugeriu ideias ligadas à educação, acessibilidade e organização de filas em clínicas/hospitais. Também demonstrou preferência por temas de educação, por afinidade com o meio acadêmico. |
 | **Ausiane** | Sugeriu trabalhar com educação, inclusão, acessibilidade, TEA, deficiência auditiva, baixa visão e dificuldades de acesso a conteúdos/plataformas educacionais. |
 | **Nubia de Asiká** | Informou que começou a estudar o material e está pensando em sugestões. **Aguardando sugestão de tema ou concordância com algum tema já existente.** |
 | **Rios** | Trouxe a pergunta inicial sobre sugestões de problemas e reforçou que o tema é livre, com exemplos no vídeo do professor. **Aguardando sugestão de tema ou concordância com algum tema já existente.** |
@@ -262,7 +262,7 @@ Antes da decisão em **08/06/2026**, o grupo pode avaliar cada tema com base nos
 
 | Integrante | Nova sugestão ou posição |
 |---|---|
-| **Deivison / Davis** | Educação/acessibilidade; filas em clínicas/hospitais; organização acadêmica. |
+| **Deivison de Lima Santana** | Educação/acessibilidade; filas em clínicas/hospitais; organização acadêmica. |
 | **Ausiane** | Educação, inclusão, acessibilidade, TEA, deficiência auditiva, baixa visão e suporte em plataformas/conteúdos. |
 | **Nubia de Asiká** | Aguardando sugestão de tema ou concordância com algum tema já existente. |
 | **Rios** | Aguardando sugestão de tema ou concordância com algum tema já existente. |

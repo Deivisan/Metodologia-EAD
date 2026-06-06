@@ -23,7 +23,7 @@ Integrantes informados até o momento:
 
 | Integrante | Observação |
 |---|---|
-| **Deivison de Lima Santana** / **Davis do Santana** | Organização inicial, documentação e apoio técnico |
+| **Deivison de Lima Santana** | Organização inicial, documentação e participação ativa no projeto |
 | **Ausiane** | Integrante do grupo |
 | **Nubia de Asika** | Integrante do grupo; sobrenome informado como **A-S-I-K-A** |
 | **Rios** | Integrante do grupo |
