@@ -6,6 +6,7 @@ Esta pasta guarda a colagem enviada para servir como referência visual do grupo
 
 | Arquivo | Descrição |
 |---|---|
+| `imagem-grupo-atual-membros.png` | Imagem atual criada com os membros ativos do grupo, usada no `Index-Geral.md`. |
 | `imagem-grupo-00-colagem-original.png` | Imagem original completa com as 5 partes juntas. |
 | `imagem-grupo-01-topo-esquerda.png` | Recorte 1 — parte superior esquerda. |
 | `imagem-grupo-02-topo-direita.png` | Recorte 2 — parte superior direita. |

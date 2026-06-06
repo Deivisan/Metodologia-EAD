@@ -6,6 +6,10 @@
 
 ## 1. Resumo Rápido
 
+![Imagem atual do grupo](imagens-grupo/imagem-grupo-atual-membros.png)
+
+> Imagem atual criada para representar os membros ativos do grupo e apoiar a identidade visual do projeto.
+
 | Campo | Informação |
 |---|---|
 | **Instituição** | **UFRB — Universidade Federal do Recôncavo da Bahia** |
