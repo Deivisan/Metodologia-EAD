@@ -47,7 +47,7 @@ Ele deve sempre responder rapidamente:
 | **Deivison de Lima Santana** | Organização inicial, documentação e participação ativa no projeto. |
 | **Ausiane** | Contribui com ideias de educação, inclusão, acessibilidade, TEA, deficiência auditiva e impactos de diagnósticos tardios na trajetória educacional. |
 | **Nubia de Asiká** | Estudando o material e pensando em sugestões. |
-| **Rios** | Ajudou a esclarecer que o tema é livre e que os exemplos estão no vídeo do professor. |
+| **Rios** | Ajudou a esclarecer os requisitos do vídeo e contribuiu com ideias para o tema de filas inteligentes (agendamento virtual, fichas por horário, aplicação em saúde pública e privada). Também tem experiência nas áreas de educação e saúde. |
 | **Wallace** | Integrante confirmado; aguardando sugestão ou concordância com um tema. |
 
 > O professor citou equipes com **8 pessoas**. Se novos integrantes entrarem, esta tabela será atualizada.
@@ -127,6 +127,8 @@ Também surgiu a observação de que muitas pessoas recebem diagnósticos tardio
 
 Ideia ligada a melhorar a transparência de filas, chamadas, painéis e acompanhamento pelo celular.
 
+**Contribuição do Rios:** sugeriu um sistema de agendamento por horário com fichas virtuais, onde o paciente é atendido no horário agendado sem precisar pegar fila. A solução poderia funcionar tanto na rede pública (SUS) quanto privada, e não se limitaria apenas a clínicas — poderia ser aplicada em qualquer organização que precise gerenciar filas de atendimento. O objetivo é reduzir o desconforto da espera e da fila.
+
 ### 7.3 Organização Acadêmica para Estudantes EAD
 
 Ideia ligada a prazos, trilhas, materiais, progresso e participação em aulas.
@@ -138,7 +140,7 @@ Ideia ligada a prazos, trilhas, materiais, progresso e participação em aulas.
 | Tema | Preferências percebidas até agora |
 |---|---|
 | **Educação + acessibilidade** | Ausiane demonstrou forte interesse; Deivison também tem afinidade com educação. Nova contribuição reforça o impacto de diagnósticos tardios e da falta de apoio adequado. |
-| **Filas em clínicas/hospitais** | Deivison sugeriu; Ausiane achou interessante. |
+| **Filas em clínicas/hospitais** | Deivison sugeriu; Ausiane achou interessante; **Rios apoiou a ideia e contribuiu com detalhes** (agendamento por horário, fichas virtuais, aplicação em SUS e setor privado, e possibilidade de ir além da saúde). |
 | **Organização acadêmica EAD** | Pode se juntar ao tema de educação/acessibilidade. |
 
 **Pergunta principal:** qual tema o grupo consegue explicar, prototipar e defender melhor?
@@ -163,8 +165,8 @@ Ideia ligada a prazos, trilhas, materiais, progresso e participação em aulas.
 |---|---|
 | **Deivison de Lima Santana** | Manter o core atualizado, organizar documentos e participar da escolha/estruturação do tema. |
 | **Ausiane** | Detalhar melhor ideias de acessibilidade, TEA, deficiência auditiva, educação e como diagnósticos tardios podem gerar dificuldades, frustrações e necessidade de apoio mais acolhedor. |
-| **Nubia de Asiká** | ✅ Já contribuiu — está estudando o material e pensando em sugestões. Próximo passo: compartilhar as ideias com o grupo quando estiver pronta. |
-| **Rios** | Comentar os temas existentes ou ajudar na escolha por enquete. |
+| **Nubia de Asiká** | Estudando o material e pensando em sugestões. |
+| **Rios** | ✅ Já contribuiu com ideias sobre filas inteligentes, agendamento virtual e fichas por horário. Também tem experiência nas áreas de educação e saúde. Pode ajudar a aprofundar o tema ou sugerir ajustes. |
 | **Wallace** | Sugerir tema próprio ou indicar concordância com algum tema existente. |
 
 ---
