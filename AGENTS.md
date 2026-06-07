@@ -257,7 +257,67 @@ Quando solicitado a divulgar ou publicar materiais, use:
 - **Composio**: integrações com Gmail (email), Google Drive (armazenamento), Google Sheets (planilhas), Notion (documentação), Slack (comunicação)
 - **Tavily / Firecrawl / Exa**: pesquisa de conteúdo e referências atualizadas na web
 
-### 5. Pesquisa na Web (Ranking)
+### 5. Formatação de PDFs — Padrão ABNT Acadêmico
+
+Ao gerar PDFs para atividades acadêmicas, siga **rigorosamente** as regras abaixo. O template CSS está em `templates/abnt-template.css`.
+
+#### Regras ABNT (NBR 14724)
+
+| Item | Especificação |
+|------|---------------|
+| Papel | A4 (21cm × 29,7cm) |
+| Margens | Superior: 3cm / Esquerda: 3cm / Inferior: 2cm / Direita: 2cm |
+| Fonte | Times New Roman, cor preta |
+| Tamanho | 12pt no corpo do texto / 10pt em citações longas e notas |
+| Espaçamento | 1,5 entre linhas (corpo) / 1,0 simples (citações longas, referências) |
+| Parágrafos | Justificados, com recuo de 2cm na primeira linha |
+| Títulos | Negrito, numerados progressivamente (1., 1.1, etc.) |
+| Referências | Alinhamento à esquerda, espaçamento simples entre itens |
+| Paginação | A partir da 1ª página textual, números no canto superior direito |
+
+#### Pipeline de Geração com Logo e CSS
+
+```bash
+# Executar SEMPRE da raiz do repositório
+pandoc <arquivo>.md \
+  -o <arquivo>.pdf \
+  --pdf-engine=weasyprint \
+  -c templates/abnt-template.css \
+  --metadata title="Título do Documento"
+```
+
+**Importante:** O caminho da logo no markdown deve ser `templates/logo-ufrb-20-anos.png` (relativo à raiz do repo). Execute o pandoc sempre da raiz do repositório.
+
+#### Estrutura do Documento Markdown
+
+Use tags HTML para elementos estruturais que o markdown puro não cobre:
+
+```markdown
+<div class="cabecalho-atividade">
+<img src="templates/logo-ufrb-20-anos.png" alt="UFRB" style="max-width: 55%;" />
+<span class="inst">Universidade...</span><br/>
+<span class="sub">Superintendência...</span><br/>
+<span class="curso">Bacharelado...</span>
+<hr/>
+</div>
+
+# Título da Atividade
+
+<div class="tabela-dados">
+| | |
+|---|---|
+| **Componente:** | Nome |
+| **Docente:** | Nome |
+</div>
+```
+
+#### Logos Disponíveis
+
+| Arquivo | Localização | Uso |
+|---------|-------------|-----|
+| `logo-ufrb-20-anos.png` | `templates/` | Cabeçalho de documentos institucionais |
+
+### 6. Pesquisa na Web (Ranking)
 
 | Nível | Ferramenta | Quando usar |
 |-------|------------|-------------|
@@ -269,8 +329,8 @@ Quando solicitado a divulgar ou publicar materiais, use:
 
 ## 🧭 Contexto Atual (última atualização)
 
-- **Data da última atualização**: 14/05/2026
-- **Status do repositório**: estrutura inicial criada, templates em desenvolvimento
+- **Data da última atualização**: 07/06/2026
+- **Status do repositório**: estrutura consolidada, templates ABNT criados, logo UFRB 20 anos disponível
 - **Ferramenta de divulgação**: BrowserOS + Composio integrados
 
 ### 🏫 Disciplinas Ativas — UFRB 2026.1
@@ -284,7 +344,9 @@ O aluno está matriculado em **4 disciplinas** no semestre 2026.1 (30/03 a 16/05
 | GCETENS842 | Lógica Matemática Discreta | Anderon Melhor Miranda |
 | GCETENS843 | Projeto Algoritmo I | A confirmar no Moodle/AVA |
 
-### 📌 Disciplina adicional identificada — 2026.1
+### 📌 Disciplinas Adicionais — Identificadas
+
+- **Teoria Geral da Administração** — Prof. André de Mendonça Santos. Estudo de caso "DevSolutions" (Homo Economicus vs Homo Social) — Trilha 3. Atividades organizadas em `disciplinas/teoria-geral-da-administracao/`.
 
 - **GCETENS843 — Projeto Algoritmo I**: disciplina de projeto em grupo vinculada ao Bacharelado em Sistemas de Informação, semestre 2026.1. O trabalho atual exige proposta de solução computacional para problema real, com pesquisa de casos existentes, fluxograma, protótipo de telas, apresentação e código opcional em C/outra linguagem.
 
@@ -422,6 +484,7 @@ Use estas tags nos commits e na documentação para facilitar a busca futura:
 | `#divulgacao` | Publicação e marketing |
 | `#ppc` | Projeto Pedagógico de Curso |
 | `#mec` | Normativas e diretrizes do MEC |
+| `#abnt` | Formatação ABNT de PDFs |
 
 ---
 
@@ -500,6 +563,15 @@ FORMATO: Word (.docx) / PDF (.pdf)
 
 ### Pipeline de Geração
 
+```
+1. bun run scripts/gerar-submissao.js <disciplina> <trilha> <atividade> --format <formato>
+2. Editar o .md gerado com o conteúdo da atividade
+3. Converter para PDF (da raiz do repo):
+   pandoc <arquivo>.md -o <arquivo>.pdf \
+     --pdf-engine=weasyprint \
+     -c templates/abnt-template.css \
+     --metadata title="<Título>"
+4. Verificar o .docx/.pdf
 ```
 1. bun run scripts/gerar-submissao.js <disciplina> <trilha> <atividade> --format <formato>
 2. Editar o .md gerado com o conteúdo da atividade
