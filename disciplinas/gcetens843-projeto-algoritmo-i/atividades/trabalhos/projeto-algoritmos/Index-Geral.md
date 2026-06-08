@@ -102,7 +102,8 @@ O grupo pode organizar materiais em qualquer formato necessário: texto, apresen
 
 | Status | Documento | Onde ficará | Objetivo |
 |---|---|---|---|
-| 🔒 Pendente | **Enquete de Escolha do Tema** | [`abrir`](enquete-tema-08-06-2026.md) | Registrar votos e preferências. |
+| ✅ Disponível | **Enquete de Escolha do Tema — Google Forms** | [`responder`](https://docs.google.com/forms/d/e/1FAIpQLScjQlJFFuOSHd3z_SyDBF0JI5muF0jVjlGxMedWeO6q4dTTEQ/viewform) | Votar no tema + definir tarefas. Acesse pelo link! |
+| 📄 Detalhes | **Estrutura da Enquete** | [`abrir`](enquete-google-forms-link.md) | Documento com todas as perguntas e contexto. |
 | 🔒 Pendente | **Tema Escolhido** | [`abrir`](tema-escolhido.md) | Consolidar a decisão final do grupo. |
 | 🔒 Pendente | **Divisão de Tarefas** | [`abrir`](divisao-de-tarefas.md) | Organizar responsabilidades. |
 | 🔒 Pendente | **Casos Existentes** | [`abrir`](casos-existentes.md) | Guardar exemplos reais e soluções parecidas. |
@@ -145,18 +146,22 @@ Ideia ligada a prazos, trilhas, materiais, progresso e participação em aulas.
 
 ---
 
-## 8. Enquete Interna
+## 8. Enquete — Google Forms
 
-| Tema | Preferências percebidas até agora |
-|---|---|
-| **Educação + acessibilidade** | Ausiane demonstrou forte interesse; Deivison também tem afinidade com educação. Nubia apoiou (diagnósticos tardios e traumas educacionais). |
-| **Filas em clínicas/hospitais** | Deivison sugeriu; Ausiane achou interessante; **Rios apoiou a ideia e contribuiu com detalhes** (agendamento por horário, fichas virtuais, aplicação em SUS e setor privado, e possibilidade de ir além da saúde). |
-| **Filas + Acessibilidade** ⬅️ *tendência* | Ausiane perguntou se dava pra incluir acessibilidade no sistema de filas (apoio para def. auditiva, baixa visão, TEA). **Rios concordou.** |
-| **Organização acadêmica EAD** | Pode se juntar ao tema de educação/acessibilidade. |
+A enquete oficial do grupo está no **Google Forms**:
 
-> 📊 **Situação atual da enquete (08/06/2026):** Ausiane disse "Topo esse, tbm" para filas inteligentes e Rios reforçou o apoio. O grupo parece estar convergindo para **Filas Inteligentes + Acessibilidade** como tema combinado.
+> 🔗 **[Responder agora](https://docs.google.com/forms/d/e/1FAIpQLScjQlJFFuOSHd3z_SyDBF0JI5muF0jVjlGxMedWeO6q4dTTEQ/viewform)**
 
-**Pergunta principal:** qual tema o grupo consegue explicar, prototipar e defender melhor?
+A enquete contém:
+- **Pergunta 1:** Votação do tema (4 opções)
+- **Pergunta 2:** Concordância com acessibilidade nas filas
+- **Perguntas 3 a 10:** Nível de envolvimento em cada tarefa (liderar/ajudar/não atuar)
+- **Pergunta 11:** Melhor horário para reuniões
+- **Pergunta 12:** Comentários adicionais
+
+📄 **[Ver estrutura completa da enquete](enquete-google-forms-link.md)**
+
+> 📊 **Preferências percebidas no WhatsApp:** Ausiane disse "Topo esse, tbm" para filas inteligentes e Rios reforçou o apoio. O grupo parece estar convergindo para **Filas Inteligentes + Acessibilidade** como tema combinado.
 
 ---
 
@@ -207,12 +212,12 @@ Ideia ligada a prazos, trilhas, materiais, progresso e participação em aulas.
 
 ## 13. Próximo Passo
 
-**Hoje é 08/06/2026** — o grupo precisa decidir o tema. A conversa indica que **Filas Inteligentes + Acessibilidade** é a tendência mais forte.
+**Hoje é 08/06/2026** — a **[enquete está no ar!](https://docs.google.com/forms/d/e/1FAIpQLScjQlJFFuOSHd3z_SyDBF0JI5muF0jVjlGxMedWeO6q4dTTEQ/viewform)** Compartilhe com o grupo para votarem.
 
-Depois da decisão, o core será atualizado com:
+Depois da votação, o core será atualizado com:
 
-- tema escolhido;
+- tema escolhido (baseado na enquete);
+- divisão de tarefas (baseada na enquete);
 - justificativa;
-- tarefas;
 - próximos documentos;
 - caminho da apresentação.
