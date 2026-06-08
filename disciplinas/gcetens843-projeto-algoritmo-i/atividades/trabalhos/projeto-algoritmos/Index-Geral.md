@@ -101,7 +101,7 @@ O grupo pode organizar materiais em qualquer formato necessário: texto, apresen
 
 | Status | Documento | Onde ficará | Objetivo |
 |---|---|---|---|
-| ✅ Disponível | **Enquete de Escolha do Tema — Google Forms** | [`responder`](https://docs.google.com/forms/d/e/1FAIpQLScjQlJFFuOSHd3z_SyDBF0JI5muF0jVjlGxMedWeO6q4dTTEQ/viewform) | Votar no tema + definir tarefas. Acesse pelo link! |
+| ✅ Disponível | **Enquete de Escolha do Tema — Google Forms** | [`responder`](https://docs.google.com/forms/d/e/1FAIpQLSf2pryCw9GO2wD3vSzlh7WK-rtcVWJzh7eRCelqDWxUESAY9Q/viewform) | Votar no tema + definir tarefas. Acesse pelo link! |
 | 📄 Detalhes | **Estrutura da Enquete** | [`abrir`](enquete-google-forms-link.md) | Documento com todas as perguntas e contexto. |
 | 🔒 Pendente | **Tema Escolhido** | [`abrir`](tema-escolhido.md) | Consolidar a decisão final do grupo. |
 | 🔒 Pendente | **Divisão de Tarefas** | [`abrir`](divisao-de-tarefas.md) | Organizar responsabilidades. |
@@ -149,7 +149,7 @@ Ideia ligada a prazos, trilhas, materiais, progresso e participação em aulas.
 
 A enquete oficial do grupo está no **Google Forms**:
 
-> 🔗 **[Responder agora](https://docs.google.com/forms/d/e/1FAIpQLScjQlJFFuOSHd3z_SyDBF0JI5muF0jVjlGxMedWeO6q4dTTEQ/viewform)**
+> 🔗 **[Responder agora](https://docs.google.com/forms/d/e/1FAIpQLSf2pryCw9GO2wD3vSzlh7WK-rtcVWJzh7eRCelqDWxUESAY9Q/viewform)**
 
 A enquete contém:
 - **Identificação:** selecionar quem está respondendo (6 nomes)
@@ -209,7 +209,7 @@ A enquete contém:
 
 ## 13. Próximo Passo
 
-**Hoje é 08/06/2026** — a **[enquete está no ar!](https://docs.google.com/forms/d/e/1FAIpQLScjQlJFFuOSHd3z_SyDBF0JI5muF0jVjlGxMedWeO6q4dTTEQ/viewform)** Compartilhe com o grupo para votarem.
+**Hoje é 08/06/2026** — a **[enquete está no ar!](https://docs.google.com/forms/d/e/1FAIpQLSf2pryCw9GO2wD3vSzlh7WK-rtcVWJzh7eRCelqDWxUESAY9Q/viewform)** Compartilhe com o grupo para votarem.
 
 Depois da votação, o core será atualizado com:
 
