@@ -43,14 +43,17 @@ Ele deve sempre responder rapidamente:
 ## 3. Integrantes
 
 | Integrante | Situação atual |
-|---|---|
+|---|---|---|
 | **Deivison de Lima Santana** | Organização inicial, documentação e participação ativa no projeto. |
-| **Ausiane** | Contribui com ideias de educação, inclusão, acessibilidade, TEA, deficiência auditiva e impactos de diagnósticos tardios na trajetória educacional. |
-| **Nubia de Asiká** | Estudando o material e pensando em sugestões. |
-| **Rios** | Ajudou a esclarecer os requisitos do vídeo e contribuiu com ideias para o tema de filas inteligentes (agendamento virtual, fichas por horário, aplicação em saúde pública e privada). Também tem experiência nas áreas de educação e saúde. |
+| **Ausiane** | Tem TEA (Transtorno do Espectro Autista) e deficiência auditiva unilateral. Trabalhou no NAI (Núcleo de Acessibilidade e Inclusão). Contribui com ideias de educação, inclusão, acessibilidade e como diagnósticos tardios afetam a trajetória educacional. |
+| **Nubia de Asiká** | Apoia o tema de educação e acessibilidade, especialmente relacionado a diagnósticos tardios e traumas educacionais. |
+| **Rios** | Ajudou a esclarecer os requisitos do vídeo e contribuiu com ideias para o tema de filas inteligentes (agendamento virtual, fichas por horário, aplicação em saúde pública e privada). Também tem experiência nas áreas de educação e saúde. Concordou em incluir acessibilidade no tema de filas. |
 | **Wallace** | Integrante confirmado; aguardando sugestão ou concordância com um tema. |
+| **Artur Campos** | Entrou no grupo em 08/06/2026. Aguardando sugestão ou concordância com um tema. |
 
-> O professor citou equipes com **8 pessoas**. Se novos integrantes entrarem, esta tabela será atualizada.
+👋 **Kelly** saiu do grupo (comunicou em 08/06/2026 que vai pular a matéria).
+
+> O professor citou equipes com **8 pessoas**. Atualmente o grupo tem **6 integrantes**. Ainda **faltam 2 pessoas** para fechar o time.
 
 ---
 
@@ -81,6 +84,7 @@ O grupo pode organizar materiais em qualquer formato necessário: texto, apresen
 |---|---|---|
 | **Documentação Geral do Projeto** | [`abrir`](documentacao-geral-projeto-algoritmos.md) | Requisitos do professor, entregáveis e ideias iniciais. |
 | **Temas Sugeridos para Decisão** | [`abrir`](temas-sugeridos-decisao-08-06-2026.md) | Ideias discutidas pelo grupo antes da decisão do tema. |
+| **Histórico do WhatsApp** | [`abrir`](historico-whatsapp.json) | Todas as conversas do grupo exportadas do WhatsApp. Use para consultar decisões, sugestões e conversas passadas. |
 | **Imagens do Grupo e Recortes** | [`abrir pasta`](imagens-grupo/) | Imagens geradas para identidade visual, imagem do grupo ou materiais futuros. |
 
 ### Materiais de apoio opcionais
@@ -123,11 +127,17 @@ Ideia ligada a estudantes EAD, plataformas, acesso a conteúdo, organização de
 
 Também surgiu a observação de que muitas pessoas recebem diagnósticos tardios, especialmente em questões relacionadas a neurodivergências e acessibilidade. Se essas necessidades tivessem sido percebidas e acolhidas antes, muitos obstáculos, frustrações e traumas educacionais poderiam ter sido evitados. Isso fortalece a ideia de pensar em uma solução que ajude a identificar necessidades, organizar apoio e tornar o ambiente educacional mais inclusivo.
 
-### 7.2 Filas Inteligentes em Clínicas e Hospitais
+**Ausiane** (que tem TEA e deficiência auditiva unilateral) pode contribuir com vivência real sobre acessibilidade em plataformas e acolhimento.
+
+### 7.2 Filas Inteligentes em Clínicas e Hospitais (+ Acessibilidade)
 
 Ideia ligada a melhorar a transparência de filas, chamadas, painéis e acompanhamento pelo celular.
 
 **Contribuição do Rios:** sugeriu um sistema de agendamento por horário com fichas virtuais, onde o paciente é atendido no horário agendado sem precisar pegar fila. A solução poderia funcionar tanto na rede pública (SUS) quanto privada, e não se limitaria apenas a clínicas — poderia ser aplicada em qualquer organização que precise gerenciar filas de atendimento. O objetivo é reduzir o desconforto da espera e da fila.
+
+**Ausiane** sugeriu incluir acessibilidade no sistema de filas, já que muitos sistemas não têm suporte para pessoas com deficiência auditiva, baixa visão ou TEA. **Rios concordou** com a inclusão de acessibilidade.
+
+> 📌 **Tendência atual:** o grupo parece estar convergindo para **Filas Inteligentes + Acessibilidade**, combinando os dois temas. Ausiane e Rios já demonstraram apoio a essa abordagem.
 
 ### 7.3 Organização Acadêmica para Estudantes EAD
 
@@ -139,9 +149,12 @@ Ideia ligada a prazos, trilhas, materiais, progresso e participação em aulas.
 
 | Tema | Preferências percebidas até agora |
 |---|---|
-| **Educação + acessibilidade** | Ausiane demonstrou forte interesse; Deivison também tem afinidade com educação. Nova contribuição reforça o impacto de diagnósticos tardios e da falta de apoio adequado. |
+| **Educação + acessibilidade** | Ausiane demonstrou forte interesse; Deivison também tem afinidade com educação. Nubia apoiou (diagnósticos tardios e traumas educacionais). |
 | **Filas em clínicas/hospitais** | Deivison sugeriu; Ausiane achou interessante; **Rios apoiou a ideia e contribuiu com detalhes** (agendamento por horário, fichas virtuais, aplicação em SUS e setor privado, e possibilidade de ir além da saúde). |
+| **Filas + Acessibilidade** ⬅️ *tendência* | Ausiane perguntou se dava pra incluir acessibilidade no sistema de filas (apoio para def. auditiva, baixa visão, TEA). **Rios concordou.** |
 | **Organização acadêmica EAD** | Pode se juntar ao tema de educação/acessibilidade. |
+
+> 📊 **Situação atual da enquete (08/06/2026):** Ausiane disse "Topo esse, tbm" para filas inteligentes e Rios reforçou o apoio. O grupo parece estar convergindo para **Filas Inteligentes + Acessibilidade** como tema combinado.
 
 **Pergunta principal:** qual tema o grupo consegue explicar, prototipar e defender melhor?
 
@@ -152,7 +165,7 @@ Ideia ligada a prazos, trilhas, materiais, progresso e participação em aulas.
 | Fase | O que precisa acontecer | Status |
 |---|---|---|
 | 1 | Organizar grupo, vídeo, documentação inicial e core | Concluído |
-| 2 | Decidir o tema | Em andamento — até **08/06/2026** |
+| 2 | Decidir o tema | Em andamento — até **08/06/2026** (grupo convergindo para **Filas Inteligentes + Acessibilidade**) |
 | 3 | Pesquisar casos existentes e definir problema final | Pendente |
 | 4 | Criar fluxograma, protótipo e possível código | Pendente |
 | 5 | Preparar e apresentar o trabalho | Pendente — **29/06/2026 às 20h** |
@@ -162,12 +175,13 @@ Ideia ligada a prazos, trilhas, materiais, progresso e participação em aulas.
 ## 10. Como Cada Pessoa Pode Contribuir Agora
 
 | Integrante | Próxima contribuição esperada |
-|---|---|
-| **Deivison de Lima Santana** | Manter o core atualizado, organizar documentos e participar da escolha/estruturação do tema. |
-| **Ausiane** | Detalhar melhor ideias de acessibilidade, TEA, deficiência auditiva, educação e como diagnósticos tardios podem gerar dificuldades, frustrações e necessidade de apoio mais acolhedor. |
-| **Nubia de Asiká** | Estudando o material e pensando em sugestões. |
-| **Rios** | ✅ Já contribuiu com ideias sobre filas inteligentes, agendamento virtual e fichas por horário. Também tem experiência nas áreas de educação e saúde. Pode ajudar a aprofundar o tema ou sugerir ajustes. |
+|---|---|---|
+| **Deivison de Lima Santana** | Manter o core atualizado, organizar documentos e finalizar a definição do tema com o grupo. |
+| **Ausiane** | ✅ Já contribuiu com ideias de acessibilidade, TEA, deficiência auditiva, e sugeriu incluir acessibilidade no tema de filas inteligentes. Pode detalhar requisitos de acessibilidade para o protótipo. |
+| **Nubia de Asiká** | ✅ Já contribuiu apoiando o tema de educação e diagnósticos tardios. Aguardando posicionamento sobre o tema final. |
+| **Rios** | ✅ Já contribuiu com ideias sobre filas inteligentes, agendamento virtual e fichas por horário. Concordou em incluir acessibilidade. Pode ajudar a aprofundar o tema ou sugerir ajustes. |
 | **Wallace** | Sugerir tema próprio ou indicar concordância com algum tema existente. |
+| **Artur Campos** | Se apresentar, dar sugestões ou concordar com o tema em discussão. |
 
 ---
 
@@ -181,11 +195,21 @@ Ideia ligada a prazos, trilhas, materiais, progresso e participação em aulas.
 
 ---
 
-## 12. Próximo Passo
+## 12. Contagem do Grupo
 
-Até **08/06/2026**, o grupo precisa escolher o tema inicial do projeto.
+| Situação | Quantidade |
+|---|---|
+| Integrantes confirmados | 6 (Deivison, Ausiane, Nubia, Rios, Wallace, Artur/Arthur) |
+| Saíram | 1 (Kelly — vai pular a matéria) |
+| **Ainda faltam** | **2 pessoas** para fechar 8 |
 
-Depois disso, o core será atualizado com:
+> O professor pediu equipes de **8 pessoas**. Continuem buscando mais 2 integrantes.
+
+## 13. Próximo Passo
+
+**Hoje é 08/06/2026** — o grupo precisa decidir o tema. A conversa indica que **Filas Inteligentes + Acessibilidade** é a tendência mais forte.
+
+Depois da decisão, o core será atualizado com:
 
 - tema escolhido;
 - justificativa;

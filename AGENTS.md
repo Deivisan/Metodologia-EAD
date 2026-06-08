@@ -378,11 +378,16 @@ disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritm
 | Integrante | Observação |
 |---|---|
 | Deivison de Lima Santana | Organização inicial, documentação e participação ativa no projeto. |
-| Ausiane | Educação, inclusão, acessibilidade, TEA e deficiência auditiva. |
-| Nubia de Asiká | Estudando o material e pensando em sugestões. |
-| Rios | Participou da organização inicial e reforçou orientação do vídeo do professor. |
-| Wallace | Integrante confirmado; aguardando sugestão/concordância de tema. |
+| Ausiane | TEA + deficiência auditiva unilateral. Trabalhou no NAI (Núcleo de Acessibilidade e Inclusão). Educação, inclusão, acessibilidade. |
+| Nubia de Asiká | Apoiou tema de educação/acessibilidade (diagnósticos tardios). |
+| Rios | Experiência em educação e saúde. Sugeriu filas inteligentes com fichas virtuais. Concordou em incluir acessibilidade. |
+| Wallace | Integrante confirmado; aguardando posicionamento. |
+| Artur Campos | Entrou em 08/06/2026. Aguardando. |
 
+> 👋 **Kelly** saiu do grupo (vai pular a matéria).
+
+> **Total:** 6 integrantes. **Faltam 2** para fechar a equipe de 8.
+>
 > Regra de privacidade: não publicar telefones, senhas ou dados pessoais sensíveis no repositório aberto. Se o usuário enviar conversas do WhatsApp, extrair apenas conteúdo útil, nomes, decisões e contexto acadêmico.
 
 #### Datas importantes do projeto
@@ -395,7 +400,7 @@ disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritm
 #### Temas em discussão no momento
 
 1. **Educação, acessibilidade e inclusão** — foco em estudantes EAD, plataformas, acessibilidade, TEA, deficiência auditiva, baixa visão e organização de estudos.
-2. **Filas inteligentes em clínicas/hospitais** — foco em transparência de atendimento, acompanhamento por celular, painéis claros e acessibilidade.
+2. **Filas inteligentes em clínicas/hospitais (+ Acessibilidade)** ⬅️ *tendência* — foco em transparência de atendimento, acompanhamento por celular, painéis claros e acessibilidade. Ausiane sugeriu incluir acessibilidade; Rios concordou.
 3. **Organização acadêmica para estudantes EAD** — foco em trilhas, prazos, materiais, progresso e participação em aulas.
 
 #### Metodologia de atualização

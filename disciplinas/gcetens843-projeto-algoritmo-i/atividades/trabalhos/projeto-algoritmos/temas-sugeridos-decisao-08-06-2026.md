@@ -23,12 +23,13 @@ Até lá, este documento serve como espaço de organização das ideias iniciais
 ## 2. Integrantes e Situação das Sugestões
 
 | Integrante | Situação atual |
-|---|---|
+|---|---|---|
 | **Deivison de Lima Santana** | Sugeriu ideias ligadas à educação, acessibilidade e organização de filas em clínicas/hospitais. Também demonstrou preferência por temas de educação, por afinidade com o meio acadêmico. |
-| **Ausiane** | Sugeriu trabalhar com educação, inclusão, acessibilidade, TEA, deficiência auditiva, baixa visão e dificuldades de acesso a conteúdos/plataformas educacionais. |
-| **Nubia de Asiká** | Informou que começou a estudar o material e está pensando em sugestões. **Aguardando sugestão de tema ou concordância com algum tema já existente.** |
-| **Rios** | Trouxe a pergunta inicial sobre sugestões de problemas e reforçou que o tema é livre, com exemplos no vídeo do professor. **Aguardando sugestão de tema ou concordância com algum tema já existente.** |
-| **Wallace** | Ainda não apresentou sugestão específica no grupo. **Aguardando sugestão de tema ou concordância com algum tema já existente.** |
+| **Ausiane** | Tem TEA e deficiência auditiva unilateral. Trabalhou no NAI (Núcleo de Acessibilidade e Inclusão). Sugeriu trabalhar com educação, inclusão, acessibilidade, TEA, deficiência auditiva, baixa visão e dificuldades de acesso. Depois apoiou filas inteligentes e perguntou se poderia incluir acessibilidade no tema. |
+| **Nubia de Asiká** | Apoiou o tema de educação e acessibilidade, especialmente sobre diagnósticos tardios e traumas educacionais. **Aguardando posicionamento sobre o tema final.** |
+| **Rios** | Trouxe a pergunta inicial, sugeriu agendamento por horário com fichas virtuais (filas inteligentes), e concordou em incluir acessibilidade no tema. Também tem experiência nas áreas de educação e saúde. |
+| **Wallace** | Ainda não apresentou sugestão específica no grupo. **Aguardando posicionamento.** |
+| **Artur Campos** | Entrou no grupo em 08/06/2026. **Aguardando apresentação e sugestão.** |
 
 ---
 
@@ -226,11 +227,13 @@ Projeto voltado para melhorar a organização e o acesso de estudantes em ambien
 
 **Nome provisório:** `EducaAcesso` ou `AcessaEAD`
 
-### Caminho B — Filas Inteligentes em Clínicas/Hospitais
+### Caminho B — Filas Inteligentes em Clínicas/Hospitais (com Acessibilidade) ⬅️ **Tendência**
 
-Projeto voltado para tornar filas de atendimento mais claras, acessíveis e transparentes, com acompanhamento pelo celular e simulação da ordem de atendimento.
+Projeto voltado para tornar filas de atendimento mais claras, **acessíveis** e transparentes, com acompanhamento pelo celular e simulação da ordem de atendimento.
 
-**Nome provisório:** `FilaClara` ou `Atende+`
+A **Ausiane** sugeriu incluir acessibilidade no sistema (suporte a libras, contraste, leitores de tela, notificação visual para pessoas com deficiência auditiva), e **Rios concordou**.
+
+**Nome provisório:** `FilaClara`, `Atende+` ou `FilaAcessível`
 
 ### Caminho C — Organização Acadêmica para Estudantes EAD
 
@@ -268,12 +271,13 @@ Antes da decisão em **08/06/2026**, o grupo pode avaliar cada tema com base nos
 ## 8. Espaço para Novas Sugestões
 
 | Integrante | Nova sugestão ou posição |
-|---|---|
+|---|---|---|
 | **Deivison de Lima Santana** | Educação/acessibilidade; filas em clínicas/hospitais; organização acadêmica. |
-| **Ausiane** | Educação, inclusão, acessibilidade, TEA, deficiência auditiva, baixa visão e suporte em plataformas/conteúdos. |
-| **Nubia de Asiká** | Aguardando sugestão de tema ou concordância com algum tema já existente. |
-| **Rios** | Aguardando sugestão de tema ou concordância com algum tema já existente. |
-| **Wallace** | Aguardando sugestão de tema ou concordância com algum tema já existente. |
+| **Ausiane** | Educação, inclusão, acessibilidade, TEA, deficiência auditiva, baixa visão e suporte em plataformas/conteúdos. ✅ Apoiou filas + acessibilidade. |
+| **Nubia de Asiká** | ✅ Apoiou educação e acessibilidade (diagnósticos tardios). |
+| **Rios** | ✅ Sugeriu filas inteligentes com fichas virtuais. ✅ Concordou em incluir acessibilidade. |
+| **Wallace** | Aguardando posicionamento. |
+| **Artur Campos** | Acabou de entrar (08/06). Aguardando. |
 
 ---
 
