@@ -42,18 +42,16 @@ Ele deve sempre responder rapidamente:
 
 ## 3. Integrantes
 
-| Integrante | Situação atual |
-|---|---|---|
-| **Deivison de Lima Santana** | Organização inicial, documentação e participação ativa no projeto. |
-| **Ausiane** | Tem TEA (Transtorno do Espectro Autista) e deficiência auditiva unilateral. Trabalhou no NAI (Núcleo de Acessibilidade e Inclusão). Contribui com ideias de educação, inclusão, acessibilidade e como diagnósticos tardios afetam a trajetória educacional. |
-| **Nubia de Asiká** | Apoia o tema de educação e acessibilidade, especialmente relacionado a diagnósticos tardios e traumas educacionais. |
-| **Rios** | Ajudou a esclarecer os requisitos do vídeo e contribuiu com ideias para o tema de filas inteligentes (agendamento virtual, fichas por horário, aplicação em saúde pública e privada). Também tem experiência nas áreas de educação e saúde. Concordou em incluir acessibilidade no tema de filas. |
-| **Wallace** | Integrante confirmado; aguardando sugestão ou concordância com um tema. |
-| **Artur Campos** | Entrou no grupo em 08/06/2026. Aguardando sugestão ou concordância com um tema. |
+O grupo tem **6 integrantes**. Faltam **2 pessoas** para fechar a equipe de 8.
 
-👋 **Kelly** saiu do grupo (comunicou em 08/06/2026 que vai pular a matéria).
-
-> O professor citou equipes com **8 pessoas**. Atualmente o grupo tem **6 integrantes**. Ainda **faltam 2 pessoas** para fechar o time.
+| Nome | Perfil / Contribuição |
+|---|---|
+| **Deivison de Lima Santana** | Organização, documentação e participação ativa |
+| **Ausiane** | TEA + deficiência auditiva unilateral. Trabalhou no NAI. Educação, inclusão, acessibilidade |
+| **Nubia de Asiká** | Educação, acessibilidade, diagnósticos tardios |
+| **Rios** | Educação, saúde, filas inteligentes, agendamento virtual |
+| **Wallace** | Integrante confirmado |
+| **Artur Campos** | Entrou em 08/06/2026 |
 
 ---
 
@@ -180,13 +178,13 @@ A enquete contém:
 ## 10. Como Cada Pessoa Pode Contribuir Agora
 
 | Integrante | Próxima contribuição esperada |
-|---|---|---|
-| **Deivison de Lima Santana** | Manter o core atualizado, organizar documentos e finalizar a definição do tema com o grupo. |
-| **Ausiane** | ✅ Já contribuiu com ideias de acessibilidade, TEA, deficiência auditiva, e sugeriu incluir acessibilidade no tema de filas inteligentes. Pode detalhar requisitos de acessibilidade para o protótipo. |
-| **Nubia de Asiká** | ✅ Já contribuiu apoiando o tema de educação e diagnósticos tardios. Aguardando posicionamento sobre o tema final. |
-| **Rios** | ✅ Já contribuiu com ideias sobre filas inteligentes, agendamento virtual e fichas por horário. Concordou em incluir acessibilidade. Pode ajudar a aprofundar o tema ou sugerir ajustes. |
-| **Wallace** | Sugerir tema próprio ou indicar concordância com algum tema existente. |
-| **Artur Campos** | Se apresentar, dar sugestões ou concordar com o tema em discussão. |
+|---|---|
+| **Deivison de Lima Santana** | Manter o core atualizado, organizar documentos e finalizar a definição do tema com o grupo |
+| **Ausiane** | Detalhar requisitos de acessibilidade para o protótipo |
+| **Nubia de Asiká** | Aguardando posicionamento sobre o tema final |
+| **Rios** | Aprofundar o tema de filas inteligentes e sugerir ajustes |
+| **Wallace** | Indicar concordância com o tema escolhido |
+| **Artur Campos** | Se apresentar e dar sugestões |
 
 ---
 
@@ -204,11 +202,8 @@ A enquete contém:
 
 | Situação | Quantidade |
 |---|---|
-| Integrantes confirmados | 6 (Deivison, Ausiane, Nubia, Rios, Wallace, Artur/Arthur) |
-| Saíram | 1 (Kelly — vai pular a matéria) |
-| **Ainda faltam** | **2 pessoas** para fechar 8 |
-
-> O professor pediu equipes de **8 pessoas**. Continuem buscando mais 2 integrantes.
+| Integrantes ativos | 6 |
+| **Vagas restantes** | **2** (para fechar 8) |
 
 ## 13. Próximo Passo
 
