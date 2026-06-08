@@ -30,24 +30,30 @@
 
 ### Secao 3 -- Divisao de Tarefas
 
-Cada tarefa sera executada por duas pessoas: uma lidera e a outra auxilia.
+Cada integrante marca **todas as areas** em que pode atuar (checkbox). Cada tarefa tera 2 responsaveis (um lidera, outro auxilia).
+
+| # | Pergunta | Tipo |
+|---|----------|------|
+| 5 | Em quais tarefas voce pode atuar? | Multipla escolha (8 opcoes) |
+
+Tarefas disponiveis:
 
 | # | Tarefa | Descricao |
 |---|--------|-----------|
-| 5 | Pesquisa e Definicao do Problema | Levantar dados e justificar relevancia |
-| 6 | Casos Existentes | Pesquisar solucoes similares |
-| 7 | Proposta e Diferencial da Solucao | Descrever solucao e diferencial |
-| 8 | Fluxograma | Desenhar fluxo logico |
-| 9 | Prototipo de Telas | Criar mockups visuais |
-| 10 | Codigo em C | Implementar simulacao (opcional) |
-| 11 | Slides e Apresentacao | Preparar e apresentar (29/06) |
-| 12 | Organizacao e Documentacao | Manter prazos e docs organizados |
+| 1 | Pesquisa e Definicao do Problema | Levantar dados e justificar relevancia |
+| 2 | Casos Existentes | Pesquisar solucoes similares |
+| 3 | Proposta e Diferencial da Solucao | Descrever solucao e diferencial |
+| 4 | Fluxograma | Desenhar fluxo logico |
+| 5 | Prototipo de Telas | Criar mockups visuais |
+| 6 | Codigo em C | Implementar simulacao (opcional) |
+| 7 | Slides e Apresentacao | Preparar e apresentar (29/06) |
+| 8 | Organizacao e Documentacao | Manter prazos e docs organizados |
 
 ### Secao 4 -- Comentarios
 
 | # | Pergunta | Tipo |
 |---|----------|------|
-| 13 | Comentarios ou observacoes | Texto livre |
+| 6 | Comentarios ou observacoes | Texto livre |
 
 ---
 
