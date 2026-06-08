@@ -42,16 +42,17 @@ Ele deve sempre responder rapidamente:
 
 ## 3. Integrantes
 
-O grupo tem **6 integrantes**. Faltam **2 pessoas** para fechar a equipe de 8.
+O grupo tem **7 integrantes**. Falta **1 pessoa** para fechar a equipe de 8.
 
 | Nome | Perfil / Contribuição |
-|---|---|
+|---|
 | **Deivison de Lima Santana** | Organização, documentação e participação ativa |
 | **Ausiane** | TEA + deficiência auditiva unilateral. Trabalhou no NAI. Educação, inclusão, acessibilidade |
 | **Nubia de Asiká** | Educação, acessibilidade, diagnósticos tardios |
 | **Rios** | Educação, saúde, filas inteligentes, agendamento virtual |
 | **Wallace** | Integrante confirmado |
 | **Artur Campos** | Entrou em 08/06/2026 |
+| **Uelinton** | Entrou em 08/06/2026 |
 
 ---
 
@@ -185,6 +186,7 @@ A enquete contém:
 | **Rios** | Aprofundar o tema de filas inteligentes e sugerir ajustes |
 | **Wallace** | Indicar concordância com o tema escolhido |
 | **Artur Campos** | Se apresentar e dar sugestões |
+| **Uelinton** | Se apresentar e dar sugestões |
 
 ---
 
@@ -202,8 +204,8 @@ A enquete contém:
 
 | Situação | Quantidade |
 |---|---|
-| Integrantes ativos | 6 |
-| **Vagas restantes** | **2** (para fechar 8) |
+| Integrantes ativos | 7 |
+| **Vagas restantes** | **1** (para fechar 8) |
 
 ## 13. Próximo Passo
 

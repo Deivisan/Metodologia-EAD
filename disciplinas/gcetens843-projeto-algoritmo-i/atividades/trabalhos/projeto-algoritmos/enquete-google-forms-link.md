@@ -2,7 +2,7 @@
 
 > **Criada em:** 08/06/2026  
 > **Criador:** Deivison Santana  
-> **Respostas:** apenas os 6 integrantes (Deivison, Ausiane, Nubia, Rios, Wallace, Artur)
+> **Respostas:** apenas os 7 integrantes (Deivison, Ausiane, Nubia, Rios, Wallace, Artur, Uelinton)
 
 ---
 
@@ -18,7 +18,7 @@
 
 | # | Pergunta | Tipo |
 |---|----------|------|
-| 1 | Quem esta respondendo? | Escolha unica (6 nomes) |
+| 1 | Quem esta respondendo? | Escolha unica (7 nomes) |
 
 ### Secao 2 -- Tema do Projeto
 
