@@ -1,4 +1,4 @@
-# 📋 Enquete — Projeto Algoritmo I (GCETENS843)
+# Enquete -- Projeto Algoritmo I (GCETENS843)
 
 > **Criada em:** 08/06/2026  
 > **Criador:** Deivison Santana  
@@ -6,45 +6,54 @@
 
 ---
 
-## 🔗 Link para Responder
+## Link para Responder
 
 [https://docs.google.com/forms/d/e/1FAIpQLScjQlJFFuOSHd3z_SyDBF0JI5muF0jVjlGxMedWeO6q4dTTEQ/viewform](https://docs.google.com/forms/d/e/1FAIpQLScjQlJFFuOSHd3z_SyDBF0JI5muF0jVjlGxMedWeO6q4dTTEQ/viewform)
 
 ---
 
-## 📝 Estrutura da Enquete
+## Estrutura da Enquete
 
-### Seção 1 — Tema do Projeto
+### Secao 1 -- Identificacao
+
 | # | Pergunta | Tipo |
 |---|----------|------|
-| 1 | Qual tema você prefere? | Escolha única (4 opções) |
-| 2 | Se for Filas Inteligentes, concorda em incluir acessibilidade? | Escolha única (3 opções) |
+| 1 | Quem esta respondendo? | Escolha unica (6 nomes) |
 
-### Seção 2 — Divisão de Tarefas
-Cada integrante marca seu nível de envolvimento em cada área:
-| # | Tarefa | Opções |
-|---|--------|--------|
-| 3 | Pesquisa e Definição do Problema | Liderar / Ajudar / Não atuar |
-| 4 | Casos Existentes | Liderar / Ajudar / Não atuar |
-| 5 | Proposta e Diferencial da Solução | Liderar / Ajudar / Não atuar |
-| 6 | Fluxograma | Liderar / Ajudar / Não atuar |
-| 7 | Protótipo de Telas | Liderar / Ajudar / Não atuar |
-| 8 | Código em C | Liderar / Ajudar / Não atuar |
-| 9 | Slides e Apresentação | Liderar / Ajudar / Não atuar |
-| 10 | Organização e Documentação | Liderar / Ajudar / Não atuar |
+### Secao 2 -- Tema do Projeto
 
-### Seção 3 — Disponibilidade e Observações
 | # | Pergunta | Tipo |
 |---|----------|------|
-| 11 | Qual seu melhor horário para reuniões? | Texto livre |
-| 12 | Algum comentário ou observação adicional? | Texto livre |
+| 2 | Qual tema voce prefere? | Escolha unica (4 opcoes + Outro) |
+| 3 | Se sugeriu Outro, qual tema voce propoe? | Texto livre |
+| 4 | Se for Filas Inteligentes, concorda em incluir acessibilidade? | Escolha unica (3 opcoes) |
+
+### Secao 3 -- Divisao de Tarefas
+
+Cada tarefa sera executada por duas pessoas: uma lidera e a outra auxilia.
+
+| # | Tarefa | Descricao |
+|---|--------|-----------|
+| 5 | Pesquisa e Definicao do Problema | Levantar dados e justificar relevancia |
+| 6 | Casos Existentes | Pesquisar solucoes similares |
+| 7 | Proposta e Diferencial da Solucao | Descrever solucao e diferencial |
+| 8 | Fluxograma | Desenhar fluxo logico |
+| 9 | Prototipo de Telas | Criar mockups visuais |
+| 10 | Codigo em C | Implementar simulacao (opcional) |
+| 11 | Slides e Apresentacao | Preparar e apresentar (29/06) |
+| 12 | Organizacao e Documentacao | Manter prazos e docs organizados |
+
+### Secao 4 -- Comentarios
+
+| # | Pergunta | Tipo |
+|---|----------|------|
+| 13 | Comentarios ou observacoes | Texto livre |
 
 ---
 
-## 🏁 Próximos passos após respostas
+## Proximos passos apos respostas
 
-1. Analisar votos do tema → definir tema oficial
-2. Analisar tarefas → definir responsáveis por cada área
-3. Marcar primeira reunião de alinhamento
-4. Iniciar desenvolvimento do projeto
-5. **Apresentação final: 29/06/2026 às 20h**
+1. Analisar votos do tema
+2. Definir responsaveis por cada tarefa (2 pessoas cada)
+3. Iniciar desenvolvimento
+4. **Apresentacao final: 29/06/2026 as 20h**

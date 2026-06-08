@@ -151,11 +151,11 @@ A enquete oficial do grupo está no **Google Forms**:
 > 🔗 **[Responder agora](https://docs.google.com/forms/d/e/1FAIpQLScjQlJFFuOSHd3z_SyDBF0JI5muF0jVjlGxMedWeO6q4dTTEQ/viewform)**
 
 A enquete contém:
-- **Pergunta 1:** Votação do tema (4 opções)
-- **Pergunta 2:** Concordância com acessibilidade nas filas
-- **Perguntas 3 a 10:** Nível de envolvimento em cada tarefa (liderar/ajudar/não atuar)
-- **Pergunta 11:** Melhor horário para reuniões
-- **Pergunta 12:** Comentários adicionais
+- **Identificação:** selecionar quem está respondendo (6 nomes)
+- **Tema:** votação com 4 opções + sugestão livre por texto
+- **Acessibilidade:** concordância com inclusão no tema filas
+- **Tarefas:** lista descritiva das 8 áreas (cada uma terá 2 responsáveis)
+- **Comentários:** observações adicionais
 
 📄 **[Ver estrutura completa da enquete](enquete-google-forms-link.md)**
 
