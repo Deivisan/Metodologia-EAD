@@ -42,7 +42,7 @@ Ele deve sempre responder rapidamente:
 
 ## 3. Integrantes
 
-O grupo tem **7 integrantes**. Falta **1 pessoa** para fechar a equipe de 8.
+O grupo tem **8 integrantes**. Equipe completa! ✅
 
 | Nome | Perfil / Contribuição |
 |---|
@@ -53,6 +53,7 @@ O grupo tem **7 integrantes**. Falta **1 pessoa** para fechar a equipe de 8.
 | **Wallace** | Integrante confirmado |
 | **Artur Campos** | Entrou em 08/06/2026 |
 | **Uelinton** | Entrou em 08/06/2026 |
+| **Marcos Vinicius** | 🆕 Entrou em 09/06/2026. Não votou na enquete. |
 
 ---
 
@@ -103,6 +104,7 @@ O grupo pode organizar materiais em qualquer formato necessário: texto, apresen
 |---|---|---|---|
 | ✅ Disponível | **Enquete de Escolha do Tema — Google Forms** | [`responder`](https://docs.google.com/forms/d/e/1FAIpQLSf2pryCw9GO2wD3vSzlh7WK-rtcVWJzh7eRCelqDWxUESAY9Q/viewform) | Votar no tema + definir tarefas. Acesse pelo link! |
 | 📄 Detalhes | **Estrutura da Enquete** | [`abrir`](enquete-google-forms-link.md) | Documento com todas as perguntas e contexto. |
+| 🔄 Aguardando | **Decisões do Projeto** | [`abrir`](decisoes.md) | ⚠️ Documento central com tudo que precisa ser decidido. Aguardando contexto do WhatsApp para preencher. |
 | 🔒 Pendente | **Tema Escolhido** | [`abrir`](tema-escolhido.md) | Consolidar a decisão final do grupo. |
 | 🔒 Pendente | **Divisão de Tarefas** | [`abrir`](divisao-de-tarefas.md) | Organizar responsabilidades. |
 | 🔒 Pendente | **Casos Existentes** | [`abrir`](casos-existentes.md) | Guardar exemplos reais e soluções parecidas. |
@@ -204,17 +206,23 @@ A enquete contém:
 
 | Situação | Quantidade |
 |---|---|
-| Integrantes ativos | 7 |
-| **Vagas restantes** | **1** (para fechar 8) |
+| Integrantes ativos | 8 |
+| **Vagas restantes** | **0** (equipe completa ✅) |
 
 ## 13. Próximo Passo
 
-**Hoje é 08/06/2026** — a **[enquete está no ar!](https://docs.google.com/forms/d/e/1FAIpQLSf2pryCw9GO2wD3vSzlh7WK-rtcVWJzh7eRCelqDWxUESAY9Q/viewform)** Compartilhe com o grupo para votarem.
+**Hoje é 09/06/2026** — a enquete já foi respondida! Agora o foco é:
 
-Depois da votação, o core será atualizado com:
+1. ✅ **Consolidar o tema** (Filas Inteligentes + Acessibilidade)
+2. 🔄 **Decidir a redistribuição de tarefas** com Marcos Vinicius incluso
+3. 🔄 **Iniciar a produção** dos entregáveis (pesquisa, casos, proposta)
+4. 🗓️ **Apresentação em 29/06/2026 às 20h**
 
-- tema escolhido (baseado na enquete);
-- divisão de tarefas (baseada na enquete);
-- justificativa;
-- próximos documentos;
-- caminho da apresentação.
+📋 **Documento de decisões:** [`abrir`](decisoes.md) — veja o que ainda precisa ser decidido pelo grupo.
+
+Depois das decisões, o core será atualizado com:
+
+- tema escolhido (consolidado);
+- divisão de tarefas final;
+- cronograma de produção;
+- próximos documentos a criar.
