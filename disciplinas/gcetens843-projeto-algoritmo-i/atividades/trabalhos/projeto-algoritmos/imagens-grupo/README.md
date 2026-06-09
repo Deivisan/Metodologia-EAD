@@ -1,31 +1,39 @@
-# Imagens do Grupo e Recortes
+# 🖼️ Imagens do Grupo e Recortes
 
-Esta pasta guarda as imagens do grupo para uso no Index-Geral.md e materiais do projeto.
+Esta pasta guarda as imagens do grupo para uso no `Index-Geral.md` e demais materiais do projeto.
 
-## Arquivos
+---
 
-| Arquivo | Descricao |
-|---------|-----------|
-| `nova-foto-grupo.png` | **Imagem principal** gerada via GPT Image 2 — 6 integrantes em reuniao com whiteboard. Usada no `Index-Geral.md`. |
-| `imagem-grupo-atual-membros.png` | Imagem anterior com os membros do grupo (substituida pela nova). |
-| `imagem-grupo-00-colagem-original.png` | Colagem original com as 5 partes juntas. |
-| `imagem-grupo-01-topo-esquerda.png` | Recorte 1 — parte superior esquerda. |
-| `imagem-grupo-02-topo-direita.png` | Recorte 2 — parte superior direita. |
-| `imagem-grupo-03-baixo-esquerda.png` | Recorte 3 — parte inferior esquerda. |
-| `imagem-grupo-04-baixo-centro.png` | Recorte 4 — parte inferior central. |
-| `imagem-grupo-05-baixo-direita.png` | Recorte 5 — parte inferior direita. |
+## 📸 Arquivos
 
-## Prompts de geracao
+| Arquivo | Descrição | Uso |
+|---------|-----------|:---:|
+| 🆕 **`nova-foto-grupo.png`** | **Imagem principal** — gerada via GPT Image 2 com os 6 integrantes em reunião + whiteboard com roadmap, tarefas e decisões | ✅ Usada no `Index-Geral.md` |
+| `imagem-grupo-atual-membros.png` | Imagem anterior com os membros do grupo (substituída pela nova) | 🗄️ Histórico |
+| `imagem-grupo-00-colagem-original.png` | Colagem original completa com as 5 partes | 🗄️ Histórico |
+| `imagem-grupo-01-topo-esquerda.png` | Recorte 1 — parte superior esquerda | 🗄️ Histórico |
+| `imagem-grupo-02-topo-direita.png` | Recorte 2 — parte superior direita | 🗄️ Histórico |
+| `imagem-grupo-03-baixo-esquerda.png` | Recorte 3 — parte inferior esquerda | 🗄️ Histórico |
+| `imagem-grupo-04-baixo-centro.png` | Recorte 4 — parte inferior central | 🗄️ Histórico |
+| `imagem-grupo-05-baixo-direita.png` | Recorte 5 — parte inferior direita | 🗄️ Histórico |
 
-Os prompts usados para gerar as imagens estao na pasta `../Prompt/`:
+---
 
-| Prompt | Imagem gerada |
-|--------|--------------|
-| `prompt-imagem-grupo.md` | `nova-foto-grupo.png` (foto de reuniao 16:9) |
-| `prompt-foto-perfil-whatsapp.md` | Perfil do grupo WhatsApp (1:1) |
+## 🤖 Prompts de Geração
 
-## Uso previsto
+Os prompts usados para gerar as imagens estão na pasta `../Prompt/`:
+
+| Prompt | Gera | Status |
+|--------|------|:------:|
+| 🖼️ `prompt-imagem-grupo.md` | `nova-foto-grupo.png` — foto de reunião 16:9 | ✅ Utilizado |
+| 📱 `prompt-foto-perfil-whatsapp.md` | Foto de perfil do WhatsApp 1:1 | ✅ Pronto para uso |
+
+> 🔗 [Acessar pasta de prompts](../Prompt/)
+
+---
+
+## 🎯 Uso Previsto
 
 - Manter identidade visual do grupo;
-- Apoiar materiais de apresentacao;
-- Substituir fotos quando novos integrantes enviarem suas imagens.
+- Apoiar materiais de apresentação;
+- Substituir imagens quando novos integrantes enviarem suas fotos.

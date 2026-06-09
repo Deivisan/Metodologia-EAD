@@ -1,16 +1,23 @@
-# Código C — Simulação de Filas (Opcional)
+# 💻 Código C — Simulação de Filas (Opcional)
 
 > **Responsáveis:** Artur + Marcos Vinicius (se voluntariaram)
-> **Status:** A confirmar pelo grupo — ainda não foi decidido se será implementado
+> **Status:** 🟡 A confirmar pelo grupo — ainda não foi decidido se será implementado
 > **Prazo (se for fazer):** 25/06/2026
 
 ---
 
-## Objetivo
+## 🎯 Objetivo
 
-Implementar uma simulação em C do sistema de filas, demonstrando o funcionamento lógico (senhas, prioridade, chamada).
+Implementar uma simulação em **C** do sistema de filas inteligentes, demonstrando o funcionamento lógico de:
 
-## Funcionalidades sugeridas
+- Geração de senhas (comum e prioritária)
+- Estrutura de fila com prioridade
+- Chamada sequencial respeitando prioridade
+- Cálculo de posição aproximada na fila
+
+---
+
+## 📋 Funcionalidades Sugeridas
 
 - [ ] Geração de senhas (comum e prioritária)
 - [ ] Fila com estrutura de dados (lista/array)
@@ -18,7 +25,9 @@ Implementar uma simulação em C do sistema de filas, demonstrando o funcionamen
 - [ ] Cálculo de posição aproximada na fila
 - [ ] Histórico de senhas chamadas
 
-## Estrutura esperada (se for feito)
+---
+
+## 📁 Estrutura Esperada (se for feito)
 
 ```
 codigo-c/
