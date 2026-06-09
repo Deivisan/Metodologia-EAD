@@ -1,14 +1,14 @@
-# Código C — Simulação FilaClara
+# Código C — Simulação de Filas (Opcional)
 
-> **Responsáveis:** Artur + Marcos Vinicius
-> **Status:** 🔒 Pendente — aguardando desenvolvimento
-> **Prazo:** 25/06/2026
+> **Responsáveis:** Artur + Marcos Vinicius (se voluntariaram)
+> **Status:** A confirmar pelo grupo — ainda não foi decidido se será implementado
+> **Prazo (se for fazer):** 25/06/2026
 
 ---
 
 ## Objetivo
 
-Implementar uma simulação em C do sistema de filas, demonstrando o funcionamento lógico.
+Implementar uma simulação em C do sistema de filas, demonstrando o funcionamento lógico (senhas, prioridade, chamada).
 
 ## Funcionalidades sugeridas
 
@@ -18,7 +18,7 @@ Implementar uma simulação em C do sistema de filas, demonstrando o funcionamen
 - [ ] Cálculo de posição aproximada na fila
 - [ ] Histórico de senhas chamadas
 
-## Estrutura esperada
+## Estrutura esperada (se for feito)
 
 ```
 codigo-c/
@@ -31,4 +31,4 @@ codigo-c/
 
 ---
 
-> 🔗 [Voltar ao Index Geral](Index-Geral.md)
+> 🔗 [Voltar ao Index Geral](../Index-Geral.md)
