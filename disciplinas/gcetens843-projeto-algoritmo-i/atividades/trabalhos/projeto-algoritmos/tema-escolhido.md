@@ -14,7 +14,8 @@
 
 ### 🥇 Filas Inteligentes em Serviços de Saúde com Foco em Acessibilidade
 
-**Nome do Projeto:** `FilaClara` — *Sistema de Filas Inteligentes e Acessíveis*
+**Nome do Projeto (sugestão):** `FilaClara` — *Sistema de Filas Inteligentes e Acessíveis*
+> ⚠️ O nome oficial ainda será decidido pela equipe. "FilaClara" é uma sugestão inicial.
 
 </div>
 
@@ -114,7 +115,7 @@ Pacientes de clínicas, hospitais e postos de saúde enfrentam **falta de transp
 
 ## 4. A Solução Proposta
 
-O **FilaClara** é um sistema que torna as filas de atendimento mais **transparentes, acessíveis e humanas**.
+O sistema (nome sugestão: **FilaClara**) torna as filas de atendimento mais **transparentes, acessíveis e humanas**.
 
 ### Funcionalidades principais
 

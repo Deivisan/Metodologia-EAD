@@ -113,7 +113,7 @@ Marcos Vinicius    ?  ?  ?  ?  ?  ?  ?  ?  │ 🆕 novo
 
 ### 5.1 Tema
 - [x] **Tema oficial:** Filas Inteligentes em Serviços de Saúde com Foco em Acessibilidade
-- [x] **Nome do projeto:** FilaClara (provisório)
+- [x] **Nome do projeto:** FilaClara (sugestão inicial, a confirmar pelo grupo)
 - [x] **Acessibilidade:** incluída como diferencial obrigatório do projeto
 - [x] Artur, Nubia e Uelinton cientes e confortáveis com o tema
 
@@ -126,12 +126,12 @@ Marcos Vinicius    ?  ?  ?  ?  ?  ?  ?  ?  │ 🆕 novo
 | 3 | **Proposta e Diferencial da Solução** | Deivison + Rios | ✅ Resolvido |
 | 4 | **Fluxograma do Sistema** | Artur + Marcos Vinicius | ✅ Resolvido |
 | 5 | **Protótipo de Telas (Mockups)** | Ausiane + Uelinton | ✅ Resolvido |
-| 6 | **Código em C (opcional)** | Artur + Marcos Vinicius | ✅ Resolvido |
+| 6 | **Código em C (opcional)** | Artur + Marcos Vinicius | 🟡 A confirmar |
 | 7 | **Slides e Apresentação** | Uelinton + Wallace | ✅ Resolvido |
 | 8 | **Organização e Documentação** | Deivison | ✅ Resolvido |
 
 ### 5.3 Marcos Vinicius
-- [x] **Alocado em:** Fluxograma (4) + Código C (6) — informou domínio em C
+- [x] **Alocado em:** Fluxograma (4) + Código C (6) — se voluntariou para o código em C
 - [x] Tema: acatou a decisão do grupo
 
 ### 5.4 Wallace
@@ -139,8 +139,9 @@ Marcos Vinicius    ?  ?  ?  ?  ?  ?  ?  ?  │ 🆕 novo
 - [x] **Status:** disponível para contribuir; aguardando confirmação de presença ativa
 
 ### 5.5 Código em C
-- [x] **Decisão:** será feito (Artur + Marcos)
-- [x] Escopo: simulação de fila, senhas, prioridade e chamada
+- [x] **Decisão:** opcional — a confirmar pelo grupo nas próximas reuniões
+- [x] Se for feito, escopo previsto: simulação de fila, senhas, prioridade e chamada
+- [x] Artur e Marcos se voluntariaram para implementar
 
 ### 5.6 Metodologia de Trabalho
 - [x] **Comunicação:** WhatsApp (grupo existente)
@@ -158,7 +159,7 @@ Marcos Vinicius    ?  ?  ?  ?  ?  ?  ?  ?  │ 🆕 novo
 | **3. Proposta** | Deivison + Rios | 🟢 Dupla fixa |
 | **4. Fluxograma** | Artur + Marcos Vinicius | 🟢 Dupla fixa |
 | **5. Protótipo** | Ausiane + Uelinton | 🟢 Dupla fixa |
-| **6. Código C** | Artur + Marcos Vinicius | 🟢 Dupla fixa |
+| **6. Código C** | Artur + Marcos Vinicius | 🟡 A confirmar |
 | **7. Slides** | Uelinton + Wallace | 🟢 Dupla fixa |
 | **8. Documentação** | Deivison | 🔵 Individual |
 
@@ -223,7 +224,7 @@ Marcos Vinicius    ?  ?  ?  ?  ?  ?  ?  ?  │ 🆕 novo
 | **Artur** | Perfil técnico, mencionou Figma para protótipos, se voluntariou para Fluxograma, Protótipo e Código C |
 | **Uelinton** | Motivado, "Contem comigo!", disponível para contribuir |
 | **Wallace** | Presente no grupo mas sem interação registrada — alocado em Slides como apoio |
-| **Marcos Vinicius** | Entrou em 09/06, informou domínio em C, alocado em Fluxograma + Código C |
+| **Marcos Vinicius** | Entrou em 09/06, se voluntariou para o código em C, alocado em Fluxograma + Código C |
 
 ---
 

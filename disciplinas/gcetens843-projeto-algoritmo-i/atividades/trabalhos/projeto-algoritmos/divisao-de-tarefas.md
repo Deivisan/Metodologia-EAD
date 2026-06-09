@@ -30,12 +30,13 @@ Esta divisão de tarefas não foi sorteada. Ela foi construída a partir de:
 | 3 | ✍️ **Proposta e Diferencial da Solução** | **Deivison + Rios** | 🟢 Dupla fixa |
 | 4 | 🔀 **Fluxograma do Sistema** | **Artur + Marcos Vinicius** | 🟢 Dupla fixa |
 | 5 | 🎨 **Protótipo de Telas (Mockups)** | **Ausiane + Uelinton** | 🟢 Dupla fixa |
-| 6 | 💻 **Código em C (opcional)** | **Artur + Marcos Vinicius** | 🟢 Dupla fixa |
+| 6 | 💻 **Código em C (opcional)** | **Artur + Marcos Vinicius** | 🟡 A confirmar pelo grupo |
 | 7 | 📊 **Slides e Apresentação** | **Uelinton + Wallace** | 🟢 Dupla fixa |
 | 8 | 📁 **Organização e Documentação** | **Deivison** | 🔵 Individual |
 
 ### Legenda
 - 🟢 **Dupla fixa** — ambos são responsáveis diretos pela entrega
+- 🟡 **A confirmar** — pendente de decisão do grupo
 - 🔵 **Individual** — responsável único (pelo perfil de organização do repositório)
 
 ---
@@ -100,9 +101,9 @@ Ela também observou a falta de acessibilidade em sistemas existentes:
 
 **Artur** demonstrou perfil técnico desde o início, se voluntariando para esta tarefa na enquete.
 
-**Marcos Vinicius** entrou no grupo em 09/06 e, quando perguntado sobre suas habilidades, informou domínio em **C** e interesse em **Fluxograma**.
+**Marcos Vinicius** entrou no grupo em 09/06 e se voluntariou para fazer o **código em C** e o **Fluxograma**.
 
-**Justificativa da dupla:** Artur já havia escolhido Fluxograma na enquete; Marcos chegou depois e foi alocado aqui por sua afinidade técnica. Juntos, podem desenhar o fluxo lógico do sistema — desde a chegada do paciente até a chamada para atendimento — e preparar o terreno para o código em C.
+**Justificativa da dupla:** Artur já havia escolhido Fluxograma na enquete; Marcos chegou depois e se voluntariou para ajudar. Juntos, podem desenhar o fluxo lógico do sistema — desde a chegada do paciente até a chamada para atendimento.
 
 ---
 
@@ -125,14 +126,14 @@ Ela também demonstrou conhecimento da ferramenta certa para o trabalho:
 
 ---
 
-### Tarefa 6 — Código em C (opcional)
+### Tarefa 6 — Código em C (opcional — a ser confirmado pelo grupo)
 **Responsáveis: Artur + Marcos Vinicius**
 
 **Artur** foi o único que se voluntariou originalmente para o código C na enquete, demonstrando disposição para a parte de implementação.
 
-**Marcos Vinicius**, ao entrar no grupo, informou que domina a linguagem C e se dispôs a contribuir com o código.
+**Marcos Vinicius**, ao entrar no grupo, também se voluntariou para contribuir com o código.
 
-**Justificativa da dupla:** Formaram uma dupla técnica natural. O código implementará uma simulação do sistema de filas com estrutura de dados (fila, prioridade, chamada de senhas). É opcional, mas o grupo decidiu fazer para fortalecer a apresentação.
+**Justificativa da dupla:** Formaram uma dupla técnica natural. O código em C é opcional — o grupo ainda vai decidir se irá implementá-lo ou se focará apenas nos demais entregáveis. Se for feito, implementará uma simulação do sistema de filas com estrutura de dados (fila, prioridade, chamada de senhas).
 
 ---
 
