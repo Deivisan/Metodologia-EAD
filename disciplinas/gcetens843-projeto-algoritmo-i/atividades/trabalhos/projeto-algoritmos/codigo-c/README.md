@@ -1,12 +1,34 @@
-# 🔒 Código ou Simulação em C
+# Código C — Simulação FilaClara
 
-> **Status:** pendente.  
-> O código é opcional, mas pode fortalecer a apresentação se for simples e bem explicado.
+> **Responsáveis:** Artur + Marcos Vinicius
+> **Status:** 🔒 Pendente — aguardando desenvolvimento
+> **Prazo:** 25/06/2026
 
-## Ideia de implementação
+---
 
-Pendente.
+## Objetivo
 
-## Como executar
+Implementar uma simulação em C do sistema de filas, demonstrando o funcionamento lógico.
 
-Pendente.
+## Funcionalidades sugeridas
+
+- [ ] Geração de senhas (comum e prioritária)
+- [ ] Fila com estrutura de dados (lista/array)
+- [ ] Chamada da próxima senha respeitando prioridade
+- [ ] Cálculo de posição aproximada na fila
+- [ ] Histórico de senhas chamadas
+
+## Estrutura esperada
+
+```
+codigo-c/
+├── README.md          ← este arquivo
+├── main.c             ← código principal
+├── fila.h             ← header da estrutura de fila
+├── fila.c             ← implementação da fila
+└── Makefile           ← (opcional) para compilar
+```
+
+---
+
+> 🔗 [Voltar ao Index Geral](Index-Geral.md)

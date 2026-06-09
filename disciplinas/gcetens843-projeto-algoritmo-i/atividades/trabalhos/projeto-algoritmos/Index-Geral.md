@@ -100,28 +100,34 @@ O grupo pode organizar materiais em qualquer formato necessário: texto, apresen
 
 > Estes documentos já têm lugar reservado, mas ainda estão pendentes ou incompletos. A lista pode mudar conforme o projeto evoluir.
 
-| Status | Documento | Onde ficará | Objetivo |
-|---|---|---|---|
-| ✅ Disponível | **Enquete de Escolha do Tema — Google Forms** | [`responder`](https://docs.google.com/forms/d/e/1FAIpQLSf2pryCw9GO2wD3vSzlh7WK-rtcVWJzh7eRCelqDWxUESAY9Q/viewform) | Votar no tema + definir tarefas. Acesse pelo link! |
-| 📄 Detalhes | **Estrutura da Enquete** | [`abrir`](enquete-google-forms-link.md) | Documento com todas as perguntas e contexto. |
-| 🔄 Aguardando | **Decisões do Projeto** | [`abrir`](decisoes.md) | ⚠️ Documento central com tudo que precisa ser decidido. Aguardando contexto do WhatsApp para preencher. |
-| 🔒 Pendente | **Tema Escolhido** | [`abrir`](tema-escolhido.md) | Consolidar a decisão final do grupo. |
-| 🔒 Pendente | **Divisão de Tarefas** | [`abrir`](divisao-de-tarefas.md) | Organizar responsabilidades. |
-| 🔒 Pendente | **Casos Existentes** | [`abrir`](casos-existentes.md) | Guardar exemplos reais e soluções parecidas. |
-| 🔒 Pendente | **Referências e Links** | [`abrir`](referencias-web.md) | Guardar fontes de pesquisa. |
-| 🔒 Pendente | **Fluxograma** | [`abrir`](fluxograma.md) | Explicar o funcionamento lógico da solução. |
-| 🔒 Pendente | **Protótipo de Telas** | [`abrir`](prototipo-telas.md) | Organizar as telas e ideias visuais. |
-| 🔒 Pendente | **Código ou Simulação em C** | [`abrir`](codigo-c/README.md) | Guardar possível implementação ou explicação técnica. |
-| 🔒 Pendente | **Roteiro da Apresentação** | [`abrir`](roteiro-apresentacao.md) | Dividir falas e ordem dos assuntos. |
-| 🔒 Pendente | **Apresentação Final** | [`abrir`](apresentacao-final.md) | Organizar material final da apresentação. |
-| 🔒 Pendente | **Ata de Decisões** | [`abrir`](ata-decisoes.md) | Registrar decisões importantes. |
-| 🔒 Pendente | **Dúvidas e Perguntas** | [`abrir`](duvidas-e-perguntas.md) | Guardar dúvidas para o grupo/professor. |
+| Status | Documento | Acesso | Responsável |
+|:------:|:----------|:-----:|:-----------:|
+| ✅ Disponível | **Enquete de Escolha do Tema — Google Forms** | [`responder`](https://docs.google.com/forms/d/e/1FAIpQLSf2pryCw9GO2wD3vSzlh7WK-rtcVWJzh7eRCelqDWxUESAY9Q/viewform) | Grupo |
+| 📄 Detalhes | **Estrutura da Enquete** | [`abrir`](enquete-google-forms-link.md) | Deivison |
+| ✅ **Pronto** | **Decisões do Projeto** | [`abrir`](decisoes.md) | Deivison |
+| ✅ **Pronto** | **Tema Escolhido** | [`abrir`](tema-escolhido.md) | Deivison |
+| ✅ **Pronto** | **Divisão de Tarefas** | [`abrir`](divisao-de-tarefas.md) | Deivison |
+| 🔒 Pendente | **Casos Existentes** | [`abrir`](casos-existentes.md) | Ausiane + Nubia |
+| 🔒 Pendente | **Referências e Links** | [`abrir`](referencias-web.md) | Nubia + Rios |
+| 🔒 Pendente | **Fluxograma** | [`abrir`](fluxograma.md) | Artur + Marcos |
+| 🔒 Pendente | **Protótipo de Telas** | [`abrir`](prototipo-telas.md) | Ausiane + Uelinton |
+| 🔒 Pendente | **Código ou Simulação em C** | [`abrir`](codigo-c/README.md) | Artur + Marcos |
+| 🔒 Pendente | **Roteiro da Apresentação** | [`abrir`](roteiro-apresentacao.md) | Uelinton + Wallace |
+| 🔒 Pendente | **Apresentação Final** | [`abrir`](apresentacao-final.md) | Grupo todo |
+| 🔒 Pendente | **Ata de Decisões** | [`abrir`](ata-decisoes.md) | Deivison |
+| 🔒 Pendente | **Dúvidas e Perguntas** | [`abrir`](duvidas-e-perguntas.md) | Grupo |
 
 ---
 
-## 7. Temas em Discussão
+## 7. Tema Escolhido
 
-> Ainda são sugestões. O grupo vai decidir o tema em **08/06/2026**.
+> 🏆 **Tema definido em 08/06/2026:** Filas Inteligentes em Serviços de Saúde com Foco em Acessibilidade
+> **Nome do projeto:** FilaClara
+> [Ver documento completo do tema](tema-escolhido.md)
+
+### Temas que foram discutidos (para referência)
+
+> Os temas abaixo foram considerados antes da decisão final.
 
 ### 7.1 Educação, Acessibilidade e Inclusão
 
@@ -131,7 +137,7 @@ Também surgiu a observação de que muitas pessoas recebem diagnósticos tardio
 
 **Ausiane** (que tem TEA e deficiência auditiva unilateral) pode contribuir com vivência real sobre acessibilidade em plataformas e acolhimento.
 
-### 7.2 Filas Inteligentes em Clínicas e Hospitais (+ Acessibilidade)
+### 7.2 Filas Inteligentes em Clínicas e Hospitais (+ Acessibilidade) ✅ **TEMA ESCOLHIDO**
 
 Ideia ligada a melhorar a transparência de filas, chamadas, painéis e acompanhamento pelo celular.
 
@@ -139,7 +145,7 @@ Ideia ligada a melhorar a transparência de filas, chamadas, painéis e acompanh
 
 **Ausiane** sugeriu incluir acessibilidade no sistema de filas, já que muitos sistemas não têm suporte para pessoas com deficiência auditiva, baixa visão ou TEA. **Rios concordou** com a inclusão de acessibilidade.
 
-> 📌 **Tendência atual:** o grupo parece estar convergindo para **Filas Inteligentes + Acessibilidade**, combinando os dois temas. Ausiane e Rios já demonstraram apoio a essa abordagem.
+> 🏆 **Tema oficial escolhido pelo grupo em 08/06/2026.**
 
 ### 7.3 Organização Acadêmica para Estudantes EAD
 
@@ -169,26 +175,27 @@ A enquete contém:
 ## 9. Roadmap
 
 | Fase | O que precisa acontecer | Status |
-|---|---|---|
-| 1 | Organizar grupo, vídeo, documentação inicial e core | Concluído |
-| 2 | Decidir o tema | Em andamento — até **08/06/2026** (grupo convergindo para **Filas Inteligentes + Acessibilidade**) |
-| 3 | Pesquisar casos existentes e definir problema final | Pendente |
-| 4 | Criar fluxograma, protótipo e possível código | Pendente |
+|---|---|---|---|
+| 1 | Organizar grupo, vídeo, documentação inicial e core | ✅ Concluído |
+| 2 | Decidir o tema | ✅ **Concluído** — Filas Inteligentes + Acessibilidade |
+| 3 | Pesquisar casos existentes e definir problema final | 🔄 Em andamento (Rios + Nubia) |
+| 4 | Criar fluxograma, protótipo e possível código | 🔄 Em andamento (Artur + Marcos / Ausiane + Uelinton) |
 | 5 | Preparar e apresentar o trabalho | Pendente — **29/06/2026 às 20h** |
 
 ---
 
 ## 10. Como Cada Pessoa Pode Contribuir Agora
 
-| Integrante | Próxima contribuição esperada |
-|---|---|
-| **Deivison de Lima Santana** | Manter o core atualizado, organizar documentos e finalizar a definição do tema com o grupo |
-| **Ausiane** | Detalhar requisitos de acessibilidade para o protótipo |
-| **Nubia de Asiká** | Aguardando posicionamento sobre o tema final |
-| **Rios** | Aprofundar o tema de filas inteligentes e sugerir ajustes |
-| **Wallace** | Indicar concordância com o tema escolhido |
-| **Artur Campos** | Se apresentar e dar sugestões |
-| **Uelinton** | Se apresentar e dar sugestões |
+| Integrante | Próxima contribuição esperada | Tarefa |
+|---|---|---|---|
+| **Deivison de Lima Santana** | Consolidar proposta e manter documentação organizada | Proposta (3) + Documentação (8) |
+| **Rios** | Definir problema real com base na experiência em saúde e iniciar pesquisa | Pesquisa (1) + Proposta (3) |
+| **Ausiane** | Pesquisar casos existentes com foco em acessibilidade e começar protótipo visual | Casos (2) + Protótipo (5) |
+| **Nubia de Asiká** | Apoiar pesquisa e levantar casos existentes sobre filas e inclusão | Pesquisa (1) + Casos (2) |
+| **Artur Campos** | Desenhar fluxograma do sistema e iniciar código C | Fluxograma (4) + Código C (6) |
+| **Marcos Vinicius** | Ajudar no fluxograma e no código C | Fluxograma (4) + Código C (6) |
+| **Uelinton** | Ajudar no protótipo (Figma) e preparar slides | Protótipo (5) + Slides (7) |
+| **Wallace** | Apoiar na preparação dos slides | Slides (7) |
 
 ---
 
@@ -211,18 +218,28 @@ A enquete contém:
 
 ## 13. Próximo Passo
 
-**Hoje é 09/06/2026** — a enquete já foi respondida! Agora o foco é:
+**Hoje é 09/06/2026** — tema definido e tarefas distribuídas! ✅
 
-1. ✅ **Consolidar o tema** (Filas Inteligentes + Acessibilidade)
-2. 🔄 **Decidir a redistribuição de tarefas** com Marcos Vinicius incluso
-3. 🔄 **Iniciar a produção** dos entregáveis (pesquisa, casos, proposta)
-4. 🗓️ **Apresentação em 29/06/2026 às 20h**
+### ✅ Já concluído
+- Tema escolhido: Filas Inteligentes + Acessibilidade 🏆
+- Tarefas distribuídas com 8 integrantes
+- Documentos criados: `tema-escolhido.md`, `divisao-de-tarefas.md`, `decisoes.md`
 
-📋 **Documento de decisões:** [`abrir`](decisoes.md) — veja o que ainda precisa ser decidido pelo grupo.
+### 🔄 Em andamento (09–13/06)
+- **Pesquisa** (Rios + Nubia) — definir problema real
+- **Casos** (Ausiane + Nubia) — levantar sistemas existentes
 
-Depois das decisões, o core será atualizado com:
+### 📋 Próximos documentos a criar
+| Documento | Responsáveis | Prazo |
+|:----------|:-------------|:-----:|
+| `casos-existentes.md` | Ausiane + Nubia | 13/06 |
+| `referencias-web.md` | Nubia + Rios | 13/06 |
+| `fluxograma.md` | Artur + Marcos | 18/06 |
+| `prototipo-telas.md` | Ausiane + Uelinton | 25/06 |
+| `codigo-c/README.md` | Artur + Marcos | 25/06 |
+| `roteiro-apresentacao.md` | Uelinton + Wallace | 28/06 |
 
-- tema escolhido (consolidado);
-- divisão de tarefas final;
-- cronograma de produção;
-- próximos documentos a criar.
+### 🗓️ Data final
+**Apresentação AO VIVO em 29/06/2026 às 20h** 🎯
+
+📋 **[Ver decisões do projeto](decisoes.md)** | 🏆 **[Ver tema escolhido](tema-escolhido.md)** | 📊 **[Ver divisão de tarefas](divisao-de-tarefas.md)**

@@ -1,10 +1,27 @@
-# 🔒 Referências e Links de Pesquisa
+# Referências e Links — Projeto FilaClara
 
-> **Status:** pendente.  
-> Este documento guardará links, fontes e referências usadas na justificativa do projeto.
+> **Responsáveis:** Nubia + Rios
+> **Status:** 🔒 Pendente — aguardando pesquisa
+> **Prazo:** 13/06/2026
 
-## Referências
+---
 
-| Fonte | Link | Uso no projeto |
-|---|---|---|
-| Pendente | Pendente | Pendente |
+## Objetivo
+
+Centralizar as fontes de pesquisa, artigos, notícias e referências utilizadas para embasar o projeto.
+
+## Categorias
+
+- 📰 Notícias e reportagens sobre filas em saúde
+- 🏥 Sistemas de saúde (SUS, clínicas, hospitais)
+- ♿ Acessibilidade e inclusão digital
+- 📱 Aplicativos e soluções tecnológicas
+- 📚 Artigos acadêmicos
+
+| # | Título | Tipo | Link | Relevância |
+|:-:|:-------|:----|:----|:----------:|
+| | | | | |
+
+---
+
+> 🔗 [Voltar ao Index Geral](Index-Geral.md)

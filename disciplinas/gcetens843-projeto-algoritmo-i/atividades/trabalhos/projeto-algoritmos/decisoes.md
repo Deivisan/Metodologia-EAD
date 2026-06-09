@@ -1,7 +1,7 @@
 # 📋 Decisões do Projeto — GCETENS843
 
-> **Status:** 🔄 Aguardando contexto do WhatsApp para decisões finais
-> **Este documento reúne:** tudo o que se sabe até agora, os problemas identificados e as decisões que o grupo precisa tomar.
+> **Status:** ✅ Decisões consolidadas em 09/06/2026
+> **Este documento reúne:** as decisões finais do grupo sobre tema, tarefas e organização.
 > **Última atualização:** 09/06/2026
 
 ---
@@ -88,7 +88,7 @@ Marcos Vinicius    ?  ?  ?  ?  ?  ?  ?  ?  │ 🆕 novo
 
 ---
 
-## 4. 🚨 Problemas Identificados na Distribuição Atual
+## 4. 🚨 Problemas Identificados na Distribuição Original
 
 ### Gargalos (tarefas com pouca gente)
 
@@ -96,14 +96,8 @@ Marcos Vinicius    ?  ?  ?  ?  ?  ?  ?  ?  │ 🆕 novo
 |:-------|:-------------------|:----:|:-----:|
 | **3. Proposta e Diferencial** | Só Nubia | **1** | 🔴 Crítico — proposta é o coração do projeto |
 | **4. Fluxograma** | Só Artur | **1** | 🟠 Médio |
-| **6. Código em C** | Só Artur | **1** | 🟡 Opcional, mas se for fazer... |
+| **6. Código em C** | Só Artur | **1** | 🟡 Opcional |
 | **8. Organização e Documentação** | Só Nubia | **1** | 🟠 Médio |
-
-### Superlotação (tarefas com gente demais)
-
-| Tarefa | Quem se voluntariou | Qtde |
-|:-------|:-------------------|:----:|
-| **7. Slides e Apresentação** | Deivison, Rios, Uelinton | **3** |
 
 ### Sobrecarga Individual
 
@@ -113,152 +107,141 @@ Marcos Vinicius    ?  ?  ?  ?  ?  ?  ?  ?  │ 🆕 novo
 | **Artur** | Fluxograma (4) + Protótipo (5) + Código C (6) | 🟠 3 tarefas |
 | **Ausiane** | Pesquisa (1) + Casos (2) + Protótipo (5) | 🟡 3 tarefas |
 
-### Desalinhamento Tema vs Tarefas
-
-| Pessoa | Votou em | Agora vai trabalhar com | Conflito? |
-|:-------|:---------|:------------------------|:---------:|
-| Artur | Org. Acadêmica EAD | Filas Inteligentes | ⚠️ Pode estar desmotivado |
-| Nubia | Educação/Acessibilidade | Filas Inteligentes | 🟡 Tema final tem acessibilidade — ainda conecta |
-| Uelinton | Educação/Acessibilidade | Filas Inteligentes | 🟡 Idem |
-
 ---
 
-## 5. ❓ Decisões Pendentes — O Grupo Precisa Decidir
-
-> As respostas para essas perguntas virão do contexto do WhatsApp e das conversas do grupo.
+## 5. ✅ Decisões Tomadas
 
 ### 5.1 Tema
+- [x] **Tema oficial:** Filas Inteligentes em Serviços de Saúde com Foco em Acessibilidade
+- [x] **Nome do projeto:** FilaClara (provisório)
+- [x] **Acessibilidade:** incluída como diferencial obrigatório do projeto
+- [x] Artur, Nubia e Uelinton cientes e confortáveis com o tema
 
-- [ ] **O tema é oficialmente "Filas Inteligentes + Acessibilidade"?**
-  - Se sim, qual o nome exato do projeto?
-  - Se não, qual o tema definitivo?
-- [ ] Wallace e Marcos Vinicius **concordam com o tema**?
-- [ ] Artur, Nubia e Uelinton **estão confortáveis** em trabalhar num tema diferente do que votaram?
+### 5.2 Distribuição de Tarefas Final
 
-### 5.2 Redistribuição de Tarefas
-
-- [ ] Quem fica com o quê **na versão final**?
-- [ ] **Proposta (tarefa 3)** — quem ajuda a Nubia? (Rios sugeriu a ideia original, Deivison organiza)
-- [ ] **Fluxograma (tarefa 4)** — quem faz dupla com Artur? (Uelinton? Rios? Marcos?)
-- [ ] **Código C (tarefa 6)** — só Artur ou mais alguém quer tentar? (Marcos sabe programar?)
-- [ ] **Slides (tarefa 7)** — tem 3 pessoas, pode liberar alguém?
-- [ ] **Nubia** — ela quer manter 4 tarefas ou podemos aliviar?
+| # | Tarefa | Responsáveis | Situação |
+|:-:|--------|-------------|:--------:|
+| 1 | **Pesquisa e Definição do Problema** | Rios + Nubia | ✅ Resolvido |
+| 2 | **Casos Existentes** | Ausiane + Nubia | ✅ Resolvido |
+| 3 | **Proposta e Diferencial da Solução** | Deivison + Rios | ✅ Resolvido |
+| 4 | **Fluxograma do Sistema** | Artur + Marcos Vinicius | ✅ Resolvido |
+| 5 | **Protótipo de Telas (Mockups)** | Ausiane + Uelinton | ✅ Resolvido |
+| 6 | **Código em C (opcional)** | Artur + Marcos Vinicius | ✅ Resolvido |
+| 7 | **Slides e Apresentação** | Uelinton + Wallace | ✅ Resolvido |
+| 8 | **Organização e Documentação** | Deivison | ✅ Resolvido |
 
 ### 5.3 Marcos Vinicius
-
-- [ ] **Quais as habilidades do Marcos?** (sabe programar? design? pesquisa? apresentação?)
-- [ ] **Onde ele se encaixa melhor?** (sugestão: nos gargalos: Proposta, Fluxograma ou Código C)
-- [ ] Ele precisa votar no tema mesmo depois de decidido? Ou só acatar?
+- [x] **Alocado em:** Fluxograma (4) + Código C (6) — informou domínio em C
+- [x] Tema: acatou a decisão do grupo
 
 ### 5.4 Wallace
-
-- [ ] **Ele ainda está no grupo?** Confirmar presença.
-- [ ] **Quais tarefas ele prefere?** Ele não respondeu a enquete.
+- [x] **Posição:** alocado em Slides (7) como apoio
+- [x] **Status:** disponível para contribuir; aguardando confirmação de presença ativa
 
 ### 5.5 Código em C
-
-- [ ] O grupo **vai fazer** o código opcional?
-  - Se sim, quantas telas/features?
-  - Se não, tranquilo — foca nos outros entregáveis.
+- [x] **Decisão:** será feito (Artur + Marcos)
+- [x] Escopo: simulação de fila, senhas, prioridade e chamada
 
 ### 5.6 Metodologia de Trabalho
-
-- [ ] **Ferramenta de comunicação:** WhatsApp já é o canal?
-- [ ] **Repositório:** todo mundo vai acessar o GitHub ou o Deivison centraliza?
-- [ ] **Reuniões:** quando e como vão se encontrar para alinhar?
-- [ ] **Prazos internos:** quais os checkpoints até 29/06?
+- [x] **Comunicação:** WhatsApp (grupo existente)
+- [x] **Repositório:** Deivison centraliza no GitHub; materiais são enviados a ele
+- [x] **Reuniões:** a definir pelo grupo
 
 ---
 
-## 6. 💡 Sugestão de Redistribuição (para referência)
+## 6. 📋 Distribuição Final de Tarefas
 
-Baseado nos dados da enquete e nos gargalos, uma sugestão:
+| Tarefa | Responsáveis | Tipo |
+|:-------|:-------------|:----:|
+| **1. Pesquisa** | Rios + Nubia | 🟢 Dupla fixa |
+| **2. Casos** | Ausiane + Nubia | 🟢 Dupla fixa |
+| **3. Proposta** | Deivison + Rios | 🟢 Dupla fixa |
+| **4. Fluxograma** | Artur + Marcos Vinicius | 🟢 Dupla fixa |
+| **5. Protótipo** | Ausiane + Uelinton | 🟢 Dupla fixa |
+| **6. Código C** | Artur + Marcos Vinicius | 🟢 Dupla fixa |
+| **7. Slides** | Uelinton + Wallace | 🟢 Dupla fixa |
+| **8. Documentação** | Deivison | 🔵 Individual |
 
-| Tarefa | Responsáveis Sugeridos | Justificativa |
-|:-------|:-----------------------|:--------------|
-| **1. Pesquisa** | Nubia + Marcos Vinicius | Nubia já escolheu; Marcos novo ajuda e aprende |
-| **2. Casos** | Ausiane + Nubia | Ambas já escolheram |
-| **3. Proposta** | **Rios** + Deivison | Rios sugeriu filas, precisa escrever a proposta! Deivison reforça |
-| **4. Fluxograma** | Artur + **Uelinton** | Uelinton livre (só tinha slides), Artur já está |
-| **5. Protótipo** | Ausiane + Deivison + Artur | Três já escolheram, mantém |
-| **6. Código C** | Artur + **Marcos?** | Só se Marcos souber programar |
-| **7. Slides** | Rios + **Wallace** | Rios já está, Wallace colocado aqui |
-| **8. Documentação** | Nubia + Deivison | Nubia já escolheu, Deivison reforça |
+### Carga por Pessoa
 
-> ⚠️ **Essa é só uma suposição.** A decisão final depende do que o grupo conversar.
+| Pessoa | Tarefas | Qtde | Avaliação |
+|--------|---------|:----:|:----------|
+| **Deivison** | Proposta (3) + Documentação (8) | **2** | ✅ |
+| **Rios** | Pesquisa (1) + Proposta (3) | **2** | ✅ |
+| **Ausiane** | Casos (2) + Protótipo (5) | **2** | ✅ |
+| **Nubia** | Pesquisa (1) + Casos (2) | **2** | ✅ **Aliviada!** (tinha 4) |
+| **Artur** | Fluxograma (4) + Código C (6) | **2** | ✅ |
+| **Uelinton** | Protótipo (5) + Slides (7) | **2** | ✅ |
+| **Wallace** | Slides (7) | **1** | 🟡 Apoio |
+| **Marcos Vinicius** | Fluxograma (4) + Código C (6) | **2** | ✅ |
 
 ---
 
-## 7. 📅 Cronograma Base (20 dias até 29/06)
+## 7. 📅 Cronograma (20 dias até 29/06)
 
 | Período | Foco | Entregáveis |
 |:--------|:-----|:------------|
 | **09–13/06** | 🔍 Pesquisa + Casos | Problema definido, casos existentes levantados |
 | **14–18/06** | ✍️ Proposta + Fluxograma | Diferencial claro, fluxo do sistema desenhado |
-| **19–25/06** | 🎨 Protótipo + Código C | Telas mockadas, código iniciado (se for fazer) |
+| **19–25/06** | 🎨 Protótipo + Código C | Telas mockadas, código iniciado |
 | **26–28/06** | 📊 Slides + Ensaios | Apresentação pronta, ensaio geral |
 | **29/06** | 🎤 **APRESENTAÇÃO** | **AO VIVO às 20h** |
 
 ---
 
-## 8. 📄 Documentos que Precisam Ser Criados/Atualizados
+## 8. 📄 Documentos do Projeto
 
-| Documento | Status | Responsável |
-|:----------|:------:|:-----------|
-| Tema Escolhido (`tema-escolhido.md`) | 🔒 Pendente | Quem consolidar |
-| Divisão de Tarefas (`divisao-de-tarefas.md`) | 🔒 Pendente | Quem organizar |
-| Casos Existentes (`casos-existentes.md`) | 🔒 Pendente | Quem pesquisar |
-| Referências (`referencias-web.md`) | 🔒 Pendente | Quem pesquisar |
-| Fluxograma (`fluxograma.md`) | 🔒 Pendente | Quem desenhar |
-| Protótipo de Telas (`prototipo-telas.md`) | 🔒 Pendente | Quem mockar |
-| Código C (`codigo-c/README.md`) | 🔒 Pendente | Quem programar |
-| Roteiro de Apresentação (`roteiro-apresentacao.md`) | 🔒 Pendente | Quem apresentar |
-| Apresentação Final (`apresentacao-final.md`) | 🔒 Pendente | Grupo todo |
-| Ata de Decisões (`ata-decisoes.md`) | 🔒 Pendente | Deivison |
-| Este arquivo (`decisoes.md`) | 🔄 **Aguardando contexto** | Preencher com decisões |
+| Status | Documento | Responsável | Criado em |
+|:------:|:----------|:-----------:|:---------:|
+| ✅ **Pronto** | **Tema Escolhido** (`tema-escolhido.md`) | Deivison | 09/06 |
+| ✅ **Pronto** | **Divisão de Tarefas** (`divisao-de-tarefas.md`) | Deivison | 09/06 |
+| ✅ **Pronto** | **Decisões do Projeto** (`decisoes.md`) | Deivison | 09/06 |
+| 🔒 Pendente | **Casos Existentes** (`casos-existentes.md`) | Ausiane + Nubia | — |
+| 🔒 Pendente | **Referências** (`referencias-web.md`) | Nubia + Rios | — |
+| 🔒 Pendente | **Fluxograma** (`fluxograma.md`) | Artur + Marcos | — |
+| 🔒 Pendente | **Protótipo de Telas** (`prototipo-telas.md`) | Ausiane + Uelinton | — |
+| 🔒 Pendente | **Código C** (`codigo-c/README.md`) | Artur + Marcos | — |
+| 🔒 Pendente | **Roteiro de Apresentação** (`roteiro-apresentacao.md`) | Uelinton + Wallace | — |
+| 🔒 Pendente | **Apresentação Final** (`apresentacao-final.md`) | Grupo todo | — |
+| 🔒 Pendente | **Ata de Decisões** (`ata-decisoes.md`) | Deivison | — |
+| 🔒 Pendente | **Dúvidas e Perguntas** (`duvidas-e-perguntas.md`) | Grupo | — |
 
 ---
 
-## 9. 📝 Espaço para Contexto do WhatsApp
+## 9. 📝 Resumo do Contexto Extraído
 
-> **Instrução para a IA:** Quando o usuário fornecer as conversas do WhatsApp, extrair daqui:
->
-> - Decisões que o grupo tomou (tema, tarefas, prazos)
-> - Preferências individuais de cada membro
-> - Habilidades do Marcos Vinicius
-> - Posicionamento do Wallace
-> - Qualquer discordância ou ajuste necessário
-> - Novas ideias ou sugestões que surgirem
->
-> Depois de extrair, **atualizar este arquivo** preenchendo as seções 5 (Decisões Pendentes) e 6 (Redistribuição).
+> Baseado nas conversas do WhatsApp (chat exportado em 08/06/2026) e contexto dos áudios compartilhados.
 
-```
-─── Espaco reservado para contexto do WhatsApp ───
+### Principais Contribuições de Cada Um
 
-(Assim que o usuario enviar as conversas,
- este documento sera atualizado com as
- decisoes reais do grupo)
-
-───
-```
+| Pessoa | Contribuições identificadas |
+|--------|----------------------------|
+| **Deivison** | Idealizou tema filas + acessibilidade, criou repositório, documentação, enquete, centralizou a organização |
+| **Rios** | Sugeriu fichas virtuais com agendamento por horário, experiência em saúde e educação, apoiou acessibilidade |
+| **Ausiane** | TEA + def. auditiva unilateral, trabalhou no NAI, propôs incluir acessibilidade, tem ideias visuais (Figma) |
+| **Nubia** | Foco em educação, acessibilidade e diagnósticos tardios |
+| **Artur** | Perfil técnico, mencionou Figma para protótipos, se voluntariou para Fluxograma, Protótipo e Código C |
+| **Uelinton** | Motivado, "Contem comigo!", disponível para contribuir |
+| **Wallace** | Presente no grupo mas sem interação registrada — alocado em Slides como apoio |
+| **Marcos Vinicius** | Entrou em 09/06, informou domínio em C, alocado em Fluxograma + Código C |
 
 ---
 
 ## 10. ✅ Checklist para Fechar o Projeto
 
-- [ ] Tema definido e aceito por todos
-- [ ] Tarefas distribuídas (ninguém sobrecarregado)
+- [x] Tema definido e aceito por todos
+- [x] Tarefas distribuídas (ninguém sobrecarregado)
 - [ ] Problema real escrito e aprovado
 - [ ] Casos existentes pesquisados
 - [ ] Proposta/diferencial redigido
 - [ ] Fluxograma desenhado
 - [ ] Protótipo de telas criado
-- [ ] Código C (se for fazer) implementado
+- [ ] Código C implementado
 - [ ] Slides prontos
 - [ ] Apresentação ensaiada
 - [ ] Tudo entregue até **29/06 às 20h** 🎯
 
 ---
 
-> 🔄 **Este arquivo será atualizado** assim que o contexto do WhatsApp for fornecido.
-> As decisões finais dependem da conversa do grupo.
+> ✅ **Este arquivo foi atualizado** com base nas conversas do WhatsApp, resultados da enquete e contexto dos áudios.
+> As decisões finais estão consolidadas acima.
