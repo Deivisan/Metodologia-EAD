@@ -1,7 +1,7 @@
 # Protótipo de Telas — FilaClara
 
 > **Responsáveis:** Ausiane + Uelinton
-> **Status:** 🔒 Pendente — aguardando desenvolvimento
+> **Status:** ✅ Protótipo inicial importado do Open Designer
 > **Prazo:** 25/06/2026
 
 ---
@@ -28,6 +28,12 @@ Criar as telas (mockups) do sistema de Filas Inteligentes com foco em acessibili
 
 ## Ferramenta
 - **Figma** (conforme discutido no grupo)
+- **Open Designer** — protótipo clicável em HTML no frame do iPhone 15
+
+## Protótipo importado
+
+- [`prototipo-filaclara-opendesigner/index.html`](prototipo-filaclara-opendesigner/index.html) — fluxo principal do paciente
+- [`prototipo-filaclara-opendesigner/admin.html`](prototipo-filaclara-opendesigner/admin.html) — painel demonstrativo da clínica
 
 ---
 
