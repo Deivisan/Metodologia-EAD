@@ -6,7 +6,7 @@
 
 ![Foto do grupo](imagens-grupo/nova-foto-grupo.png)
 
-> *Integrantes: Deivison, Ausiane, Rios, Artur, Uelinton, Nubia, Wallace, Marcos Vinicius*
+> *Imagem atual do grupo com Deivison, Ausiane, Rios, Artur, Uelinton, Nubia e Marcos Vinicius. Wallace ainda não mandou imagem para entrar aqui — bora enviar, Wallace 😅*
 
 ---
 

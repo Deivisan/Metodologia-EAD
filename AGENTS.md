@@ -332,6 +332,7 @@ Use tags HTML para elementos estruturais que o markdown puro não cobre:
 - **Data da última atualização**: 07/06/2026
 - **Status do repositório**: estrutura consolidada, templates ABNT criados, logo UFRB 20 anos disponível
 - **Ferramenta de divulgação**: BrowserOS + Composio integrados
+- **Skill local criada**: `.opencode/skills/humanizar-trabalhos/SKILL.md` — usar quando trabalhos acadêmicos estiverem com linguagem artificial/"cara de IA". A skill orienta revisão ética, preservação do enunciado, voz de estudante EAD/UFRB e geração de versão `-versao-humanizada` quando necessário.
 
 ### 🏫 Disciplinas Ativas — UFRB 2026.1
 

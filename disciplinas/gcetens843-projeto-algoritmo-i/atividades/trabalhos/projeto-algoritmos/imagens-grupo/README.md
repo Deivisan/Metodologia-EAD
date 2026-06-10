@@ -8,7 +8,8 @@ Esta pasta guarda as imagens do grupo para uso no `Index-Geral.md` e demais mate
 
 | Arquivo | Descrição | Uso |
 |---------|-----------|:---:|
-| 🆕 **`nova-foto-grupo.png`** | **Imagem principal** — gerada via GPT Image 2 com os 6 integrantes em reunião + whiteboard com roadmap, tarefas e decisões | ✅ Usada no `Index-Geral.md` |
+| 🆕 **`nova-foto-grupo.png`** | **Imagem principal atual** — todos os integrantes com imagem enviada, exceto Wallace | ✅ Usada no `Index-Geral.md` |
+| `nova-foto-grupo-anterior-2026-06-10.png` | Imagem principal anterior, preservada como histórico antes da atualização de 10/06/2026 | 🗄️ Histórico |
 | `imagem-grupo-atual-membros.png` | Imagem anterior com os membros do grupo (substituída pela nova) | 🗄️ Histórico |
 | `imagem-grupo-00-colagem-original.png` | Colagem original completa com as 5 partes | 🗄️ Histórico |
 | `imagem-grupo-01-topo-esquerda.png` | Recorte 1 — parte superior esquerda | 🗄️ Histórico |
