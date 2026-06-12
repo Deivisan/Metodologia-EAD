@@ -209,6 +209,7 @@ Marcos Vinicius    ?  ?  ?  ?  ?  ?  ?  ?  │ 🆕 novo
 | ✅ Pronto | **Divisão de Tarefas** (`divisao-de-tarefas.md`) | Deivison | Atualizado com decisão sobre Código C |
 | ✅ Pronto | **Decisões do Projeto** (`decisoes.md`) | Deivison | Este arquivo (atualizado 12/06) |
 | 🔄 Em andamento | **Casos Existentes** (`casos-existentes.md`) | Ausiane + Nubia | Trabalho principal no Google Doc |
+| 🔄 Em andamento | **Proposta de Solução** (`proposta.md`) | Ausiane + Rios | Documento vivo de construção coletiva da proposta |
 | 🔄 Em andamento | **Referências** (`referencias-web.md`) | Nubia + Rios | Trabalho principal no Google Doc |
 | 🔒 Pendente | **Fluxograma** (`fluxograma.md`) | Artur + Marcos Vinicius | A iniciar |
 | 🔒 Pendente | **Protótipo de Telas** (`prototipo-telas.md`) | Ausiane + Uelinton | A iniciar |
