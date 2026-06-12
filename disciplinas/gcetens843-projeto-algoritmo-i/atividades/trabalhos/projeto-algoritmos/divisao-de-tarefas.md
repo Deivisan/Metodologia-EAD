@@ -2,9 +2,11 @@
 
 > **Projeto:** Filas Inteligentes + Acessibilidade (FilaClara)
 > **Disciplina:** GCETENS843 — Projeto Algoritmo I
-> **Última atualização:** 09 de junho de 2026
+> **Última atualização:** 12 de junho de 2026
 > **Prazo final:** 29 de junho de 2026 às 20h
 > **Equipe:** 8 integrantes
+>
+> **Aviso importante:** Todos os arquivos deste repositório são **vivos** e serão atualizados constantemente para refletir o estado atual do projeto. Os documentos principais de trabalho (Pesquisa e Casos) estão sendo construídos nos Google Docs listados abaixo. Os arquivos .md servem como espelhos e índices.
 
 ---
 
@@ -30,7 +32,7 @@ Esta divisão de tarefas não foi sorteada. Ela foi construída a partir de:
 | 3 | ✍️ **Proposta e Diferencial da Solução** | **Deivison + Rios** | 🟢 Dupla fixa |
 | 4 | 🔀 **Fluxograma do Sistema** | **Artur + Marcos Vinicius** | 🟢 Dupla fixa |
 | 5 | 🎨 **Protótipo de Telas (Mockups)** | **Ausiane + Uelinton** | 🟢 Dupla fixa |
-| 6 | 💻 **Código em C (opcional)** | **Artur + Marcos Vinicius** | 🟡 A confirmar pelo grupo |
+| 6 | 💻 **Código em C** | **—** | ❌ **Cancelado** (decisão do grupo em 12/06) | Foco será em outros entregáveis obrigatórios
 | 7 | 📊 **Slides e Apresentação** | **Uelinton + Wallace** | 🟢 Dupla fixa |
 | 8 | 📁 **Organização e Documentação** | **Deivison** | 🔵 Individual |
 
@@ -126,14 +128,12 @@ Ela também demonstrou conhecimento da ferramenta certa para o trabalho:
 
 ---
 
-### Tarefa 6 — Código em C (opcional — a ser confirmado pelo grupo)
-**Responsáveis: Artur + Marcos Vinicius**
+### Tarefa 6 — Código em C
+**Cancelado por decisão do grupo (12/06/2026)**
 
-**Artur** foi o único que se voluntariou originalmente para o código C na enquete, demonstrando disposição para a parte de implementação.
+Após votação no grupo, decidiu-se **não realizar o Código em C**. O foco será nos entregáveis obrigatórios de maior impacto (pesquisa, casos, proposta, fluxograma, protótipo e apresentação).
 
-**Marcos Vinicius**, ao entrar no grupo, também se voluntariou para contribuir com o código.
-
-**Justificativa da dupla:** Formaram uma dupla técnica natural. O código em C é opcional — o grupo ainda vai decidir se irá implementá-lo ou se focará apenas nos demais entregáveis. Se for feito, implementará uma simulação do sistema de filas com estrutura de dados (fila, prioridade, chamada de senhas).
+Artur e Marcos Vinicius foram liberados dessa tarefa e permanecerão responsáveis apenas pelo Fluxograma.
 
 ---
 
@@ -183,15 +183,17 @@ A distribuição original da enquete deixava **Nubia sobrecarregada** (4 tarefas
 
 ---
 
-## 5. 📅 Cronograma
+## 5. 📅 Cronograma (atualizado 12/06)
 
 | Período | Foco | Tarefas | Entregáveis |
 |:--------|:-----|:-------:|:------------|
-| **09–13/jun** | 🔍 Pesquisa + Casos | 1 e 2 | Problema definido, casos levantados |
+| **09–13/jun** | 🔍 Pesquisa + Casos | 1 e 2 | Problema definido, casos levantados (trabalho principal nos Google Docs) |
 | **14–18/jun** | ✍️ Proposta + Fluxograma | 3 e 4 | Diferencial escrito, fluxo desenhado |
-| **19–25/jun** | 🎨 Protótipo + Código C | 5 e 6 | Telas mockadas, código iniciado |
+| **19–25/jun** | 🎨 Protótipo | 5 | Telas mockadas (Figma) |
 | **26–28/jun** | 📊 Slides + Ensaios | 7 | Apresentação pronta, ensaio geral |
 | **29/jun** 🎤 | **APRESENTAÇÃO AO VIVO** | **Todas** | **20h — AO VIVO** |
+
+**Código em C foi cancelado** — não há mais essa linha no cronograma.
 
 ---
 
@@ -204,7 +206,7 @@ A distribuição original da enquete deixava **Nubia sobrecarregada** (4 tarefas
 | 3 | Proposta | Solução descrita com diferencial claro | `.md` ou `.pdf` |
 | 4 | Fluxograma | Diagrama do fluxo do sistema | Imagem (PNG/JPEG) + `.md` |
 | 5 | Protótipo | Telas mockadas | Figma (link) + imagens exportadas |
-| 6 | Código C | Simulação funcional | Código `.c` + Makefile |
+| 6 | Código C | **Cancelado** (decisão do grupo) | — |
 | 7 | Slides | Apresentação final | `.pdf` / `.pptx` |
 | 8 | Documentação | Tudo organizado no repositório | GitHub estruturado |
 
@@ -216,4 +218,9 @@ A distribuição original da enquete deixava **Nubia sobrecarregada** (4 tarefas
 
 ---
 
-*Este documento foi gerado com base no histórico real de conversas do grupo (WhatsApp), na enquete oficial do Google Forms e no alinhamento posterior entre os integrantes. Cada citação aqui presente é genuína e pode ser verificada no arquivo `historico-whatsapp.json` do repositório.*
+**Fontes de trabalho atuais (Google Docs – atualizados em tempo real pela equipe):**
+
+- Pesquisa (problema real): https://docs.google.com/document/d/1jrKcEVSVe25k4PRg3pr_WbrK1pIwx_i76K6i3O_6_Js/edit?usp=sharing
+- Casos existentes (inclusão e diagnóstico): https://docs.google.com/document/d/1mSFvxPnuMh5f13xKnHx1B3A1n4uhkBJokg0afE9Tdgw/edit?usp=sharing
+
+*Este documento é vivo e será atualizado conforme o grupo avança. A divisão de tarefas acima reflete a decisão de 12/06 de cancelar o Código em C.*

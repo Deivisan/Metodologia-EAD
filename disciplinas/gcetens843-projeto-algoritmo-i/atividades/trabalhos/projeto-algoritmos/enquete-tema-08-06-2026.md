@@ -1,7 +1,13 @@
-# 🔒 Enquete de Escolha do Tema
+# 🔒 Enquete de Escolha do Tema (08/06/2026)
 
-> **Status:** em andamento.  
-> Com base nas conversas do WhatsApp, o grupo parece estar convergindo para **Filas Inteligentes + Acessibilidade**. Decisão deve ocorrer em **08/06/2026**.
+> **⚠️ REGISTRO HISTÓRICO**  
+> Este é um snapshot da enquete que definiu o tema.  
+> **Todos os arquivos são vivos** e serão atualizados constantemente.  
+> Estado atual do projeto (12/06): ver [`Index-Geral.md`](Index-Geral.md) e [`decisoes.md`](decisoes.md).  
+> **Decisão posterior (12/06):** Código em C foi cancelado por votação do grupo.
+
+> **Resultado da enquete:** Tema escolhido = Filas Inteligentes em Serviços de Saúde com Foco em Acessibilidade.
+> **Decisão posterior (12/06):** Não faremos o Código em C (opcional).
 
 ## Opções em discussão
 

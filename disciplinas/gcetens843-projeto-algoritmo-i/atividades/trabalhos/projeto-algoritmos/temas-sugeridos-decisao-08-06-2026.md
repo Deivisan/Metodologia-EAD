@@ -1,10 +1,14 @@
 # Temas Sugeridos pelo Grupo — Decisão em 08/06/2026
 
+> **⚠️ REGISTRO HISTÓRICO**  
+> Este documento registra a fase de discussão e a enquete de 08/06/2026.  
+> **Todos os arquivos deste repositório são vivos** e serão atualizados constantemente para refletir o estado atual do projeto.  
+> Para a visão mais atualizada, comece sempre por: [`Index-Geral.md`](Index-Geral.md) e [`decisoes.md`](decisoes.md).  
+> **Decisão importante (12/06/2026):** O grupo votou e decidiu **NÃO fazer o Código em C** (opcional).
+
 > **Disciplina:** GCETENS843 — Projeto Algoritmo I  
 > **Curso:** Bacharelado em Sistemas de Informação  
-> **Semestre:** 2026.1  
-> **Objetivo deste documento:** organizar as ideias discutidas pelo grupo para facilitar a escolha do tema do projeto.
-> Para visão geral atualizada do projeto, comece por: [`Index-Geral.md`](Index-Geral.md).
+> **Semestre:** 2026.1
 
 ---
 

@@ -1,8 +1,8 @@
 # 📋 Decisões do Projeto — GCETENS843
 
-> **Status:** ✅ Decisões consolidadas em 09/06/2026
-> **Este documento reúne:** as decisões finais do grupo sobre tema, tarefas e organização.
-> **Última atualização:** 09/06/2026
+> **Status:** ✅ Decisões consolidadas + atualizações em andamento
+> **Este documento reúne:** as decisões tomadas pelo grupo. Todos os arquivos são **vivos** e serão atualizados constantemente para refletir o estado atual do projeto.
+> **Última atualização:** 12/06/2026 (inclui decisão sobre Código em C)
 
 ---
 
@@ -117,36 +117,45 @@ Marcos Vinicius    ?  ?  ?  ?  ?  ?  ?  ?  │ 🆕 novo
 - [x] **Acessibilidade:** incluída como diferencial obrigatório do projeto
 - [x] Artur, Nubia e Uelinton cientes e confortáveis com o tema
 
-### 5.2 Distribuição de Tarefas Final
+### 5.2 Distribuição de Tarefas Final (atualizada 12/06)
 
-| # | Tarefa | Responsáveis | Situação |
-|:-:|--------|-------------|:--------:|
-| 1 | **Pesquisa e Definição do Problema** | Rios + Nubia | ✅ Resolvido |
-| 2 | **Casos Existentes** | Ausiane + Nubia | ✅ Resolvido |
-| 3 | **Proposta e Diferencial da Solução** | Deivison + Rios | ✅ Resolvido |
-| 4 | **Fluxograma do Sistema** | Artur + Marcos Vinicius | ✅ Resolvido |
-| 5 | **Protótipo de Telas (Mockups)** | Ausiane + Uelinton | ✅ Resolvido |
-| 6 | **Código em C (opcional)** | Artur + Marcos Vinicius | 🟡 A confirmar |
-| 7 | **Slides e Apresentação** | Uelinton + Wallace | ✅ Resolvido |
-| 8 | **Organização e Documentação** | Deivison | ✅ Resolvido |
+| # | Tarefa | Responsáveis | Situação | Observação |
+|:-:|--------|-------------|:--------:|------------|
+| 1 | **Pesquisa e Definição do Problema** | Rios + Nubia | ✅ Em andamento | Trabalho principal no Google Doc |
+| 2 | **Casos Existentes** | Ausiane + Nubia | ✅ Em andamento | Trabalho principal no Google Doc |
+| 3 | **Proposta e Diferencial da Solução** | Deivison + Rios | 🔄 A iniciar | — |
+| 4 | **Fluxograma do Sistema** | Artur + Marcos Vinicius | 🔄 A iniciar | — |
+| 5 | **Protótipo de Telas (Mockups)** | Ausiane + Uelinton | 🔄 A iniciar | — |
+| 6 | **Código em C** | — | ❌ **Cancelado** | Decisão do grupo em 12/06 |
+| 7 | **Slides e Apresentação** | Uelinton + Wallace | 🔄 A iniciar | — |
+| 8 | **Organização e Documentação** | Deivison | ✅ Contínuo | Atualizações constantes no repo + Docs |
 
 ### 5.3 Marcos Vinicius
-- [x] **Alocado em:** Fluxograma (4) + Código C (6) — se voluntariou para o código em C
+- [x] **Alocado em:** Fluxograma (4)
+- [x] **Código em C:** Liberado (decisão do grupo em 12/06 de não fazer código)
 - [x] Tema: acatou a decisão do grupo
 
 ### 5.4 Wallace
 - [x] **Posição:** alocado em Slides (7) como apoio
-- [x] **Status:** disponível para contribuir; aguardando confirmação de presença ativa
+- [x] **Status:** disponível para contribuir; ainda não enviou foto nem participou ativamente das discussões até 12/06
+- [x] Participou com comentários pontuais sobre estrutura da apresentação (antes e depois da solução, uso de Google Docs)
 
-### 5.5 Código em C
-- [x] **Decisão:** opcional — a confirmar pelo grupo nas próximas reuniões
-- [x] Se for feito, escopo previsto: simulação de fila, senhas, prioridade e chamada
-- [x] Artur e Marcos se voluntariaram para implementar
+### 5.5 Código em C (Decisão tomada em 12/06/2026)
+- [x] **Decisão final:** NÃO vamos fazer o Código em C
+- [x] O grupo votou e decidiu focar em outros entregáveis (pesquisa, casos, proposta, fluxograma, protótipo e apresentação)
+- [x] Artur e Marcos Vinicius foram realocados / liberados dessa tarefa
+- [x] Motivo: C é considerado inadequado para simular filas de forma eficiente; foco maior na qualidade dos demais artefatos obrigatórios
 
-### 5.6 Metodologia de Trabalho
+> **Observação:** Esta é uma decisão recente do grupo (votação em 12/06). O documento de divisão de tarefas e o Index-Geral já refletem essa escolha.
+
+### 5.6 Metodologia de Trabalho (atualizada 12/06)
 - [x] **Comunicação:** WhatsApp (grupo existente)
-- [x] **Repositório:** Deivison centraliza no GitHub; materiais são enviados a ele
-- [x] **Reuniões:** a definir pelo grupo
+- [x] **Documentos de trabalho principais:** Dois Google Docs ativos
+  - Pesquisa (problema real): https://docs.google.com/document/d/1jrKcEVSVe25k4PRg3pr_WbrK1pIwx_i76K6i3O_6_Js/edit?usp=sharing
+  - Casos existentes (inclusão e diagnóstico): https://docs.google.com/document/d/1mSFvxPnuMh5f13xKnHx1B3A1n4uhkBJokg0afE9Tdgw/edit?usp=sharing
+- [x] **Repositório:** Deivison centraliza no GitHub; os arquivos .md são espelhos/sincronizações dos Google Docs
+- [x] **Reuniões / decisões:** registradas aqui e no chat do grupo
+- [x] **Atualização contínua:** Todos os documentos deste repositório são vivos e serão revisados conforme o projeto avança
 
 ---
 
@@ -163,18 +172,18 @@ Marcos Vinicius    ?  ?  ?  ?  ?  ?  ?  ?  │ 🆕 novo
 | **7. Slides** | Uelinton + Wallace | 🟢 Dupla fixa |
 | **8. Documentação** | Deivison | 🔵 Individual |
 
-### Carga por Pessoa
+### Carga por Pessoa (atualizada 12/06)
 
 | Pessoa | Tarefas | Qtde | Avaliação |
 |--------|---------|:----:|:----------|
 | **Deivison** | Proposta (3) + Documentação (8) | **2** | ✅ |
 | **Rios** | Pesquisa (1) + Proposta (3) | **2** | ✅ |
 | **Ausiane** | Casos (2) + Protótipo (5) | **2** | ✅ |
-| **Nubia** | Pesquisa (1) + Casos (2) | **2** | ✅ **Aliviada!** (tinha 4) |
-| **Artur** | Fluxograma (4) + Código C (6) | **2** | ✅ |
+| **Nubia** | Pesquisa (1) + Casos (2) | **2** | ✅ |
+| **Artur** | Fluxograma (4) | **1** | ✅ (libertado do Código C) |
 | **Uelinton** | Protótipo (5) + Slides (7) | **2** | ✅ |
 | **Wallace** | Slides (7) | **1** | 🟡 Apoio |
-| **Marcos Vinicius** | Fluxograma (4) + Código C (6) | **2** | ✅ |
+| **Marcos Vinicius** | Fluxograma (4) | **1** | ✅ (libertado do Código C) |
 
 ---
 
@@ -190,22 +199,28 @@ Marcos Vinicius    ?  ?  ?  ?  ?  ?  ?  ?  │ 🆕 novo
 
 ---
 
-## 8. 📄 Documentos do Projeto
+## 8. 📄 Documentos do Projeto (estado atual em 12/06/2026)
 
-| Status | Documento | Responsável | Criado em |
-|:------:|:----------|:-----------:|:---------:|
-| ✅ **Pronto** | **Tema Escolhido** (`tema-escolhido.md`) | Deivison | 09/06 |
-| ✅ **Pronto** | **Divisão de Tarefas** (`divisao-de-tarefas.md`) | Deivison | 09/06 |
-| ✅ **Pronto** | **Decisões do Projeto** (`decisoes.md`) | Deivison | 09/06 |
-| 🔒 Pendente | **Casos Existentes** (`casos-existentes.md`) | Ausiane + Nubia | — |
-| 🔒 Pendente | **Referências** (`referencias-web.md`) | Nubia + Rios | — |
-| 🔒 Pendente | **Fluxograma** (`fluxograma.md`) | Artur + Marcos | — |
-| 🔒 Pendente | **Protótipo de Telas** (`prototipo-telas.md`) | Ausiane + Uelinton | — |
-| 🔒 Pendente | **Código C** (`codigo-c/README.md`) | Artur + Marcos | — |
-| 🔒 Pendente | **Roteiro de Apresentação** (`roteiro-apresentacao.md`) | Uelinton + Wallace | — |
-| 🔒 Pendente | **Apresentação Final** (`apresentacao-final.md`) | Grupo todo | — |
-| 🔒 Pendente | **Ata de Decisões** (`ata-decisoes.md`) | Deivison | — |
-| 🔒 Pendente | **Dúvidas e Perguntas** (`duvidas-e-perguntas.md`) | Grupo | — |
+**Importante:** Todos os documentos deste repositório são **vivos**. Eles serão atualizados constantemente para refletir o estado real do projeto.
+
+| Status | Documento | Responsável | Observação |
+|:------:|:----------|:-----------:|------------|
+| ✅ Pronto | **Tema Escolhido** (`tema-escolhido.md`) | Deivison | Decisão de 08/06 |
+| ✅ Pronto | **Divisão de Tarefas** (`divisao-de-tarefas.md`) | Deivison | Atualizado com decisão sobre Código C |
+| ✅ Pronto | **Decisões do Projeto** (`decisoes.md`) | Deivison | Este arquivo (atualizado 12/06) |
+| 🔄 Em andamento | **Casos Existentes** (`casos-existentes.md`) | Ausiane + Nubia | Trabalho principal no Google Doc |
+| 🔄 Em andamento | **Referências** (`referencias-web.md`) | Nubia + Rios | Trabalho principal no Google Doc |
+| 🔒 Pendente | **Fluxograma** (`fluxograma.md`) | Artur + Marcos Vinicius | A iniciar |
+| 🔒 Pendente | **Protótipo de Telas** (`prototipo-telas.md`) | Ausiane + Uelinton | A iniciar |
+| ❌ Cancelado | **Código C** | — | Decisão do grupo: NÃO faremos |
+| 🔒 Pendente | **Roteiro de Apresentação** (`roteiro-apresentacao.md`) | Uelinton + Wallace | A iniciar |
+| 🔒 Pendente | **Apresentação Final** (`apresentacao-final.md`) | Grupo | A fazer |
+| 🔒 Pendente | **Ata de Decisões** (`ata-decisoes.md`) | Deivison | Placeholder – precisa ser preenchida |
+| 🔒 Pendente | **Dúvidas e Perguntas** (`duvidas-e-perguntas.md`) | Grupo | Em uso no chat |
+
+**Fontes de trabalho vivas (Google Docs):**
+- Pesquisa (problema real): https://docs.google.com/document/d/1jrKcEVSVe25k4PRg3pr_WbrK1pIwx_i76K6i3O_6_Js/edit?usp=sharing
+- Casos existentes (inclusão e diagnóstico): https://docs.google.com/document/d/1mSFvxPnuMh5f13xKnHx1B3A1n4uhkBJokg0afE9Tdgw/edit?usp=sharing
 
 ---
 
@@ -228,19 +243,21 @@ Marcos Vinicius    ?  ?  ?  ?  ?  ?  ?  ?  │ 🆕 novo
 
 ---
 
-## 10. ✅ Checklist para Fechar o Projeto
+## 10. ✅ Checklist para Fechar o Projeto (atualizado 12/06)
 
 - [x] Tema definido e aceito por todos
 - [x] Tarefas distribuídas (ninguém sobrecarregado)
-- [ ] Problema real escrito e aprovado
-- [ ] Casos existentes pesquisados
+- [x] **Código em C cancelado** (decisão do grupo – foco em outros entregáveis)
+- [ ] Problema real escrito e aprovado (em andamento nos Google Docs)
+- [ ] Casos existentes pesquisados (em andamento nos Google Docs)
 - [ ] Proposta/diferencial redigido
 - [ ] Fluxograma desenhado
 - [ ] Protótipo de telas criado
-- [ ] Código C implementado
 - [ ] Slides prontos
 - [ ] Apresentação ensaiada
 - [ ] Tudo entregue até **29/06 às 20h** 🎯
+
+**Fontes principais de trabalho atual:** Os dois Google Docs (ver seção 5.6 e seção 8).
 
 ---
 

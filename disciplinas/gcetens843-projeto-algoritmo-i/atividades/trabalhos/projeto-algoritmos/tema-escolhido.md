@@ -14,8 +14,9 @@
 
 ### 🥇 Filas Inteligentes em Serviços de Saúde com Foco em Acessibilidade
 
-**Nome do Projeto (sugestão):** `FilaClara` — *Sistema de Filas Inteligentes e Acessíveis*
-> ⚠️ O nome oficial ainda será decidido pela equipe. "FilaClara" é uma sugestão inicial.
+**Nome do Projeto (sugestão inicial):** `FilaClara` — *Sistema de Filas Inteligentes e Acessíveis*
+
+> ⚠️ O nome oficial ainda está em discussão pelo grupo (12/06). Sugestões atuais incluem: FilaClara, FilaAcessível, Fil.Ai, Fila Livre, entre outras. A decisão final será registrada aqui quando houver consenso.
 
 </div>
 
@@ -154,3 +155,13 @@ O sistema (nome sugestão: **FilaClara**) torna as filas de atendimento mais **t
 > 🔗 [Voltar ao Index Geral](Index-Geral.md)
 > 📋 [Ver divisão de tarefas](divisao-de-tarefas.md)
 > 📝 [Ver decisões do projeto](decisoes.md)
+
+**Todos os arquivos deste repositório são vivos** e serão atualizados constantemente para refletir o estado atual do projeto.
+
+**Fontes de pesquisa atuais (Google Docs – 12/06/2026):**
+- Pesquisa (problema real): https://docs.google.com/document/d/1jrKcEVSVe25k4PRg3pr_WbrK1pIwx_i76K6i3O_6_Js/edit?usp=sharing
+- Casos existentes (inclusão e diagnóstico): https://docs.google.com/document/d/1mSFvxPnuMh5f13xKnHx1B3A1n4uhkBJokg0afE9Tdgw/edit?usp=sharing
+>
+> **Fontes de pesquisa atuais (Google Docs):**  
+> - Pesquisa (problema real): https://docs.google.com/document/d/1jrKcEVSVe25k4PRg3pr_WbrK1pIwx_i76K6i3O_6_Js/edit?usp=sharing  
+> - Casos existentes: https://docs.google.com/document/d/1mSFvxPnuMh5f13xKnHx1B3A1n4uhkBJokg0afE9Tdgw/edit?usp=sharing

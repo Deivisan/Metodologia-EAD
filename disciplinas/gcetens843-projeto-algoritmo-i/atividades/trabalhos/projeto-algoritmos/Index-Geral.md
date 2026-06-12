@@ -22,6 +22,8 @@
 | **Apresentação final** | **29/06/2026 às 20h (AO VIVO)** |
 
 > 📄 [Documento completo do tema](tema-escolhido.md) · [Divisão de tarefas](divisao-de-tarefas.md) · [Decisões do projeto](decisoes.md)
+>
+> **Trabalho atual em tempo real:** ver os dois Google Docs listados na seção "Em andamento" abaixo.
 
 ---
 
@@ -91,11 +93,13 @@ A equipe está completa com **8 integrantes**. Cada um com suas responsabilidade
 | O quê | Responsáveis | Prazo | Arquivo |
 |:------|:-------------|:-----:|:--------|
 | Proposta e diferencial | Deivison + Rios | 18/06 | — |
-| Fluxograma do sistema | Artur + Marcos | 18/06 | [`fluxograma.md`](fluxograma.md) |
+| Fluxograma do sistema | Artur + Marcos Vinicius | 18/06 | [`fluxograma.md`](fluxograma.md) |
 | Protótipo de telas (Figma) | Ausiane + Uelinton | 25/06 | [`prototipo-telas.md`](prototipo-telas.md) |
-| Código em C (a confirmar) | Artur + Marcos | 25/06 | [`codigo-c/README.md`](codigo-c/README.md) |
+| **Código em C** | — | — | ❌ **Cancelado** (decisão do grupo em 12/06) |
 | Slides da apresentação | Uelinton + Wallace | 28/06 | — |
 | Roteiro de apresentação | Uelinton + Wallace | 28/06 | [`roteiro-apresentacao.md`](roteiro-apresentacao.md) |
+
+> **Todos os arquivos deste repositório são vivos** e serão atualizados constantemente para refletir o estado atual do projeto.
 
 ### 🗓️ Data final
 
@@ -144,7 +148,7 @@ Cada integrante deve:
 | **Deivison** | Preparar a proposta com base no que for levantado |
 | **Demais** | Aguardar a próxima fase (14/06) para começar fluxograma e protótipo |
 
-> ⚠️ **Código em C:** ainda não foi decidido se será implementado. O grupo vai confirmar nas próximas conversas.
+> ❌ **Código em C:** Decisão do grupo (12/06): **não faremos**. Foco total nos demais entregáveis.
 
 ---
 

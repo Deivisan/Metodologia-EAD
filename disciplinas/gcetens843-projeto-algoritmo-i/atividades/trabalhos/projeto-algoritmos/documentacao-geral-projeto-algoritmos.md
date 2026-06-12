@@ -17,19 +17,22 @@
 
 ---
 
-## 1. Equipe do Projeto
+## 1. Equipe do Projeto (atualizado 12/06/2026)
 
-Integrantes informados até o momento:
+Equipe completa com **8 integrantes**:
 
 | Integrante | Observação |
-|---|---|
-| **Deivison de Lima Santana** | Organização inicial, documentação e participação ativa no projeto |
-| **Ausiane** | Integrante do grupo |
-| **Nubia de Asika** | Integrante do grupo; sobrenome informado como **A-S-I-K-A** |
-| **Rios** | Integrante do grupo |
-| **Wallace** | Integrante do grupo |
+|---|---
+| **Deivison de Lima Santana** | Organização, documentação, repositório e centralização |
+| **Ausiane** | Casos Existentes + Protótipo (acessibilidade e design). Experiência no NAI, TEA + deficiência auditiva unilateral |
+| **Nubia de Asiká** | Pesquisa + Casos Existentes (inclusão e diagnósticos tardios) |
+| **Rios** | Pesquisa + Proposta (experiência em saúde e educação) |
+| **Artur Campos** | Fluxograma (perfil técnico) |
+| **Marcos Vinicius** | Fluxograma |
+| **Uelinton** | Protótipo de Telas + Slides |
+| **Wallace** | Slides (apoio) |
 
-> **Observação:** o professor citou equipes de **8 pessoas**, mas este documento registra apenas os nomes já confirmados. Caso novos integrantes entrem no grupo, esta seção deve ser atualizada.
+**Todos os documentos deste repositório são vivos** e serão atualizados conforme o projeto evolui.
 
 ---
 
@@ -53,6 +56,8 @@ A ideia central é:
 - A proposta deve usar **computação** para melhorar um processo existente ou criar uma solução nova.
 - A apresentação vale **10 pontos**.
 - O prazo informado no vídeo é **29/06 às 20h**.
+- Código em C é **opcional** — decisão do grupo em 12/06/2026: **não faremos**. Foco nos entregáveis obrigatórios.
+- Código em C é **opcional** (decisão posterior do grupo em 12/06/2026: **não faremos**).
 
 ### Setores Citados pelo Professor
 
