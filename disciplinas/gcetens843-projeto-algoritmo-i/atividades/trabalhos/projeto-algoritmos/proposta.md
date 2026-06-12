@@ -90,6 +90,11 @@ Depois de decidir, consolidamos em `tema-escolhido.md`, `decisoes.md` e atualiza
 
 ## 1. Contexto Rápido (Problematização)
 
+> **Fonte principal da problematização:**  
+> A contextualização completa e fundamentada com referências da literatura foi elaborada por **Rios** e está no arquivo dedicado:  
+> 📄 [`problema-real.md`](problema-real.md)  
+> (Enviada via WhatsApp em 12/06/2026. O grupo pode alterar/sugerir adequações. O texto usa intencionalmente "fila presencial" para diferenciar das listas de espera de meses que aparecem na literatura.)
+
 O fluxo oficial de urgência/emergência tem um "buraco" entre o guichê (ordem de chegada) e a triagem (Protocolo de Manchester). Isso gera sensação de arbitrariedade e injustiça.
 
 **Cores do Protocolo de Manchester (para referência):**
@@ -312,7 +317,8 @@ Leiam a explicação expandida, marquem as opções que fazem mais sentido para 
 ---
 
 > 📎 Relatório original da Ausiane: `relatorio_filas_inteligentes.pdf`  
-> 🔗 Google Docs de pesquisa/casos: no [Index-Geral.md](Index-Geral.md)
+> 🔗 Google Docs de pesquisa/casos: no [Index-Geral.md](Index-Geral.md)  
+> 📄 Contextualização do Problema (Rios, 12/06): [`problema-real.md`](problema-real.md) — texto completo com fundamentação na literatura (ainda com placeholder para colar o texto enviado no chat)
 
 *Documento vivo. Editem e marquem decisões.*
 

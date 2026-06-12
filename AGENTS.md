@@ -217,6 +217,39 @@ Leituras complementares, videos extras
 6. **Documente tudo**: todo artefato gerado deve ter metadados ou instruções de uso.
 7. **Crie, mas não destrua**: prefira evoluir arquivos existentes a sobrescrevê-los. Use `git mv` para renomear.
 
+### 1.5. Regra Obrigatória: Contexto Fresco do Remote (Trabalho em Múltiplos PCs)
+
+O usuário trabalha a partir de **vários computadores** (DeiviHome, DeiviPc, etc.) e faz commits/pushes de qualquer máquina. O clone local fica facilmente desatualizado em relação ao GitHub (pode estar `behind` vários commits sem o agente perceber).
+
+**Obrigatório no início de toda conversa ou retomada que envolva este repositório:**
+
+Antes de qualquer análise de arquivos, status, decisões, criação/edição de documentos, ou qualquer menção a git/commit/pull/push, **execute sempre este ritual de contexto fresco**:
+
+```bash
+git fetch --all --prune
+
+# Relatório completo e confiável:
+git branch -vv
+git status --ahead-behind -sb
+git rev-list --left-right --count HEAD...@{u}
+git log --oneline -5 --decorate
+git status --porcelain
+git ls-remote --heads origin main
+```
+
+**Regras de execução:**
+- Sempre use comandos **diretos via ferramenta `bash`** para git remote/sync (`git fetch`, `status --ahead-behind`, `rev-list --left-right --count`).
+- As ferramentas `github_git_fetch` / `github_git_status` podem retornar visões parciais, cached ou sem ahead/behind real. Use-as apenas como complemento — **nunca** como fonte única para afirmar que "o repo está sincronizado".
+- Após rodar o ritual, reporte de forma clara e estruturada:
+  - Branch atual + tracking
+  - `ahead` / `behind` (números exatos)
+  - Último commit no remote (hash + mensagem)
+  - Mudanças locais não commitadas (porcelain)
+  - Se está sincronizado ou precisa de pull
+- Se `behind > 0`, avise imediatamente o usuário e pergunte se deve fazer `git pull` antes de continuar.
+
+Esta regra foi adicionada porque o usuário trabalha de múltiplos PCs e pediu explicitamente contexto fresco do remote várias vezes. O agente deve chegar já sabendo o estado real sem que o usuário precise pedir "git status com remote".
+
 ### 2. Geração de Documentos
 
 Ao criar documentos, siga esta pipeline sempre que possível:

@@ -70,12 +70,13 @@ A equipe está completa com **8 integrantes**. Cada um com suas responsabilidade
 | Tarefas distribuídas | [`divisao-de-tarefas.md`](divisao-de-tarefas.md) | Deivison |
 | Decisões registradas | [`decisoes.md`](decisoes.md) | Deivison |
 | Histórico do WhatsApp | [`historico-whatsapp.json`](historico-whatsapp.json) | Deivison |
+| Contextualização do Problema (Rios) | [`problema-real.md`](problema-real.md) | Rios |
 
 ### 🔄 Em andamento (09–13/jun)
 
 | O quê | Responsáveis | Prazo | Arquivo |
 |:------|:-------------|:-----:|:--------|
-| Pesquisar o problema real | Rios + Nubia | 13/06 | `referencias-web.md` (Google Doc) |
+| Pesquisar o problema real | Rios + Nubia | 13/06 | `referencias-web.md` (Google Doc) + [`problema-real.md`](problema-real.md) |
 | Casos existentes (inclusão e diagnóstico) | Ausiane + Nubia | 13/06 | `casos-existentes.md` (Google Doc) |
 
 **Fontes de trabalho ativas (Google Docs – atualizadas em tempo real):**
@@ -100,6 +101,8 @@ A equipe está completa com **8 integrantes**. Cada um com suas responsabilidade
 | Roteiro de apresentação | Uelinton + Wallace | 28/06 | [`roteiro-apresentacao.md`](roteiro-apresentacao.md) |
 
 > **Todos os arquivos deste repositório são vivos** e serão atualizados constantemente para refletir o estado atual do projeto.
+
+**Novidade:** O arquivo [`problema-real.md`](problema-real.md) foi criado com a contextualização elaborada pelo Rios (enviada via WhatsApp em 12/06). Ele serve como base para a seção de "Problema" da proposta. O texto completo ainda precisa ser colado lá (placeholder criado para isso).
 
 ### 🗓️ Data final
 
@@ -127,6 +130,7 @@ Cada integrante deve:
 | Histórico completo do WhatsApp | [`historico-whatsapp.json`](historico-whatsapp.json) |
 | Documentação geral (requisitos do professor) | [`documentacao-geral-projeto-algoritmos.md`](documentacao-geral-projeto-algoritmos.md) |
 | Imagens do grupo | [`imagens-grupo/`](imagens-grupo/) |
+| Contextualização do Problema (elaborada por Rios) | [`problema-real.md`](problema-real.md) |
 
 ### Regras
 

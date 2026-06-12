@@ -1,6 +1,6 @@
 <div class="cabecalho-atividade">
 
-<img src="templates/logo-ufrb-20-anos.png" alt="UFRB 20 Anos" style="max-width: 55%; height: auto; margin-bottom: 1cm;" />
+<img src="templates/logo-ufrb-20-anos.png" alt="UFRB 20 Anos" style="max-width: 40%; height: auto; margin-bottom: 0.3cm;" />
 
 <span class="inst">Universidade Federal do Recôncavo da Bahia — UFRB</span><br/>
 <span class="sub">Superintendência de Educação Aberta e a Distância — SEAD</span><br/>
