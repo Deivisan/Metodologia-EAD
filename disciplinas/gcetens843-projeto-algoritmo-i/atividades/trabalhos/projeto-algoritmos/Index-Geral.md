@@ -73,8 +73,18 @@ A equipe está completa com **8 integrantes**. Cada um com suas responsabilidade
 
 | O quê | Responsáveis | Prazo | Arquivo |
 |:------|:-------------|:-----:|:--------|
-| Pesquisar o problema real | Rios + Nubia | 13/06 | `casos-existentes.md` |
-| Levantar referências | Nubia + Rios | 13/06 | `referencias-web.md` |
+| Pesquisar o problema real | Rios + Nubia | 13/06 | `referencias-web.md` (Google Doc) |
+| Casos existentes (inclusão e diagnóstico) | Ausiane + Nubia | 13/06 | `casos-existentes.md` (Google Doc) |
+
+**Fontes de trabalho ativas (Google Docs – atualizadas em tempo real):**
+
+- **Pesquisa (problema real):**  
+  https://docs.google.com/document/d/1jrKcEVSVe25k4PRg3pr_WbrK1pIwx_i76K6i3O_6_Js/edit?usp=sharing
+
+- **Casos existentes (inclusão e diagnóstico):**  
+  https://docs.google.com/document/d/1mSFvxPnuMh5f13xKnHx1B3A1n4uhkBJokg0afE9Tdgw/edit?usp=sharing
+
+> ⚠️ Os arquivos `.md` do repositório são espelhos/sincronizações. O trabalho principal está acontecendo nos Google Docs acima.
 
 ### 🔒 Pendente
 
