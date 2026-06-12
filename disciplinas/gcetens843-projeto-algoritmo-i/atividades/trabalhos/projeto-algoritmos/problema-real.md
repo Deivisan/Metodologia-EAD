@@ -12,9 +12,27 @@
 
 ## 1. O Problema Real
 
-[COLAR AQUI O TEXTO COMPLETO ELABORADO POR RIOS COM A CONTEXTUALIZAÇÃO FUNDAMENTADA NA LITERATURA]
+> **Mensagem enviada por Rios no WhatsApp (12/06/2026 ~18:13–18:20):**
 
-O texto acima foi enviado pelo Rios no grupo do WhatsApp em 12/06/2026 às 18:17, com a intenção de servir como base para a seção de **Problema** da proposta.
+> "@Deivison Santana please kkk"
+
+> "Se nossa solução for um aplicativo para dispositivo móvel, podemos sinalizar o BYOD, utilizando gerenciamento de dispositivos móveis para acompanhamento de senha em tempo real."
+
+> "Tentei elaborar uma contextualização para o problema baseado no que entendi sobre a proposta do grupo. Fundamentei com referências presentes na literatura. Fiquem à vontade para alterar ou sugerir adequações. Fiz na intenção da parte do Problema."
+
+> "Estudando eu vi que quando nos referimos a filas no serviço de saúde, a literatura também se remete a filas esperando meses por um atendimento. Pelo que entendi, aqui nos referimos a filas presenciais, por isso, no texto eu tentei referir sempre como fila presencial para não confundir com o outro tipo."
+
+**O texto completo da contextualização** (o corpo fundamentado com referências da literatura) ainda não foi colado neste arquivo. Rios anunciou que elaborou e enviou a intenção de que sirva para a parte de **Problema** da proposta.
+
+**Instrução do grupo (transcrita):**  
+"depois de fazer o seu arquivo [este `problema-real.md`], ele vai fazer o seu arquivo. a instalação dele. Após isso, a gente vai entender o que ele passou nessa proposta e qual foi de fato a fala."
+
+---
+
+**Status atual:**  
+- Estrutura e cabeçalho criados por Deivison com base nas mensagens do chat.  
+- Texto completo da fundamentação literária pendente de colagem (quando Rios enviar ou confirmar).  
+- O grupo pode alterar ou sugerir adequações conforme o próprio autor pediu.
 
 ---
 
@@ -46,10 +64,12 @@ Mensagem do mesmo autor (18:15):
 
 ## 4. Próximos Passos para Este Documento
 
-- [ ] Rios cola o texto completo da contextualização aqui (ou envia para Deivison colar).
+- [x] Criar estrutura do arquivo `problema-real.md` com metadados e citações das mensagens do chat (feito 12/06).
+- [ ] Rios cola/enviar o **texto completo** da contextualização fundamentada (o corpo com referências da literatura).
 - [ ] Grupo revisa, sugere alterações ou adequações (conforme mensagem do autor: "Fiquem à vontade para alterar ou sugerir adequações").
-- [ ] Integrar com a seção de Problema na `proposta.md`.
-- [ ] Usar como base para o "Problema real definido" exigido pelo professor.
+- [ ] Integrar o texto final com a seção de Problema na `proposta.md`.
+- [ ] Usar como base para o "Problema real definido" exigido pelo professor na apresentação de 29/06.
+- [ ] Após colagem, o grupo revisa "o que ele passou nessa proposta e qual foi de fato a fala" (conforme orientação do chat).
 
 ---
 
@@ -64,4 +84,4 @@ Mensagem do mesmo autor (18:15):
 
 ---
 
-*Documento vivo. Atualizado automaticamente conforme novas contribuições do grupo chegam via WhatsApp.*
+*Documento vivo. Atualizado automaticamente conforme novas contribuições do grupo chegam via WhatsApp (última sincronização: 12/06/2026, mensagens de Rios sobre problematização + BYOD).*
