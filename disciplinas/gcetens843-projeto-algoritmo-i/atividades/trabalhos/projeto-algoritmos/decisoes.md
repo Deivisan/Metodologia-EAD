@@ -249,7 +249,7 @@ Marcos Vinicius    ?  ?  ?  ?  ?  ?  ?  ?  │ 🆕 novo
 - [x] Tema definido e aceito por todos
 - [x] Tarefas distribuídas (ninguém sobrecarregado)
 - [x] **Código em C cancelado** (decisão do grupo – foco em outros entregáveis)
-- [ ] Problema real escrito e aprovado (em andamento nos Google Docs)
+- [x] **Problema real escrito** (12/06) — Texto completo de Rios colado em [`problema-real.md`](problema-real.md) + material-fonte salvo. Aguardando revisão/alterações do grupo (autor autorizou).
 - [ ] Casos existentes pesquisados (em andamento nos Google Docs)
 - [ ] Proposta/diferencial redigido
 - [ ] Fluxograma desenhado
@@ -258,7 +258,9 @@ Marcos Vinicius    ?  ?  ?  ?  ?  ?  ?  ?  │ 🆕 novo
 - [ ] Apresentação ensaiada
 - [ ] Tudo entregue até **29/06 às 20h** 🎯
 
-**Fontes principais de trabalho atual:** Os dois Google Docs (ver seção 5.6 e seção 8).
+**Fontes principais de trabalho atual (12/06):**
+- Google Docs (pesquisa e casos) ainda ativos.
+- **Problema real:** agora também no repositório → [`problema-real.md`](problema-real.md) (texto completo de Rios).
 
 ---
 

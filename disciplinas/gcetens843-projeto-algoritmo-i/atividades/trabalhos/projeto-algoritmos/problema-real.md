@@ -12,27 +12,75 @@
 
 ## 1. O Problema Real
 
-> **Mensagem enviada por Rios no WhatsApp (12/06/2026 ~18:13–18:20):**
+**Fonte:** Documento completo enviado por Rios via WhatsApp em 12/06/2026 (arquivo `Projeto-Algorit-1-Rios-2026-06-12.docx`).
 
-> "@Deivison Santana please kkk"
+O texto abaixo é a **contextualização do problema** elaborada por Rios, fundamentada com referências presentes na literatura. O autor pediu explicitamente: "Fiquem à vontade para alterar ou sugerir adequações."
 
-> "Se nossa solução for um aplicativo para dispositivo móvel, podemos sinalizar o BYOD, utilizando gerenciamento de dispositivos móveis para acompanhamento de senha em tempo real."
-
-> "Tentei elaborar uma contextualização para o problema baseado no que entendi sobre a proposta do grupo. Fundamentei com referências presentes na literatura. Fiquem à vontade para alterar ou sugerir adequações. Fiz na intenção da parte do Problema."
-
-> "Estudando eu vi que quando nos referimos a filas no serviço de saúde, a literatura também se remete a filas esperando meses por um atendimento. Pelo que entendi, aqui nos referimos a filas presenciais, por isso, no texto eu tentei referir sempre como fila presencial para não confundir com o outro tipo."
-
-**O texto completo da contextualização** (o corpo fundamentado com referências da literatura) ainda não foi colado neste arquivo. Rios anunciou que elaborou e enviou a intenção de que sirva para a parte de **Problema** da proposta.
-
-**Instrução do grupo (transcrita):**  
-"depois de fazer o seu arquivo [este `problema-real.md`], ele vai fazer o seu arquivo. a instalação dele. Após isso, a gente vai entender o que ele passou nessa proposta e qual foi de fato a fala."
+> **Nome da solução proposto no documento:**  
+> **Sistema Inteligente de Gestão de Filas Presenciais e Acessibilidade para Serviços de Saúde**
 
 ---
 
-**Status atual:**  
-- Estrutura e cabeçalho criados por Deivison com base nas mensagens do chat.  
-- Texto completo da fundamentação literária pendente de colagem (quando Rios enviar ou confirmar).  
-- O grupo pode alterar ou sugerir adequações conforme o próprio autor pediu.
+A transformação digital tem promovido mudanças significativas em diversos setores da sociedade, incluindo o setor da saúde. O avanço das tecnologias digitais, dos sistemas de informação em saúde e das soluções móveis tem contribuído para a melhoria da gestão dos serviços, da comunicação entre profissionais e usuários e da qualidade da assistência prestada (Aggarwal *et al.*, 2022; Kessel *et al.*, 2022).
+
+Apesar dos avanços tecnológicos observados nos últimos anos, um problema continua presente em hospitais, clínicas, unidades básicas de saúde (UBSs), Unidades de Pronto Atendimento (UPAs) e laboratórios, tanto em serviços públicos quanto privados: a demora nas **filas presenciais** de atendimento e a falta de informações claras sobre a posição do usuário na fila ou sobre o tempo estimado para atendimento.
+
+O tempo de espera na fila presencial depende essencialmente do tipo de unidade e da classificação de risco (triagem). Nas UBSs, a demanda espontânea é uma parcela importante dos atendimentos e frequentemente geram filas presenciais de pessoas aguardando uma senha para agendar uma consulta. Em todos os serviços de saúde de porta aberta, estratégias de gestão da demanda, no sentido de adequar a oferta para garantir o atendimento ao menor tempo possível, são um grande desafio (Giannotti; Louvison; Chioro, 2025).
+
+A depender da natureza da unidade, o atendimento não funciona exatamente por ordem de chegada, pois pode depender da classificação de risco, sobretudo em serviços de urgência e emergência. Um estudo realizado em um hospital de urgência mostrou que os pacientes aguardaram por atendimento médico em tempo superior ao recomendado, evidenciando as dificuldades enfrentadas pelos usuários para acessar os serviços de saúde (Chianca *et al.*, 2017).
+
+A literatura demonstra que tempos prolongados de espera estão associados à redução da satisfação dos usuários e à percepção negativa da qualidade dos serviços de saúde (Aggarwal *et al.*, 2022). Também há prejuízos à experiência do usuário e necessidade de permanência física na unidade por tempo demasiado. A espera prolongada está associada à aglomeração de pacientes, falhas na comunicação com os usuários, aumento do estresse, absenteísmo em consultas e redução da eficiência operacional dos serviços de saúde, constituindo importante barreira ao acesso oportuno à assistência (Thompson *et al.*, 2023).
+
+O problema é ainda mais grave para idosos, gestantes, pessoas com deficiência e pacientes com doenças crônicas. Embora existam dispositivos legais que assegurem atendimento prioritário, pessoas com deficiência frequentemente enfrentam barreiras adicionais relacionadas à acessibilidade física e digital dos serviços de saúde (Farias *et al.*, 2023; Ha *et al.*, 2023; Clemente *et al.*, 2022).
+
+Além disso, indivíduos com deficiência visual, auditiva, limitações motoras ou idosos podem apresentar dificuldades para acompanhar chamadas de atendimento realizadas exclusivamente por painéis visuais ou anúncios sonoros. Revisões recentes sobre acessibilidade em serviços digitais de saúde destacam a necessidade de considerar princípios de acessibilidade e inclusão durante o desenvolvimento de soluções digitais (Jonsson *et al.*, 2023; Ha *et al.*, 2023; Farias *et al.*, 2023).
+
+O contexto sobre o qual estamos nos referindo aqui não é recente e já foi alvo de projetos cujos objetivos não foram satisfatoriamente alcançados (Melo *et al.*, 2021).
+
+Diante desse cenário, surge a necessidade de desenvolver soluções tecnológicas capazes de promover maior eficiência na gestão das filas, reduzir o tempo de permanência dos usuários nas unidades de saúde e garantir acessibilidade para todos os pacientes. Tecnologias móveis e sistemas inteligentes de monitoramento têm demonstrado potencial para otimizar fluxos assistenciais, melhorar a comunicação entre usuários e serviços e aumentar a eficiência operacional das instituições de saúde (Aggarwal *et al.*, 2022).
+
+Nesse contexto, o problema que buscamos resolver é o seguinte:
+
+> **Como reduzir o tempo de permanência física dos usuários nas unidades de saúde e aumentar a previsibilidade do atendimento por meio de uma solução digital acessível e inclusiva?**
+
+---
+
+**Observação importante do autor (transcrita do WhatsApp 12/06 ~18:17):**  
+"Estudando eu vi que quando nos referimos a filas no serviço de saúde, a literatura também se remete a filas esperando meses por um atendimento. Pelo que entendi, aqui nos referimos a filas presenciais, por isso, no texto eu tentei referir sempre como fila presencial para não confundir com o outro tipo."
+
+Isso justifica o uso consistente do termo **"fila presencial"** ao longo de todo o texto.
+
+---
+
+**Referências (conforme enviadas por Rios no documento):**
+
+AGGARWAL, Ravi *et al*. Defining the enablers and barriers to the implementation of large-scale, health care-related mobile technology: qualitative case study in a tertiary hospital setting. **JMIR mHealth and uHealth**, Toronto, v. 10, n. 2, 2022.
+
+CHIANCA, Tânia Couto Machado *et al*. Tempos de espera para atendimento usando sistema de triagem de Manchester em um hospital de urgência. **Reme: Revista Mineira de Enfermagem**, v. 20, 2016.
+
+CLEMENTE, Karina Aparecida Padilha *et al*. Barreiras ao acesso das pessoas com deficiência aos serviços de saúde: uma revisão de escopo. **Revista de Saúde Pública**, v. 56, n. 64, 2022.
+
+FARIAS, Tássia Mayra Oliveira *et al*. O estreito acesso das Pessoas com Deficiência aos serviços de saúde em uma capital nordestina. **Ciênc. saúde coletiva**, v. 28, n. 5, 2023.
+
+GIANNOTTI, Elaine Maria; LOUVISON, Marília; CHIORO, Arthur. Listas de espera na atenção ambulatorial especializada: reflexões sobre um conceito crítico para o Sistema Único de Saúde. **Cad. Saúde Pública**, v. 41, n. 6, 2025.
+
+HA, Sandeul *et al*. Digital health equity and tailored health care service for people with disability: user-centered design and usability study. **Journal of Medical Internet Research**, v. 25, 2023.
+
+JONSSON, Marika *et al*. Development and evaluation of eHealth services regarding accessibility: scoping literature review. **Journal of Medical Internet Research**, v. 25, 2023.
+
+KESSEL, Robin Van *et al*. Digital health paradox: international policy perspectives to address increased health inequalities for people living with disabilities. **Journal of Medical Internet Research**, Toronto, v. 24, n. 2, 2022.
+
+MELO, Daiane Celestino *et al*. Acessibilidade aos serviços de saúde e posição dos usuários no espaço social em Salvador, Bahia, 2006: um estudo transversal. **Epidemiol. Serv. Saúde**, v. 30, n. 2, 2021.
+
+THOMPSON, Yee Lam Elim *et al*. Evaluation of wait time saving effectiveness of triage algorithms. **arXiv:2303.07050**, v. 1, 2023.
+
+---
+
+**Status:** ✅ Texto completo colado (12/06/2026, após recebimento do arquivo via `/home/deivi/Downloads/`).  
+O grupo pode alterar ou sugerir adequações conforme o próprio Rios autorizou no chat.
+
+**Instrução do grupo (transcrita do chat):**  
+"depois de fazer o seu arquivo [este `problema-real.md`], ele vai fazer o seu arquivo. a instalação dele. Após isso, a gente vai entender o que ele passou nessa proposta e qual foi de fato a fala."
 
 ---
 
@@ -65,7 +113,7 @@ Mensagem do mesmo autor (18:15):
 ## 4. Próximos Passos para Este Documento
 
 - [x] Criar estrutura do arquivo `problema-real.md` com metadados e citações das mensagens do chat (feito 12/06).
-- [ ] Rios cola/enviar o **texto completo** da contextualização fundamentada (o corpo com referências da literatura).
+- [x] Colar o **texto completo** da contextualização fundamentada enviado por Rios em 12/06/2026 (arquivo DOCX).
 - [ ] Grupo revisa, sugere alterações ou adequações (conforme mensagem do autor: "Fiquem à vontade para alterar ou sugerir adequações").
 - [ ] Integrar o texto final com a seção de Problema na `proposta.md`.
 - [ ] Usar como base para o "Problema real definido" exigido pelo professor na apresentação de 29/06.

@@ -7,7 +7,8 @@ Esta pasta contém os documentos originais enviados pelos integrantes para const
 | Arquivo | Enviado por | Descrição |
 |---------|-------------|-----------|
 | `relatorio_filas_inteligentes.pdf` | **Ausiane** | Relatório completo de problematização, pesquisa do fluxo oficial (guichê → triagem → consulta), Protocolo de Manchester, fundamentação de acessibilidade (TEA, deficiência auditiva/visual), e proposta inicial de solução com integração ao Meu SUS Digital / RNDS. Inclui telas propostas e referências. |
-| `Projeto Algorit 1.docx` | **Rios** | Documento estruturado com definição clara do problema (com várias referências acadêmicas e governamentais), impacto em idosos, gestantes, pessoas com deficiência e pacientes crônicos, barreiras de acessibilidade, e proposta de "Sistema Inteligente de Gestão de Filas Presenciais e Acessibilidade para Serviços de Saúde". |
+| `Projeto Algorit 1.docx` | **Rios** | Versão anterior (08-09/06). |
+| `Projeto-Algorit-1-Rios-2026-06-12.docx` | **Rios** | **Versão completa enviada em 12/06/2026** (o arquivo que o Rios anunciou no WhatsApp). Contém a contextualização detalhada do problema com fundamentação em literatura (Aggarwal, Chianca, Clemente, Farias, Giannotti, Ha, Jonsson, Kessel, Melo, Thompson etc.), impacto em grupos vulneráveis (idosos, gestantes, PCD, crônicos), discussão sobre filas presenciais vs listas de espera, e a pergunta central: "Como reduzir o tempo de permanência física dos usuários nas unidades de saúde e aumentar a previsibilidade do atendimento por meio de uma solução digital acessível e inclusiva?". Este é o texto-base para a seção "Problema" da proposta. |
 
 ## Estudo rápido dos dois documentos (para o grupo)
 
@@ -23,4 +24,4 @@ Esta pasta contém os documentos originais enviados pelos integrantes para const
 - O arquivo `proposta.md` (na pasta acima) é o documento **vivo** onde o grupo está condensando e decidindo o que usar de cada fonte.
 - Sempre que novos materiais forem enviados, adicione-os aqui com o nome de quem enviou.
 
-**Data da última atualização:** 12/06/2026
+**Data da última atualização:** 12/06/2026 (21:54) — Adicionado o documento completo de Rios ("Projeto-Algorit-1-Rios-2026-06-12.docx") que foi anunciado no WhatsApp como a contextualização fundamentada do problema.

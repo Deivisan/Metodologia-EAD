@@ -102,7 +102,16 @@ A equipe está completa com **8 integrantes**. Cada um com suas responsabilidade
 
 > **Todos os arquivos deste repositório são vivos** e serão atualizados constantemente para refletir o estado atual do projeto.
 
-**Novidade:** O arquivo [`problema-real.md`](problema-real.md) foi criado com a contextualização elaborada pelo Rios (enviada via WhatsApp em 12/06). Ele serve como base para a seção de "Problema" da proposta. O texto completo ainda precisa ser colado lá (placeholder criado para isso).
+**Atualização 12/06 (21:54):** ✅ **Problema real escrito e integrado.**
+
+O arquivo [`problema-real.md`](problema-real.md) agora contém o **texto completo** da contextualização do problema elaborada por **Rios** (enviado via WhatsApp + arquivo `Projeto-Algorit-1-Rios-2026-06-12.docx`).
+
+- Fundamentado em literatura (Aggarwal, Chianca, Clemente, Farias, Giannotti, Ha, Jonsson, Kessel, Melo, Thompson etc.).
+- Usa consistentemente o termo **"fila presencial"** (conforme orientação do autor para não confundir com listas de espera de meses).
+- Traz a pergunta central do projeto: *"Como reduzir o tempo de permanência física dos usuários nas unidades de saúde e aumentar a previsibilidade do atendimento por meio de uma solução digital acessível e inclusiva?"*
+- O grupo pode alterar ou sugerir adequações (conforme o próprio Rios pediu no chat).
+
+Material-fonte original salvo em: `material-fonte/Projeto-Algorit-1-Rios-2026-06-12.docx`
 
 ### 🗓️ Data final
 
@@ -130,7 +139,8 @@ Cada integrante deve:
 | Histórico completo do WhatsApp | [`historico-whatsapp.json`](historico-whatsapp.json) |
 | Documentação geral (requisitos do professor) | [`documentacao-geral-projeto-algoritmos.md`](documentacao-geral-projeto-algoritmos.md) |
 | Imagens do grupo | [`imagens-grupo/`](imagens-grupo/) |
-| Contextualização do Problema (elaborada por Rios) | [`problema-real.md`](problema-real.md) |
+| Contextualização do Problema (Rios — texto completo + referências) | [`problema-real.md`](problema-real.md) |
+| Material-fonte original de Rios (12/06) | `material-fonte/Projeto-Algorit-1-Rios-2026-06-12.docx` |
 
 ### Regras
 

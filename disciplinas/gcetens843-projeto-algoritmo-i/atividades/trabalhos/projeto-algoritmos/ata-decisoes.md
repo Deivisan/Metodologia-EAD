@@ -12,5 +12,6 @@
 | 12/06/2026 | **Código em C cancelado** | Decisão do grupo (votação): **NÃO faremos o código opcional**. Foco total em pesquisa, casos, proposta, fluxograma, protótipo e apresentação |
 | 12/06/2026 | Trabalho em Google Docs | Dois documentos principais abertos para pesquisa e casos (links no Index-Geral, decisoes.md e divisao-de-tarefas.md) |
 | 12/06/2026 | Atualização contínua | Todos os arquivos são **vivos** e serão revisados conforme o projeto avança |
+| 12/06/2026 | Problema real recebido e integrado | Rios enviou o documento completo via WhatsApp (`Projeto-Algorit-1-Rios-2026-06-12.docx`). Texto fundamentado em literatura colado em `problema-real.md`. Material-fonte salvo. Grupo pode alterar/sugerir adequações. |
 
 **Próximas decisões esperadas:** Nome oficial do projeto, escopo do fluxograma e protótipo, formato da apresentação.
