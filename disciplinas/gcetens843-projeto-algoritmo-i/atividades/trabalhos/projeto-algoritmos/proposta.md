@@ -2,8 +2,8 @@
 
 > **Documento VIVO** — Aberto para edição coletiva  
 > **Responsáveis principais:** Ausiane + Rios (pesquisa + proposta)  
-> **Última atualização:** 12/06/2026  
-> **Status:** Em construção — decisões em aberto
+> **Última atualização:** 12/06/2026 (22:00) — Problema real integrado com texto completo de Rios + refinamento da seção de problema na proposta  
+> **Status:** Em construção — **Problema real escrito e integrado** (base de Rios). Decisões em aberto (painel de decisões ainda precisa ser preenchido pelo grupo).
 
 **Nome do arquivo:** `proposta.md`
 
@@ -12,6 +12,18 @@
 ## O que é este projeto? (Explicação expandida para alinhamento do grupo)
 
 ### 1. O Problema Real que Estamos Resolvendo
+
+> **Base formal da problematização (12/06/2026):**  
+> A contextualização completa, com fundamentação em literatura acadêmica e governamental, foi elaborada por **Rios** e está consolidada em:  
+> 📄 [`problema-real.md`](problema-real.md)  
+> (Material-fonte original: `material-fonte/Projeto-Algorit-1-Rios-2026-06-12.docx`)
+
+**Pergunta central do projeto (Rios, fundamentada na literatura):**
+
+> **Como reduzir o tempo de permanência física dos usuários nas unidades de saúde e aumentar a previsibilidade do atendimento por meio de uma solução digital acessível e inclusiva?**
+
+Nome provisório da solução no documento de Rios:  
+**Sistema Inteligente de Gestão de Filas Presenciais e Acessibilidade para Serviços de Saúde**
 
 Hoje, quando uma pessoa chega em um posto de saúde, UPA, pronto-socorro ou clínica, o fluxo costuma ser:
 
@@ -27,6 +39,14 @@ Hoje, quando uma pessoa chega em um posto de saúde, UPA, pronto-socorro ou clí
 O resultado é **sensação de injustiça, estresse e falta de transparência**. Muita gente acha que "estão passando na frente" porque o sistema é opaco.
 
 O **Protocolo de Manchester** (cores Vermelho/Laranja/Amarelo/Verde/Azul) já existe para classificar gravidade, mas ele só é aplicado **depois** da triagem. Entre o momento de chegar e ser triado, existe um buraco enorme de informação.
+
+A literatura (Aggarwal et al., 2022; Thompson et al., 2023; Giannotti; Louvison; Chioro, 2025; Clemente et al., 2022; Farias et al., 2023; Ha et al., 2023; Jonsson et al., 2023) mostra que tempos prolongados de espera presencial estão associados a:
+- Redução da satisfação e percepção negativa da qualidade do serviço;
+- Aglomeração, falhas de comunicação, aumento de estresse e absenteísmo;
+- Barreiras adicionais para idosos, gestantes, pessoas com deficiência (visual, auditiva, motora, TEA) e pacientes crônicos;
+- Necessidade de permanência física excessiva na unidade.
+
+O problema não é novo e já foi alvo de projetos cujos objetivos não foram plenamente alcançados (Melo et al., 2021). Daí a necessidade de uma solução digital que traga **transparência em tempo real + acessibilidade como pilar central**.
 
 ### 2. O que o App Propõe Ser
 
@@ -68,11 +88,14 @@ O app (nome provisório: **FilaClara**) é um **sistema de acompanhamento de fil
 
 A maioria dos sistemas de fila atuais:
 - Só mostram número na tela física.
-- Não têm acessibilidade real.
-- Não permitem que a pessoa saia do local.
-- Não mostram transparência sobre quem está na frente.
+- Não têm acessibilidade real (pessoas com deficiência visual/auditiva/TEA ficam desassistidas).
+- Não permitem que a pessoa saia do local sem perder a vez.
+- Não mostram transparência sobre quem está na frente (gera sensação de injustiça).
 
-Nosso diferencial proposto: **acessibilidade como pilar central** + **transparência radical** + **mobilidade** (poder sair e ser avisado).
+**Nosso diferencial (baseado na problematização de Rios):**  
+**Acessibilidade como pilar central** (modos para TEA, surdos, baixa visão, idosos) + **transparência radical** (posição + tempo estimado + cores de risco sem nomes) + **mobilidade** (poder sair do local e ser notificado quando estiver próximo) + **redução do tempo de permanência física** na unidade.
+
+Isso atende diretamente à pergunta central: reduzir permanência física e aumentar previsibilidade por meio de solução digital acessível e inclusiva.
 
 ---
 
@@ -90,12 +113,16 @@ Depois de decidir, consolidamos em `tema-escolhido.md`, `decisoes.md` e atualiza
 
 ## 1. Contexto Rápido (Problematização)
 
-> **Fonte principal da problematização:**  
-> A contextualização completa e fundamentada com referências da literatura foi elaborada por **Rios** e está no arquivo dedicado:  
+> **Fonte principal da problematização (12/06):**  
+> A contextualização completa e fundamentada com referências da literatura foi elaborada por **Rios** e está consolidada em:  
 > 📄 [`problema-real.md`](problema-real.md)  
-> (Enviada via WhatsApp em 12/06/2026. O grupo pode alterar/sugerir adequações. O texto usa intencionalmente "fila presencial" para diferenciar das listas de espera de meses que aparecem na literatura.)
+> (Material-fonte: `material-fonte/Projeto-Algorit-1-Rios-2026-06-12.docx`)  
+> O texto usa consistentemente o termo **"fila presencial"** (para diferenciar das listas de espera de meses que aparecem na literatura). O grupo pode alterar ou sugerir adequações conforme o autor autorizou.
 
 O fluxo oficial de urgência/emergência tem um "buraco" entre o guichê (ordem de chegada) e a triagem (Protocolo de Manchester). Isso gera sensação de arbitrariedade e injustiça.
+
+**Pergunta de pesquisa central (Rios):**  
+**Como reduzir o tempo de permanência física dos usuários nas unidades de saúde e aumentar a previsibilidade do atendimento por meio de uma solução digital acessível e inclusiva?**
 
 **Cores do Protocolo de Manchester (para referência):**
 
@@ -318,7 +345,7 @@ Leiam a explicação expandida, marquem as opções que fazem mais sentido para 
 
 > 📎 Relatório original da Ausiane: `relatorio_filas_inteligentes.pdf`  
 > 🔗 Google Docs de pesquisa/casos: no [Index-Geral.md](Index-Geral.md)  
-> 📄 Contextualização do Problema (Rios, 12/06): [`problema-real.md`](problema-real.md) — texto completo com fundamentação na literatura (ainda com placeholder para colar o texto enviado no chat)
+> 📄 Contextualização do Problema (Rios, 12/06 — texto completo): [`problema-real.md`](problema-real.md) + `material-fonte/Projeto-Algorit-1-Rios-2026-06-12.docx`
 
 *Documento vivo. Editem e marquem decisões.*
 

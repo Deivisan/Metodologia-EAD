@@ -153,16 +153,31 @@ Cada integrante deve:
 
 ## 6. Próximo Passo
 
-**Estamos na fase de PESQUISA (09 a 13/06).** O foco agora é:
+**Fase de PESQUISA (09–13/06) — ATUALIZADO 12/06:**
+
+✅ **Problema real escrito e integrado** (Rios enviou o texto completo fundamentado em literatura em 12/06. Colado em [`problema-real.md`](problema-real.md) + material-fonte arquivado. Pergunta central e nome provisório da solução registrados na `proposta.md`).
+
+Agora o foco é:
 
 | Quem | O que fazer |
 |:-----|:------------|
-| **Rios + Nubia** | Pesquisar o problema real: dados sobre filas em saúde, artigos, notícias |
-| **Ausiane + Nubia** | Levantar casos existentes: sistemas parecidos, soluções do mercado |
-| **Deivison** | Preparar a proposta com base no que for levantado |
-| **Demais** | Aguardar a próxima fase (14/06) para começar fluxograma e protótipo |
+| **Ausiane + Nubia** | Levantar casos existentes: sistemas parecidos, soluções do mercado (Google Doc ativo) |
+| **Rios + Deivison** | Iniciar / aprofundar a **Proposta e Diferencial** com base no problema recém-integrado |
+| **Demais** | Aguardar 14/06 para começar fluxograma e protótipo |
 
 > ❌ **Código em C:** Decisão do grupo (12/06): **não faremos**. Foco total nos demais entregáveis.
+>
+> **Lembrete do chat:** Depois que o arquivo do problema foi feito, "ele vai fazer o seu arquivo" (próxima pessoa) e depois o grupo revisa coletivamente "o que ele passou nessa proposta e qual foi de fato a fala".
+
+---
+
+**Resumo do que já está sólido para a apresentação (29/06):**
+- Tema escolhido + acessibilidade como pilar
+- Problema real definido com fundamentação literária (Rios)
+- Divisão de tarefas equilibrada
+- Decisão de não fazer código em C
+
+Próxima onda forte: Casos existentes + Proposta (14–18/06).
 
 ---
 
