@@ -157,21 +157,34 @@ Cada integrante deve:
 
 ## 6. Próximo Passo
 
-**Fase de PESQUISA (09–13/06) — ATUALIZADO 12/06:**
+**Fase de PESQUISA (09–13/06) — ATUALIZADO 12/06 (22:20)**
 
-✅ **Problema real escrito e integrado** (Rios enviou o texto completo fundamentado em literatura em 12/06. Colado em [`problema-real.md`](problema-real.md) + material-fonte arquivado. Pergunta central e nome provisório da solução registrados na `proposta.md`).
+✅ **Problema real escrito, integrado e ancorado**  
+Rios enviou o documento completo em 12/06 (`Projeto-Algorit-1-Rios-2026-06-12.docx`).  
+Texto completo + referências da literatura colado em [`problema-real.md`](problema-real.md).  
+Pergunta central, nome provisório da solução e impactos em grupos vulneráveis agora são a base oficial da `proposta.md`.
 
-Agora o foco é:
+**Ação do grupo agora (imediata):**
+- Todo mundo leia [`problema-real.md`](problema-real.md) (é a fonte oficial da problematização).
+- Na `proposta.md`, marquem as opções no Painel de Decisões.
+- Votem nos nomes sugeridos.
+- Sugiram alterações ou adequações no texto do problema (Rios pediu: "fiquem à vontade para alterar ou sugerir adequações").
+
+Agora o foco operacional é:
 
 | Quem | O que fazer |
 |:-----|:------------|
-| **Ausiane + Nubia** | Levantar casos existentes: sistemas parecidos, soluções do mercado (Google Doc ativo) |
-| **Rios + Deivison** | Iniciar / aprofundar a **Proposta e Diferencial** com base no problema recém-integrado |
-| **Demais** | Aguardar 14/06 para começar fluxograma e protótipo |
+| **Ausiane + Nubia** | Casos existentes (sistemas parecidos, mercado) — Google Doc ativo |
+| **Rios + Deivison** | Proposta e Diferencial (usando o problema de Rios como base) |
+| **Demais** | Aguardar 14/06 para fluxograma + protótipo |
 
-> ❌ **Código em C:** Decisão do grupo (12/06): **não faremos**. Foco total nos demais entregáveis.
+> ❌ **Código em C:** Cancelado (decisão 12/06).
 >
-> **Lembrete do chat:** Depois que o arquivo do problema foi feito, "ele vai fazer o seu arquivo" (próxima pessoa) e depois o grupo revisa coletivamente "o que ele passou nessa proposta e qual foi de fato a fala".
+> **Lembrete do chat (transcrito):**  
+> "depois de fazer o seu arquivo [problema-real.md], ele vai fazer o seu arquivo. a instalação dele. Após isso, a gente vai entender o que ele passou nessa proposta e qual foi de fato a fala."
+
+**Status da Problematização para a apresentação (29/06):**  
+Sólido e pronto para revisão coletiva. O grupo agora entra na fase de **revisão + construção da proposta** com base no texto de Rios.
 
 ---
 
