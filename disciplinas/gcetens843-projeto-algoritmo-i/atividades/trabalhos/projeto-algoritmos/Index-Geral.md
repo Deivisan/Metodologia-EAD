@@ -190,7 +190,12 @@ Sólido e pronto para revisão coletiva. O grupo agora entra na fase de **revis�
 
 **Resumo do que já está sólido para a apresentação (29/06):**
 - Tema escolhido + acessibilidade como pilar obrigatório
-- **Problema real definido** (Rios, 12/06): texto completo com fundamentação em literatura (Aggarwal, Chianca, Clemente, Farias, Giannotti, Ha, Jonsson, Kessel, Melo, Thompson etc.), uso consistente de "fila presencial", pergunta central formulada e nome provisório da solução ("Sistema Inteligente de Gestão de Filas Presenciais e Acessibilidade para Serviços de Saúde") — tudo em [`problema-real.md`](problema-real.md) + material-fonte arquivado + ancorado na `proposta.md`
+- **Problema real definido** (Rios, 12/06 — completo): 
+  - Texto com fundamentação em literatura (Aggarwal, Chianca, Clemente, Farias, Giannotti, Ha, Jonsson, Kessel, Melo, Thompson etc.)
+  - Uso consistente de **"fila presencial"** (para diferenciar das listas de espera de meses)
+  - **Pergunta central**: *"Como reduzir o tempo de permanência física dos usuários nas unidades de saúde e aumentar a previsibilidade do atendimento por meio de uma solução digital acessível e inclusiva?"*
+  - Nome provisório da solução: **Sistema Inteligente de Gestão de Filas Presenciais e Acessibilidade para Serviços de Saúde**
+  - Tudo em [`problema-real.md`](problema-real.md) + material-fonte arquivado + ancorado na `proposta.md` (com resumo executivo e diferencial derivado diretamente do texto)
 - Divisão de tarefas equilibrada (8 integrantes)
 - Decisão de não fazer código em C (12/06)
 
