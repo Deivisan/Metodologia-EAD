@@ -23,7 +23,8 @@
 
 > 📄 [Documento completo do tema](tema-escolhido.md) · [Divisão de tarefas](divisao-de-tarefas.md) · [Decisões do projeto](decisoes.md)
 >
-> **Trabalho atual em tempo real:** ver os dois Google Docs listados na seção "Em andamento" abaixo.
+> **Trabalho atual em tempo real:** ver os dois Google Docs listados na seção "Em andamento" abaixo.  
+**Problema real:** ✅ **Integrado e ancorado** (Rios, 12/06) — leia [`problema-real.md`](problema-real.md) + material-fonte original. A `proposta.md` agora usa esse texto como base.
 
 ---
 
@@ -72,12 +73,18 @@ A equipe está completa com **8 integrantes**. Cada um com suas responsabilidade
 | Histórico do WhatsApp | [`historico-whatsapp.json`](historico-whatsapp.json) | Deivison |
 | Contextualização do Problema (Rios) | [`problema-real.md`](problema-real.md) | Rios |
 
+### ✅ Concluído nesta fase (09–13/jun)
+
+| O quê | Responsáveis | Status | Arquivo |
+|:------|:-------------|:------:|:--------|
+| **Problema real definido** (com fundamentação em literatura) | Rios | ✅ **Feito 12/06** | [`problema-real.md`](problema-real.md) + `material-fonte/Projeto-Algorit-1-Rios-2026-06-12.docx` |
+
 ### 🔄 Em andamento (09–13/jun)
 
 | O quê | Responsáveis | Prazo | Arquivo |
 |:------|:-------------|:-----:|:--------|
-| Pesquisar o problema real | Rios + Nubia | 13/06 | `referencias-web.md` (Google Doc) + [`problema-real.md`](problema-real.md) |
 | Casos existentes (inclusão e diagnóstico) | Ausiane + Nubia | 13/06 | `casos-existentes.md` (Google Doc) |
+| Início da Proposta e Diferencial (usando o problema de Rios) | Deivison + Rios | 18/06 | `proposta.md` |
 
 **Fontes de trabalho ativas (Google Docs – atualizadas em tempo real):**
 
@@ -102,16 +109,13 @@ A equipe está completa com **8 integrantes**. Cada um com suas responsabilidade
 
 > **Todos os arquivos deste repositório são vivos** e serão atualizados constantemente para refletir o estado atual do projeto.
 
-**Atualização 12/06 (21:54):** ✅ **Problema real escrito e integrado.**
+**Atualização 12/06 (22:10):** ✅ **Problema real escrito, integrado, resumido e ancorado na proposta.**
 
-O arquivo [`problema-real.md`](problema-real.md) agora contém o **texto completo** da contextualização do problema elaborada por **Rios** (enviado via WhatsApp + arquivo `Projeto-Algorit-1-Rios-2026-06-12.docx`).
-
-- Fundamentado em literatura (Aggarwal, Chianca, Clemente, Farias, Giannotti, Ha, Jonsson, Kessel, Melo, Thompson etc.).
-- Usa consistentemente o termo **"fila presencial"** (conforme orientação do autor para não confundir com listas de espera de meses).
-- Traz a pergunta central do projeto: *"Como reduzir o tempo de permanência física dos usuários nas unidades de saúde e aumentar a previsibilidade do atendimento por meio de uma solução digital acessível e inclusiva?"*
-- O grupo pode alterar ou sugerir adequações (conforme o próprio Rios pediu no chat).
-
-Material-fonte original salvo em: `material-fonte/Projeto-Algorit-1-Rios-2026-06-12.docx`
+- Texto completo de Rios em [`problema-real.md`](problema-real.md) (135 linhas, com todas as referências).
+- `proposta.md` reescrita para abrir com resumo executivo + pergunta central + nome da solução vindos diretamente do documento de Rios.
+- Diferencial do app agora explicitamente derivado da problematização.
+- Material-fonte arquivado.
+- Grupo convidado a alterar/sugerir (conforme Rios: "fiquem à vontade").
 
 ### 🗓️ Data final
 

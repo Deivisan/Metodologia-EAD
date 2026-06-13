@@ -13,40 +13,43 @@
 
 ### 1. O Problema Real que Estamos Resolvendo
 
-> **Base formal da problematização (12/06/2026):**  
-> A contextualização completa, com fundamentação em literatura acadêmica e governamental, foi elaborada por **Rios** e está consolidada em:  
-> 📄 [`problema-real.md`](problema-real.md)  
-> (Material-fonte original: `material-fonte/Projeto-Algorit-1-Rios-2026-06-12.docx`)
+> **Base formal e completa (12/06/2026):**  
+> Contextualização fundamentada em literatura elaborada por **Rios**.  
+> 📄 Leia na íntegra: [`problema-real.md`](problema-real.md)  
+> (Fonte original: `material-fonte/Projeto-Algorit-1-Rios-2026-06-12.docx`)
 
-**Pergunta central do projeto (Rios, fundamentada na literatura):**
+**Pergunta central do projeto (Rios):**
 
 > **Como reduzir o tempo de permanência física dos usuários nas unidades de saúde e aumentar a previsibilidade do atendimento por meio de uma solução digital acessível e inclusiva?**
 
-Nome provisório da solução no documento de Rios:  
+**Nome provisório da solução (do documento de Rios):**  
 **Sistema Inteligente de Gestão de Filas Presenciais e Acessibilidade para Serviços de Saúde**
 
-Hoje, quando uma pessoa chega em um posto de saúde, UPA, pronto-socorro ou clínica, o fluxo costuma ser:
+**Resumo executivo do problema (baseado no texto de Rios):**
 
-1. Chega no guichê → pega uma senha (ordem de chegada física).
-2. Senta na sala de espera.
-3. Fica ouvindo chamadas por alto-falante ou olhando um painel com códigos estranhos (ex: "AB-22", "H-27", "Sala 3").
-4. Não sabe quantas pessoas estão na frente, nem quanto tempo vai demorar.
+O fluxo atual em serviços de saúde de porta aberta (UBS, UPA, pronto-socorro, clínicas) é:
+
+1. Pessoa chega → guichê → senha física (ordem de chegada).
+2. Aguarda na sala de espera.
+3. Depende de chamadas por alto-falante ou painéis com códigos opacos ("AB-22", "H-27").
+4. Não sabe posição exata, nem tempo estimado.
 5. Pessoas com deficiência auditiva perdem a chamada.
-6. Pessoas com baixa visão não conseguem ler o painel.
-7. Pessoas com TEA (Transtorno do Espectro Autista) sofrem com a imprevisibilidade, barulho e falta de informação clara.
-8. Idosos e acompanhantes de crianças ficam ansiosos porque não sabem se podem sair para ir ao banheiro, tomar água ou dar uma volta.
+6. Baixa visão não lê o painel.
+7. TEA sofre com barulho, imprevisibilidade e falta de informação clara.
+8. Idosos, gestantes e acompanhantes ficam ansiosos sem poder sair.
 
-O resultado é **sensação de injustiça, estresse e falta de transparência**. Muita gente acha que "estão passando na frente" porque o sistema é opaco.
-
-O **Protocolo de Manchester** (cores Vermelho/Laranja/Amarelo/Verde/Azul) já existe para classificar gravidade, mas ele só é aplicado **depois** da triagem. Entre o momento de chegar e ser triado, existe um buraco enorme de informação.
-
-A literatura (Aggarwal et al., 2022; Thompson et al., 2023; Giannotti; Louvison; Chioro, 2025; Clemente et al., 2022; Farias et al., 2023; Ha et al., 2023; Jonsson et al., 2023) mostra que tempos prolongados de espera presencial estão associados a:
-- Redução da satisfação e percepção negativa da qualidade do serviço;
-- Aglomeração, falhas de comunicação, aumento de estresse e absenteísmo;
-- Barreiras adicionais para idosos, gestantes, pessoas com deficiência (visual, auditiva, motora, TEA) e pacientes crônicos;
+**Consequências (fundamentadas na literatura citada por Rios):**
+- Sensação de injustiça e falta de transparência ("estão passando na frente").
+- Redução de satisfação e percepção negativa da qualidade (Aggarwal et al., 2022).
+- Aglomeração, estresse, absenteísmo, falhas de comunicação (Thompson et al., 2023).
+- Barreiras graves para PCD, idosos e crônicos (Clemente et al., 2022; Farias et al., 2023; Ha et al., 2023; Jonsson et al., 2023).
 - Necessidade de permanência física excessiva na unidade.
+- O Protocolo de Manchester (cores de risco) só entra **depois** da triagem — entre guichê e triagem existe um "buraco" de informação.
 
-O problema não é novo e já foi alvo de projetos cujos objetivos não foram plenamente alcançados (Melo et al., 2021). Daí a necessidade de uma solução digital que traga **transparência em tempo real + acessibilidade como pilar central**.
+O problema não é novo e projetos anteriores não resolveram de forma satisfatória (Melo et al., 2021; Giannotti; Louvison; Chioro, 2025).
+
+**Conclusão da problematização (Rios):**  
+É necessário desenvolver soluções tecnológicas que promovam **maior eficiência na gestão das filas presenciais**, reduzam o tempo de permanência física e garantam **acessibilidade para todos**.
 
 ### 2. O que o App Propõe Ser
 
@@ -92,10 +95,14 @@ A maioria dos sistemas de fila atuais:
 - Não permitem que a pessoa saia do local sem perder a vez.
 - Não mostram transparência sobre quem está na frente (gera sensação de injustiça).
 
-**Nosso diferencial (baseado na problematização de Rios):**  
-**Acessibilidade como pilar central** (modos para TEA, surdos, baixa visão, idosos) + **transparência radical** (posição + tempo estimado + cores de risco sem nomes) + **mobilidade** (poder sair do local e ser notificado quando estiver próximo) + **redução do tempo de permanência física** na unidade.
+**Nosso diferencial (diretamente derivado da problematização de Rios):**
 
-Isso atende diretamente à pergunta central: reduzir permanência física e aumentar previsibilidade por meio de solução digital acessível e inclusiva.
+- **Acessibilidade como pilar central** (modos para TEA, surdos, baixa visão, idosos, gestantes, com impacto no fluxo e na interface).
+- **Transparência radical** (posição real + tempo estimado atualizado + cores de risco das pessoas à frente, sem nomes).
+- **Mobilidade** (poder sair do local e receber notificação quando estiver próximo).
+- **Redução do tempo de permanência física** na unidade (previsibilidade permite que o usuário planeje melhor a espera).
+
+Isso responde diretamente à pergunta central: reduzir permanência física e aumentar previsibilidade por meio de solução digital **acessível e inclusiva**.
 
 ---
 
@@ -338,8 +345,15 @@ Possíveis telas (não todas precisam ser feitas agora):
 
 ---
 
-**Próximo passo:**  
-Leiam a explicação expandida, marquem as opções que fazem mais sentido para o grupo, discutam os fluxos e telas, respondam as perguntas acima. Depois consolidamos.
+**Próximo passo (atualizado 12/06 após integração do problema de Rios):**
+
+1. Todo mundo leia o texto completo em [`problema-real.md`](problema-real.md) (é a base oficial da problematização).
+2. Marquem as opções no Painel de Decisões abaixo (especialmente integração Gov.br, cor provisória, transparência, saída temporária).
+3. Votem nos nomes sugeridos.
+4. Respondam as perguntas de debate (ou tragam sugestões de alteração no texto do problema, conforme Rios autorizou: "fiquem à vontade para alterar ou sugerir adequações").
+5. Depois consolidamos na versão final da proposta para a apresentação de 29/06.
+
+Lembrete do chat do grupo: depois que o arquivo do problema foi feito, a próxima pessoa faz o dela, e depois o grupo revisa coletivamente "o que ele passou nessa proposta e qual foi de fato a fala".
 
 ---
 
