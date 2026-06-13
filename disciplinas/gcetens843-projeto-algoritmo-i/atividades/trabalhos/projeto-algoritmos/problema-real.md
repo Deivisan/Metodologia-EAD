@@ -76,11 +76,19 @@ THOMPSON, Yee Lam Elim *et al*. Evaluation of wait time saving effectiveness of 
 
 ---
 
-**Status:** ✅ Texto completo colado (12/06/2026, após recebimento do arquivo via `/home/deivi/Downloads/`).  
-O grupo pode alterar ou sugerir adequações conforme o próprio Rios autorizou no chat.
+**Status (12/06/2026, 22:20):** ✅ **Texto completo colado e integrado como base oficial do projeto.**
 
-**Instrução do grupo (transcrita do chat):**  
+- O documento `Projeto-Algorit-1-Rios-2026-06-12.docx` (enviado via WhatsApp) foi salvo em `material-fonte/`.
+- O texto integral (com todas as referências da literatura) foi colado aqui em `problema-real.md`.
+- A `proposta.md` agora usa este texto como **fonte principal da problematização** (com resumo executivo, pergunta central e diferencial derivados diretamente dele).
+- Index-Geral, decisoes.md e ata-decisoes.md foram atualizados para refletir que o "Problema real definido" está escrito e ancorado.
+
+**O grupo pode (e deve) alterar ou sugerir adequações** — conforme o próprio Rios pediu no WhatsApp: "Fiquem à vontade para alterar ou sugerir adequações."
+
+**Instrução do grupo (transcrita do chat 12/06):**  
 "depois de fazer o seu arquivo [este `problema-real.md`], ele vai fazer o seu arquivo. a instalação dele. Após isso, a gente vai entender o que ele passou nessa proposta e qual foi de fato a fala."
+
+**Ação atual do grupo:** Leia este arquivo na íntegra → vá para a `proposta.md` → marque decisões no Painel → sugira alterações aqui se necessário.
 
 ---
 
@@ -110,14 +118,16 @@ Mensagem do mesmo autor (18:15):
 
 ---
 
-## 4. Próximos Passos para Este Documento
+## 4. Status e Próximos Passos para Este Documento (vivo)
 
-- [x] Criar estrutura do arquivo `problema-real.md` com metadados e citações das mensagens do chat (feito 12/06).
-- [x] Colar o **texto completo** da contextualização fundamentada enviado por Rios em 12/06/2026 (arquivo DOCX).
-- [ ] Grupo revisa, sugere alterações ou adequações (conforme mensagem do autor: "Fiquem à vontade para alterar ou sugerir adequações").
-- [ ] Integrar o texto final com a seção de Problema na `proposta.md`.
-- [ ] Usar como base para o "Problema real definido" exigido pelo professor na apresentação de 29/06.
-- [ ] Após colagem, o grupo revisa "o que ele passou nessa proposta e qual foi de fato a fala" (conforme orientação do chat).
+- [x] Criar estrutura + colar texto completo de Rios (12/06).
+- [x] Integrar como base oficial na `proposta.md` (resumo executivo + pergunta central + diferencial).
+- [x] Atualizar Index-Geral, decisoes.md, ata-decisoes.md e material-fonte/README.md.
+- [ ] **Grupo revisa e sugere alterações/adequações** (Rios autorizou explicitamente: "fiquem à vontade para alterar ou sugerir adequações").
+- [ ] Após revisões do grupo, consolidar versão final para a apresentação de 29/06.
+- [ ] Manter este arquivo como a fonte única da problematização (qualquer mudança aqui deve refletir na proposta).
+
+**Lembrete do chat:** Depois que este arquivo foi feito, a próxima pessoa faz o dela, e o grupo revisa coletivamente "o que ele passou nessa proposta e qual foi de fato a fala".
 
 ---
 
@@ -132,4 +142,5 @@ Mensagem do mesmo autor (18:15):
 
 ---
 
-*Documento vivo. Atualizado automaticamente conforme novas contribuições do grupo chegam via WhatsApp (última sincronização: 12/06/2026, mensagens de Rios sobre problematização + BYOD).*
+*Documento vivo (base oficial da problematização).*  
+Atualizado automaticamente conforme novas contribuições do grupo (última sincronização: 12/06/2026 22:20 — texto completo de Rios integrado como fonte principal da proposta. Grupo convidado a sugerir alterações).
