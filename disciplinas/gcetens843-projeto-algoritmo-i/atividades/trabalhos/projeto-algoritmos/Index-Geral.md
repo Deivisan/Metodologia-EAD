@@ -176,12 +176,12 @@ Agora o foco é:
 ---
 
 **Resumo do que já está sólido para a apresentação (29/06):**
-- Tema escolhido + acessibilidade como pilar
-- Problema real definido com fundamentação literária (Rios)
-- Divisão de tarefas equilibrada
-- Decisão de não fazer código em C
+- Tema escolhido + acessibilidade como pilar obrigatório
+- **Problema real definido** (Rios, 12/06): texto completo com fundamentação em literatura (Aggarwal, Chianca, Clemente, Farias, Giannotti, Ha, Jonsson, Kessel, Melo, Thompson etc.), uso consistente de "fila presencial", pergunta central formulada e nome provisório da solução ("Sistema Inteligente de Gestão de Filas Presenciais e Acessibilidade para Serviços de Saúde") — tudo em [`problema-real.md`](problema-real.md) + material-fonte arquivado + ancorado na `proposta.md`
+- Divisão de tarefas equilibrada (8 integrantes)
+- Decisão de não fazer código em C (12/06)
 
-Próxima onda forte: Casos existentes + Proposta (14–18/06).
+Próxima onda forte: Casos existentes (Ausiane + Nubia) + Proposta e Diferencial (Deivison + Rios) — 14–18/06.
 
 ---
 
