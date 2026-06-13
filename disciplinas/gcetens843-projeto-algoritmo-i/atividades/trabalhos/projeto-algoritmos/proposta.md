@@ -2,8 +2,8 @@
 
 > **Documento VIVO** — Aberto para edição coletiva  
 > **Responsáveis principais:** Ausiane + Rios (pesquisa + proposta)  
-> **Última atualização:** 12/06/2026 (22:00) — Problema real integrado com texto completo de Rios + refinamento da seção de problema na proposta  
-> **Status:** Em construção — **Problema real escrito e integrado** (base de Rios). Decisões em aberto (painel de decisões ainda precisa ser preenchido pelo grupo).
+> **Última atualização:** 12/06/2026 (22:20) — Problema real de Rios totalmente integrado + fluxo de ação imediata para o grupo colocado logo após a explicação expandida + Painel de Decisões ancorado + checklist completo no final  
+> **Status:** Em construção — **Problema real escrito e integrado** (base oficial de Rios). Pronto para o grupo revisar, marcar decisões e sugerir alterações.
 
 **Nome do arquivo:** `proposta.md`
 
@@ -345,25 +345,24 @@ Possíveis telas (não todas precisam ser feitas agora):
 
 ---
 
-**Próximo passo (atualizado 12/06 após integração do problema de Rios):**
+> **Base oficial do problema (integrada 12/06):**  
+> 📄 Leia primeiro o texto completo com fundamentação em literatura: [`problema-real.md`](problema-real.md)  
+> (Material-fonte: `material-fonte/Projeto-Algorit-1-Rios-2026-06-12.docx`)
 
-1. Todo mundo leia o texto completo em [`problema-real.md`](problema-real.md) (é a base oficial da problematização).
-2. Marquem as opções no Painel de Decisões abaixo (especialmente integração Gov.br, cor provisória, transparência, saída temporária).
-3. Votem nos nomes sugeridos.
-4. Respondam as perguntas de debate (ou tragam sugestões de alteração no texto do problema, conforme Rios autorizou: "fiquem à vontade para alterar ou sugerir adequações").
-5. Depois consolidamos na versão final da proposta para a apresentação de 29/06.
-
-Lembrete do chat do grupo: depois que o arquivo do problema foi feito, a próxima pessoa faz o dela, e depois o grupo revisa coletivamente "o que ele passou nessa proposta e qual foi de fato a fala".
-
----
-
-> 📎 Relatório original da Ausiane: `relatorio_filas_inteligentes.pdf`  
-> 🔗 Google Docs de pesquisa/casos: no [Index-Geral.md](Index-Geral.md)  
-> 📄 Contextualização do Problema (Rios, 12/06 — texto completo): [`problema-real.md`](problema-real.md) + `material-fonte/Projeto-Algorit-1-Rios-2026-06-12.docx`
-
-*Documento vivo. Editem e marquem decisões.*
+**Ação imediata para o grupo (12/06):**
+1. Leiam o texto completo do problema em [`problema-real.md`](problema-real.md) (é a base oficial, com todas as referências da literatura que Rios usou).
+2. Vão direto para o **Painel de Decisões** abaixo e marquem as opções (integração Gov.br, cor provisória, transparência, saída temporária etc.).
+3. Votem nos nomes sugeridos (seção 3).
+4. Tragam sugestões de alteração no texto do problema (Rios autorizou: "fiquem à vontade para alterar ou sugerir adequações").
+5. O checklist completo e o lembrete do chat ("depois de fazer o seu arquivo...") estão no final deste documento.
 
 ## 2. Painel de Decisões — Caminho Linear
+
+> **Base para todas as decisões abaixo:**  
+> O problema real foi definido por Rios em 12/06/2026 com fundamentação em literatura.  
+> 📄 Leia primeiro: [`problema-real.md`](problema-real.md) (e o material-fonte original).  
+> Todas as escolhas (integração, cor provisória, transparência, acessibilidade, etc.) devem responder à pergunta central:  
+> *"Como reduzir o tempo de permanência física dos usuários nas unidades de saúde e aumentar a previsibilidade do atendimento por meio de uma solução digital acessível e inclusiva?"*
 
 Cada item abaixo tem:
 - Breve explicação
@@ -381,7 +380,7 @@ A proposta menciona possibilidade de puxar dados automaticamente (alergias, hist
 - [ ] Vamos mencionar como **visão futura** (sem implementar agora)
 - [ ] Vamos **remover** qualquer menção forte a integração por enquanto (deixar em aberto)
 
-**Status atual:** Ainda indefinido. Questões do PDF original permanecem em discussão.
+**Status atual (12/06):** Problema real definido e fundamentado em literatura (ver [`problema-real.md`](problema-real.md) + material-fonte). Todas as decisões abaixo devem responder à pergunta central de Rios.
 
 ### 2.2 Cadastro alternativo sem conta Gov.br
 
@@ -499,12 +498,20 @@ Tela final com medicamentos + próximos passos.
 
 ---
 
-**Próximo passo:**  
-Marquem os checkboxes, votem nos nomes, respondam as perguntas (no grupo ou editando aqui). Depois consolidamos o que for aprovado.
+**Próximo passo (consolidado 12/06 após integração do problema de Rios):**
+
+- Leiam o texto completo em [`problema-real.md`](problema-real.md) (é a base oficial da problematização, com todas as referências da literatura).
+- Marquem as opções no Painel de Decisões acima (integração Gov.br, cor provisória, transparência, saída temporária, pós-atendimento).
+- Votem nos nomes (seção 3).
+- Tragam sugestões de alteração ou adequações no texto do problema (Rios pediu explicitamente: "fiquem à vontade para alterar ou sugerir adequações").
+- Depois consolidamos tudo em uma versão limpa da proposta para a apresentação de 29/06.
+
+Lembrete do chat: depois que o arquivo do problema foi feito, a próxima pessoa faz o dela, e o grupo revisa coletivamente "o que ele passou nessa proposta e qual foi de fato a fala".
 
 ---
 
 > 📎 Relatório original da Ausiane: `relatorio_filas_inteligentes.pdf`  
+> 📄 Problema real completo (Rios, 12/06): [`problema-real.md`](problema-real.md) + `material-fonte/Projeto-Algorit-1-Rios-2026-06-12.docx`  
 > 🔗 Google Docs de pesquisa/casos: no [Index-Geral.md](Index-Geral.md)
 
-*Documento vivo. Editem e marquem decisões.*
+*Documento vivo. Base do problema agora é oficial e ancorada. Editem e marquem decisões.*
