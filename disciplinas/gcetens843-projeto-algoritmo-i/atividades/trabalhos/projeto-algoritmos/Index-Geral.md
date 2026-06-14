@@ -36,8 +36,8 @@ A equipe está completa com **8 integrantes**. Cada um com suas responsabilidade
 - **🏥 Rios** — Pesquisa + Proposta (experiência em saúde)
 - **♿ Ausiane** — Casos Existentes + Protótipo (acessibilidade e design)
 - **📚 Nubia** — Pesquisa + Casos Existentes (inclusão e diagnósticos tardios)
-- **📊 Artur** — Fluxograma + Código C (perfil técnico)
-- **🆕 Marcos Vinicius** — Fluxograma + Código C (se voluntariou)
+- **📊 Artur** — Fluxograma (perfil técnico). Antes se voluntariou também para Código C, mas o grupo decidiu cancelar essa entrega em 12/06/2026.
+- **🆕 Marcos Vinicius** — Fluxograma (entrou em 09/06 e se voluntariou para Código C + Fluxograma; após decisão de 12/06/2026 ficou apenas com Fluxograma).
 - **🎤 Uelinton** — Protótipo + Slides (engajado e disponível)
 - **👤 Wallace** — Slides (apoio)
 
@@ -45,7 +45,7 @@ A equipe está completa com **8 integrantes**. Cada um com suas responsabilidade
 
 ---
 
-## 3. O Que o Professor Pediu
+## 3. O Que o Professor Pediu (atualizado 12/06/2026)
 
 | Item | Obrigatório? | Prazo |
 |:-----|:------------:|:-----:|
@@ -55,8 +55,11 @@ A equipe está completa com **8 integrantes**. Cada um com suas responsabilidade
 | Fluxograma do sistema | ✅ Sim | 29/06 |
 | Protótipo de telas (mockups) | ✅ Sim | 29/06 |
 | Apresentação AO VIVO | ✅ Sim | **29/06 às 20h** |
-| Código em C | ❌ Opcional | A decidir |
+| **Código em C** | ❌ **Cancelado** | Decisão oficial do grupo em 12/06/2026 |
 
+> **⚠️ DECISÃO DO GRUPO (12/06/2026):**  
+> O grupo votou e decidiu **NÃO realizar o Código em C**. Artur e Marcos Vinicius foram liberados dessa tarefa. O foco é 100% nos entregáveis obrigatórios.
+>
 > 📄 [Documentação geral com detalhes](documentacao-geral-projeto-algoritmos.md)
 
 ---
@@ -103,7 +106,7 @@ A equipe está completa com **8 integrantes**. Cada um com suas responsabilidade
 | Proposta e diferencial | Deivison + Rios | 18/06 | — |
 | Fluxograma do sistema | Artur + Marcos Vinicius | 18/06 | [`fluxograma.md`](fluxograma.md) |
 | Protótipo de telas (Figma) | Ausiane + Uelinton | 25/06 | [`prototipo-telas.md`](prototipo-telas.md) |
-| **Código em C** | — | — | ❌ **Cancelado** (decisão do grupo em 12/06) |
+| **Código em C** | — | — | ❌ **Cancelado** (decisão oficial do grupo em 12/06/2026 — foco nos obrigatórios) |
 | Slides da apresentação | Uelinton + Wallace | 28/06 | — |
 | Roteiro de apresentação | Uelinton + Wallace | 28/06 | [`roteiro-apresentacao.md`](roteiro-apresentacao.md) |
 
@@ -178,7 +181,7 @@ Agora o foco operacional é:
 | **Rios + Deivison** | Proposta e Diferencial (usando o problema de Rios como base) |
 | **Demais** | Aguardar 14/06 para fluxograma + protótipo |
 
-> ❌ **Código em C:** Cancelado (decisão 12/06).
+> ❌ **Código em C:** **Cancelado oficialmente** (decisão do grupo em 12/06/2026). Não faremos. Foco total nos entregáveis obrigatórios.
 >
 > **Lembrete do chat (transcrito):**  
 > "depois de fazer o seu arquivo [problema-real.md], ele vai fazer o seu arquivo. a instalação dele. Após isso, a gente vai entender o que ele passou nessa proposta e qual foi de fato a fala."

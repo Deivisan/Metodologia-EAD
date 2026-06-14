@@ -19,7 +19,7 @@
 | **Fluxograma do sistema** | ✅ Sim | 29/06 |
 | **Protótipo de telas (mockups)** | ✅ Sim | 29/06 |
 | **Apresentação AO VIVO (10 pts)** | ✅ Sim | **29/06 às 20h** |
-| **Código em C** | ❌ Opcional | 29/06 |
+| **Código em C** | ❌ **Cancelado** | Decisão oficial do grupo em 12/06/2026 (não será entregue) |
 
 **Setores sugeridos pelo professor:** Bancos digitais, Indústria automotiva, Universidades, E-commerce, Hospitais/Saúde.
 
@@ -82,7 +82,7 @@ Marcos Vinicius    ?  ?  ?  ?  ?  ?  ?  ?  │ 🆕 novo
 3. Proposta e Diferencial da Solução
 4. Fluxograma
 5. Protótipo de Telas
-6. Código em C (opcional)
+6. Código em C (cancelado em 12/06/2026 — não faremos)
 7. Slides e Apresentação
 8. Organização e Documentação
 
@@ -96,7 +96,7 @@ Marcos Vinicius    ?  ?  ?  ?  ?  ?  ?  ?  │ 🆕 novo
 |:-------|:-------------------|:----:|:-----:|
 | **3. Proposta e Diferencial** | Só Nubia | **1** | 🔴 Crítico — proposta é o coração do projeto |
 | **4. Fluxograma** | Só Artur | **1** | 🟠 Médio |
-| **6. Código em C** | Só Artur | **1** | 🟡 Opcional |
+| **6. Código em C** | — | — | ❌ Cancelado (decisão oficial 12/06/2026) |
 | **8. Organização e Documentação** | Só Nubia | **1** | 🟠 Médio |
 
 ### Sobrecarga Individual
@@ -104,7 +104,7 @@ Marcos Vinicius    ?  ?  ?  ?  ?  ?  ?  ?  │ 🆕 novo
 | Pessoa | Tarefas | Situação |
 |:-------|:-------:|:---------|
 | **Nubia** | Pesquisa (1) + Casos (2) + Proposta (3) + Documentação (8) | 🔴 **4 tarefas!** |
-| **Artur** | Fluxograma (4) + Protótipo (5) + Código C (6) | 🟠 3 tarefas |
+| **Artur** | Fluxograma (4) | 🟢 1 tarefa (liberado do Código C em 12/06) |
 | **Ausiane** | Pesquisa (1) + Casos (2) + Protótipo (5) | 🟡 3 tarefas |
 
 ---
@@ -168,7 +168,7 @@ Marcos Vinicius    ?  ?  ?  ?  ?  ?  ?  ?  │ 🆕 novo
 | **3. Proposta** | Deivison + Rios | 🟢 Dupla fixa |
 | **4. Fluxograma** | Artur + Marcos Vinicius | 🟢 Dupla fixa |
 | **5. Protótipo** | Ausiane + Uelinton | 🟢 Dupla fixa |
-| **6. Código C** | Artur + Marcos Vinicius | 🟡 A confirmar |
+| **6. Código C** | — | ❌ **Cancelado** (decisão do grupo 12/06/2026) |
 | **7. Slides** | Uelinton + Wallace | 🟢 Dupla fixa |
 | **8. Documentação** | Deivison | 🔵 Individual |
 
@@ -193,7 +193,7 @@ Marcos Vinicius    ?  ?  ?  ?  ?  ?  ?  ?  │ 🆕 novo
 |:--------|:-----|:------------|
 | **09–13/06** | 🔍 Pesquisa + Casos | Problema definido, casos existentes levantados |
 | **14–18/06** | ✍️ Proposta + Fluxograma | Diferencial claro, fluxo do sistema desenhado |
-| **19–25/06** | 🎨 Protótipo + Código C | Telas mockadas, código iniciado |
+| **19–25/06** | 🎨 Protótipo | Telas mockadas (Figma) |
 | **26–28/06** | 📊 Slides + Ensaios | Apresentação pronta, ensaio geral |
 | **29/06** | 🎤 **APRESENTAÇÃO** | **AO VIVO às 20h** |
 
@@ -237,10 +237,10 @@ Marcos Vinicius    ?  ?  ?  ?  ?  ?  ?  ?  │ 🆕 novo
 | **Rios** | Sugeriu fichas virtuais com agendamento por horário, experiência em saúde e educação, apoiou acessibilidade |
 | **Ausiane** | TEA + def. auditiva unilateral, trabalhou no NAI, propôs incluir acessibilidade, tem ideias visuais (Figma) |
 | **Nubia** | Foco em educação, acessibilidade e diagnósticos tardios |
-| **Artur** | Perfil técnico, mencionou Figma para protótipos, se voluntariou para Fluxograma, Protótipo e Código C |
+| **Artur** | Perfil técnico, mencionou Figma para protótipos, se voluntariou para Fluxograma e Protótipo (antes da decisão de cancelar Código C em 12/06) |
 | **Uelinton** | Motivado, "Contem comigo!", disponível para contribuir |
 | **Wallace** | Presente no grupo mas sem interação registrada — alocado em Slides como apoio |
-| **Marcos Vinicius** | Entrou em 09/06, se voluntariou para o código em C, alocado em Fluxograma + Código C |
+| **Marcos Vinicius** | Entrou em 09/06, se voluntariou para Código C + Fluxograma (antes da decisão de cancelar Código C em 12/06; agora alocado apenas em Fluxograma) |
 
 ---
 

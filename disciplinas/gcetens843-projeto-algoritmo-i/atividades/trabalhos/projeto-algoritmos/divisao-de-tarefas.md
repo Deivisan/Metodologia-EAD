@@ -32,7 +32,7 @@ Esta divisão de tarefas não foi sorteada. Ela foi construída a partir de:
 | 3 | ✍️ **Proposta e Diferencial da Solução** | **Deivison + Rios** | 🟢 Dupla fixa |
 | 4 | 🔀 **Fluxograma do Sistema** | **Artur + Marcos Vinicius** | 🟢 Dupla fixa |
 | 5 | 🎨 **Protótipo de Telas (Mockups)** | **Ausiane + Uelinton** | 🟢 Dupla fixa |
-| 6 | 💻 **Código em C** | **—** | ❌ **Cancelado** (decisão do grupo em 12/06) | Foco será em outros entregáveis obrigatórios
+| 6 | 💻 **Código em C** | **—** | ❌ **Cancelado** (decisão oficial do grupo em 12/06/2026) | Foco 100% nos entregáveis obrigatórios. Artur e Marcos Vinicius liberados.
 | 7 | 📊 **Slides e Apresentação** | **Uelinton + Wallace** | 🟢 Dupla fixa |
 | 8 | 📁 **Organização e Documentação** | **Deivison** | 🔵 Individual |
 
@@ -103,7 +103,7 @@ Ela também observou a falta de acessibilidade em sistemas existentes:
 
 **Artur** demonstrou perfil técnico desde o início, se voluntariando para esta tarefa na enquete.
 
-**Marcos Vinicius** entrou no grupo em 09/06 e se voluntariou para fazer o **código em C** e o **Fluxograma**.
+**Marcos Vinicius** entrou no grupo em 09/06 e se voluntariou para fazer o **código em C** e o **Fluxograma** (antes da decisão oficial do grupo em 12/06/2026 de cancelar o Código em C; após isso ele ficou alocado apenas no Fluxograma junto com Artur).
 
 **Justificativa da dupla:** Artur já havia escolhido Fluxograma na enquete; Marcos chegou depois e se voluntariou para ajudar. Juntos, podem desenhar o fluxo lógico do sistema — desde a chegada do paciente até a chamada para atendimento.
 
@@ -167,8 +167,8 @@ Artur e Marcos Vinicius foram liberados dessa tarefa e permanecerão responsáve
 | **Rios** | Pesquisa (1) + Proposta (3) | **2** | ✅ equilibrado |
 | **Ausiane** | Casos (2) + Protótipo (5) | **2** | ✅ equilibrado |
 | **Nubia** | Pesquisa (1) + Casos (2) | **2** | ✅ equilibrado (tinha 4, foi aliviada) |
-| **Artur** | Fluxograma (4) + Código C (6) | **2** | ✅ equilibrado |
-| **Marcos Vinicius** | Fluxograma (4) + Código C (6) | **2** | ✅ equilibrado |
+| **Artur** | Fluxograma (4) | **1** | ✅ liberado do Código C (decisão 12/06) |
+| **Marcos Vinicius** | Fluxograma (4) | **1** | ✅ liberado do Código C (decisão 12/06) |
 | **Uelinton** | Protótipo (5) + Slides (7) | **2** | ✅ equilibrado |
 | **Wallace** | Slides (7) | **1** | 🟡 apoio |
 
@@ -206,7 +206,7 @@ A distribuição original da enquete deixava **Nubia sobrecarregada** (4 tarefas
 | 3 | Proposta | Solução descrita com diferencial claro | `.md` ou `.pdf` |
 | 4 | Fluxograma | Diagrama do fluxo do sistema | Imagem (PNG/JPEG) + `.md` |
 | 5 | Protótipo | Telas mockadas | Figma (link) + imagens exportadas |
-| 6 | Código C | **Cancelado** (decisão do grupo) | — |
+| 6 | Código C | **Cancelado oficialmente** (decisão do grupo 12/06/2026) | — |
 | 7 | Slides | Apresentação final | `.pdf` / `.pptx` |
 | 8 | Documentação | Tudo organizado no repositório | GitHub estruturado |
 

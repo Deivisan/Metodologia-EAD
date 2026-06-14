@@ -1,5 +1,12 @@
 # Documentação Geral — Projeto Algoritmo I
 
+> **⚠️ AVISO IMPORTANTE (atualizado 12/06/2026)**  
+> Este documento foi criado no início do projeto.  
+> **Decisão oficial do grupo em 12/06/2026:** O grupo decidiu **NÃO entregar Código em C**.  
+> O foco é exclusivamente nos entregáveis obrigatórios: Problema real, Casos existentes, Proposta, Fluxograma, Protótipo de telas e Apresentação.  
+> **Código em C está cancelado.** Não será implementado nem entregue.  
+> Para o estado atual do projeto, consulte sempre primeiro: [`Index-Geral.md`](Index-Geral.md) e [`decisoes.md`](decisoes.md).
+
 > Documento inicial para alinhamento do grupo e organização da apresentação.
 > Para visão geral atualizada do projeto, comece por: [`Index-Geral.md`](Index-Geral.md).
 
@@ -46,8 +53,9 @@ A ideia central é:
 2. pesquisar soluções ou casos semelhantes;
 3. propor uma solução própria;
 4. explicar a lógica da solução com fluxograma;
-5. apresentar um protótipo visual;
-6. opcionalmente, entregar uma simulação ou módulo em **C** ou em outra linguagem.
+5. apresentar um protótipo visual.
+
+**Atenção (decisão oficial do grupo em 12/06/2026):** O grupo decidiu **não entregar código em C**. Qualquer menção anterior a "simulação em C" ou "código opcional" está desatualizada. O foco é exclusivamente nos entregáveis obrigatórios listados pelo professor (problema real, casos existentes, proposta, fluxograma, protótipo de telas e apresentação AO VIVO).
 
 ### Pontos Principais Extraídos do Vídeo
 
@@ -56,8 +64,7 @@ A ideia central é:
 - A proposta deve usar **computação** para melhorar um processo existente ou criar uma solução nova.
 - A apresentação vale **10 pontos**.
 - O prazo informado no vídeo é **29/06 às 20h**.
-- Código em C é **opcional** — decisão do grupo em 12/06/2026: **não faremos**. Foco nos entregáveis obrigatórios.
-- Código em C é **opcional** (decisão posterior do grupo em 12/06/2026: **não faremos**).
+- **Código em C foi cancelado** por decisão oficial do grupo em 12/06/2026. Não faremos código em C. Foco exclusivo nos entregáveis obrigatórios (problema real, casos, proposta, fluxograma, protótipo e apresentação).
 
 ### Setores Citados pelo Professor
 
@@ -75,7 +82,7 @@ A ideia central é:
 - O que a proposta melhora ou inova;
 - Fluxograma explicando o funcionamento;
 - Protótipo de telas;
-- Código opcional em **C** ou em outra linguagem.
+- Código em C foi cancelado pelo grupo em 12/06/2026 (não será entregue).
 
 ---
 
@@ -109,7 +116,7 @@ Foram gerados screenshots do vídeo para apoiar a criação dos slides. Eles pod
 | **Diferencial** | Indicar o que melhora, simplifica ou torna a proposta inovadora | Sim |
 | **Fluxograma** | Representar a lógica ou o processo da solução | Sim |
 | **Protótipo de telas** | Simular visualmente como o sistema poderia funcionar | Sim |
-| **Código em C** | Implementação simples, simulação ou módulo da solução | Opcional, mas recomendado |
+| **Código em C** | ❌ **Cancelado** (decisão oficial do grupo em 12/06/2026). Não será entregue. | Cancelado |
 | **Apresentação** | Apresentação oral e visual do trabalho | Sim |
 
 ---
@@ -123,7 +130,7 @@ Foram gerados screenshots do vídeo para apoiar a criação dos slides. Eles pod
 | **Proposta e narrativa** | 1 ou 2 integrantes | Organizar o que será explicado na apresentação |
 | **Fluxograma** | 1 integrante | Criar o fluxo da solução usando ferramenta visual |
 | **Protótipo** | 1 ou 2 integrantes | Criar telas simples no Figma, Canva, Excalidraw ou ferramenta similar |
-| **Código em C** | Integrante(s) com mais familiaridade técnica | Implementar uma simulação ou módulo simples |
+| **Código em C** | — | ❌ **Cancelado** pelo grupo em 12/06/2026. Não será implementado. |
 | **Slides** | Equipe inteira, com revisão final | Preparar a apresentação e ensaiar |
 
 ---
@@ -132,28 +139,28 @@ Foram gerados screenshots do vídeo para apoiar a criação dos slides. Eles pod
 
 > As ideias abaixo são pontos de partida. O grupo deve escolher uma e ajustar conforme viabilidade, tempo e interesse.
 
-| Nº | Problema real | Solução proposta | Setor | Pode ter código em C? |
+| Nº | Problema real | Solução proposta | Setor | Observação (12/06/2026) |
 |---:|---|---|---|:---:|
-| 1 | Estudantes perdem prazos de atividades no AVA/Moodle | Sistema simples de lembretes e priorização de tarefas acadêmicas | Universidade | **Sim** |
-| 2 | Dificuldade de organizar filas e atendimentos em setores da universidade | Simulador de fila com tickets/senhas e prioridade | Universidade / Gestão | **Sim** |
-| 3 | Pacientes esquecem horários de medicamentos ou consultas | Agenda de saúde com alertas e cadastro básico | Saúde | **Sim** |
-| 4 | Pequenos comércios não sabem controlar estoque mínimo | Controle simples de estoque com alerta de reposição | Comércio / E-commerce | **Sim** |
-| 5 | Clientes têm dificuldade de comparar tarifas e serviços bancários | Comparador simplificado de serviços financeiros | Banco Digital | **Sim** |
-| 6 | Estudantes têm dificuldade para acompanhar notas e desempenho | Painel acadêmico com cálculo de média e situação | Universidade | **Sim** |
-| 7 | Motoristas não têm noção clara de consumo médio e custo por rota | Calculadora de consumo, autonomia e custo estimado | Automotivo | **Sim** |
-| 8 | Hospitais e clínicas têm dificuldade em priorizar atendimentos simples | Triagem básica por sintomas e nível de urgência | Saúde | Opcional |
-| 9 | Compras online geram dúvidas sobre prazo, frete e confiabilidade | Assistente de decisão para compras em e-commerce | E-commerce | Opcional |
-| 10 | Moradores não têm canal simples para registrar problemas comunitários | Sistema de registro de ocorrências locais com categoria e prioridade | Comunidade | Opcional |
+| 1 | Estudantes perdem prazos de atividades no AVA/Moodle | Sistema simples de lembretes e priorização de tarefas acadêmicas | Universidade | — |
+| 2 | Dificuldade de organizar filas e atendimentos em setores da universidade | Simulador de fila com tickets/senhas e prioridade | Universidade / Gestão | — |
+| 3 | Pacientes esquecem horários de medicamentos ou consultas | Agenda de saúde com alertas e cadastro básico | Saúde | — |
+| 4 | Pequenos comércios não sabem controlar estoque mínimo | Controle simples de estoque com alerta de reposição | Comércio / E-commerce | — |
+| 5 | Clientes têm dificuldade de comparar tarifas e serviços bancários | Comparador simplificado de serviços financeiros | Banco Digital | — |
+| 6 | Estudantes têm dificuldade para acompanhar notas e desempenho | Painel acadêmico com cálculo de média e situação | Universidade | — |
+| 7 | Motoristas não têm noção clara de consumo médio e custo por rota | Calculadora de consumo, autonomia e custo estimado | Automotivo | — |
+| 8 | Hospitais e clínicas têm dificuldade em priorizar atendimentos simples | Triagem básica por sintomas e nível de urgência | Saúde | Nosso tema escolhido |
+| 9 | Compras online geram dúvidas sobre prazo, frete e confiabilidade | Assistente de decisão para compras em e-commerce | E-commerce | — |
+| 10 | Moradores não têm canal simples para registrar problemas comunitários | Sistema de registro de ocorrências locais com categoria e prioridade | Comunidade | — |
 
-### Ideias Mais Recomendadas para Código em C
+> **Nota importante (atualizado 12/06/2026):** O grupo decidiu **não entregar código em C** em nenhum dos temas. A coluna antiga "Pode ter código em C?" foi removida porque a decisão foi cancelar essa entrega.
 
-Para aumentar a aderência à disciplina, as melhores opções para entregar algum código simples em **C** são:
+### Ideias de Temas (atualizado 12/06/2026)
 
-1. **Controle de prazos acadêmicos** — cadastro de atividades, datas e prioridade.
-2. **Simulador de fila** — fila comum, fila prioritária e ordem de atendimento.
-3. **Controle de estoque** — cadastro de produto, quantidade e alerta de estoque baixo.
-4. **Calculadora acadêmica** — média, nota mínima e situação do aluno.
-5. **Calculadora de consumo automotivo** — distância, combustível, custo e autonomia.
+**Importante:** O grupo decidiu em 12/06/2026 **não realizar Código em C** em nenhum tema. 
+
+As ideias abaixo permanecem úteis apenas como referência de problemas reais. O foco do nosso projeto (Filas Inteligentes em Serviços de Saúde com Acessibilidade) está nos entregáveis obrigatórios: problema real, casos existentes, proposta, fluxograma, protótipo de telas e apresentação.
+
+Não há mais planejamento de implementação em C.
 
 ---
 
@@ -171,7 +178,7 @@ Para aumentar a aderência à disciplina, as melhores opções para entregar alg
 | 6 | **Diferencial da proposta** | O que melhora, simplifica ou torna a solução útil |
 | 7 | **Fluxograma** | Funcionamento lógico da solução |
 | 8 | **Protótipo de telas** | Como o usuário interage com a proposta |
-| 9 | **Código / simulação** | Se houver, explicar o que o código em C faz |
+| 9 | **Código / simulação** | ❌ **Cancelado** — Decisão do grupo em 12/06/2026. Não haverá código em C. |
 | 10 | **Conclusão** | Impacto esperado, limitações e próximos passos |
 
 ### Cuidados com a Apresentação
@@ -236,28 +243,24 @@ Sugira melhorias para a proposta, comparando com soluções reais encontradas na
 - [ ] Escrever problema e justificativa;
 - [ ] Desenhar fluxograma;
 - [ ] Criar protótipo de telas;
-- [ ] Decidir se haverá código em **C**;
+- [x] Decidir se haverá código em **C** → Decidido em 12/06/2026: **NÃO faremos**.
 - [ ] Preparar slides;
 - [ ] Ensaiar apresentação;
 - [ ] Revisar se todos os pontos pedidos pelo professor aparecem nos slides.
 
 ---
 
-## 10. Recomendação Inicial
+## 10. Recomendação Inicial (atualizado 12/06/2026)
 
-Para este grupo, uma boa opção é escolher uma ideia que permita:
+**Importante:** O grupo decidiu em 12/06/2026 **não realizar Código em C**.
 
-- **apresentação clara**;
-- **protótipo simples**;
-- **fluxograma objetivo**;
-- **código em C demonstrável**.
+A recomendação agora é focar em ideias que permitam:
 
-Por isso, as opções mais práticas são:
+- Apresentação clara e objetiva
+- Protótipo simples de telas (Figma)
+- Fluxograma bem explicado
+- Problema real bem fundamentado + casos existentes + proposta com diferencial
 
-1. **Controle de prazos acadêmicos**;
-2. **Simulador de fila/atendimento**;
-3. **Controle de estoque simples**;
-4. **Painel de notas e desempenho**;
-5. **Calculadora de consumo/custo automotivo**.
+Nosso tema escolhido (Filas Inteligentes em Serviços de Saúde com Foco em Acessibilidade) atende perfeitamente a esses critérios.
 
-Essas ideias não exigem um sistema completo e permitem mostrar lógica algorítmica, fluxograma, protótipo e possível código em **C** dentro do tempo da disciplina.
+O código em C foi considerado desnecessário e foi cancelado para priorizar a qualidade dos entregáveis obrigatórios dentro do prazo até 29/06.

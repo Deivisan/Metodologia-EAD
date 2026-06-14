@@ -1,4 +1,13 @@
-# Enquete -- Projeto Algoritmo I (GCETENS843)
+# Enquete -- Projeto Algoritmo I (GCETENS843) — DOCUMENTO HISTÓRICO (08/06/2026)
+
+> **⚠️ AVISO IMPORTANTE**  
+> Esta é a enquete original feita em 08/06/2026.  
+> Em **12/06/2026** o grupo decidiu oficialmente **NÃO realizar o Código em C** (tarefa 6 da enquete).  
+> Qualquer menção a "Código em C", alocação de Artur ou Marcos Vinicius para essa tarefa, ou "opcional" nesta enquete é informação histórica e **não reflete o plano atual**.  
+> Para o estado atual do projeto consulte:  
+> - [`Index-Geral.md`](Index-Geral.md)  
+> - [`decisoes.md`](decisoes.md)  
+> - [`divisao-de-tarefas.md`](divisao-de-tarefas.md)
 
 > **Criada em:** 08/06/2026  
 > **Criador:** Deivison Santana  

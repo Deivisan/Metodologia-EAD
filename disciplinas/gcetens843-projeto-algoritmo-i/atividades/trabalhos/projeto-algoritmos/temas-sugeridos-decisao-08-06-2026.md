@@ -1,10 +1,18 @@
 # Temas Sugeridos pelo Grupo — Decisão em 08/06/2026
 
-> **⚠️ REGISTRO HISTÓRICO**  
-> Este documento registra a fase de discussão e a enquete de 08/06/2026.  
-> **Todos os arquivos deste repositório são vivos** e serão atualizados constantemente para refletir o estado atual do projeto.  
-> Para a visão mais atualizada, comece sempre por: [`Index-Geral.md`](Index-Geral.md) e [`decisoes.md`](decisoes.md).  
-> **Decisão importante (12/06/2026):** O grupo votou e decidiu **NÃO fazer o Código em C** (opcional).
+> **⚠️ DOCUMENTO HISTÓRICO (08/06/2026)**  
+> Este arquivo registra apenas a **fase inicial de discussão e a enquete** do dia 08/06/2026.  
+> **NÃO reflete o estado atual do projeto.**  
+> 
+> **Decisão oficial do grupo em 12/06/2026:** O grupo decidiu **NÃO realizar Código em C**.  
+> Artur e Marcos Vinicius foram liberados dessa tarefa.  
+> 
+> **Para o estado atual e oficial do projeto, leia sempre:**
+> - [`Index-Geral.md`](Index-Geral.md) (core vivo do grupo)
+> - [`decisoes.md`](decisoes.md) (decisões consolidadas)
+> - [`divisao-de-tarefas.md`](divisao-de-tarefas.md)
+> 
+> Todas as seções abaixo que mencionam “Possível código em C” são **históricas** e não representam mais o plano do grupo.
 
 > **Disciplina:** GCETENS843 — Projeto Algoritmo I  
 > **Curso:** Bacharelado em Sistemas de Informação  
