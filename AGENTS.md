@@ -362,7 +362,7 @@ Use tags HTML para elementos estruturais que o markdown puro não cobre:
 
 ## 🧭 Contexto Atual (última atualização)
 
-- **Data da última atualização**: 07/06/2026
+- **Data da última atualização**: 14/06/2026
 - **Status do repositório**: estrutura consolidada, templates ABNT criados, logo UFRB 20 anos disponível
 - **Ferramenta de divulgação**: BrowserOS + Composio integrados
 - **Skill local criada**: `.opencode/skills/humanizar-trabalhos/SKILL.md` — usar quando trabalhos acadêmicos estiverem com linguagem artificial/"cara de IA". A skill orienta revisão ética, preservação do enunciado, voz de estudante EAD/UFRB e geração de versão `-versao-humanizada` quando necessário.
@@ -380,7 +380,7 @@ O aluno está matriculado em **4 disciplinas** no semestre 2026.1 (30/03 a 16/05
 
 ### 📌 Disciplinas Adicionais — Identificadas
 
-- **Teoria Geral da Administração** — Prof. André de Mendonça Santos. Estudo de caso "DevSolutions" (Homo Economicus vs Homo Social) — Trilha 3. Atividades organizadas em `disciplinas/teoria-geral-da-administracao/`.
+- **Teoria Geral da Administração** (GCETENS840) — Prof. André de Mendonça Santos. Estudo de caso "DevSolutions" (Homo Economicus vs Homo Social) — Trilha 3. Roteiro do Trabalho (Diagnóstico Organizacional) — Trilha 4 (Opção B, pesquisa digital, empresa DeiviTech, 1 página). Atividades organizadas em `disciplinas/teoria-geral-da-administracao/`.
 
 - **GCETENS843 — Projeto Algoritmo I**: disciplina de projeto em grupo vinculada ao Bacharelado em Sistemas de Informação, semestre 2026.1. O trabalho atual exige proposta de solução computacional para problema real, com pesquisa de casos existentes, fluxograma, protótipo de telas, apresentação e código opcional em C/outra linguagem.
 
@@ -458,6 +458,9 @@ Quando o usuário enviar novas conversas do grupo:
 - **GCETENS839** — Atividade 2 - Lista de Exercícios ~~ Pendente ~~ ✅ **Enviada pelo aluno**
 - **GCETENS842** — Mapa Conceitual (Grafos) ✅ **PDF gerado e enviado**
 - **GCETENS842** — Atividade Indução/Recorrência ✅ **PDF gerado e enviado**
+
+#### ✅ ENVIADAS — 14/06/2026
+- **GCETENS840** — Avaliação (Trilha 04) - Roteiro do Trabalho (Diagnóstico Organizacional) ✅ **PDF + DOCX gerados e enviados** (1 página exata, Opção B — pesquisa digital/documental, empresa DeiviTech tratada de forma neutra, PODC + correntes teóricas, commit 111ae02)
 
 #### 🟡 17/05/2026 (domingo)
 - **GCETENS841** — Avaliação 5 - 100% da Nota — **Lista 5 - Vetores em C** ✅ **PDF gerado** (enviar até 17/05 23:59)
