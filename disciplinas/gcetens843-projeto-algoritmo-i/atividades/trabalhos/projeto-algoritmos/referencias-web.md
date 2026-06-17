@@ -2,7 +2,7 @@
 
 > **Responsáveis:** Nubia + Rios  
 > **Fontes principais:** Google Docs (atualizado em tempo real)  
-> **Última sincronização:** 12/06/2026 (a partir dos documentos de trabalho)
+> **Última sincronização do repositório:** 16/06/2026 (histórico do WhatsApp atualizado)
 
 ---
 

@@ -13,5 +13,8 @@
 | 12/06/2026 | Trabalho em Google Docs | Dois documentos principais abertos para pesquisa e casos (links no Index-Geral, decisoes.md e divisao-de-tarefas.md) |
 | 12/06/2026 | Atualização contínua | Todos os arquivos são **vivos** e serão revisados conforme o projeto avança |
 | 12/06/2026 | Problema real recebido e integrado | Rios enviou o documento completo via WhatsApp (`Projeto-Algorit-1-Rios-2026-06-12.docx`). Texto fundamentado em literatura colado em `problema-real.md`. Material-fonte salvo. Grupo pode alterar/sugerir adequações. |
+| 15/06/2026 | Esclarecimento sobre "casos existentes" | Tutora Lorena (via Leonardo) respondeu: analisar soluções já existentes no mercado e propor melhorias/diferenciais. |
+| 16/06/2026 | Histórico do WhatsApp atualizado | Export completo substituído no repositório (350 mensagens até 16/06). |
+| 17/06/2026 (previsto) | Votação do nome do projeto | Enquete será enviada pelo Deivison no grupo. Decisão obrigatória até 17/06. |
 
-**Próximas decisões esperadas:** Nome oficial do projeto, escopo do fluxograma e protótipo, formato da apresentação.
+**Próximas decisões esperadas:** Nome oficial do projeto (enquete 17/06), escopo detalhado do fluxograma e protótipo, formato da apresentação.

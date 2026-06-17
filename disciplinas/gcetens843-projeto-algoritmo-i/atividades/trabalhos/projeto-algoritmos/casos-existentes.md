@@ -2,7 +2,7 @@
 
 > **Responsáveis:** Ausiane + Nubia  
 > **Fontes principais:** Google Docs (atualizado em tempo real)  
-> **Última sincronização:** 12/06/2026
+> **Última sincronização do repositório:** 16/06/2026 (histórico do WhatsApp atualizado com export completo)
 
 ---
 

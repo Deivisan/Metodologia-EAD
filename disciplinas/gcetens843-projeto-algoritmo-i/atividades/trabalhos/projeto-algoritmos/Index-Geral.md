@@ -158,52 +158,50 @@ Cada integrante deve:
 
 ---
 
-## 6. Próximo Passo
+## 6. Status Atual (atualizado 16/06/2026)
 
-**Fase de PESQUISA (09–13/06) — ATUALIZADO 12/06 (22:20)**
+**Histórico do WhatsApp atualizado**  
+Arquivo `historico-whatsapp.json` foi substituído pelo export completo de 16/06/2026 (350 mensagens).
 
-✅ **Problema real escrito, integrado e ancorado**  
-Rios enviou o documento completo em 12/06 (`Projeto-Algorit-1-Rios-2026-06-12.docx`).  
-Texto completo + referências da literatura colado em [`problema-real.md`](problema-real.md).  
-Pergunta central, nome provisório da solução e impactos em grupos vulneráveis agora são a base oficial da `proposta.md`.
+### O que já está sólido (até 16/06)
 
-**Ação do grupo agora (imediata):**
-- Todo mundo leia [`problema-real.md`](problema-real.md) (é a fonte oficial da problematização).
-- Na `proposta.md`, marquem as opções no Painel de Decisões.
-- Votem nos nomes sugeridos.
-- Sugiram alterações ou adequações no texto do problema (Rios pediu: "fiquem à vontade para alterar ou sugerir adequações").
-
-Agora o foco operacional é:
-
-| Quem | O que fazer |
-|:-----|:------------|
-| **Ausiane + Nubia** | Casos existentes (sistemas parecidos, mercado) — Google Doc ativo |
-| **Rios + Deivison** | Proposta e Diferencial (usando o problema de Rios como base) |
-| **Demais** | Aguardar 14/06 para fluxograma + protótipo |
-
-> ❌ **Código em C:** **Cancelado oficialmente** (decisão do grupo em 12/06/2026). Não faremos. Foco total nos entregáveis obrigatórios.
->
-> **Lembrete do chat (transcrito):**  
-> "depois de fazer o seu arquivo [problema-real.md], ele vai fazer o seu arquivo. a instalação dele. Após isso, a gente vai entender o que ele passou nessa proposta e qual foi de fato a fala."
-
-**Status da Problematização para a apresentação (29/06):**  
-Sólido e pronto para revisão coletiva. O grupo agora entra na fase de **revisão + construção da proposta** com base no texto de Rios.
-
----
-
-**Resumo do que já está sólido para a apresentação (29/06):**
-- Tema escolhido + acessibilidade como pilar obrigatório
-- **Problema real definido** (Rios, 12/06 — completo): 
+- ✅ Tema escolhido + acessibilidade como pilar obrigatório (08/06)
+- ✅ **Problema real definido** (Rios, 12/06 — completo e ancorado):
   - Texto com fundamentação em literatura (Aggarwal, Chianca, Clemente, Farias, Giannotti, Ha, Jonsson, Kessel, Melo, Thompson etc.)
   - Uso consistente de **"fila presencial"** (para diferenciar das listas de espera de meses)
   - **Pergunta central**: *"Como reduzir o tempo de permanência física dos usuários nas unidades de saúde e aumentar a previsibilidade do atendimento por meio de uma solução digital acessível e inclusiva?"*
-  - Nome provisório da solução: **Sistema Inteligente de Gestão de Filas Presenciais e Acessibilidade para Serviços de Saúde**
-  - Tudo em [`problema-real.md`](problema-real.md) + material-fonte arquivado + ancorado na `proposta.md` (com resumo executivo e diferencial derivado diretamente do texto)
-- Divisão de tarefas equilibrada (8 integrantes)
-- Decisão de não fazer código em C (12/06)
+  - Base oficial em [`problema-real.md`](problema-real.md) + material-fonte arquivado
+- ✅ Problema real integrado na proposta (12/06)
+- ✅ Código em C cancelado oficialmente (decisão do grupo em 12/06/2026)
+- ✅ Divisão de tarefas equilibrada (8 integrantes)
+- ✅ Esclarecimento da tutora Lorena sobre "casos existentes" (15/06): analisar soluções já existentes no mercado e propor melhorias.
 
-Próxima onda forte: Casos existentes (Ausiane + Nubia) + Proposta e Diferencial (Deivison + Rios) — 14–18/06.
+### Fase atual (16/06)
+
+| Quem              | O que está fazendo                          | Status          |
+|-------------------|---------------------------------------------|-----------------|
+| **Ausiane + Nubia** | Casos existentes (Google Doc)               | Em andamento    |
+| **Deivison + Rios** | Proposta e Diferencial                      | Em andamento    |
+| **Artur + Marcos Vinicius** | Fluxograma                              | A iniciar       |
+| **Ausiane + Uelinton** | Protótipo de telas (Figma)               | A iniciar       |
+| **Uelinton + Wallace** | Slides e Apresentação                    | A iniciar       |
+
+### Próxima decisão importante (urgente)
+
+**DECIDIR NOME DO PROJETO ATÉ 17/06/2026**
+
+- Enquete será enviada em breve pelo Deivison (próxima mensagem no grupo).
+- Todos devem participar da votação.
+- Depois da escolha do nome, atualizaremos Identidade-visual, prompts, fluxograma, protótipo e todos os documentos.
 
 ---
 
-*Este arquivo é atualizado conforme o grupo avança. Fique de olho no WhatsApp para novas instruções.*
+**Resumo para a apresentação (29/06 às 20h):**
+- Problema real sólido e fundamentado
+- Acessibilidade como diferencial central (TEA, auditiva, visual, idosos, gestantes etc.)
+- Foco total nos entregáveis obrigatórios (sem Código em C)
+- Equipe completa e tarefas distribuídas
+
+*Este arquivo é atualizado conforme o grupo avança. Fique de olho no WhatsApp — Deivison enviará o link da enquete do nome em breve (prazo até 17/06/2026).*
+
+**Última atualização do repositório:** 16/06/2026 (histórico do WhatsApp substituído pelo export completo + ajustes de status e nome em votação).

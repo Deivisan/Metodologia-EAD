@@ -1,6 +1,6 @@
 # 📋 Divisão de Tarefas — Projeto Algoritmo I
 
-> **Projeto:** Filas Inteligentes + Acessibilidade (FilaClara)
+> **Projeto:** Filas Presenciais em Unidades de Saúde + Acessibilidade (nome do projeto em votação até 17/06/2026)
 > **Disciplina:** GCETENS843 — Projeto Algoritmo I
 > **Última atualização:** 12 de junho de 2026
 > **Prazo final:** 29 de junho de 2026 às 20h

@@ -14,9 +14,9 @@
 
 ### 🥇 Filas Inteligentes em Serviços de Saúde com Foco em Acessibilidade
 
-**Nome do Projeto (sugestão inicial):** `FilaClara` — *Sistema de Filas Inteligentes e Acessíveis*
+**Nome do Projeto:** Em votação (enquete 17/06/2026)
 
-> ⚠️ O nome oficial ainda está em discussão pelo grupo (12/06). Sugestões atuais incluem: FilaClara, FilaAcessível, Fil.Ai, Fila Livre, entre outras. A decisão final será registrada aqui quando houver consenso.
+> ⚠️ **Decisão do nome do projeto:** Enquete será enviada pelo Deivison no grupo em breve. Nenhuma sugestão anterior (incluindo FilaClara) está oficializada. Todos devem votar até 17/06/2026.
 
 </div>
 

@@ -1,8 +1,8 @@
-# 🎨 Identidade Visual — Projeto FilaClara
+# 🎨 Identidade Visual — Projeto (nome em votação até 17/06/2026)
 
-> **Fase atual:** Escolha da identidade visual  
+> **Fase atual:** Escolha da identidade visual + aguardando decisão do nome oficial do projeto  
 > **Status:** Ainda **não definida**.  
-> Vamos gerar várias opções em estilo infográfico e o grupo vai escolher juntas.
+> Vamos gerar várias opções em estilo infográfico e o grupo vai escolher juntas. O nome oficial será definido primeiro via enquete (17/06).
 
 **Objetivo deste arquivo:**
 - Apresentar as opções de identidade visual de forma clara (com imagens infográficas).

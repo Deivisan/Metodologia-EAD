@@ -1,8 +1,10 @@
-# Fluxograma do Sistema — FilaClara
+# Fluxograma do Sistema — Projeto (nome em votação até 17/06/2026)
 
 > **Responsáveis:** Artur + Marcos Vinicius
 > **Status:** 🔒 Pendente — aguardando desenvolvimento
 > **Prazo:** 18/06/2026
+
+> ⚠️ O nome oficial do projeto será definido pela enquete de 17/06/2026. Atualizar este documento após a votação.
 
 ---
 

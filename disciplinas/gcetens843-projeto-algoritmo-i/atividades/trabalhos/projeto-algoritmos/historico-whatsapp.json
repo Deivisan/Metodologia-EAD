@@ -2,48 +2,8 @@
   {
     "country": "Brazil",
     "phoneNum": "+557591040642",
-    "formattedName": "",
-    "displayName": "",
-    "messageTime": "2026-06-03 19:39:44",
-    "messageType": "chat",
-    "messageBody": "Obrigado, Deivison",
-    "messageId": "false_120363410272837567@g.us_3AAEEA3C60C7AB94010A_267181392691367@lid"
-  },
-  {
-    "country": "Brazil",
-    "phoneNum": "+557591040642",
-    "formattedName": "",
-    "displayName": "",
-    "messageTime": "2026-06-03 19:39:50",
-    "messageType": "chat",
-    "messageBody": "Boa noite, galera",
-    "messageId": "false_120363410272837567@g.us_3A0339EBD14DDBB8A19E_267181392691367@lid"
-  },
-  {
-    "country": "Brazil",
-    "phoneNum": "+557581231019",
-    "formattedName": "Você",
-    "displayName": "Deivison Santana",
-    "messageTime": "2026-06-03 19:40:14",
-    "messageType": "chat",
-    "messageBody": "blz , boa noite, qnd chegar em 8 membros a gente vai organizando como vai ser",
-    "messageId": "true_120363410272837567@g.us_3EB0C4EB19691B50C1C872_69097484214315@lid"
-  },
-  {
-    "country": "Brazil",
-    "phoneNum": "+557183935077",
-    "formattedName": "",
-    "displayName": "",
-    "messageTime": "2026-06-03 21:20:18",
-    "messageType": "chat",
-    "messageBody": "Boa noite, também agradeço e no aguardo dos outros membros.",
-    "messageId": "false_120363410272837567@g.us_A5329663B4143AD68460B7F1A029B109_234711976816688@lid"
-  },
-  {
-    "country": "Brazil",
-    "phoneNum": "+557591040642",
-    "formattedName": "",
-    "displayName": "",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
     "messageTime": "2026-06-05 12:00:09",
     "messageType": "chat",
     "messageBody": "Galera, bom dia. Vocês já têm sugestão de problemas para apresentarmos solução?",
@@ -52,8 +12,8 @@
   {
     "country": "Brazil",
     "phoneNum": "+557591040642",
-    "formattedName": "",
-    "displayName": "",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
     "messageTime": "2026-06-05 12:01:18",
     "messageType": "chat",
     "messageBody": "Precisamos propor um programa. A apresentação do código é opcional, mas pelo menos o protótipo da proposta, a gente vai ter que apresentar",
@@ -64,7 +24,7 @@
     "phoneNum": "+557581231019",
     "formattedName": "Você",
     "displayName": "Deivison Santana",
-    "messageTime": "2026-06-05 14:26:48",
+    "messageTime": "2026-06-05 14:26:45",
     "messageType": "chat",
     "messageBody": "【DOCUMENT / 2026_1_Trilha de aprendizagem_2_Projeto_ALGORIT_I.pdf】",
     "messageId": "true_120363410272837567@g.us_3EB09BD3AE298CA799E0EC_69097484214315@lid"
@@ -72,8 +32,8 @@
   {
     "country": "Brazil",
     "phoneNum": "+557591040642",
-    "formattedName": "",
-    "displayName": "",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
     "messageTime": "2026-06-05 14:37:10",
     "messageType": "chat",
     "messageBody": "O tema é livre, mas o professor deu exemplos no vídeo de apresentação da disciplina",
@@ -82,8 +42,8 @@
   {
     "country": "Brazil",
     "phoneNum": "+557591040642",
-    "formattedName": "",
-    "displayName": "",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
     "messageTime": "2026-06-05 14:37:21",
     "messageType": "chat",
     "messageBody": "Está no AVA, acima da trilha 1",
@@ -92,8 +52,8 @@
   {
     "country": "Brazil",
     "phoneNum": "+557591040642",
-    "formattedName": "",
-    "displayName": "",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
     "messageTime": "2026-06-05 14:37:32",
     "messageType": "chat",
     "messageBody": "É um vídeo curto, de 10 minutos. Vale apena assistir",
@@ -112,8 +72,8 @@
   {
     "country": "Brazil",
     "phoneNum": "+557183935077",
-    "formattedName": "",
-    "displayName": "",
+    "formattedName": "+55 71 8393-5077",
+    "displayName": "Núbia de Asiká",
     "messageTime": "2026-06-06 09:24:55",
     "messageType": "chat",
     "messageBody": "Bom dia, comecei a estudar o material e estou pensando em alguma sugestão.",
@@ -124,7 +84,7 @@
     "phoneNum": "+557581231019",
     "formattedName": "Você",
     "displayName": "Deivison Santana",
-    "messageTime": "2026-06-06 10:53:22",
+    "messageTime": "2026-06-06 10:53:21",
     "messageType": "chat",
     "messageBody": "https://github.com/Deivisan/Metodologia-EAD/blob/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/documentacao-geral-projeto-algoritmos.md\n\n\n\n\n\nSe inspirem nessa documentação que subi, vamos decidindo o tema, ja tem uns sugeridos",
     "messageId": "true_120363410272837567@g.us_3EB05860F320DD567B8A75_69097484214315@lid"
@@ -420,11 +380,20 @@
     "messageId": "true_120363410272837567@g.us_3EB06326543EDADF478F29_69097484214315@lid"
   },
   {
+    "country": "United States of America",
+    "phoneNum": "+120363410272837567",
+    "formattedName": "Projeto Algoritmo I | UFRB 2026.1",
+    "displayName": "",
+    "messageTime": "2026-06-06 12:22:40",
+    "messageType": "pinned_message",
+    "messageId": "true_120363410272837567@g.us_3EB03E77D63C1C72A744E2_557581231019@c.us"
+  },
+  {
     "country": "Brazil",
     "phoneNum": "+557581231019",
     "formattedName": "Você",
     "displayName": "Deivison Santana",
-    "messageTime": "2026-06-06 12:30:40",
+    "messageTime": "2026-06-06 12:30:38",
     "messageType": "chat",
     "messageBody": "【IMAGE】",
     "messageId": "true_120363410272837567@g.us_3EB006E6B1664D1E70B202_69097484214315@lid"
@@ -432,8 +401,8 @@
   {
     "country": "Brazil",
     "phoneNum": "+557183935077",
-    "formattedName": "",
-    "displayName": "",
+    "formattedName": "+55 71 8393-5077",
+    "displayName": "Núbia de Asiká",
     "messageTime": "2026-06-06 13:08:56",
     "messageType": "chat",
     "messageBody": "Acho interessante o tema sobre educação e acessibilidade, sobretudo nesse momento, no qual várias pessoas estão tendo alguns diagnósticos \"tardios\" que se tivessem ocorrido antes evitariam tantos \"traumas\".",
@@ -452,8 +421,8 @@
   {
     "country": "Brazil",
     "phoneNum": "+557591040642",
-    "formattedName": "",
-    "displayName": "",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
     "messageTime": "2026-06-06 18:06:52",
     "messageType": "chat",
     "messageBody": "Rapaz… de longe eu pensei que era eu na imagem kkk",
@@ -462,8 +431,8 @@
   {
     "country": "Brazil",
     "phoneNum": "+557591040642",
-    "formattedName": "",
-    "displayName": "",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
     "messageTime": "2026-06-06 18:09:18",
     "messageType": "chat",
     "messageBody": "Gostei da ideia de aplicativo para filas inteligentes",
@@ -472,8 +441,8 @@
   {
     "country": "Brazil",
     "phoneNum": "+557591040642",
-    "formattedName": "",
-    "displayName": "",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
     "messageTime": "2026-06-06 18:10:05",
     "messageType": "chat",
     "messageBody": "Acho que essa ideia pode, inclusive ser útil em um contexto de organização pública, como uma clínica de saúde para o SUS, mas também para uma organização de saúde privada. E eu diria que não somente organização de saúde",
@@ -482,8 +451,8 @@
   {
     "country": "Brazil",
     "phoneNum": "+557591040642",
-    "formattedName": "",
-    "displayName": "",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
     "messageTime": "2026-06-06 18:12:03",
     "messageType": "chat",
     "messageBody": "De repente poderíamos pensar em uma solução que permita que o paciente possa ser atendido na hora agendada, para não precisar pegar filas. Um esquema de entrega de fichas virtuais com agendamento por horário. Isso reduziria o desconforto da espera e da fila.",
@@ -492,8 +461,8 @@
   {
     "country": "Brazil",
     "phoneNum": "+557591040642",
-    "formattedName": "",
-    "displayName": "",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
     "messageTime": "2026-06-06 18:12:26",
     "messageType": "chat",
     "messageBody": "Eu também sou do campo da educação e da saúde",
@@ -562,27 +531,18 @@
   {
     "country": "Brazil",
     "phoneNum": "+557591040642",
-    "formattedName": "",
-    "displayName": "",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
     "messageTime": "2026-06-06 21:46:58",
     "messageType": "chat",
     "messageBody": "Eu acho que podemos pensar sim em acessibilidade. Super apoio.",
     "messageId": "false_120363410272837567@g.us_3AEDC9EF2D4AF36224BC_267181392691367@lid"
   },
   {
-    "country": "United States of America",
-    "phoneNum": "+120363410272837567",
-    "formattedName": "SI-UFRB   -  GRUPO SEMESTRE 1",
-    "displayName": "",
-    "messageTime": "2026-06-06 12:22:42",
-    "messageType": "pinned_message",
-    "messageId": "true_120363410272837567@g.us_3EB03F68A2A0DFE279AA1F_69097484214315@lid"
-  },
-  {
     "country": "Brazil",
     "phoneNum": "+557183935077",
-    "formattedName": "",
-    "displayName": "",
+    "formattedName": "+55 71 8393-5077",
+    "displayName": "Núbia de Asiká",
     "messageTime": "2026-06-07 09:24:02",
     "messageType": "chat",
     "messageBody": "Bom dia.",
@@ -591,8 +551,8 @@
   {
     "country": "Brazil",
     "phoneNum": "+557183935077",
-    "formattedName": "",
-    "displayName": "",
+    "formattedName": "+55 71 8393-5077",
+    "displayName": "Núbia de Asiká",
     "messageTime": "2026-06-07 09:24:15",
     "messageType": "chat",
     "messageBody": "Que bacana, gostei.",
@@ -611,8 +571,8 @@
   {
     "country": "Brazil",
     "phoneNum": "+557591040642",
-    "formattedName": "",
-    "displayName": "",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
     "messageTime": "2026-06-08 08:20:53",
     "messageType": "chat",
     "messageBody": "Bom dia.",
@@ -621,8 +581,8 @@
   {
     "country": "Brazil",
     "phoneNum": "+557591040642",
-    "formattedName": "",
-    "displayName": "",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
     "messageTime": "2026-06-08 08:21:07",
     "messageType": "chat",
     "messageBody": "Beleza. Vamos fechar o tema hoje.",
@@ -633,7 +593,7 @@
     "phoneNum": "+557581231019",
     "formattedName": "Você",
     "displayName": "Deivison Santana",
-    "messageTime": "2026-06-08 09:27:46",
+    "messageTime": "2026-06-08 09:27:48",
     "messageType": "chat",
     "messageBody": "bem vindo, este é o link principal das infos do projeto, estamos para decidir o tema  \"https://github.com/Deivisan/Metodologia-EAD/blob/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/Index-Geral.md\"",
     "messageId": "true_120363410272837567@g.us_3EB01287F6C9C7E165E583_69097484214315@lid"
@@ -643,7 +603,7 @@
     "phoneNum": "+557581231019",
     "formattedName": "Você",
     "displayName": "Deivison Santana",
-    "messageTime": "2026-06-08 09:27:54",
+    "messageTime": "2026-06-08 09:27:55",
     "messageType": "chat",
     "messageBody": "tiver sugestoes pode falar",
     "messageId": "true_120363410272837567@g.us_3EB0E6356E72C7A84910A5_69097484214315@lid"
@@ -651,11 +611,2887 @@
   {
     "country": "Brazil",
     "phoneNum": "+557591199075",
-    "formattedName": "+55 75 9119-9075",
-    "displayName": "Artur Campos",
+    "formattedName": "",
+    "displayName": "",
     "messageTime": "2026-06-08 09:28:07",
     "messageType": "chat",
     "messageBody": "Vlw",
     "messageId": "false_120363410272837567@g.us_3A0CD9AB80A3D99E27E7_205707492200471@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-08 10:14:09",
+    "messageType": "chat",
+    "messageBody": "Bom dia, galera!",
+    "messageId": "false_120363410272837567@g.us_3EB0B6F57043C12E6E0F12_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-08 10:15:12",
+    "messageType": "chat",
+    "messageBody": "a enquete tá aqui?",
+    "messageId": "false_120363410272837567@g.us_3EB04C94449ED8F21B3057_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 10:16:06",
+    "messageType": "chat",
+    "messageBody": "listei os temas, até então temos 3 para escolher, vou aguardar entra mais alguém",
+    "messageId": "true_120363410272837567@g.us_3EB04FBE6D72082891B62C_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 10:19:43",
+    "messageType": "chat",
+    "messageBody": "【IMAGE】",
+    "messageId": "true_120363410272837567@g.us_3EB0FF6EB91C9E4966AFD3_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-08 10:26:39",
+    "messageType": "chat",
+    "messageBody": "Beleza!!",
+    "messageId": "false_120363410272837567@g.us_3EB02768966ABAAE32474F_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557499574557",
+    "formattedName": "",
+    "displayName": "",
+    "messageTime": "2026-06-08 10:57:50",
+    "messageType": "chat",
+    "messageBody": "Bom dia, aqui é Uélinton.",
+    "messageId": "false_120363410272837567@g.us_A5C4E809C19B9B44CDBF5F1F377AFC1A_252518374342768@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 11:02:06",
+    "messageType": "chat",
+    "messageBody": "Bom dia, dê uma olhada na documentação atual , estamos para escolher um tema, atualmente com enquete disponível para respostas    Projeto Algoritmos\nhttps://github.com/Deivisan/Metodologia-EAD/blob/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/Index-Geral.md",
+    "messageId": "true_120363410272837567@g.us_3EB07AA4F15A423625247C_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557499574557",
+    "formattedName": "",
+    "displayName": "",
+    "messageTime": "2026-06-08 11:03:39",
+    "messageType": "chat",
+    "messageBody": "Certo, agradeço por me atualizar 🤩",
+    "messageId": "false_120363410272837567@g.us_A5CE121D830166E2BD8B17AF4A84E873_252518374342768@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 11:04:05",
+    "messageType": "chat",
+    "messageBody": "OK, 8 membros",
+    "messageId": "true_120363410272837567@g.us_3EB0B4EFF9EB8C19520277_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591040642",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
+    "messageTime": "2026-06-08 11:04:06",
+    "messageType": "chat",
+    "messageBody": "Bem-vindos, Artur e Uelinton",
+    "messageId": "false_120363410272837567@g.us_3A464A652981E5C58B8E_267181392691367@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557499574557",
+    "formattedName": "",
+    "displayName": "",
+    "messageTime": "2026-06-08 11:05:06",
+    "messageType": "chat",
+    "messageBody": "Obrigado, estou feliz por fazer parte do grupo. \n\nContem comigo!",
+    "messageId": "false_120363410272837567@g.us_A5B692BEDDC20A8709E33EEAE1DB2B2D_252518374342768@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 11:05:47",
+    "messageType": "chat",
+    "messageBody": "eu gostaria de ir atualizando isto com a foto dos membross, quem ainda falta aparecer ai me manda uma imagem propria no pv (se quiser)",
+    "messageId": "true_120363410272837567@g.us_3EB092E41927EAA598B8D0_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 11:08:00",
+    "messageType": "chat",
+    "messageBody": "Enquete para escolha do tema & divisão de tarefas disponível",
+    "messageId": "true_120363410272837567@g.us_3EB05CA0CE68D15F06EEFA_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557499574557",
+    "formattedName": "",
+    "displayName": "",
+    "messageTime": "2026-06-08 11:10:51",
+    "messageType": "chat",
+    "messageBody": "Certo, vou verificar hoje mesmo, meu horário de almoço.",
+    "messageId": "false_120363410272837567@g.us_A5C670C8B52106D2DC007DC4F74C2F30_252518374342768@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 12:42:15",
+    "messageType": "chat",
+    "messageBody": "tive q recriar o link do forms, respondam até hj  *https://docs.google.com/forms/d/e/1FAIpQLSf2pryCw9GO2wD3vSzlh7WK-rtcVWJzh7eRCelqDWxUESAY9Q/viewform*",
+    "messageId": "true_120363410272837567@g.us_3EB07165BD231D5E1CBDF8_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-08 12:45:17",
+    "messageType": "chat",
+    "messageBody": "Acabei de preencher.",
+    "messageId": "false_120363410272837567@g.us_ACA7A077492C1898AE138F48C9D4891B_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 13:03:42",
+    "messageType": "chat",
+    "messageBody": "【IMAGE】",
+    "messageId": "true_120363410272837567@g.us_3EB053947B84E640B52D28_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-08 13:14:42",
+    "messageType": "chat",
+    "messageBody": "Gente, vcs já têm grupo para o trabalho de Teoria Geral da Administração?",
+    "messageId": "false_120363410272837567@g.us_ACB1A61A4FC251D3987714E8123F7FB9_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 13:15:21",
+    "messageType": "chat",
+    "messageBody": "aquele da devsolutions? era grupo?  ja enviei   O_o",
+    "messageId": "true_120363410272837567@g.us_3EB03DB3884A6C7DB80267_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-08 13:19:04",
+    "messageType": "chat",
+    "messageBody": "Esse infelizmente num vi e comi mosca. Mas pelo o que entendi, vai ter um projeto final das trilhas.",
+    "messageId": "false_120363410272837567@g.us_AC76A6317ED2D8D0E8BAFEFD8C6A1566_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-08 13:19:11",
+    "messageType": "chat",
+    "messageBody": "Vou ver se acho aqui pra te mandar.",
+    "messageId": "false_120363410272837567@g.us_AC115351C36811E5B6DF43987031766D_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-08 13:19:54",
+    "messageType": "chat",
+    "messageBody": "【IMAGE】",
+    "messageId": "false_120363410272837567@g.us_ACBECE6D690498518DFC07B71284BC3C_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 13:24:08",
+    "messageType": "chat",
+    "messageBody": "abriu hj, , ta safe ainda",
+    "messageId": "true_120363410272837567@g.us_3EB04D46853E4836E9B57E_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-08 13:24:46",
+    "messageType": "chat",
+    "messageBody": "Beleza!",
+    "messageId": "false_120363410272837567@g.us_AC97CE517253AEA8CF4CAD3110F96ADA_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557499574557",
+    "formattedName": "",
+    "displayName": "",
+    "messageTime": "2026-06-08 13:26:11",
+    "messageType": "chat",
+    "messageBody": "【IMAGE】",
+    "messageId": "false_120363410272837567@g.us_A5517B597EFD3B3D76B1F509F984AE62_252518374342768@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557499574557",
+    "formattedName": "",
+    "displayName": "",
+    "messageTime": "2026-06-08 13:28:24",
+    "messageType": "chat",
+    "messageBody": "Deivison, você é muito organizado...Show,  parabéns 👏👏👏👏",
+    "messageId": "false_120363410272837567@g.us_A5871F0319C8B54752466A0C934EC9BB_252518374342768@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-08 13:35:08",
+    "messageType": "chat",
+    "messageBody": "De fato!! Isso ajuda pra caramba para o trabalho fluir.",
+    "messageId": "false_120363410272837567@g.us_AC1F283DA468A13F72AABFA89FFD4279_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-08 13:35:19",
+    "messageType": "chat",
+    "messageBody": "Parabéns, msm!",
+    "messageId": "false_120363410272837567@g.us_ACF628A9BC28830233BA1A9E307013E0_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 13:35:59",
+    "messageType": "chat",
+    "messageBody": "obg  🤗",
+    "messageId": "true_120363410272837567@g.us_3EB0F4D43D609C7323BB82_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-08 13:36:05",
+    "messageType": "chat",
+    "messageBody": "Ah galera, caso não estejam sabendo. Lógica para computação tem prazo de atividade até amanhã da trilha dois.",
+    "messageId": "false_120363410272837567@g.us_ACEEF0499C08296B02BE5FFC0D1F5BB0_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-08 13:36:14",
+    "messageType": "chat",
+    "messageBody": "Vi aqui no fórum",
+    "messageId": "false_120363410272837567@g.us_ACD614E4838AD58E0A248E3BECAF4526_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 13:41:42",
+    "messageType": "chat",
+    "messageBody": "sacanagem",
+    "messageId": "true_120363410272837567@g.us_3EB07F940024C5DA9A84E1_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 13:41:43",
+    "messageType": "chat",
+    "messageBody": "vi aqui",
+    "messageId": "true_120363410272837567@g.us_3EB064432AD73CD546081C_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 13:42:34",
+    "messageType": "chat",
+    "messageBody": "【IMAGE】",
+    "messageId": "true_120363410272837567@g.us_3EB0B980C7AD0679DBF8F4_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557499574557",
+    "formattedName": "",
+    "displayName": "",
+    "messageTime": "2026-06-08 13:43:08",
+    "messageType": "chat",
+    "messageBody": "Acho que marquei repetido, então posso ficar no 3.",
+    "messageId": "false_120363410272837567@g.us_A5B7923DF2029355EB8FD00B3D4211F5_252518374342768@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-08 13:43:22",
+    "messageType": "chat",
+    "messageBody": "Somos dois. Quando fica assim eu acabo não vendo.",
+    "messageId": "false_120363410272837567@g.us_AC9237F16A607344F22DE7D1A9767941_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 13:44:50",
+    "messageType": "chat",
+    "messageBody": "【IMAGE】",
+    "messageId": "true_120363410272837567@g.us_3EB0A44B0E8783EAE16611_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591199075",
+    "formattedName": "",
+    "displayName": "",
+    "messageTime": "2026-06-08 13:50:03",
+    "messageType": "chat",
+    "messageBody": "A enquete do tema tá onde msm?",
+    "messageId": "false_120363410272837567@g.us_3A1C7798ADA91590107A_205707492200471@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591199075",
+    "formattedName": "",
+    "displayName": "",
+    "messageTime": "2026-06-08 13:50:06",
+    "messageType": "chat",
+    "messageBody": "Tá no git né?",
+    "messageId": "false_120363410272837567@g.us_3A3BC2045D3902FB7AED_205707492200471@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 13:51:05",
+    "messageType": "chat",
+    "messageBody": "sim e tbm aqui .",
+    "messageId": "true_120363410272837567@g.us_3EB03B899BEDCB3B145133_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 13:57:17",
+    "messageType": "chat",
+    "messageBody": "Vou mandar um material aqui para servir de inspiração e explicações sobre o  .git",
+    "messageId": "true_120363410272837567@g.us_3EB0AFC1B90A3A421B462C_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 13:57:52",
+    "messageType": "chat",
+    "messageBody": "【IMAGE】",
+    "messageId": "true_120363410272837567@g.us_3EB0FA5F680C2032FCC8CE_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 13:57:52",
+    "messageType": "chat",
+    "messageBody": "【IMAGE】",
+    "messageId": "true_120363410272837567@g.us_3EB072412570339AB3AA8F_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 13:57:52",
+    "messageType": "chat",
+    "messageBody": "【IMAGE】",
+    "messageId": "true_120363410272837567@g.us_3EB0789BCD4DCD38AC3654_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 13:57:53",
+    "messageType": "chat",
+    "messageBody": "【IMAGE】",
+    "messageId": "true_120363410272837567@g.us_3EB0479E7EC2D787DFC1FB_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 13:57:53",
+    "messageType": "chat",
+    "messageBody": "【IMAGE】",
+    "messageId": "true_120363410272837567@g.us_3EB05CE8D8F8A26E892523_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 13:57:53",
+    "messageType": "chat",
+    "messageBody": "【IMAGE】",
+    "messageId": "true_120363410272837567@g.us_3EB0BA065D1432ADDEFAB7_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 13:57:54",
+    "messageType": "chat",
+    "messageBody": "【IMAGE】",
+    "messageId": "true_120363410272837567@g.us_3EB0B0ACE7817D8E056B59_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 13:57:54",
+    "messageType": "chat",
+    "messageBody": "【IMAGE】",
+    "messageId": "true_120363410272837567@g.us_3EB0AD1F522F9B9061D1F0_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 13:57:54",
+    "messageType": "chat",
+    "messageBody": "【IMAGE】",
+    "messageId": "true_120363410272837567@g.us_3EB07DA29F0E5EC9C31BB9_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 13:57:55",
+    "messageType": "chat",
+    "messageBody": "【IMAGE】",
+    "messageId": "true_120363410272837567@g.us_3EB03A8E9E12D0B4338879_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 14:00:10",
+    "messageType": "chat",
+    "messageBody": "【PTT】",
+    "messageId": "true_120363410272837567@g.us_3EB011711859B4385B250A_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591199075",
+    "formattedName": "",
+    "displayName": "",
+    "messageTime": "2026-06-08 14:00:46",
+    "messageType": "chat",
+    "messageBody": "Blz",
+    "messageId": "false_120363410272837567@g.us_3A7B8DA9D27DB6B06098_205707492200471@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-08 14:07:17",
+    "messageType": "chat",
+    "messageBody": "Te mandar uma foto minha kkkkk q ai num fico só de costa",
+    "messageId": "false_120363410272837567@g.us_AC3611A5DCB7F5D7CC7F74A44C18B974_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 14:07:24",
+    "messageType": "chat",
+    "messageBody": "ahh kkkk ok",
+    "messageId": "true_120363410272837567@g.us_3EB0F2C41BE52CA25C8E38_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-08 14:08:58",
+    "messageType": "chat",
+    "messageBody": "【IMAGE】",
+    "messageId": "false_120363410272837567@g.us_ACE870F76078FADC213BA72DBFB503D2_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557499574557",
+    "formattedName": "",
+    "displayName": "",
+    "messageTime": "2026-06-08 14:33:13",
+    "messageType": "chat",
+    "messageBody": "Depois dessa vou correndo pra uma academia,  rsrsrs",
+    "messageId": "false_120363410272837567@g.us_A5ED3D7338D69CDD815F3706D94B93DA_252518374342768@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557499574557",
+    "formattedName": "",
+    "displayName": "",
+    "messageTime": "2026-06-08 14:33:53",
+    "messageType": "chat",
+    "messageBody": "👏👏👏👏👏",
+    "messageId": "false_120363410272837567@g.us_A5FA705E936EFF639EC4380CCF57FC74_252518374342768@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 14:52:46",
+    "messageType": "chat",
+    "messageBody": "o professor falou como poderia ser os protótipos?",
+    "messageId": "true_120363410272837567@g.us_3EB016FE5C6D2C4F97348A_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-08 14:53:23",
+    "messageType": "chat",
+    "messageBody": "Não que eu me recorde. Mas depois que fizermos, tenho umas ideias visuais.",
+    "messageId": "false_120363410272837567@g.us_AC4E735752B136026A667D7E4FE781DB_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-08 14:53:35",
+    "messageType": "chat",
+    "messageBody": "Tipo como,seria nosso app e tals.",
+    "messageId": "false_120363410272837567@g.us_AC402D3E7AC0FF2C492D3F1651659EAC_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591199075",
+    "formattedName": "",
+    "displayName": "",
+    "messageTime": "2026-06-08 15:59:11",
+    "messageType": "chat",
+    "messageBody": "Cara a gente pode fazer umas telas no figma",
+    "messageId": "false_120363410272837567@g.us_3A0F0AC7699568423C91_205707492200471@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591199075",
+    "formattedName": "",
+    "displayName": "",
+    "messageTime": "2026-06-08 15:59:17",
+    "messageType": "chat",
+    "messageBody": "Se for oque eu to pensando",
+    "messageId": "false_120363410272837567@g.us_3AEB4963D767ECD2D542_205707492200471@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-08 16:03:51",
+    "messageType": "chat",
+    "messageBody": "Tava pensando nele mesmo.",
+    "messageId": "false_120363410272837567@g.us_3EB0B2BEBA0A304266A763_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557183935077",
+    "formattedName": "+55 71 8393-5077",
+    "displayName": "Núbia de Asiká",
+    "messageTime": "2026-06-08 16:08:44",
+    "messageType": "chat",
+    "messageBody": "Boa tarde, pessoal.",
+    "messageId": "false_120363410272837567@g.us_A5D0F61BD160744271E5F9BFC59423B2_234711976816688@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557183935077",
+    "formattedName": "+55 71 8393-5077",
+    "displayName": "Núbia de Asiká",
+    "messageTime": "2026-06-08 16:10:20",
+    "messageType": "chat",
+    "messageBody": "Certo, vou responder o forms e também enviar minha foto.\nObs: interessante a ideia de ser em vídeo...",
+    "messageId": "false_120363410272837567@g.us_A5E327F9EDA4A9B41207FC99B4BCB30F_234711976816688@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557183935077",
+    "formattedName": "+55 71 8393-5077",
+    "displayName": "Núbia de Asiká",
+    "messageTime": "2026-06-08 16:14:52",
+    "messageType": "chat",
+    "messageBody": "Já respondi, bacana.",
+    "messageId": "false_120363410272837567@g.us_A58DB68171B7967C19FE64E6D76691A9_234711976816688@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 16:16:03",
+    "messageType": "chat",
+    "messageBody": "Demonstração (inspiração) sobre como podemos fazer os videos.",
+    "messageId": "true_120363410272837567@g.us_3EB076FF9C722A9811E010_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 16:16:13",
+    "messageType": "chat",
+    "messageBody": "【VIDEO】",
+    "messageId": "true_120363410272837567@g.us_3EB0F72C9888E122737885_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557183935077",
+    "formattedName": "+55 71 8393-5077",
+    "displayName": "Núbia de Asiká",
+    "messageTime": "2026-06-08 16:18:57",
+    "messageType": "chat",
+    "messageBody": "Gostei, qual IA você utiliza?",
+    "messageId": "false_120363410272837567@g.us_A5B0071CC102A68C5735450E3D175D8C_234711976816688@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 16:19:27",
+    "messageType": "chat",
+    "messageBody": "【VIDEO】",
+    "messageId": "true_120363410272837567@g.us_3EB065003E9C5A3B006D76_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 16:19:50",
+    "messageType": "chat",
+    "messageBody": "Gemini 3.5 pro",
+    "messageId": "true_120363410272837567@g.us_3EB0845AE6D1A521A4CD83_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 16:20:33",
+    "messageType": "chat",
+    "messageBody": "【IMAGE】",
+    "messageId": "true_120363410272837567@g.us_3EB0B60034EF9EC11E2D1F_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 16:26:35",
+    "messageType": "chat",
+    "messageBody": "【IMAGE】",
+    "messageId": "true_120363410272837567@g.us_3EB0C3B6A1A85665654780_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-08 16:59:24",
+    "messageType": "chat",
+    "messageBody": "Cara, vc tem q me ensinar a fz isso. Kkkk",
+    "messageId": "false_120363410272837567@g.us_AC4CE656800F51AA5DFA99CBFB5AAFCD_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-08 17:00:14",
+    "messageType": "chat",
+    "messageBody": "Gostei!!",
+    "messageId": "false_120363410272837567@g.us_AC856651F4C1E70E90AE19ECAAF1E6DF_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-08 17:00:44",
+    "messageType": "chat",
+    "messageBody": "Massa",
+    "messageId": "false_120363410272837567@g.us_AC1FA607D5274301216B300818433F13_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557583514438",
+    "formattedName": "+55 75 8351-4438",
+    "displayName": "Marcos Vinícius 🦁",
+    "messageTime": "2026-06-08 18:58:00",
+    "messageType": "chat",
+    "messageBody": "Boa noite",
+    "messageId": "false_120363410272837567@g.us_ACFC12C5B149EC45E3DADFDA1D276C01_132405369286692@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557583514438",
+    "formattedName": "+55 75 8351-4438",
+    "displayName": "Marcos Vinícius 🦁",
+    "messageTime": "2026-06-08 18:58:28",
+    "messageType": "chat",
+    "messageBody": "Já tem alguma escolha pro problema?",
+    "messageId": "false_120363410272837567@g.us_ACCDF55C6CADA89871BFF0155FCE83F6_132405369286692@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 19:02:19",
+    "messageType": "chat",
+    "messageBody": "Boa, da uma olhada no que já documentamos, tem uma enquete para escola do tema e divisão de tarefas. https://github.com/Deivisan/Metodologia-EAD/blob/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/Index-Geral.md",
+    "messageId": "true_120363410272837567@g.us_AC5ECCD69A44FC99EC073653045508FE_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557583514438",
+    "formattedName": "+55 75 8351-4438",
+    "displayName": "Marcos Vinícius 🦁",
+    "messageTime": "2026-06-08 19:05:17",
+    "messageType": "chat",
+    "messageBody": "Ahh blz",
+    "messageId": "false_120363410272837567@g.us_ACCFA8C12962B54E12E5EC65D431AC03_132405369286692@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591199075",
+    "formattedName": "",
+    "displayName": "",
+    "messageTime": "2026-06-08 19:34:25",
+    "messageType": "chat",
+    "messageBody": "【PTT】",
+    "messageId": "false_120363410272837567@g.us_3A729ACDD3CA9D27D66F_205707492200471@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 19:35:57",
+    "messageType": "chat",
+    "messageBody": "Defina avaliar funcionário, pq pode virar perseguição, talvez já tenham pensado nisso e nunca tenham lançado por isso mesmo",
+    "messageId": "true_120363410272837567@g.us_AC6833D7A9A3B0FFF9ABF3F7AA3A897C_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591199075",
+    "formattedName": "",
+    "displayName": "",
+    "messageTime": "2026-06-08 19:44:34",
+    "messageType": "chat",
+    "messageBody": "Tem isso tbm",
+    "messageId": "false_120363410272837567@g.us_3A4D443536985D268C5F_205707492200471@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591040642",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
+    "messageTime": "2026-06-08 19:48:27",
+    "messageType": "chat",
+    "messageBody": "Top kkkkk",
+    "messageId": "false_120363410272837567@g.us_3AC94CB4015ED270E74C_267181392691367@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591040642",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
+    "messageTime": "2026-06-08 19:52:53",
+    "messageType": "chat",
+    "messageBody": "Não tem o estágio probatório? No serviço público, na área educional, o profissional precisa se submeter a uma banca de avaliação quanto ao seu memorial pra justificar avançar no plano de cargos ou mesmo ser efetivado após um período probatório. \n\nNa iniciativa privada, as organizações podem ter mecanismos de avaliação para justificar um desligamento etc.",
+    "messageId": "false_120363410272837567@g.us_3A1D3CE75A41851E39C3_267181392691367@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 19:57:26",
+    "messageType": "chat",
+    "messageBody": "【PTT】",
+    "messageId": "true_120363410272837567@g.us_ACEA96C57CBDFF53DC729286F81C875B_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 19:58:10",
+    "messageType": "chat",
+    "messageBody": "【PTT】",
+    "messageId": "true_120363410272837567@g.us_AC2A3269A0C7726AD3B16E7AD0F85D71_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591040642",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
+    "messageTime": "2026-06-08 20:23:44",
+    "messageType": "chat",
+    "messageBody": "A apresentação tem que ser em vídeo? Eu não me liguei nisso. Nós podemos perguntar à tutoria",
+    "messageId": "false_120363410272837567@g.us_3A22A01554EDA4678F6D_267181392691367@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 20:26:27",
+    "messageType": "chat",
+    "messageBody": "Sim e não, se não formos apresentar stremando a tela, as pessoas poderiam fazer em vídeo segundo o professor",
+    "messageId": "true_120363410272837567@g.us_AC2409FC8CDFF5BA84CD8D40DCFF5E2D_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 20:26:38",
+    "messageType": "chat",
+    "messageBody": "\"em vídeo\"  ficou ambíguo pra mim kkk",
+    "messageId": "true_120363410272837567@g.us_AC37FBBAFE803A49A45B5DED6B79B638_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-08 20:27:33",
+    "messageType": "chat",
+    "messageBody": "tem como colocar a nossa voz?",
+    "messageId": "false_120363410272837567@g.us_3EB03E12EB3B9C1234B892_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-08 20:27:49",
+    "messageType": "chat",
+    "messageBody": "acho q são abertos em relação a IA",
+    "messageId": "false_120363410272837567@g.us_3EB076B1A4DEB3A186885E_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-08 20:28:01",
+    "messageType": "chat",
+    "messageBody": "pq os planejamentos, os materiais q ele fornecem",
+    "messageId": "false_120363410272837567@g.us_3EB089279F309B285BEA60_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-08 20:28:17",
+    "messageType": "chat",
+    "messageBody": "grande parte é de inteligência artificial",
+    "messageId": "false_120363410272837567@g.us_3EB08D8397922078E711D2_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 20:30:37",
+    "messageType": "chat",
+    "messageBody": "Sim, atualmente existem bons modelos que atualmente clonam a voz da pessoa com apenas 3 segundos de amostra de áudio",
+    "messageId": "true_120363410272837567@g.us_ACD70F156C2ACEADAAF7A6ABDDD1CD56_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-08 20:32:05",
+    "messageType": "chat",
+    "messageBody": "Muito bacana!",
+    "messageId": "false_120363410272837567@g.us_3EB0A3FEBA1367BFDD1BCF_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-08 20:32:47",
+    "messageType": "chat",
+    "messageBody": "digo isso pois prefiro assim, eu teria que ser muito bom em sleep sync para ficar perfeitinho se fosse pra gravar o áudio antes p/ pós processamento do vídeo depois",
+    "messageId": "true_120363410272837567@g.us_AC38E18BC949B8F4CCBAF3D0656DC770_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-09 09:11:10",
+    "messageType": "chat",
+    "messageBody": "Bom dia, atualizei o index geral com o tema escolhido e divisão de tarefas.",
+    "messageId": "true_120363410272837567@g.us_ACA66AE28BAF781AA3D33FA0B9B43114_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-09 09:29:14",
+    "messageType": "chat",
+    "messageBody": "Bom diaa!",
+    "messageId": "false_120363410272837567@g.us_AC8B4AAE61E3DBEFE3BAD4FCAD33FBB9_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-09 09:29:18",
+    "messageType": "chat",
+    "messageBody": "Beleza!",
+    "messageId": "false_120363410272837567@g.us_AC4A02DE0EF4FBB41D35651CB1EAA538_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557183935077",
+    "formattedName": "+55 71 8393-5077",
+    "displayName": "Núbia de Asiká",
+    "messageTime": "2026-06-09 11:55:51",
+    "messageType": "chat",
+    "messageBody": "Bom dia, enviarei minha foto (não esqueci) e até o dia 13/06 envio os materiais.",
+    "messageId": "false_120363410272837567@g.us_A5A9614B43BD34D0B6F3ADA8C849F2EC_234711976816688@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557183935077",
+    "formattedName": "+55 71 8393-5077",
+    "displayName": "Núbia de Asiká",
+    "messageTime": "2026-06-09 12:07:03",
+    "messageType": "chat",
+    "messageBody": "【IMAGE】",
+    "messageId": "false_120363410272837567@g.us_A5AB92C4CC94972D15CDA9C36829C050_234711976816688@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557488217810",
+    "formattedName": "+55 74 8821-7810",
+    "displayName": "Jamile",
+    "messageTime": "2026-06-09 22:44:44",
+    "messageType": "chat",
+    "messageBody": "Boa noite",
+    "messageId": "false_120363410272837567@g.us_AC46D47EE1CF24204319011E477482FE_77734764109842@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-09 22:55:06",
+    "messageType": "chat",
+    "messageBody": "Boa noite",
+    "messageId": "true_120363410272837567@g.us_3EB06DFB85B2A9E95CE7C4_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591040642",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
+    "messageTime": "2026-06-09 23:21:13",
+    "messageType": "chat",
+    "messageBody": "Oi, pessoal. Boa noite.\n\n@234711976816688, você vai fazer uma pesquisa e eu faço outra? Você pensou em alguma logística?",
+    "messageId": "false_120363410272837567@g.us_3ADE3DAF2A1BC832A8A1_267181392691367@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591040642",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
+    "messageTime": "2026-06-09 23:21:41",
+    "messageType": "chat",
+    "messageBody": "Estamos eu e você com a atribuição de pesquisar o problema real: dados sobre filas em saúde, artigos, notícias",
+    "messageId": "false_120363410272837567@g.us_3A5EF02AFF907BACD4EA_267181392691367@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557183935077",
+    "formattedName": "+55 71 8393-5077",
+    "displayName": "Núbia de Asiká",
+    "messageTime": "2026-06-10 09:19:47",
+    "messageType": "chat",
+    "messageBody": "Bom dia.",
+    "messageId": "false_120363410272837567@g.us_A556E972A2D2EF2E013FAA5F949E88D9_234711976816688@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-10 09:20:08",
+    "messageType": "chat",
+    "messageBody": "Bom dia!",
+    "messageId": "false_120363410272837567@g.us_3EB0199C129F6FA7215139_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557183935077",
+    "formattedName": "+55 71 8393-5077",
+    "displayName": "Núbia de Asiká",
+    "messageTime": "2026-06-10 09:21:31",
+    "messageType": "chat",
+    "messageBody": "Olá, @267181392691367.\nPodemos dividir a pesquisa. Mas, não pensei em nenhuma logística...",
+    "messageId": "false_120363410272837567@g.us_A5919F056ADA719633084B225765A319_234711976816688@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557183935077",
+    "formattedName": "+55 71 8393-5077",
+    "displayName": "Núbia de Asiká",
+    "messageTime": "2026-06-10 09:34:21",
+    "messageType": "chat",
+    "messageBody": "Uma sugestão: seguindo o que Deivison colocou, talvez seja melhor a gente dividir a pesquisa, ficando  cada um com uma parte, o que acha?\n\"  - Pesquisar o problema real\t- casos-existentes.md;\n - Levantar referências -\treferencias-web.\"",
+    "messageId": "false_120363410272837567@g.us_A53CCFCB8C8357D2F0C5070A9F17EF12_234711976816688@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591040642",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
+    "messageTime": "2026-06-10 09:37:42",
+    "messageType": "chat",
+    "messageBody": "Bom dia. Acredito que quando levantarmos o problema, já teremos as referências.",
+    "messageId": "false_120363410272837567@g.us_3A754A4E7CF2E57AF681_267181392691367@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591040642",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
+    "messageTime": "2026-06-10 09:38:08",
+    "messageType": "chat",
+    "messageBody": "Eu pensei em levantar o problema pesquisando em artigos, o que já seria as referências.",
+    "messageId": "false_120363410272837567@g.us_3A5BB344E650A927F0C8_267181392691367@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557183935077",
+    "formattedName": "+55 71 8393-5077",
+    "displayName": "Núbia de Asiká",
+    "messageTime": "2026-06-10 09:51:17",
+    "messageType": "chat",
+    "messageBody": "Certo, posso pesquisar se tem: notícias, livros...",
+    "messageId": "false_120363410272837567@g.us_A5AF36D1DB765BB44CAF8B5CCAA40209_234711976816688@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-10 16:34:48",
+    "messageType": "chat",
+    "messageBody": "Boa tarde pesoal",
+    "messageId": "true_120363410272837567@g.us_3EB0E2599904360DD27779_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-10 16:36:06",
+    "messageType": "chat",
+    "messageBody": "【VIDEO】",
+    "messageId": "true_120363410272837567@g.us_3EB08597C3CDAF8D4CDF94_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-10 16:42:13",
+    "messageType": "chat",
+    "messageBody": "Cara, muito legal!",
+    "messageId": "false_120363410272837567@g.us_3EB0A346D11FD910A86E31_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-10 16:42:21",
+    "messageType": "chat",
+    "messageBody": "vc paga algum plano de IA pra fz?",
+    "messageId": "false_120363410272837567@g.us_3EB0F23797B134AADBCE93_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-10 16:42:35",
+    "messageType": "chat",
+    "messageBody": "não, uso todas gratuitas",
+    "messageId": "true_120363410272837567@g.us_3EB0A523EE3C7B9EC6424A_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-10 16:42:55",
+    "messageType": "chat",
+    "messageBody": "【IMAGE】",
+    "messageId": "true_120363410272837567@g.us_3EB07027D79237C6830DD7_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-10 16:45:25",
+    "messageType": "chat",
+    "messageBody": "em qual IA ?",
+    "messageId": "false_120363410272837567@g.us_3EB0FC39B812F5BB7BC7BB_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-10 16:45:35",
+    "messageType": "chat",
+    "messageBody": "Grok , a do elon musk",
+    "messageId": "true_120363410272837567@g.us_3EB06407A28EED4E584F5C_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-10 16:45:55",
+    "messageType": "chat",
+    "messageBody": "muito bacana!! vou testar.",
+    "messageId": "false_120363410272837567@g.us_3EB0FA5D87D971391C5B7F_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-10 16:46:07",
+    "messageType": "chat",
+    "messageBody": "【VIDEO】",
+    "messageId": "true_120363410272837567@g.us_3EB047F177069831C34F05_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-10 16:47:33",
+    "messageType": "chat",
+    "messageBody": "【PTT】",
+    "messageId": "true_120363410272837567@g.us_3EB007520A9995EE57094C_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-10 16:50:16",
+    "messageType": "chat",
+    "messageBody": "Verdade, tem esses detalhes assim né.",
+    "messageId": "false_120363410272837567@g.us_3EB08B719F62FD7438E776_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-10 16:50:43",
+    "messageType": "chat",
+    "messageBody": "as vezes prompt padrões de coisas que devem se manter na cena",
+    "messageId": "false_120363410272837567@g.us_3EB042FAD93804841D310A_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-10 16:50:45",
+    "messageType": "chat",
+    "messageBody": "mas pra essa criação preciso dos textos, dos resumos, das criações do pessoal todas bem arquitetadas pra bolar um bom roteiro, nao so de uma pessoa aparecendo, mas nessa parte, especificamente desse segundo video , poderia vir rios ou outra pessoa te mostrar o app para acompanhar a fila e tals",
+    "messageId": "true_120363410272837567@g.us_3EB05954B983C9E7F29EA6_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-10 16:50:48",
+    "messageType": "chat",
+    "messageBody": "talvez resolva",
+    "messageId": "false_120363410272837567@g.us_3EB0707FEE69DDB0CF5603_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-10 16:51:06",
+    "messageType": "chat",
+    "messageBody": "Sim sim",
+    "messageId": "false_120363410272837567@g.us_3EB0952FE63011B888D5D8_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557592637549",
+    "formattedName": "+55 75 9263-7549",
+    "displayName": "Wallace",
+    "messageTime": "2026-06-10 17:03:17",
+    "messageType": "chat",
+    "messageBody": "Fica bem didática essa ideia do antes e depois da solução, acho que vai funcionar bem na apresentação",
+    "messageId": "false_120363410272837567@g.us_3A5210180FC052A5ED33_154296817610846@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-10 17:06:46",
+    "messageType": "revoked",
+    "messageId": "true_120363410272837567@g.us_AC39B14DB3987EA065DBB870D228AA27_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591199075",
+    "formattedName": "",
+    "displayName": "",
+    "messageTime": "2026-06-10 17:06:54",
+    "messageType": "chat",
+    "messageBody": "Que massa kkkk",
+    "messageId": "false_120363410272837567@g.us_3A38851B64133D171DD9_205707492200471@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591199075",
+    "formattedName": "",
+    "displayName": "",
+    "messageTime": "2026-06-10 17:07:06",
+    "messageType": "chat",
+    "messageBody": "@69097484214315 a parte de cada está no GitHub?",
+    "messageId": "false_120363410272837567@g.us_3A7F7A297360545289D6_205707492200471@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591199075",
+    "formattedName": "",
+    "displayName": "",
+    "messageTime": "2026-06-10 17:07:20",
+    "messageType": "chat",
+    "messageBody": "Dps vamos marcar um dia para entrar num ligação",
+    "messageId": "false_120363410272837567@g.us_3A8909CC97196105B40B_205707492200471@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591199075",
+    "formattedName": "",
+    "displayName": "",
+    "messageTime": "2026-06-10 17:07:25",
+    "messageType": "chat",
+    "messageBody": "Para conversar sobre",
+    "messageId": "false_120363410272837567@g.us_3A54B23BCF0CB8250DBC_205707492200471@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-10 17:07:30",
+    "messageType": "chat",
+    "messageBody": "【VIDEO】",
+    "messageId": "true_120363410272837567@g.us_AC715904B974C9A2F59B1616D7EA5145_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591199075",
+    "formattedName": "",
+    "displayName": "",
+    "messageTime": "2026-06-10 17:07:30",
+    "messageType": "chat",
+    "messageBody": "Acho que seria interessante",
+    "messageId": "false_120363410272837567@g.us_3A6222944133057E60CA_205707492200471@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-10 17:07:43",
+    "messageType": "chat",
+    "messageBody": "Sim vamos, um meet",
+    "messageId": "true_120363410272837567@g.us_AC5720932B22B76128D3D301382EABED_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-10 17:08:56",
+    "messageType": "chat",
+    "messageBody": "【PTT】",
+    "messageId": "true_120363410272837567@g.us_AC291F9B5B4E1319CE74525608A1A4EB_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-10 17:09:06",
+    "messageType": "chat",
+    "messageBody": "Sim",
+    "messageId": "true_120363410272837567@g.us_ACF4D4C5D091D338849F6D0C3CC8CC90_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591040642",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
+    "messageTime": "2026-06-10 17:15:01",
+    "messageType": "chat",
+    "messageBody": "Perguntei a nossa tutora se podemos apresentar com vídeos feitos por IA e ela ficou de consultar o professor e dar a devolutiva depois",
+    "messageId": "false_120363410272837567@g.us_3A024F167CA275382F4C_267181392691367@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-10 17:15:34",
+    "messageType": "chat",
+    "messageBody": "entendi",
+    "messageId": "true_120363410272837567@g.us_3EB0D46434379C9A75A205_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-10 17:15:41",
+    "messageType": "chat",
+    "messageBody": "aqui pelo cetens perguntei pra dois professores do nosso curso",
+    "messageId": "true_120363410272837567@g.us_3EB00053ECA0144CE0BEFB_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-10 17:15:44",
+    "messageType": "chat",
+    "messageBody": "tbm ngm sabe se pode",
+    "messageId": "true_120363410272837567@g.us_3EB019EE422ED4EA98CE86_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-10 17:15:44",
+    "messageType": "chat",
+    "messageBody": "kkk",
+    "messageId": "true_120363410272837567@g.us_3EB0B19CF96D489CC25329_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-10 17:24:14",
+    "messageType": "chat",
+    "messageBody": "【IMAGE】",
+    "messageId": "false_120363410272837567@g.us_3EB06B4024C7969BC34E8A_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-10 17:24:29",
+    "messageType": "chat",
+    "messageBody": "eu to usando esse trial de 3 dias",
+    "messageId": "true_120363410272837567@g.us_3EB080647A54042D952C71_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-10 17:24:44",
+    "messageType": "chat",
+    "messageBody": "o meu gemini so gera  no maximo 3 videos por dia",
+    "messageId": "true_120363410272837567@g.us_3EB0C3E9D11EF9A10DA589_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-10 17:25:14",
+    "messageType": "chat",
+    "messageBody": "Aah sim",
+    "messageId": "false_120363410272837567@g.us_3EB0C0DD979A0E51B49924_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-10 17:25:19",
+    "messageType": "chat",
+    "messageBody": "obrigada!",
+    "messageId": "false_120363410272837567@g.us_3EB0275A58537BEC6A6C7E_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591040642",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
+    "messageTime": "2026-06-11 11:12:54",
+    "messageType": "chat",
+    "messageBody": "Olá Raimon, bom dia! Tudo bem?\n\nProfessor André me disse que podem fazer o vídeo usando IA, mas vocês precisam narrar o vídeo ou explicar, aparecendo uma janelinha no canto do vídeo.",
+    "messageId": "false_120363410272837567@g.us_3A9A3BB404AD0FD46C8A_267181392691367@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591040642",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
+    "messageTime": "2026-06-11 11:13:30",
+    "messageType": "chat",
+    "messageBody": "A resposta da tutora sobre o uso de vídeo feito na IA na nossa apresentação ☝🏼",
+    "messageId": "false_120363410272837567@g.us_3AD68D0171B66042A4CD_267181392691367@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-11 11:19:15",
+    "messageType": "chat",
+    "messageBody": "se quiserem eu posso narrar o vídeo.",
+    "messageId": "false_120363410272837567@g.us_3EB02C6A0028BCDBDB892C_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-11 11:19:23",
+    "messageType": "chat",
+    "messageBody": "caso não precise q seja todo mundo",
+    "messageId": "false_120363410272837567@g.us_3EB079A6CD104E292BDB61_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591040642",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
+    "messageTime": "2026-06-11 11:20:30",
+    "messageType": "chat",
+    "messageBody": "Eu entendi que podemos usar imagens, desde que seja como se fosse uma videoaula onde aparecemos explicando",
+    "messageId": "false_120363410272837567@g.us_3EB01B6795F1FA1CE327FF_267181392691367@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557183935077",
+    "formattedName": "+55 71 8393-5077",
+    "displayName": "Núbia de Asiká",
+    "messageTime": "2026-06-11 13:36:45",
+    "messageType": "chat",
+    "messageBody": "Boa tarde, pessoal.",
+    "messageId": "false_120363410272837567@g.us_A580B5CFB214FD8EA14370A891699F2E_234711976816688@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557183935077",
+    "formattedName": "+55 71 8393-5077",
+    "displayName": "Núbia de Asiká",
+    "messageTime": "2026-06-11 13:37:46",
+    "messageType": "chat",
+    "messageBody": "O docente de Projeto de Algorit I é Alex Ferreira.",
+    "messageId": "false_120363410272837567@g.us_A5B134B7C41DC24DB3E6BC88164BC5F3_234711976816688@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557183935077",
+    "formattedName": "+55 71 8393-5077",
+    "displayName": "Núbia de Asiká",
+    "messageTime": "2026-06-11 13:42:17",
+    "messageType": "chat",
+    "messageBody": "Iniciei a pesquisa do problema real e dos casos existentes, vou enviar abaixo.\nObs: separei por tópicos de fonte, colocando o nome e o link para \"facilitar\".",
+    "messageId": "false_120363410272837567@g.us_A5D4307FAEAF682BB9D1A598A620F58B_234711976816688@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557183935077",
+    "formattedName": "+55 71 8393-5077",
+    "displayName": "Núbia de Asiká",
+    "messageTime": "2026-06-11 13:43:30",
+    "messageType": "chat",
+    "messageBody": "【DOCUMENT / Pesquisa (problema real) - dados sobre filas em saúde.doc】",
+    "messageId": "false_120363410272837567@g.us_A52E8AB23E82A34D7CAB51D3E5C04D8D_234711976816688@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557183935077",
+    "formattedName": "+55 71 8393-5077",
+    "displayName": "Núbia de Asiká",
+    "messageTime": "2026-06-11 13:44:55",
+    "messageType": "chat",
+    "messageBody": "@267181392691367, uma sugestão é ir preenchendo e modificando, pois talvez fique organizado para  todos da equipe.",
+    "messageId": "false_120363410272837567@g.us_A5BBBBF5C6D91609ED57728FFF12B479_234711976816688@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557183935077",
+    "formattedName": "+55 71 8393-5077",
+    "displayName": "Núbia de Asiká",
+    "messageTime": "2026-06-11 13:45:12",
+    "messageType": "chat",
+    "messageBody": "【DOCUMENT / Casos existentes (inclusão e diagnóstico) - sistemas semelhantes, soluções do mercado.doc】",
+    "messageId": "false_120363410272837567@g.us_A53DCCE9E2A98048EAF11DB433EACA51_234711976816688@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557183935077",
+    "formattedName": "+55 71 8393-5077",
+    "displayName": "Núbia de Asiká",
+    "messageTime": "2026-06-11 13:47:09",
+    "messageType": "chat",
+    "messageBody": "@134415497859163, como sugestão também indico o preenchimento e a modificação, pois fica em um só documento para a equipe.",
+    "messageId": "false_120363410272837567@g.us_A581938514F2980A848F93EE00B04483_234711976816688@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557592637549",
+    "formattedName": "+55 75 9263-7549",
+    "displayName": "Wallace",
+    "messageTime": "2026-06-11 13:50:50",
+    "messageType": "chat",
+    "messageBody": "Seria legal colocar no Google docs, que fica online e a gente já vai editando em um documento só",
+    "messageId": "false_120363410272837567@g.us_3AD1FB95941DF5E1D53B_154296817610846@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557183935077",
+    "formattedName": "+55 71 8393-5077",
+    "displayName": "Núbia de Asiká",
+    "messageTime": "2026-06-11 13:51:27",
+    "messageType": "chat",
+    "messageBody": "Sim, farei isso.",
+    "messageId": "false_120363410272837567@g.us_A53CADEC35856FD7A10C8D282B9B5BF1_234711976816688@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557183935077",
+    "formattedName": "+55 71 8393-5077",
+    "displayName": "Núbia de Asiká",
+    "messageTime": "2026-06-11 14:07:20",
+    "messageType": "chat",
+    "messageBody": "Pesquisa (problema real): dados sobre filas em saúde.\n\nhttps://docs.google.com/document/d/1jrKcEVSVe25k4PRg3pr_WbrK1pIwx_i76K6i3O_6_Js/edit?usp=sharing",
+    "messageId": "false_120363410272837567@g.us_A54C3BE5E30FAC9946A44F692D1B67A6_234711976816688@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557183935077",
+    "formattedName": "+55 71 8393-5077",
+    "displayName": "Núbia de Asiká",
+    "messageTime": "2026-06-11 14:08:07",
+    "messageType": "chat",
+    "messageBody": "Casos existentes (inclusão e diagnóstico): sistemas semelhantes, soluções do mercado.\n\nhttps://docs.google.com/document/d/1mSFvxPnuMh5f13xKnHx1B3A1n4uhkBJokg0afE9Tdgw/edit?usp=sharing",
+    "messageId": "false_120363410272837567@g.us_A543ABBE293C5CA41B622AA26AD62E61_234711976816688@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557583514438",
+    "formattedName": "+55 75 8351-4438",
+    "displayName": "Marcos Vinícius 🦁",
+    "messageTime": "2026-06-11 16:15:56",
+    "messageType": "chat",
+    "messageBody": "Boa tarde gente, tava olhando o git aqui, tô na parte do fluxograma e código C, o projeto é pra ter interface mesmo?",
+    "messageId": "false_120363410272837567@g.us_AC9BF43FF94B7F045AE413F93BCBD744_132405369286692@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557583514438",
+    "formattedName": "+55 75 8351-4438",
+    "displayName": "Marcos Vinícius 🦁",
+    "messageTime": "2026-06-11 16:17:21",
+    "messageType": "chat",
+    "messageBody": "Vi que tem gente com atribuição de prototipar telas no figma porém não sei fazer interface usando C 👀👄👀",
+    "messageId": "false_120363410272837567@g.us_AC61563B82A501D52FEF48F1B9180BDE_132405369286692@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-11 16:22:07",
+    "messageType": "chat",
+    "messageBody": "a gente descobre kkkk fica tranquilo",
+    "messageId": "false_120363410272837567@g.us_3EB09D90E68793143F0D21_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-11 16:22:17",
+    "messageType": "chat",
+    "messageBody": "Galera, depois vou ver as msg com calma, tá?",
+    "messageId": "false_120363410272837567@g.us_3EB0E2A721D005210D79BE_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-11 16:22:35",
+    "messageType": "chat",
+    "messageBody": "hoje o bicho tá pegando no serviço.",
+    "messageId": "false_120363410272837567@g.us_3EB0C4D199450966CF8702_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-11 16:23:13",
+    "messageType": "chat",
+    "messageBody": "Boa tarde",
+    "messageId": "true_120363410272837567@g.us_3EB039EE6F581D144A5953_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-11 16:23:18",
+    "messageType": "chat",
+    "messageBody": "vou dar umas ideias pra vcs do protótipo",
+    "messageId": "true_120363410272837567@g.us_3EB0A22E9E5D486F099F03_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-11 16:24:44",
+    "messageType": "chat",
+    "messageBody": "Mas pode ser em HTML ou no figma, o protótipo seria para mostrar visualmente nossa solução, a parte do código em C seria se nossa solução utilizasse código em C no beckend",
+    "messageId": "true_120363410272837567@g.us_AC9D45E6CB888CB6CD291A86C52109F0_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-11 16:30:11",
+    "messageType": "chat",
+    "messageBody": "【VIDEO】",
+    "messageId": "true_120363410272837567@g.us_AC6249CA4CE77711A04299C38A0C84A0_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-11 16:32:47",
+    "messageType": "chat",
+    "messageBody": "【VIDEO】",
+    "messageId": "true_120363410272837567@g.us_AC46E2035E8A00A5FC2E7224B3C1326C_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-11 18:04:22",
+    "messageType": "chat",
+    "messageBody": "O código não é obrigatório né? Protótipo só pra mostrar nossa ideia",
+    "messageId": "false_120363410272837567@g.us_ACF9D10437B599B59C80F0F5C475A0D1_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-11 18:05:05",
+    "messageType": "chat",
+    "messageBody": "Código não é obrigatório",
+    "messageId": "true_120363410272837567@g.us_AC12561CE34EE3C8824DE42C08985DD5_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-11 18:05:30",
+    "messageType": "chat",
+    "messageBody": "Se tiver de boa pra vc fazer o código C pode fazer, mas não é obrigatório",
+    "messageId": "true_120363410272837567@g.us_AC7C8098432691CE57243371802819E1_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-11 18:07:42",
+    "messageType": "chat",
+    "messageBody": "Massa, gostei! Podemos pensar em uma logo",
+    "messageId": "false_120363410272837567@g.us_AC479FDB5B066D407985EA13A95FC1C2_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-11 18:07:50",
+    "messageType": "chat",
+    "messageBody": "Vê se o nome vai ser esse tbm",
+    "messageId": "false_120363410272837567@g.us_ACFBAC4CA5110FB894AFAA739F847FF5_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-11 18:08:04",
+    "messageType": "chat",
+    "messageBody": "Etc",
+    "messageId": "false_120363410272837567@g.us_AC217FA7872BDADAF6B0016B7214F93A_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-11 23:03:36",
+    "messageType": "chat",
+    "messageBody": "Ei Galera, boa noite! Fds irei fazer minha parte e mandar aqui no grupo.",
+    "messageId": "false_120363410272837567@g.us_AC9F33D886E807D1F12E64DB698C4FC7_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591199075",
+    "formattedName": "",
+    "displayName": "",
+    "messageTime": "2026-06-12 09:27:28",
+    "messageType": "chat",
+    "messageBody": "fala galera, to dando um olhada aqui no projeto",
+    "messageId": "false_120363410272837567@g.us_3BA8A62D9C36670A2909_205707492200471@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591199075",
+    "formattedName": "",
+    "displayName": "",
+    "messageTime": "2026-06-12 09:28:25",
+    "messageType": "chat",
+    "messageBody": "a gente já possui o “como” vai funcionar nossa ideia? tava lendo aqui o nosso arquivo e não achei nada sobre. Estou perguntando porque estou junto com o brother na parte do fluxo gama e codigo",
+    "messageId": "false_120363410272837567@g.us_3B7BBAE2F0E67E1901BF_205707492200471@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591199075",
+    "formattedName": "",
+    "displayName": "",
+    "messageTime": "2026-06-12 09:28:48",
+    "messageType": "chat",
+    "messageBody": "que inclusive se formos fazer esse codigo msm, sugiro não fazer com C",
+    "messageId": "false_120363410272837567@g.us_3B4E08DFAEF98D96A949_205707492200471@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-12 09:47:54",
+    "messageType": "chat",
+    "messageBody": "Bom dia",
+    "messageId": "true_120363410272837567@g.us_ACD5609E47673F84462FD8D68DCF7FA1_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-12 10:29:42",
+    "messageType": "chat",
+    "messageBody": "Esse como vai funcionar meio que está aberto ainda, porque a gente vai depender da documentação principal, que é a proposta, que é a questão dos casos, o problema real, a gente identifica todos os problemas em si e o fluxograma mostrar todas as etapas dos problemas em si. No index geral tem um rascunho de como poderia ser arquitetado e como o que deveria ter ou não no fluxograma. Mas com base a gente vai mandando os arquivos aqui no grupo A gente vai evoluindo também as nossas próprias lógicas Por exemplo, vamos supor que tu faça um fluxograma agora com 10 etapas Aí depois a gente veja que na verdade precisa de mais 2 ou 3, entendeu? Isso aí vai crescendo conforme Aí acredito que até segunda a gente já vai ter até mesmo a questão da arte visual, né? Como é que tem que ser as cores de cada coisa pra não ficar distoante Pra, por exemplo, cada um não fazer em um estilo diferente Eu dei umas ideias de como poderia ser os slides, como poderia ser se fosse apresentação em vídeo, como poderia ser até o protótipo.",
+    "messageId": "true_120363410272837567@g.us_AC35C29B14716295C10F79F7F2D200E3_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-12 12:50:06",
+    "messageType": "poll_creation",
+    "messageId": "true_120363410272837567@g.us_3EB08065946467ACA4C5_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-12 12:50:27",
+    "messageType": "chat",
+    "messageBody": "escrevam ideias de nome da nossa solução, atualmente está *FilaClara*",
+    "messageId": "true_120363410272837567@g.us_3EB052E596E8CA9C15D5DF_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-12 12:50:47",
+    "messageType": "chat",
+    "messageBody": "podia ser FilaAcessível  , para reforçarmos a idéia de acessibilidade",
+    "messageId": "true_120363410272837567@g.us_3EB08CF8DE8DEF799E61AC_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-12 13:05:16",
+    "messageType": "chat",
+    "messageBody": "achei um pouco confuso o intuito da pergunta. Pode me explicar?",
+    "messageId": "false_120363410272837567@g.us_3EB0CE8E068A94981D605E_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-12 13:05:28",
+    "messageType": "chat",
+    "messageBody": "se faremos o codigo em C ou não",
+    "messageId": "true_120363410272837567@g.us_3EB0DA0EF50520A1E778AA_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-12 13:05:34",
+    "messageType": "chat",
+    "messageBody": "pois é opcional",
+    "messageId": "true_120363410272837567@g.us_3EB0E0F76DC8D7F7DAE45F_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-12 13:06:00",
+    "messageType": "chat",
+    "messageBody": "dps eu pergunto pra outras equipes se vão fazer, se todos forem fazer kk ferrou, mas se quase ngm for fazer, podemos não fazer tambem p/ não sobrecarregar",
+    "messageId": "true_120363410272837567@g.us_3EB04C6252C2E4E97AE74A_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591199075",
+    "formattedName": "",
+    "displayName": "",
+    "messageTime": "2026-06-12 13:06:04",
+    "messageType": "chat",
+    "messageBody": "Ent se a gente fizer o código",
+    "messageId": "false_120363410272837567@g.us_3A148AC870D87D43D10D_205707492200471@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591199075",
+    "formattedName": "",
+    "displayName": "",
+    "messageTime": "2026-06-12 13:06:14",
+    "messageType": "chat",
+    "messageBody": "Pode não ser em C?",
+    "messageId": "false_120363410272837567@g.us_3A5D4F7E4C381C48D340_205707492200471@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-12 13:06:48",
+    "messageType": "chat",
+    "messageBody": "não, segundo o prof tem q ser em C   , até pq é oque estamos estudando agr nas matérias",
+    "messageId": "true_120363410272837567@g.us_3EB0D92523698542D03B6B_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591199075",
+    "formattedName": "",
+    "displayName": "",
+    "messageTime": "2026-06-12 13:07:09",
+    "messageType": "chat",
+    "messageBody": "Oxe",
+    "messageId": "false_120363410272837567@g.us_3AAA87336AA657333818_205707492200471@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591199075",
+    "formattedName": "",
+    "displayName": "",
+    "messageTime": "2026-06-12 13:07:32",
+    "messageType": "chat",
+    "messageBody": "Eu lembro de no ava de projeto de algoritmo ele citar que se quiser fazer em outra linguagem podia, mas n tem nada n",
+    "messageId": "false_120363410272837567@g.us_3A78A5A9CC0E36230554_205707492200471@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-12 13:08:01",
+    "messageType": "chat",
+    "messageBody": "https://github.com/Deivisan/Metodologia-EAD/blob/main/transcricao-video-aa5xv9grsig.md     <",
+    "messageId": "true_120363410272837567@g.us_3EB05E126FF365019C5EC9_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591199075",
+    "formattedName": "",
+    "displayName": "",
+    "messageTime": "2026-06-12 13:08:15",
+    "messageType": "chat",
+    "messageBody": "Mas n tem B.O",
+    "messageId": "false_120363410272837567@g.us_3A577D873059703EB47D_205707492200471@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-12 13:08:25",
+    "messageType": "chat",
+    "messageBody": "【PTT】",
+    "messageId": "true_120363410272837567@g.us_3EB0546406C7975E75E0C2_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591199075",
+    "formattedName": "",
+    "displayName": "",
+    "messageTime": "2026-06-12 13:08:51",
+    "messageType": "chat",
+    "messageBody": "A gente pode ver até quando a gente entrega tudo, e se tiver de boa a gente faz um código",
+    "messageId": "false_120363410272837567@g.us_3A164E2F479C4A2A2011_205707492200471@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591199075",
+    "formattedName": "",
+    "displayName": "",
+    "messageTime": "2026-06-12 13:09:05",
+    "messageType": "chat",
+    "messageBody": "De boa",
+    "messageId": "false_120363410272837567@g.us_3A848B12D8FBDB370AE5_205707492200471@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591199075",
+    "formattedName": "",
+    "displayName": "",
+    "messageTime": "2026-06-12 13:09:50",
+    "messageType": "chat",
+    "messageBody": "To falando isso pq C é mt ruim para isso KKKK",
+    "messageId": "false_120363410272837567@g.us_3A4E4CBFA032C7C541BC_205707492200471@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-12 13:11:11",
+    "messageType": "chat",
+    "messageBody": "【IMAGE】",
+    "messageId": "false_120363410272837567@g.us_3EB07DB6E450622E8D11F3_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-12 13:12:10",
+    "messageType": "chat",
+    "messageBody": "Filei\nFil.Ai",
+    "messageId": "true_120363410272837567@g.us_3EB0EA72C3DCA71D23C2EE_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-12 13:12:23",
+    "messageType": "chat",
+    "messageBody": "e aí ter alguma opção de \"precisa de acessíbilidade?\" e ai direcionar para ter acessibilidade dependendo da necessidade",
+    "messageId": "false_120363410272837567@g.us_3EB0BC4F455BB76107D489_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591199075",
+    "formattedName": "",
+    "displayName": "",
+    "messageTime": "2026-06-12 13:12:42",
+    "messageType": "chat",
+    "messageBody": "Gostei desse fila livre",
+    "messageId": "false_120363410272837567@g.us_3AE98B4ACC16FFB9751D_205707492200471@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-12 13:14:06",
+    "messageType": "chat",
+    "messageBody": "【PTT】",
+    "messageId": "true_120363410272837567@g.us_3EB03330367D3675FA5DAF_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-12 13:21:50",
+    "messageType": "chat",
+    "messageBody": "Se quiser fazer o C, dá para fazer o códico mas o front-end não utiliza né?",
+    "messageId": "false_120363410272837567@g.us_3EB0B144F1F688031838C8_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591199075",
+    "formattedName": "",
+    "displayName": "",
+    "messageTime": "2026-06-12 13:22:27",
+    "messageType": "chat",
+    "messageBody": "Exato um “protótipo”",
+    "messageId": "false_120363410272837567@g.us_3ADD1F299CA96D48323D_205707492200471@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-12 13:22:55",
+    "messageType": "chat",
+    "messageBody": "eu vou escrever ainda as problemáticas pra gente poder decidir algumas coisas. e mando pra vocês aqui.",
+    "messageId": "false_120363410272837567@g.us_3EB066FE795953E63B4CF2_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591199075",
+    "formattedName": "",
+    "displayName": "",
+    "messageTime": "2026-06-12 13:23:14",
+    "messageType": "chat",
+    "messageBody": "Outra ruim do C é que ele n possui listas",
+    "messageId": "false_120363410272837567@g.us_3AC78A90F70B8F54E76B_205707492200471@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-12 13:23:21",
+    "messageType": "chat",
+    "messageBody": "tenho q terminar minha pesquisa a respeito tbm pra gente se basear em coisas  concretas",
+    "messageId": "false_120363410272837567@g.us_3EB000CE6B76EC340BEB0A_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591199075",
+    "formattedName": "",
+    "displayName": "",
+    "messageTime": "2026-06-12 13:23:26",
+    "messageType": "chat",
+    "messageBody": "Ou seja , n dá para fazer uma fila",
+    "messageId": "false_120363410272837567@g.us_3AE17C21CBF6887A681E_205707492200471@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-12 14:17:09",
+    "messageType": "chat",
+    "messageBody": "sobre o codigo emC,   votem,",
+    "messageId": "true_120363410272837567@g.us_3EB074827E370A78731D53_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591040642",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
+    "messageTime": "2026-06-12 15:18:19",
+    "messageType": "chat",
+    "messageBody": "Massa... depois podemos pensar em um função de agendamento por horário, tipo quando agendamos para irmos no barbeiro",
+    "messageId": "false_120363410272837567@g.us_3EB06729F0A70EDE60C08C_267181392691367@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591040642",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
+    "messageTime": "2026-06-12 15:18:46",
+    "messageType": "chat",
+    "messageBody": "Boa tarde, pessoal. Esses dias o trabalho está tenso. Mas, agora a tarde separei para produzir algo no arquivo do projeto",
+    "messageId": "false_120363410272837567@g.us_3EB0993B1132BD1D894B0E_267181392691367@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591040642",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
+    "messageTime": "2026-06-12 15:20:01",
+    "messageType": "chat",
+    "messageBody": "Está dando acesso negado",
+    "messageId": "false_120363410272837567@g.us_3EB0F731A79D1B9B3A2288_267181392691367@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591040642",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
+    "messageTime": "2026-06-12 15:20:12",
+    "messageType": "chat",
+    "messageBody": "Aqui também",
+    "messageId": "false_120363410272837567@g.us_3EB0474FD724730CCAA766_267181392691367@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591040642",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
+    "messageTime": "2026-06-12 15:22:34",
+    "messageType": "chat",
+    "messageBody": "Mais uma sugestão: AppFila",
+    "messageId": "false_120363410272837567@g.us_3EB055409F1A7D3E420016_267181392691367@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591040642",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
+    "messageTime": "2026-06-12 15:24:30",
+    "messageType": "chat",
+    "messageBody": "Eu votei \"não\" por ser opcional, mas se tivermos fôlego para fazer, acho que seria um diferencial",
+    "messageId": "false_120363410272837567@g.us_3EB02A705134360A0A6E08_267181392691367@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-12 15:30:23",
+    "messageType": "chat",
+    "messageBody": "Compartilho da mesma opinião.",
+    "messageId": "false_120363410272837567@g.us_ACB796E3BE16F89C2ACA87CC8086723F_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591199075",
+    "formattedName": "",
+    "displayName": "",
+    "messageTime": "2026-06-12 15:31:03",
+    "messageType": "chat",
+    "messageBody": "idem",
+    "messageId": "false_120363410272837567@g.us_3B1B2DF2C5704BF0503A_205707492200471@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591040642",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
+    "messageTime": "2026-06-12 15:33:26",
+    "messageType": "chat",
+    "messageBody": "Acabei de ver aqui na aula que o código pode ser em outra linguagem diferente de C",
+    "messageId": "false_120363410272837567@g.us_3EB0C3A9845273086E87CE_267181392691367@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-12 15:39:41",
+    "messageType": "chat",
+    "messageBody": "【DOCUMENT / relatorio_filas_inteligentes.pdf】",
+    "messageId": "false_120363410272837567@g.us_3EB07ADF7396E3C8F570E0_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-12 15:40:07",
+    "messageType": "chat",
+    "messageBody": "Pessoal, organizei aqui minhas ideias para pensarmos sobre como queremos fz",
+    "messageId": "false_120363410272837567@g.us_3EB0811B82FB09DB308771_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-12 15:40:10",
+    "messageType": "chat",
+    "messageBody": "e alinhar tudo.",
+    "messageId": "false_120363410272837567@g.us_3EB0429F139184BD2D0B92_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-12 15:40:30",
+    "messageType": "chat",
+    "messageBody": "pq só depois da gente ter as coisas bem concretas, como nome, por exemplo.",
+    "messageId": "false_120363410272837567@g.us_3EB08D8149E0322010298C_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-12 15:40:40",
+    "messageType": "chat",
+    "messageBody": "vou conseguir fazer o protótipo da tela",
+    "messageId": "false_120363410272837567@g.us_3EB05F8081B16E8F653A88_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-12 15:51:28",
+    "messageType": "chat",
+    "messageBody": "meu github",
+    "messageId": "false_120363410272837567@g.us_3EB0C900E2BCCD850ED01F_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-12 15:51:30",
+    "messageType": "chat",
+    "messageBody": "https://github.com/Ausiane",
+    "messageId": "false_120363410272837567@g.us_3EB0913E88A0EB363F336D_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-12 15:51:39",
+    "messageType": "chat",
+    "messageBody": "pra incluir lá",
+    "messageId": "false_120363410272837567@g.us_3EB05AAB3B467ADF5DB551_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591040642",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
+    "messageTime": "2026-06-12 16:11:36",
+    "messageType": "chat",
+    "messageBody": "eu estava entendendo nossa proposta um pouco diferente. Aqui você foi na linha de classificação de risco exclusivamente em serviços de urgência e emergência",
+    "messageId": "false_120363410272837567@g.us_3EB045C3DBCB5976307426_267181392691367@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591040642",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
+    "messageTime": "2026-06-12 16:13:14",
+    "messageType": "chat",
+    "messageBody": "eu estava entendendo nossa proposta mais da ideia de reduzir o tempo, o desconforto e as injustiças (no sentido de acessibilidade) na espera de atendimento. Na minha percepção inicial a gente não precisaria associar com classificação de risco.",
+    "messageId": "false_120363410272837567@g.us_3EB0D7835972D63930AC62_267181392691367@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591040642",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
+    "messageTime": "2026-06-12 16:14:07",
+    "messageType": "chat",
+    "messageBody": "Seria mais algo na linha de propor uma solução para organizar a fila.",
+    "messageId": "false_120363410272837567@g.us_3EB0F2FA07491877E4D001_267181392691367@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591040642",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
+    "messageTime": "2026-06-12 16:18:26",
+    "messageType": "chat",
+    "messageBody": "Mas, estou aberto a afinarmos as ideias ou posso ter entendido incialmente errado tbm",
+    "messageId": "false_120363410272837567@g.us_3EB08E02E4FD08BB51AEC8_267181392691367@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-12 16:18:41",
+    "messageType": "chat",
+    "messageBody": "Sim sim, num sei se coloquei no doc. Mas coloquei como uma ideia a mais pra se diferenciar de propostas que já existe",
+    "messageId": "false_120363410272837567@g.us_AC888A5A45D657611863690B8F55FB6C_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-12 16:18:47",
+    "messageType": "chat",
+    "messageBody": "Pq quando olhei nessas referências",
+    "messageId": "false_120363410272837567@g.us_AC2FF56AC4D016105D2D507656986501_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-12 16:19:11",
+    "messageType": "chat",
+    "messageBody": "Já tinha proposta exatamente assim. Daí coloquei algumas outras coisas para gente discutir",
+    "messageId": "false_120363410272837567@g.us_ACFDFBD7E3F3CAAA88F430A5E7291454_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-12 16:19:17",
+    "messageType": "chat",
+    "messageBody": "E pra caso o professor pergunte",
+    "messageId": "false_120363410272837567@g.us_AC4B7DE65318D627A206F9253331923D_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-12 16:19:25",
+    "messageType": "chat",
+    "messageBody": "Oq nossa solução se difere das demais",
+    "messageId": "false_120363410272837567@g.us_AC2BD37036F01357023D854BC82080B2_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-12 16:19:40",
+    "messageType": "chat",
+    "messageBody": "Achei bacana colocar uns questionamentos",
+    "messageId": "false_120363410272837567@g.us_AC2059AF8A6506CE0C05DED8BD2EBBC4_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-12 16:19:46",
+    "messageType": "chat",
+    "messageBody": "Pra gente pensar juntos",
+    "messageId": "false_120363410272837567@g.us_ACBEAAF88340A4D5AD18D6E01D3D40F2_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-12 16:20:06",
+    "messageType": "chat",
+    "messageBody": "E se preparar tbm pra alguns desses questionamentos",
+    "messageId": "false_120363410272837567@g.us_ACD829935C8CC4D70CFA985638CFFD21_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591040642",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
+    "messageTime": "2026-06-12 16:25:54",
+    "messageType": "chat",
+    "messageBody": "Entendi",
+    "messageId": "false_120363410272837567@g.us_3EB0CA68F1A0478FB465F7_267181392691367@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591040642",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
+    "messageTime": "2026-06-12 16:27:17",
+    "messageType": "chat",
+    "messageBody": "Vamos seguindo então no brainstorm  e depois afinamos todas as ideias.",
+    "messageId": "false_120363410272837567@g.us_3EB08142C227FEAC98D774_267181392691367@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591040642",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
+    "messageTime": "2026-06-12 16:35:20",
+    "messageType": "chat",
+    "messageBody": "Estou em dúvida sobre a questão das informações na parte de casos existentes, solicitados pelo professor. Esses casos existentes seriam soluções atuais disponíveis no mercado relacionadas ao contexto da proposta ou exemplos de casos do cotidiano onde o nosso problema é real?",
+    "messageId": "false_120363410272837567@g.us_3EB0507BDD269CFC3AF5E8_267181392691367@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591040642",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
+    "messageTime": "2026-06-12 16:37:01",
+    "messageType": "chat",
+    "messageBody": "Perguntei à tutora Lorena",
+    "messageId": "false_120363410272837567@g.us_3EB01021D9590796A83033_267181392691367@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-12 17:24:28",
+    "messageType": "chat",
+    "messageBody": "acredito que exemplos de casos que nossa solução seria útil",
+    "messageId": "true_120363410272837567@g.us_3EB0CF5E536A6008C3546B_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-12 17:28:18",
+    "messageType": "chat",
+    "messageBody": "Combinado!",
+    "messageId": "false_120363410272837567@g.us_AC855B59703915B6646AE57F698D4B95_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557183935077",
+    "formattedName": "+55 71 8393-5077",
+    "displayName": "Núbia de Asiká",
+    "messageTime": "2026-06-12 17:32:09",
+    "messageType": "chat",
+    "messageBody": "Deixei aberto, vou verificar o que aconteceu e informo.",
+    "messageId": "false_120363410272837567@g.us_A5F464EF420637279460331B3B5AB00D_234711976816688@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557183935077",
+    "formattedName": "+55 71 8393-5077",
+    "displayName": "Núbia de Asiká",
+    "messageTime": "2026-06-12 17:38:04",
+    "messageType": "chat",
+    "messageBody": "Entendi que são as soluções que já existem.",
+    "messageId": "false_120363410272837567@g.us_A528FC906FF57E313F5BF3F17738F95E_234711976816688@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557183935077",
+    "formattedName": "+55 71 8393-5077",
+    "displayName": "Núbia de Asiká",
+    "messageTime": "2026-06-12 17:43:18",
+    "messageType": "chat",
+    "messageBody": "Está público, mas para ter acesso precisa do e-mail de vocês.",
+    "messageId": "false_120363410272837567@g.us_A50F5A92191FB8658045B19A57377FF9_234711976816688@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557183935077",
+    "formattedName": "+55 71 8393-5077",
+    "displayName": "Núbia de Asiká",
+    "messageTime": "2026-06-12 17:44:00",
+    "messageType": "chat",
+    "messageBody": "Enviei também nesse formato.",
+    "messageId": "false_120363410272837567@g.us_A556BDC8CD22846B656F1E2832BD90A9_234711976816688@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557183935077",
+    "formattedName": "+55 71 8393-5077",
+    "displayName": "Núbia de Asiká",
+    "messageTime": "2026-06-12 17:44:55",
+    "messageType": "chat",
+    "messageBody": "Aqui também.",
+    "messageId": "false_120363410272837567@g.us_A583CFE24C864A8C341F5772E4F23B3D_234711976816688@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557183935077",
+    "formattedName": "+55 71 8393-5077",
+    "displayName": "Núbia de Asiká",
+    "messageTime": "2026-06-12 17:47:25",
+    "messageType": "chat",
+    "messageBody": "Não sei se tem como colocar no github para ficar editável.",
+    "messageId": "false_120363410272837567@g.us_A59A88AE835C94739589DE81C7C460D7_234711976816688@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-12 17:47:53",
+    "messageType": "chat",
+    "messageBody": "Eu atualizei o index geral com os links e arquivos recentes que mandaram aqui",
+    "messageId": "true_120363410272837567@g.us_AC4684E0D5B7B85E3F6DF01FC1BAF81F_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557183935077",
+    "formattedName": "+55 71 8393-5077",
+    "displayName": "Núbia de Asiká",
+    "messageTime": "2026-06-12 17:48:17",
+    "messageType": "chat",
+    "messageBody": "Em relação ao nome achei bacana FilaLivre.",
+    "messageId": "false_120363410272837567@g.us_A5541FD22B54467ABE662D80303C169C_234711976816688@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-12 17:48:36",
+    "messageType": "chat",
+    "messageBody": "Preferem ao invés do docs serem arquivos *.md fixos? To terminando de criar o Proposta.md @267181392691367",
+    "messageId": "true_120363410272837567@g.us_AC2C67A0602D7BAF1409508321E23A81_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-12 17:49:08",
+    "messageType": "revoked",
+    "messageId": "true_120363410272837567@g.us_3EB0C25E0FABA63B96927E_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557183935077",
+    "formattedName": "+55 71 8393-5077",
+    "displayName": "Núbia de Asiká",
+    "messageTime": "2026-06-12 17:49:27",
+    "messageType": "chat",
+    "messageBody": "Certo, tem tempo que utilizei o github, daí não lembro das funcionalidades...",
+    "messageId": "false_120363410272837567@g.us_A58E9F23A689F790BF27162E9E6B0975_234711976816688@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-12 17:54:05",
+    "messageType": "chat",
+    "messageBody": "https://github.com/Deivisan/Metodologia-EAD/blob/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/proposta.md",
+    "messageId": "true_120363410272837567@g.us_3EB0F8FB74659408C8B4E1_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591040642",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
+    "messageTime": "2026-06-12 18:13:07",
+    "messageType": "chat",
+    "messageBody": "Pessoal, fiz uma fundamentação também para o problema. Não sei onde inserir",
+    "messageId": "false_120363410272837567@g.us_3EB0917AA279EECA59D3E5_267181392691367@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591040642",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
+    "messageTime": "2026-06-12 18:13:21",
+    "messageType": "chat",
+    "messageBody": "Vou enviar o documento aqui.",
+    "messageId": "false_120363410272837567@g.us_3EB0F75B0F32D604A6760F_267181392691367@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-12 18:13:28",
+    "messageType": "chat",
+    "messageBody": "manda aqui, atualizo daquiapouco no github",
+    "messageId": "true_120363410272837567@g.us_3EB08AABBE1324605644DE_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591040642",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
+    "messageTime": "2026-06-12 18:13:30",
+    "messageType": "chat",
+    "messageBody": "@69097484214315 please kkk",
+    "messageId": "false_120363410272837567@g.us_3EB0C14FDB2A7FC8824C33_267181392691367@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591040642",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
+    "messageTime": "2026-06-12 18:15:06",
+    "messageType": "chat",
+    "messageBody": "Se nossa solução for um aplicativo para dispositivo móvel, podemos sinalizar o BYOD, utilizando gerenciamento de dispositivos móveis para acompanhamento de senha em tempo real.",
+    "messageId": "false_120363410272837567@g.us_3EB0BBEF79A9CD64F39278_267181392691367@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591040642",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
+    "messageTime": "2026-06-12 18:16:15",
+    "messageType": "revoked",
+    "messageId": "false_120363410272837567@g.us_3EB04AFCF7B2F2B06757B3_267181392691367@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591040642",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
+    "messageTime": "2026-06-12 18:17:30",
+    "messageType": "chat",
+    "messageBody": "Tentei elaborar uma contextualização para o problema baseado no que entendi sobre a proposta do grupo. Fundamentei com referências presentes na literatura. Fiquem à vontade para alterar ou sugerir adequações. Fiz na intenção da parte do *Problema*.",
+    "messageId": "false_120363410272837567@g.us_3EB0D87AAFCF4BADA213B9_267181392691367@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591040642",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
+    "messageTime": "2026-06-12 18:18:37",
+    "messageType": "chat",
+    "messageBody": "【DOCUMENT / Projeto Algorit 1.docx】",
+    "messageId": "false_120363410272837567@g.us_3EB0C80750FE855F463E35_267181392691367@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591040642",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
+    "messageTime": "2026-06-12 18:20:09",
+    "messageType": "chat",
+    "messageBody": "Estudando eu vi que quando nos referimos a filas no serviço de saúde, a literatura também se remete a filas esperando meses por um atendimento. Pelo que entendi, aqui nos referimos a filas presenciais, por isso, no texto eu tentei referir sempre como fila presencial para não confundir com o outro tipo.",
+    "messageId": "false_120363410272837567@g.us_3A395B832E399257A733_267181392691367@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557183935077",
+    "formattedName": "+55 71 8393-5077",
+    "displayName": "Núbia de Asiká",
+    "messageTime": "2026-06-14 09:40:52",
+    "messageType": "chat",
+    "messageBody": "Bom dia, pessoal.",
+    "messageId": "false_120363410272837567@g.us_A565370135CCBAC9DDEA0E69C3DF460F_234711976816688@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557183935077",
+    "formattedName": "+55 71 8393-5077",
+    "displayName": "Núbia de Asiká",
+    "messageTime": "2026-06-14 09:43:43",
+    "messageType": "chat",
+    "messageBody": "Sim, na pesquisa (problema real) e nos casos existentes também observei isso. Mas, mantive algumas referências em conjunto, pois talvez seja relevante pontuar no momento da apresentação.",
+    "messageId": "false_120363410272837567@g.us_A559A1E2DF14B937C295F721B13B3ACE_234711976816688@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591040642",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
+    "messageTime": "2026-06-14 09:52:57",
+    "messageType": "chat",
+    "messageBody": "Bom dia. Eu voltei a assistir o vídeo do professor Alex e entendi isso aqui também.",
+    "messageId": "false_120363410272837567@g.us_3AE2FFA05657C5A0F6B8_267181392691367@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-14 18:48:57",
+    "messageType": "chat",
+    "messageBody": "Boa noite, atualizei a documentação do grupo.",
+    "messageId": "true_120363410272837567@g.us_3EB03632BD361066E596BA_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-15 18:36:17",
+    "messageType": "chat",
+    "messageBody": "Boa noite!",
+    "messageId": "false_120363410272837567@g.us_ACB0420E28D1E17FD60A43FB7639F6DD_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-15 18:36:21",
+    "messageType": "chat",
+    "messageBody": "Vou dar uma olhada",
+    "messageId": "false_120363410272837567@g.us_AC7F394B36074C78B6E5E987F02B6D36_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-15 18:36:24",
+    "messageType": "chat",
+    "messageBody": "Boa noite",
+    "messageId": "true_120363410272837567@g.us_3EB0263E46E0FC5897A4AF_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-15 18:36:48",
+    "messageType": "chat",
+    "messageBody": "Jaja chego em casa e leio pra ver as atualizações.",
+    "messageId": "false_120363410272837567@g.us_AC500CA9172D063FB6830236F35EA794_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591040642",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
+    "messageTime": "2026-06-15 19:00:26",
+    "messageType": "chat",
+    "messageBody": "Boa noite, pessoal. A Lorena me respondeu com a mensagem que vou encaminhar sobre a dúvida quanto aos casos existentes",
+    "messageId": "false_120363410272837567@g.us_3ABAB6E4236957161A0D_267181392691367@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557591040642",
+    "formattedName": "+55 75 9104-0642",
+    "displayName": "Rios",
+    "messageTime": "2026-06-15 19:00:47",
+    "messageType": "chat",
+    "messageBody": "Boa tarde, Raimon.\n\nEu pedi a Leonardo, ele é o tutor da disciplina. \n\nA ideia é vocês analisarem um caso existente e propor a melhoria. Pode ser por meio de uma inovação (solução inovadora que ainda não existe e que vocês acham que vai resolver o problema) ou pode ser alguma solução que já exista e que vocês encontrem alguma proposta de melhoria do problema.",
+    "messageId": "false_120363410272837567@g.us_3A95A2E651FB1D4A2C5D_267181392691367@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557581231019",
+    "formattedName": "Você",
+    "displayName": "Deivison Santana",
+    "messageTime": "2026-06-15 19:01:56",
+    "messageType": "chat",
+    "messageBody": "Ok, dentro do que propomos de solução para as filas presenciais.",
+    "messageId": "true_120363410272837567@g.us_ACF6844C885C3CDC2B70DA6912478828_69097484214315@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+553182635743",
+    "formattedName": "+55 31 8263-5743",
+    "displayName": "Ausiane",
+    "messageTime": "2026-06-15 19:04:29",
+    "messageType": "chat",
+    "messageBody": "Ah, então eu num tava viajando não. Kkkk' era oq tinha falado msm.",
+    "messageId": "false_120363410272837567@g.us_AC8D696AF896D416EF145858E861EE98_134415497859163@lid"
+  },
+  {
+    "country": "Brazil",
+    "phoneNum": "+557499574557",
+    "formattedName": "",
+    "displayName": "",
+    "messageTime": "2026-06-16 12:12:04",
+    "messageType": "chat",
+    "messageBody": "Oi pessoal, estive um pouco ausente por conta do trabalho e algumas outras questões. \n\nVou me atualizar agora e ajudar no que for necessário.",
+    "messageId": "false_120363410272837567@g.us_A5BFD5979DEB1802696B23CEB5BD22B8_252518374342768@lid"
   }
 ]
