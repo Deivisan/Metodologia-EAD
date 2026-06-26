@@ -31,7 +31,7 @@ Esta divisão de tarefas não foi sorteada. Ela foi construída a partir de:
 | 2 | 📂 **Casos Existentes** | **Ausiane + Nubia** | 🟢 Dupla fixa |
 | 3 | ✍️ **Proposta e Diferencial da Solução** | **Deivison + Rios** | 🟢 Dupla fixa |
 | 4 | 🔀 **Fluxograma do Sistema** | **Artur + Marcos Vinicius** | 🟢 Dupla fixa |
-| 5 | 🎨 **Protótipo de Telas (Mockups)** | **Ausiane + Uelinton** | 🟢 Dupla fixa |
+| 5 | 🎨 **Protótipo de Telas (Mockups)** | **Ausiane + Uélinton** (Uélinton Cardoso Santana) | 🟢 Dupla fixa |
 | 6 | 💻 **Código em C** | **—** | ❌ **Cancelado** (decisão oficial do grupo em 12/06/2026) | Foco 100% nos entregáveis obrigatórios. Artur e Marcos Vinicius liberados.
 | 7 | 📊 **Slides e Apresentação** | **Uelinton + Wallace** | 🟢 Dupla fixa |
 | 8 | 📁 **Organização e Documentação** | **Deivison** | 🔵 Individual |

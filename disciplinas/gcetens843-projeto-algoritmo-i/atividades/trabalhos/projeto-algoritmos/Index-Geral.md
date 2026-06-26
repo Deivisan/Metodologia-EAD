@@ -38,7 +38,7 @@ A equipe está completa com **8 integrantes**. Cada um com suas responsabilidade
 - **📚 Nubia** — Pesquisa + Casos Existentes (inclusão e diagnósticos tardios)
 - **📊 Artur** — Fluxograma (perfil técnico). Antes se voluntariou também para Código C, mas o grupo decidiu cancelar essa entrega em 12/06/2026.
 - **🆕 Marcos Vinicius** — Fluxograma (entrou em 09/06 e se voluntariou para Código C + Fluxograma; após decisão de 12/06/2026 ficou apenas com Fluxograma).
-- **🎤 Uelinton** — Protótipo + Slides (engajado e disponível)
+- **🎤 Uélinton** (Uélinton Cardoso Santana) — Protótipo + Slides (engajado e disponível)
 - **👤 Wallace** — Slides (apoio)
 
 > 📋 [Ver divisão de tarefas completa com justificativas](divisao-de-tarefas.md)
@@ -75,6 +75,7 @@ A equipe está completa com **8 integrantes**. Cada um com suas responsabilidade
 | Decisões registradas | [`decisoes.md`](decisoes.md) | Deivison |
 | Histórico do WhatsApp | [`historico-whatsapp.json`](historico-whatsapp.json) | Deivison |
 | Contextualização do Problema (Rios) | [`problema-real.md`](problema-real.md) | Rios |
+| Fluxograma do sistema | [`fluxograma.md`](fluxograma.md) + [`assets/fluxograma.jpeg`](assets/fluxograma.jpeg) | Deivison (refatorado a partir do original) |
 
 ### ✅ Concluído nesta fase (09–13/jun)
 
@@ -105,10 +106,10 @@ A equipe está completa com **8 integrantes**. Cada um com suas responsabilidade
 |:------|:-------------|:-----:|:--------|
 | Proposta e diferencial | Deivison + Rios | 18/06 | — |
 | ✅ Fluxograma do sistema | Deivison (revisão do original de Artur + Marcos Vinicius) | 25/06 | [`fluxograma.md`](fluxograma.md) · [`assets/fluxograma.jpeg`](assets/fluxograma.jpeg) |
-| Protótipo de telas (Figma) | Ausiane + Uelinton | 25/06 | [`prototipo-telas.md`](prototipo-telas.md) |
+| Protótipo de telas (Figma) | Ausiane + Uélinton | 25/06 | [`prototipo-telas.md`](prototipo-telas.md) |
 | **Código em C** | — | — | ❌ **Cancelado** (decisão oficial do grupo em 12/06/2026 — foco nos obrigatórios) |
-| Slides da apresentação | Uelinton + Wallace | 28/06 | — |
-| Roteiro de apresentação | Uelinton + Wallace | 28/06 | [`roteiro-apresentacao.md`](roteiro-apresentacao.md) |
+| Slides da apresentação | Uélinton + Wallace | 28/06 | — |
+| Roteiro de apresentação | Uélinton + Wallace | 28/06 | [`roteiro-apresentacao.md`](roteiro-apresentacao.md) |
 
 > **Todos os arquivos deste repositório são vivos** e serão atualizados constantemente para refletir o estado atual do projeto.
 
@@ -158,12 +159,21 @@ Cada integrante deve:
 
 ---
 
-## 6. Status Atual (atualizado 16/06/2026)
+## 6. Status Atual (atualizado 25/06/2026)
 
 **Histórico do WhatsApp atualizado**  
-Arquivo `historico-whatsapp.json` foi substituído pelo export completo de 16/06/2026 (350 mensagens).
+Arquivo `historico-whatsapp.json` foi substituído pelo export de 25/06/2026 (**519 mensagens**, 05/06 a 25/06).
 
-### O que já está sólido (até 16/06)
+**Enquete de nomes do projeto**  
+Criada por Deivison em 17/06: [Google Forms](https://docs.google.com/forms/d/1WUZeQXdwwt9bzunqKoV18Fd1V8pdRj_dJxyWlW9CVEw).  
+Nomes sugeridos: **FilaAcessível** (Deivison), **Sistema Inteligente de Gestão de Filas Presenciais e Acessibilidade** (Rios), **Minha Fila** (Marcos Vinícius). Resultado pendente.
+
+**Uélinton Cardoso Santana** confirmou nome completo no grupo (25/06).
+
+**Fluxograma finalizado** ✅  
+Fluxo completo do sistema documentado em [`fluxograma.md`](fluxograma.md) com base no JPEG original.
+
+### O que já está sólido (até 25/06)
 
 - ✅ Tema escolhido + acessibilidade como pilar obrigatório (08/06)
 - ✅ **Problema real definido** (Rios, 12/06 — completo e ancorado):
