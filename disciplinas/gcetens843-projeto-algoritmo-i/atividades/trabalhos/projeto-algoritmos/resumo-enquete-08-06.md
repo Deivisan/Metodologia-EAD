@@ -3,8 +3,7 @@
 
 > **⚠️ SNAPSHOT HISTÓRICO**  
 > Este é um registro da enquete.  
-> **Todos os documentos do projeto são vivos** e serão atualizados constantemente conforme o grupo avança.  
-> Decisões atuais (incluindo cancelamento do Código em C em 12/06/2026) estão em [`decisoes.md`](decisoes.md) e [`Index-Geral.md`](Index-Geral.md).
+ Decisões atuais (incluindo cancelamento do Código em C em 12/06/2026) estão em [`decisoes.md`](decisoes.md) e [`Index-Geral.md`](Index-Geral.md).
 
 ============================================================
 

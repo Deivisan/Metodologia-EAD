@@ -1,4 +1,4 @@
-# Protótipo de Telas — FilaClara
+# Protótipo de Telas — MinhaFila
 
 > **Responsáveis:** Ausiane + Uelinton
 > **Status:** ✅ Protótipo inicial importado do Open Designer
@@ -8,23 +8,22 @@
 
 ## Objetivo
 
-Criar as telas (mockups) do sistema de Filas Inteligentes com foco em acessibilidade.
+Criar as telas (mockups) do sistema MinhaFila para gerenciamento inteligente de filas em múltiplos setores.
 
 ## Telas sugeridas
 
-- [ ] **Tela inicial** — boas-vindas, seleção de serviço
-- [ ] **Retirada de senha** — escolha do tipo de atendimento
-- [ ] **Acompanhamento da fila** — posição, tempo estimado
-- [ ] **Notificação** — alerta de vez próxima
-- [ ] **Painel da clínica/hospital** — visão geral das filas
-- [ ] **Configurações de acessibilidade** — contraste, texto ampliado, Libras
+- **Tela inicial** — boas-vindas, seleção do serviço/estabelecimento
+- **Retirada de senha** — escolha do tipo de atendimento
+- **Acompanhamento da fila** — posição, tempo estimado, atualizações em tempo real
+- **Notificação** — alerta de vez próxima (push, SMS ou WhatsApp)
+- **Painel do estabelecimento** — visão geral das filas ativas, tempo médio de espera
+- **Configurações de acessibilidade** — contraste, texto ampliado, navegação por teclado
 
 ## Requisitos de acessibilidade
-- Alto contraste
-- Texto ampliado
-- Suporte a leitores de tela
-- Sinalização visual (não só sonora)
-- Interface simples e intuitiva
+- Alto contraste e modos de exibição adaptáveis
+- Texto ampliado e suporte a leitores de tela
+- Sinalização visual e sonora
+- Interface simples, intuitiva e responsiva
 
 ## Ferramenta
 - **Figma** (conforme discutido no grupo)
@@ -32,8 +31,8 @@ Criar as telas (mockups) do sistema de Filas Inteligentes com foco em acessibili
 
 ## Protótipo importado
 
-- [`prototipo-filaclara-opendesigner/index.html`](prototipo-filaclara-opendesigner/index.html) — fluxo principal do paciente
-- [`prototipo-filaclara-opendesigner/admin.html`](prototipo-filaclara-opendesigner/admin.html) — painel demonstrativo da clínica
+- [`prototipo-minhafila/index.html`](prototipo-minhafila/index.html) — fluxo principal do usuário
+- [`prototipo-minhafila/admin.html`](prototipo-minhafila/admin.html) — painel demonstrativo do estabelecimento
 
 ---
 

@@ -1,12 +1,11 @@
 # 🔒 Apresentação Final
 
-> **Status:** pendente.  
-> Este documento organizará o material final da apresentação do grupo.
+> Organização do material final da apresentação do grupo.
 
 ## Slides ou formato final
 
-Pendente.
+A produzir.
 
 ## Observações
 
-Pendente.
+Em definição.

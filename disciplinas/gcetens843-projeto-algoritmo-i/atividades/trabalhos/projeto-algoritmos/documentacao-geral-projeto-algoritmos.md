@@ -1,13 +1,11 @@
 # Documentação Geral — Projeto Algoritmo I
 
-> **⚠️ AVISO IMPORTANTE (atualizado 12/06/2026)**  
-> Este documento foi criado no início do projeto.  
-> **Decisão oficial do grupo em 12/06/2026:** O grupo decidiu **NÃO entregar Código em C**.  
+> **⚠️ AVISO (atualizado 26/06/2026)**  
+> **Decisão do grupo:** Código em C **não será entregue**.  
 > O foco é exclusivamente nos entregáveis obrigatórios: Problema real, Casos existentes, Proposta, Fluxograma, Protótipo de telas e Apresentação.  
-> **Código em C está cancelado.** Não será implementado nem entregue.  
-> Para o estado atual do projeto, consulte sempre primeiro: [`Index-Geral.md`](Index-Geral.md) e [`decisoes.md`](decisoes.md).
+> Para o estado atual do projeto, consulte: [`Index-Geral.md`](Index-Geral.md) e [`decisoes.md`](decisoes.md).
 
-> Documento inicial para alinhamento do grupo e organização da apresentação.
+> Documento de referência do projeto.
 > Para visão geral atualizada do projeto, comece por: [`Index-Geral.md`](Index-Geral.md).
 
 ## Metadados do Trabalho
@@ -38,8 +36,6 @@ Equipe completa com **8 integrantes**:
 | **Marcos Vinicius** | Fluxograma |
 | **Uelinton** | Protótipo de Telas + Slides |
 | **Wallace** | Slides (apoio) |
-
-**Todos os documentos deste repositório são vivos** e serão atualizados conforme o projeto evolui.
 
 ---
 
@@ -158,7 +154,7 @@ Foram gerados screenshots do vídeo para apoiar a criação dos slides. Eles pod
 
 **Importante:** O grupo decidiu em 12/06/2026 **não realizar Código em C** em nenhum tema. 
 
-As ideias abaixo permanecem úteis apenas como referência de problemas reais. O foco do nosso projeto (Filas Inteligentes em Serviços de Saúde com Acessibilidade) está nos entregáveis obrigatórios: problema real, casos existentes, proposta, fluxograma, protótipo de telas e apresentação.
+As ideias abaixo permanecem úteis apenas como referência de problemas reais. O foco do nosso projeto (MinhaFila — Gerenciamento Inteligente de Filas Multissetorial) está nos entregáveis obrigatórios: problema real, casos existentes, proposta, fluxograma, protótipo de telas e apresentação.
 
 Não há mais planejamento de implementação em C.
 
@@ -178,8 +174,7 @@ Não há mais planejamento de implementação em C.
 | 6 | **Diferencial da proposta** | O que melhora, simplifica ou torna a solução útil |
 | 7 | **Fluxograma** | Funcionamento lógico da solução |
 | 8 | **Protótipo de telas** | Como o usuário interage com a proposta |
-| 9 | **Código / simulação** | ❌ **Cancelado** — Decisão do grupo em 12/06/2026. Não haverá código em C. |
-| 10 | **Conclusão** | Impacto esperado, limitações e próximos passos |
+| 9 | **Conclusão** | Impacto esperado, limitações e próximos passos |
 
 ### Cuidados com a Apresentação
 
@@ -189,64 +184,6 @@ Não há mais planejamento de implementação em C.
 - Evitar prometer um sistema completo se o grupo vai entregar apenas protótipo.
 - Se houver código, mostrar apenas a lógica principal e o resultado.
 - Dividir as falas para que todos os integrantes participem.
-
----
-
-## 8. Como Usar NotebookLM para Melhorar a Apresentação
-
-O grupo pode usar o **NotebookLM** como apoio para organizar fontes, transformar materiais em roteiro e revisar a apresentação.
-
-### Materiais para Adicionar no NotebookLM
-
-- Esta documentação geral;
-- Transcrição do vídeo;
-- Prints do vídeo;
-- Pesquisas de soluções parecidas na web;
-- Rascunho do fluxograma;
-- Descrição do protótipo;
-- Código em **C**, caso exista.
-
-### Prompts Úteis para NotebookLM
-
-```text
-Com base nos documentos enviados, crie um roteiro de apresentação de 10 slides para um trabalho de Projeto Algoritmo I. Mantenha linguagem simples, acadêmica e objetiva.
-```
-
-```text
-Identifique os requisitos do professor e organize em uma lista de verificação para garantir que a apresentação atenda ao enunciado.
-```
-
-```text
-Gere falas curtas para cada slide, dividindo a apresentação entre cinco integrantes: Deivison, Ausiane, Nubia de Asika, Rios e Wallace.
-```
-
-```text
-Sugira melhorias para a proposta, comparando com soluções reais encontradas na web, sem deixar o projeto complexo demais.
-```
-
-### Uso da Web para Melhorar o Resultado
-
-- Pesquisar rapidamente soluções existentes no setor escolhido.
-- Coletar 2 ou 3 referências confiáveis.
-- Comparar a proposta do grupo com ferramentas reais.
-- Usar dados simples para justificar o problema.
-- Evitar copiar solução pronta: a web deve servir para referência e inspiração.
-
----
-
-## 9. Checklist Final do Grupo
-
-- [ ] Escolher a ideia final do projeto;
-- [ ] Confirmar todos os integrantes;
-- [ ] Definir divisão de tarefas;
-- [ ] Pesquisar casos existentes;
-- [ ] Escrever problema e justificativa;
-- [x] Desenhar fluxograma;
-- [ ] Criar protótipo de telas;
-- [x] Decidir se haverá código em **C** → Decidido em 12/06/2026: **NÃO faremos**.
-- [ ] Preparar slides;
-- [ ] Ensaiar apresentação;
-- [ ] Revisar se todos os pontos pedidos pelo professor aparecem nos slides.
 
 ---
 
@@ -261,6 +198,6 @@ A recomendação agora é focar em ideias que permitam:
 - Fluxograma bem explicado
 - Problema real bem fundamentado + casos existentes + proposta com diferencial
 
-Nosso tema escolhido (Filas Inteligentes em Serviços de Saúde com Foco em Acessibilidade) atende perfeitamente a esses critérios.
+Nosso tema escolhido (MinhaFila — Gerenciamento Inteligente de Filas Multissetorial) atende perfeitamente a esses critérios.
 
 O código em C foi considerado desnecessário e foi cancelado para priorizar a qualidade dos entregáveis obrigatórios dentro do prazo até 29/06.

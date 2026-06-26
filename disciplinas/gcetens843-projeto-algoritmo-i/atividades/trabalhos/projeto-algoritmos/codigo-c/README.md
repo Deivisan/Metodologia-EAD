@@ -42,12 +42,12 @@ Implementar uma simulação em **C** do sistema de filas inteligentes, demonstra
 
 ## 📋 Funcionalidades Sugeridas
 
-- [ ] Geração de senhas (comum e prioritária)
-- [ ] Fila com estrutura de dados (lista/array)
-- [ ] Chamada da próxima senha respeitando prioridade
-- [ ] Cálculo de posição aproximada na fila
-- [ ] Histórico de senhas chamadas
-
+- Geração de senhas (comum e prioritária)
+- Fila com estrutura de dados (lista/array)
+- Chamada da próxima senha respeitando prioridade
+- Cálculo de posição aproximada na fila
+- Histórico de senhas chamadas
+ 
 ---
 
 ## 📁 Estrutura Esperada (se for feito)

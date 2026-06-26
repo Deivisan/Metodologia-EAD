@@ -1,15 +1,27 @@
-# 🔒 Roteiro da Apresentação
+# 🎤 Roteiro da Apresentação — MinhaFila
 
-> **Status:** pendente.  
-> Este documento será usado para organizar a ordem dos assuntos e dividir falas.
+> **Status:** 🔒 Pendente — slides sendo elaborados por Uelinton + Wallace  
+> **Data:** 29/06/2026 às 20h  
+> **Duração prevista:** 10–15 minutos
 
-## Estrutura prevista
+---
 
-1. Contexto;
-2. Problema;
-3. Casos existentes;
-4. Proposta;
-5. Fluxograma;
-6. Protótipo;
-7. Código, se houver;
-8. Conclusão.
+## Estrutura de Slides e Falas (proposta)
+
+| # | Slide | Quem fala | Duração |
+|:-:|:------|:----------|:-------:|
+| 1 | **Capa** — MinhaFila, disciplina, integrantes | Deivison ou Uelinton | 30s |
+| 2 | **Contexto do trabalho** — o que o professor pediu | Wallace | 1min |
+| 3 | **Problema real** — filas ineficientes em múltiplos setores | Rios | 2min |
+| 4 | **Casos existentes** — soluções no mercado (QMS, senhas, totens) | Ausiane | 2min |
+| 5 | **Proposta MinhaFila** — solução multissetorial, como funciona | Nubia | 2min |
+| 6 | **Diferenciais** — acessibilidade, acompanhamento em tempo real, notificações | Deivison | 1min |
+| 7 | **Fluxograma** — lógica do sistema | Artur ou Marcos | 2min |
+| 8 | **Protótipo de telas** — demonstração visual | Ausiane ou Uelinton | 2min |
+| 9 | **Conclusão** — impacto esperado, limitações, próximos passos | Rios ou Deivison | 1min |
+
+> **Observação:** Uelinton e Wallace são os responsáveis pela criação dos slides. O roteiro acima é uma sugestão de divisão — a equipe pode ajustar conforme a produção dos slides.
+
+---
+
+> 🔗 [Voltar ao Index Geral](Index-Geral.md)

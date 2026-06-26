@@ -2,8 +2,7 @@
 
 > **⚠️ REGISTRO HISTÓRICO**  
 > Este é um snapshot da enquete que definiu o tema.  
-> **Todos os arquivos são vivos** e serão atualizados constantemente.  
-> Estado atual do projeto (12/06): ver [`Index-Geral.md`](Index-Geral.md) e [`decisoes.md`](decisoes.md).  
+ Estado atual do projeto (12/06): ver [`Index-Geral.md`](Index-Geral.md) e [`decisoes.md`](decisoes.md).  
 > **Decisão posterior (12/06):** Código em C foi cancelado por votação do grupo.
 
 > **Resultado da enquete:** Tema escolhido = Filas Inteligentes em Serviços de Saúde com Foco em Acessibilidade.

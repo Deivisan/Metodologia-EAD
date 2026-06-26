@@ -1,8 +1,8 @@
-# Casos Existentes — Projeto FilaClara
+# Casos Existentes — MinhaFila
 
 > **Responsáveis:** Ausiane + Nubia  
 > **Fontes principais:** Google Docs (atualizado em tempo real)  
-> **Última sincronização do repositório:** 16/06/2026 (histórico do WhatsApp atualizado com export completo)
+> **Última sincronização do repositório:** 26/06/2026
 
 ---
 
@@ -10,43 +10,50 @@
 
 A pesquisa de casos está sendo construída principalmente neste Google Doc:
 
-**Casos existentes (inclusão e diagnóstico):**  
+**Casos existentes:**  
 https://docs.google.com/document/d/1mSFvxPnuMh5f13xKnHx1B3A1n4uhkBJokg0afE9Tdgw/edit?usp=sharing
 
 ---
 
-## Notícias e Iniciativas Relevantes
+## Soluções de Mercado e Referências
 
-### Sistemas e Programas do Governo
+### Sistemas de Gerenciamento de Filas (QMS)
+
+| Caso | Descrição | Setor | Link |
+|------|-----------|-------|------|
+| **Qmatic** | Plataforma global de gerenciamento de filas com totens de autoatendimento, painéis de chamada e analytics. | Multissetorial (bancos, saúde, governo, varejo) | https://www.qmatic.com |
+| **Wavetec** | Sistema de filas com painéis eletrônicos, agendamento online e módulo de acessibilidade. | Multissetorial (saúde, educação, governo) | https://www.wavetec.com |
+| **Waitwhile** | Plataforma de gestão de filas com check-in remoto, notificações SMS e métricas de espera. | Varejo, saúde, serviços | https://waitwhile.com |
+| **Senha Fácil** | Sistema brasileiro de distribuição eletrônica de senhas com painéis e relatórios. | Bancos, clínicas, comércio | https://www.senhafacil.com.br |
+| **TOTVS Gestão de Filas** | Solução integrada ao ecossistema TOTVS para controle de atendimento presencial. | Varejo, saúde, serviços | https://www.totvs.com |
+
+### Iniciativas Governamentais
 
 | Caso | Descrição | Link |
 |------|-----------|------|
-| **IA passa a monitorar filas da saúde** (Foz do Iguaçu) | Sistema de IA autônoma desenvolvido pela Prefeitura que monitora filas de consultas, primeira infância e atuação dos Agentes Comunitários de Saúde (ACS). Inclui busca ativa automática e organização de tarefas. | https://www.foz.pr.gov.br/ia-passa-a-monitorar-filas-da-saude-primeira-infancia-e-atuacao-em-campo-de-agentes-comunitarios-de-saude/ |
-| **Agir – Atendimento via WhatsApp** (Goiás) | Transformação digital na saúde pública com atendimento por WhatsApp em hospitais. | https://www.agirsaude.org.br/noticia/view/4548/agir-acelera-transformacao-digital-na-saude-publica-com-atendimento-via-whatsapp-em-hospitais-de-goias |
-| **Mais Acesso a Especialistas** | Programa que amplia e dá agilidade a consultas e exames no SUS. | https://www.gov.br/saude/pt-br/assuntos/noticias/2024/junho/mais-acesso-a-especialistas-amplia-e-da-agilidade-a-consultas-e-exames-no-sus<br>https://www.gov.br/saude/pt-br/composicao/saes/agora-tem-especialistas |
-| **Programa Agora tem Especialistas** | Estratégia nacional para reduzir filas por meio de mais acesso a especialistas. | https://www.gov.br/saude/pt-br/composicao/saes/agora-tem-especialistas |
-| **Componente SUS Digital** | Parte da estratégia de digitalização do SUS. | https://www.gov.br/saude/pt-br/composicao/saes/agora-tem-especialistas/componente-sus-digital |
-| **Meu SUS Digital** | Aplicativo e plataforma do Ministério da Saúde para acesso a serviços e informações. | https://www.gov.br/saude/pt-br/composicao/seidigi/meususdigital |
-
-### Artigos e Documentos
-
-- **MAIS SUS NAS CIDADES – 5 propostas para fortalecer a saúde pública nos municípios brasileiros** (PDF do grupo)
-
-### Vídeos
-
-| Título | Link |
-|--------|------|
-| Apresentação da estratégia Mais Acesso a Especialistas | https://www.youtube.com/watch?v=8rGavToFDOA |
+| **IA monitora filas em Foz do Iguaçu** | Sistema de IA autônoma que monitora filas de consultas e serviços públicos com busca ativa automática. | https://www.foz.pr.gov.br/ia-passa-a-monitorar-filas-da-saude-primeira-infancia-e-atuacao-em-campo-de-agentes-comunitarios-de-saude/ |
+| **Agir – Atendimento via WhatsApp** (Goiás) | Transformação digital com atendimento por WhatsApp em unidades de saúde. | https://www.agirsaude.org.br/noticia/view/4548/agir-acelera-transformacao-digital-na-saude-publica-com-atendimento-via-whatsapp-em-hospitais-de-goias |
+| **Meu SUS Digital** | Plataforma do Ministério da Saúde para acesso a serviços e informações digitais. | https://www.gov.br/saude/pt-br/composicao/seidigi/meususdigital |
 
 ---
 
-## Estrutura de Análise (em construção)
+## Estrutura de Análise
 
-Estamos organizando cada caso com:
-- Descrição
-- Pontos fortes (incluindo aspectos de acessibilidade quando existirem)
-- Pontos fracos / lacunas (especialmente falta de acessibilidade)
-- Relevância para o projeto FilaClara
+Cada caso está sendo analisado com:
+- **Descrição** — o que é e como funciona
+- **Pontos fortes** — o que faz bem, incluindo aspectos de acessibilidade
+- **Lacunas** — o que poderia melhorar (especialmente acessibilidade e integração)
+- **Relevância para o MinhaFila** — o que podemos aproveitar ou superar
+
+---
+
+## Diferenciais do MinhaFila em Relação aos Casos Existentes
+
+- **Multissetorial**: funciona em saúde, bancos, educação, comércio e governo com uma única plataforma
+- **Acessibilidade como recurso nativo**: contraste, leitores de tela, navegação por teclado, notificações visuais e sonoras
+- **Acompanhamento remoto**: usuário não precisa permanecer no local — recebe notificações da sua posição na fila
+- **Custo reduzido**: solução baseada em software, sem necessidade de totens físicos dedicados
+- **Relatórios em tempo real**: gestores podem monitorar filas, tempo médio de espera e gargalos
 
 ---
 

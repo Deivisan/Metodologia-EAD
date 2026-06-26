@@ -38,10 +38,10 @@ Até lá, este documento serve como espaço de organização das ideias iniciais
 |---|---|---|
 | **Deivison de Lima Santana** | Sugeriu ideias ligadas à educação, acessibilidade e organização de filas em clínicas/hospitais. Também demonstrou preferência por temas de educação, por afinidade com o meio acadêmico. |
 | **Ausiane** | Tem TEA e deficiência auditiva unilateral. Trabalhou no NAI (Núcleo de Acessibilidade e Inclusão). Sugeriu trabalhar com educação, inclusão, acessibilidade, TEA, deficiência auditiva, baixa visão e dificuldades de acesso. Depois apoiou filas inteligentes e perguntou se poderia incluir acessibilidade no tema. |
-| **Nubia de Asiká** | Apoiou o tema de educação e acessibilidade, especialmente sobre diagnósticos tardios e traumas educacionais. **Aguardando posicionamento sobre o tema final.** |
+| **Nubia de Asiká** | Apoiou o tema de educação e acessibilidade, especialmente sobre diagnósticos tardios e traumas educacionais. |
 | **Rios** | Trouxe a pergunta inicial, sugeriu agendamento por horário com fichas virtuais (filas inteligentes), e concordou em incluir acessibilidade no tema. Também tem experiência nas áreas de educação e saúde. |
-| **Wallace** | Ainda não apresentou sugestão específica no grupo. **Aguardando posicionamento.** |
-| **Artur Campos** | Entrou no grupo em 08/06/2026. **Aguardando apresentação e sugestão.** |
+| **Wallace** | Ainda não apresentou sugestão específica no grupo. |
+| **Artur Campos** | Entrou no grupo em 08/06/2026. |
 
 ---
 
@@ -288,8 +288,8 @@ Antes da decisão em **08/06/2026**, o grupo pode avaliar cada tema com base nos
 | **Ausiane** | Educação, inclusão, acessibilidade, TEA, deficiência auditiva, baixa visão e suporte em plataformas/conteúdos. ✅ Apoiou filas + acessibilidade. |
 | **Nubia de Asiká** | ✅ Apoiou educação e acessibilidade (diagnósticos tardios). |
 | **Rios** | ✅ Sugeriu filas inteligentes com fichas virtuais. ✅ Concordou em incluir acessibilidade. |
-| **Wallace** | Aguardando posicionamento. |
-| **Artur Campos** | Acabou de entrar (08/06). Aguardando. |
+| **Wallace** | Sem sugestão registrada. |
+| **Artur Campos** | Entrou em 08/06. |
 
 ---
 

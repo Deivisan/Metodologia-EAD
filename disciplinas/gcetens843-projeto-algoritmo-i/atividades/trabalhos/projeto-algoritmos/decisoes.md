@@ -1,8 +1,7 @@
 # 📋 Decisões do Projeto — GCETENS843
 
 > **Status:** ✅ Decisões consolidadas + atualizações em andamento
-> **Este documento reúne:** as decisões tomadas pelo grupo. Todos os arquivos são **vivos** e serão atualizados constantemente para refletir o estado atual do projeto.
-> **Última atualização:** 12/06/2026 (inclui decisão sobre Código em C)
+> **Última atualização:** 26/06/2026
 
 ---
 
@@ -112,10 +111,10 @@ Marcos Vinicius    ?  ?  ?  ?  ?  ?  ?  ?  │ 🆕 novo
 ## 5. ✅ Decisões Tomadas
 
 ### 5.1 Tema
-- [x] **Tema oficial:** Filas Inteligentes em Serviços de Saúde com Foco em Acessibilidade (refinado para "Filas Presenciais" conforme fundamentação de Rios)
-- [x] **Nome do projeto:** **FilaClara** ✅ (definido em enquete encerrada em 25/06/2026).
-- [x] **Acessibilidade:** incluída como diferencial obrigatório do projeto
-- [x] Artur, Nubia e Uelinton cientes e confortáveis com o tema
+- **Tema oficial:** MinhaFila — Gerenciamento Inteligente de Filas Multissetorial
+- **Nome do projeto:** **MinhaFila** (definido em enquete encerrada em 25/06/2026)
+- **Acessibilidade:** incluída como diferencial obrigatório do projeto
+- Artur, Nubia e Uelinton cientes e confortáveis com o tema
 
 ### 5.2 Distribuição de Tarefas Final (atualizada 12/06)
 
@@ -131,31 +130,31 @@ Marcos Vinicius    ?  ?  ?  ?  ?  ?  ?  ?  │ 🆕 novo
 | 8 | **Organização e Documentação** | Deivison | ✅ Contínuo | Atualizações constantes no repo + Docs |
 
 ### 5.3 Marcos Vinicius
-- [x] **Alocado em:** Fluxograma (4)
-- [x] **Código em C:** Liberado (decisão do grupo em 12/06 de não fazer código)
-- [x] Tema: acatou a decisão do grupo
+- **Alocado em:** Fluxograma (4)
+- **Código em C:** Liberado (decisão do grupo em 12/06 de não fazer código)
+- Tema: acatou a decisão do grupo
 
 ### 5.4 Wallace
-- [x] **Posição:** alocado em Slides (7) como apoio
-- [x] **Status:** disponível para contribuir; ainda não enviou foto nem participou ativamente das discussões até 12/06
-- [x] Participou com comentários pontuais sobre estrutura da apresentação (antes e depois da solução, uso de Google Docs)
+- **Posição:** alocado em Slides (7) como apoio
+- **Status:** disponível para contribuir; ainda não enviou foto nem participou ativamente das discussões até 12/06
+- Participou com comentários pontuais sobre estrutura da apresentação (antes e depois da solução, uso de Google Docs)
 
 ### 5.5 Código em C (Decisão tomada em 12/06/2026)
-- [x] **Decisão final:** NÃO vamos fazer o Código em C
-- [x] O grupo votou e decidiu focar em outros entregáveis (pesquisa, casos, proposta, fluxograma, protótipo e apresentação)
-- [x] Artur e Marcos Vinicius foram realocados / liberados dessa tarefa
-- [x] Motivo: C é considerado inadequado para simular filas de forma eficiente; foco maior na qualidade dos demais artefatos obrigatórios
+- **Decisão final:** NÃO vamos fazer o Código em C
+- O grupo votou e decidiu focar em outros entregáveis (pesquisa, casos, proposta, fluxograma, protótipo e apresentação)
+- Artur e Marcos Vinicius foram realocados / liberados dessa tarefa
+- Motivo: C é considerado inadequado para simular filas de forma eficiente; foco maior na qualidade dos demais artefatos obrigatórios
 
 > **Observação:** Esta é uma decisão recente do grupo (votação em 12/06). O documento de divisão de tarefas e o Index-Geral já refletem essa escolha.
 
 ### 5.6 Metodologia de Trabalho (atualizada 12/06)
-- [x] **Comunicação:** WhatsApp (grupo existente)
-- [x] **Documentos de trabalho principais:** Dois Google Docs ativos
+- **Comunicação:** WhatsApp (grupo existente)
+- **Documentos de trabalho principais:** Dois Google Docs ativos
   - Pesquisa (problema real): https://docs.google.com/document/d/1jrKcEVSVe25k4PRg3pr_WbrK1pIwx_i76K6i3O_6_Js/edit?usp=sharing
   - Casos existentes (inclusão e diagnóstico): https://docs.google.com/document/d/1mSFvxPnuMh5f13xKnHx1B3A1n4uhkBJokg0afE9Tdgw/edit?usp=sharing
-- [x] **Repositório:** Deivison centraliza no GitHub; os arquivos .md são espelhos/sincronizações dos Google Docs
-- [x] **Reuniões / decisões:** registradas aqui e no chat do grupo
-- [x] **Atualização contínua:** Todos os documentos deste repositório são vivos e serão revisados conforme o projeto avança
+- **Repositório:** Deivison centraliza no GitHub; os arquivos .md são espelhos/sincronizações dos Google Docs
+- **Reuniões / decisões:** registradas aqui e no chat do grupo
+
 
 ---
 
@@ -199,24 +198,23 @@ Marcos Vinicius    ?  ?  ?  ?  ?  ?  ?  ?  │ 🆕 novo
 
 ---
 
-## 8. 📄 Documentos do Projeto (estado atual em 12/06/2026)
-
-**Importante:** Todos os documentos deste repositório são **vivos**. Eles serão atualizados constantemente para refletir o estado real do projeto.
-
+## 8. 📄 Documentos do Projeto (estado atual em 26/06/2026)
 | Status | Documento | Responsável | Observação |
 |:------:|:----------|:-----------:|------------|
-| ✅ Pronto | **Tema Escolhido** (`tema-escolhido.md`) | Deivison | Decisão de 08/06 |
+| ✅ Pronto | **Tema Escolhido** (`tema-escolhido.md`) | Deivison | Decisão de 08/06 — MinhaFila |
+| ✅ Pronto | **Problema Real** (`problema-real.md`) | Rios + Nubia | Reescrito e finalizado |
+| ✅ Pronto | **Relatório Acadêmico MinhaFila** (`relatorio-academico-minhafila.md`) | Deivison | Documento finalizado |
 | ✅ Pronto | **Divisão de Tarefas** (`divisao-de-tarefas.md`) | Deivison | Atualizado com decisão sobre Código C |
-| ✅ Pronto | **Decisões do Projeto** (`decisoes.md`) | Deivison | Este arquivo (atualizado 12/06) |
+| ✅ Pronto | **Decisões do Projeto** (`decisoes.md`) | Deivison | Este arquivo (atualizado 26/06) |
 | 🔄 Em andamento | **Casos Existentes** (`casos-existentes.md`) | Ausiane + Nubia | Trabalho principal no Google Doc |
-| 🔄 Em andamento | **Proposta de Solução** (`proposta.md`) | Ausiane + Rios | Documento vivo de construção coletiva da proposta |
+| ✅ Pronto | **Proposta de Solução** (`proposta.md`) | Deivison + Rios | Reescrita e finalizada |
 | 🔄 Em andamento | **Referências** (`referencias-web.md`) | Nubia + Rios | Trabalho principal no Google Doc |
 | ✅ Pronto | **Fluxograma** (`fluxograma.md`) | Deivison (revisão a partir do original) | 25/06/2026 |
 | 🔒 Pendente | **Protótipo de Telas** (`prototipo-telas.md`) | Ausiane + Uelinton | A iniciar |
 | ❌ Cancelado | **Código C** | — | Decisão do grupo: NÃO faremos |
 | 🔒 Pendente | **Roteiro de Apresentação** (`roteiro-apresentacao.md`) | Uelinton + Wallace | A iniciar |
 | 🔒 Pendente | **Apresentação Final** (`apresentacao-final.md`) | Grupo | A fazer |
-| 🔒 Pendente | **Ata de Decisões** (`ata-decisoes.md`) | Deivison | Placeholder – precisa ser preenchida |
+| 🔒 Pendente | **Ata de Decisões** (`ata-decisoes.md`) | Deivison | Em construção |
 | 🔒 Pendente | **Dúvidas e Perguntas** (`duvidas-e-perguntas.md`) | Grupo | Em uso no chat |
 
 **Fontes de trabalho vivas (Google Docs):**
@@ -234,7 +232,7 @@ Marcos Vinicius    ?  ?  ?  ?  ?  ?  ?  ?  │ 🆕 novo
 | Pessoa | Contribuições identificadas |
 |--------|----------------------------|
 | **Deivison** | Idealizou tema filas + acessibilidade, criou repositório, documentação, enquete, centralizou a organização |
-| **Rios** | Sugeriu fichas virtuais com agendamento por horário, experiência em saúde e educação, apoiou acessibilidade |
+| **Rios** | Sugeriu fichas virtuais com agendamento por horário, experiência em atendimento e educação, apoiou acessibilidade |
 | **Ausiane** | TEA + def. auditiva unilateral, trabalhou no NAI, propôs incluir acessibilidade, tem ideias visuais (Figma) |
 | **Nubia** | Foco em educação, acessibilidade e diagnósticos tardios |
 | **Artur** | Perfil técnico, mencionou Figma para protótipos, se voluntariou para Fluxograma e Protótipo (antes da decisão de cancelar Código C em 12/06) |
@@ -246,17 +244,17 @@ Marcos Vinicius    ?  ?  ?  ?  ?  ?  ?  ?  │ 🆕 novo
 
 ## 10. ✅ Checklist para Fechar o Projeto (atualizado 12/06)
 
-- [x] Tema definido e aceito por todos
-- [x] Tarefas distribuídas (ninguém sobrecarregado)
-- [x] **Código em C cancelado** (decisão do grupo – foco em outros entregáveis)
-- [x] **Problema real escrito** (12/06) — Texto completo de Rios colado em [`problema-real.md`](problema-real.md) + material-fonte salvo. Aguardando revisão/alterações do grupo (autor autorizou).
-- [ ] Casos existentes pesquisados (em andamento nos Google Docs)
-- [ ] Proposta/diferencial redigido
-- [ ] Fluxograma desenhado
-- [ ] Protótipo de telas criado
-- [ ] Slides prontos
-- [ ] Apresentação ensaiada
-- [ ] Tudo entregue até **29/06 às 20h** 🎯
+- Tema definido e aceito por todos
+- Tarefas distribuídas (ninguém sobrecarregado)
+- **Código em C cancelado** (decisão do grupo – foco em outros entregáveis)
+- **Problema real escrito** (12/06) — Texto completo de Rios colado em [`problema-real.md`](problema-real.md) + material-fonte salvo. A disposição do grupo para revisão (autor autorizou).
+- Casos existentes pesquisados (em andamento nos Google Docs)
+- Proposta/diferencial redigido
+- Fluxograma desenhado
+- Protótipo de telas criado
+- Slides prontos
+- Apresentação ensaiada
+- Tudo entregue até **29/06 às 20h** 🎯
 
 **Fontes principais de trabalho atual (12/06):**
 - Google Docs (pesquisa e casos) ainda ativos.

@@ -66,9 +66,9 @@ Tarefas disponiveis:
 
 ---
 
-## Proximos passos apos respostas
+## Resultado da enquete
 
-1. Analisar votos do tema
-2. Definir responsaveis por cada tarefa (2 pessoas cada)
-3. Iniciar desenvolvimento
-4. **Apresentacao final: 29/06/2026 as 20h**
+- Tema vencedor: Filas Inteligentes + Acessibilidade (3 votos)
+- Tarefas distribuídas conforme votação
+- Código em C cancelado em 12/06/2026
+- **Apresentação final: 29/06/2026 às 20h**
