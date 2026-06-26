@@ -104,7 +104,7 @@ A equipe está completa com **8 integrantes**. Cada um com suas responsabilidade
 | O quê | Responsáveis | Prazo | Arquivo |
 |:------|:-------------|:-----:|:--------|
 | Proposta e diferencial | Deivison + Rios | 18/06 | — |
-| Fluxograma do sistema | Artur + Marcos Vinicius | 18/06 | [`fluxograma.md`](fluxograma.md) |
+| ✅ Fluxograma do sistema | Deivison (revisão do original de Artur + Marcos Vinicius) | 25/06 | [`fluxograma.md`](fluxograma.md) · [`assets/fluxograma.jpeg`](assets/fluxograma.jpeg) |
 | Protótipo de telas (Figma) | Ausiane + Uelinton | 25/06 | [`prototipo-telas.md`](prototipo-telas.md) |
 | **Código em C** | — | — | ❌ **Cancelado** (decisão oficial do grupo em 12/06/2026 — foco nos obrigatórios) |
 | Slides da apresentação | Uelinton + Wallace | 28/06 | — |

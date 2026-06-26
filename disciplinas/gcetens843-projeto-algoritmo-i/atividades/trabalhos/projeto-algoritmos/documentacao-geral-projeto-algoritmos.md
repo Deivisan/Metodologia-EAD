@@ -241,7 +241,7 @@ Sugira melhorias para a proposta, comparando com soluções reais encontradas na
 - [ ] Definir divisão de tarefas;
 - [ ] Pesquisar casos existentes;
 - [ ] Escrever problema e justificativa;
-- [ ] Desenhar fluxograma;
+- [x] Desenhar fluxograma;
 - [ ] Criar protótipo de telas;
 - [x] Decidir se haverá código em **C** → Decidido em 12/06/2026: **NÃO faremos**.
 - [ ] Preparar slides;

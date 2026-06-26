@@ -211,7 +211,7 @@ Marcos Vinicius    ?  ?  ?  ?  ?  ?  ?  ?  │ 🆕 novo
 | 🔄 Em andamento | **Casos Existentes** (`casos-existentes.md`) | Ausiane + Nubia | Trabalho principal no Google Doc |
 | 🔄 Em andamento | **Proposta de Solução** (`proposta.md`) | Ausiane + Rios | Documento vivo de construção coletiva da proposta |
 | 🔄 Em andamento | **Referências** (`referencias-web.md`) | Nubia + Rios | Trabalho principal no Google Doc |
-| 🔒 Pendente | **Fluxograma** (`fluxograma.md`) | Artur + Marcos Vinicius | A iniciar |
+| ✅ Pronto | **Fluxograma** (`fluxograma.md`) | Deivison (revisão a partir do original) | 25/06/2026 |
 | 🔒 Pendente | **Protótipo de Telas** (`prototipo-telas.md`) | Ausiane + Uelinton | A iniciar |
 | ❌ Cancelado | **Código C** | — | Decisão do grupo: NÃO faremos |
 | 🔒 Pendente | **Roteiro de Apresentação** (`roteiro-apresentacao.md`) | Uelinton + Wallace | A iniciar |
