@@ -3,11 +3,12 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Metodologia EAD — UFRB</title>
+  <title>Metodologia EAD — UFRB | FilaClara</title>
   <style>
     :root {
       --bg: #f7f8fc; --surface: #fff; --fg: #111827; --fg-2: #374151; --muted: #6b7280;
       --accent: #4f46e5; --accent-on: #fff; --success: #10b981; --border: #dfe3ed;
+      --warning: #f59e0b; --danger: #ef4444;
       --font: Inter, system-ui, sans-serif; --font-mono: "Geist Mono", ui-monospace, monospace;
       --radius: 16px; --radius-sm: 10px;
     }
@@ -29,6 +30,10 @@
       background: color-mix(in oklab, var(--success), transparent 82%);
       color: color-mix(in oklab, var(--success), var(--fg) 30%);
     }
+    .badge-warning {
+      background: color-mix(in oklab, var(--warning), transparent 82%);
+      color: color-mix(in oklab, var(--warning), var(--fg) 30%);
+    }
     h1 { font-size: clamp(28px, 5vw, 48px); letter-spacing: -.03em; line-height: 1.08; margin: 64px 0 12px; }
     .sub { color: var(--fg-2); font-size: 18px; max-width: 54ch; margin: 0 0 32px; }
     .card {
@@ -49,6 +54,7 @@
     .btn-primary { background: var(--accent); color: var(--accent-on); }
     .btn-secondary { background: var(--surface); color: var(--fg); box-shadow: 0 0 0 1px var(--border); }
     .btn-success { background: var(--success); color: var(--accent-on); }
+    .btn-outline { background: transparent; color: var(--accent); box-shadow: 0 0 0 2px var(--accent); }
     .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px; margin-top: 24px; }
     .grid .card { padding: 24px; }
     .grid .card h2 { font-size: 18px; }
@@ -57,8 +63,33 @@
       font-size: 12px; font-weight: 700; background: color-mix(in oklab, var(--accent), transparent 86%);
       color: var(--accent); margin-bottom: 12px;
     }
+    .tag-success {
+      background: color-mix(in oklab, var(--success), transparent 82%);
+      color: color-mix(in oklab, var(--success), var(--fg) 30%);
+    }
+    .tag-warning {
+      background: color-mix(in oklab, var(--warning), transparent 82%);
+      color: color-mix(in oklab, var(--warning), var(--fg) 30%);
+    }
+    .section-title { font-size: 18px; color: var(--fg-2); margin: 48px 0 8px; font-weight: 700; }
+    .materials-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 12px; margin-top: 16px; }
+    .material-item {
+      display: flex; align-items: center; gap: 10px;
+      padding: 14px 18px; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius-sm);
+      text-decoration: none; color: var(--fg); font-weight: 600; font-size: 14px;
+      transition: transform .15s, box-shadow .15s;
+    }
+    .material-item:hover { transform: translateY(-1px); box-shadow: 0 4px 12px rgba(0,0,0,.08); }
+    .material-item .icon { font-size: 20px; }
+    .material-item .ext { font-size: 11px; font-weight: 800; padding: 2px 8px; border-radius: 6px; background: color-mix(in oklab, var(--accent), transparent 86%); color: var(--accent); }
     footer { margin-top: auto; padding: 24px 0; text-align: center; color: var(--muted); font-size: 14px; }
     .links { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 20px; }
+    .deadline {
+      display: inline-flex; align-items: center; gap: 8px;
+      padding: 10px 18px; border-radius: var(--radius-sm);
+      background: color-mix(in oklab, var(--danger), transparent 88%);
+      color: var(--danger); font-weight: 700; font-size: 15px; margin-top: 16px;
+    }
     @media (max-width: 600px) { .container { width: min(100% - 32px, 960px); } }
   </style>
 </head>
@@ -78,30 +109,105 @@
       </span>
     </header>
 
-    <h1>Materiais didáticos<br>para Educação a Distância</h1>
+    <h1>FilaClara — filas inteligentes<br>com acessibilidade</h1>
     <p class="sub">
-      Repositório acadêmico do Bacharelado em Sistemas de Informação (EAD) — UFRB.
-      Organização, automação e publicação de conteúdos das disciplinas cursadas.
+      Projeto da disciplina GCETENS843 — Projeto Algoritmo I.<br>
+      Bacharelado em Sistemas de Informação (EAD) — UFRB/CETENS.
     </p>
 
-    <div class="card" style="margin-bottom: 40px;">
-      <span class="tag">⭐ Destaque</span>
-      <h2>FilaClara — Protótipo Interativo</h2>
-      <p>
-        Sistema de filas inteligentes para clínicas e hospitais com acessibilidade.
-        Projeto da disciplina GCETENS843 — Projeto Algoritmo I.
-      </p>
+    <div class="deadline">
+      ⏰ Apresentação ao vivo: <strong>29/06/2026 às 20h</strong>
+    </div>
+
+    <!-- Protótipo -->
+    <div class="card" style="margin-bottom: 24px; margin-top: 32px;">
+      <span class="tag tag-success">🧪 Protótipo Interativo</span>
+      <h2>Experimente o FilaClara</h2>
+      <p>Fluxo completo do paciente (splash → onboarding → home → senha → acompanhamento) + painel da clínica.</p>
       <div class="links">
         <a class="btn btn-primary" href="disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/prototipo-filaclara-opendesigner/index.html">
-          ▶ Ver protótipo do paciente
+          ▶ Fluxo do paciente
         </a>
         <a class="btn btn-secondary" href="disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/prototipo-filaclara-opendesigner/admin.html">
-          Painel da clínica
+          📊 Painel da clínica
+        </a>
+        <a class="btn btn-outline" href="disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/fluxograma.md">
+          🔁 Fluxograma
         </a>
       </div>
     </div>
 
-    <h2 style="font-size:18px; color: var(--fg-2);">Disciplinas ativas</h2>
+    <!-- Materiais Acadêmicos -->
+    <div class="card" style="margin-bottom: 24px;">
+      <span class="tag tag-warning">📦 Materiais Acadêmicos</span>
+      <h2>Documentos para apresentação</h2>
+      <p>Todos os formatos gerados via pipeline automatizada (pandoc + python-pptx).</p>
+      <div class="materials-grid">
+        <a class="material-item" href="disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/apresentacao-filaclara.pptx">
+          <span class="icon">📽️</span>
+          Slides
+          <span class="ext">PPTX</span>
+        </a>
+        <a class="material-item" href="disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/fluxograma.pdf">
+          <span class="icon">📄</span>
+          Fluxograma
+          <span class="ext">PDF</span>
+        </a>
+        <a class="material-item" href="disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/fluxograma.docx">
+          <span class="icon">📝</span>
+          Fluxograma
+          <span class="ext">DOCX</span>
+        </a>
+        <a class="material-item" href="disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/problema-real.pdf">
+          <span class="icon">📄</span>
+          Problema Real
+          <span class="ext">PDF</span>
+        </a>
+        <a class="material-item" href="disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/problema-real.docx">
+          <span class="icon">📝</span>
+          Problema Real
+          <span class="ext">DOCX</span>
+        </a>
+        <a class="material-item" href="disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/proposta.pdf">
+          <span class="icon">📄</span>
+          Proposta
+          <span class="ext">PDF</span>
+        </a>
+        <a class="material-item" href="disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/proposta.docx">
+          <span class="icon">📝</span>
+          Proposta
+          <span class="ext">DOCX</span>
+        </a>
+        <a class="material-item" href="disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/Index-Geral.docx">
+          <span class="icon">📝</span>
+          Index Geral
+          <span class="ext">DOCX</span>
+        </a>
+      </div>
+    </div>
+
+    <!-- Documentação do Projeto -->
+    <div class="card" style="margin-bottom: 40px;">
+      <span class="tag">📋 Documentação Viva</span>
+      <h2>Registro do projeto</h2>
+      <p>Arquivos de decisões, atas, divisão de tarefas e histórico da equipe.</p>
+      <div class="links">
+        <a class="btn btn-secondary" href="disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/Index-Geral.md">
+          📑 Index Geral
+        </a>
+        <a class="btn btn-secondary" href="disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/ata-decisoes.md">
+          📜 Atas
+        </a>
+        <a class="btn btn-secondary" href="disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/divisao-de-tarefas.md">
+          👥 Tarefas
+        </a>
+        <a class="btn btn-secondary" href="disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/Identidade-visual.md">
+          🎨 Identidade Visual
+        </a>
+      </div>
+    </div>
+
+    <span class="section-title">📚 Disciplinas ativas</span>
     <div class="grid">
       <div class="card">
         <span class="tag">GCETENS839</span>
@@ -119,9 +225,9 @@
         <p>Grafos, indução e recorrência.</p>
       </div>
       <div class="card">
-        <span class="tag">GCETENS843</span>
+        <span class="tag tag-success" style="background: color-mix(in oklab, #10b981, transparent 82%); color: color-mix(in oklab, #10b981, var(--fg) 30%);">GCETENS843</span>
         <h2>Projeto Algoritmo I</h2>
-        <p>FilaClara — filas inteligentes e acessíveis.</p>
+        <p><strong>FilaClara</strong> — filas inteligentes e acessíveis.</p>
       </div>
       <div class="card">
         <span class="tag">GCETENS840</span>
@@ -132,6 +238,9 @@
 
     <footer>
       <p>Deivison de Lima Santana · UFRB/CETENS · Bacharelado em Sistemas de Informação (EAD)</p>
+      <p style="font-size: 12px; margin-top: 8px;">
+        <a href="https://github.com/Deivisan/Metodologia-EAD" style="color: var(--accent);">github.com/Deivisan/Metodologia-EAD</a>
+      </p>
     </footer>
   </div>
 </body>
