@@ -22,8 +22,8 @@
 
 > **Como reduzir o tempo de permanência física dos usuários nas unidades de saúde e aumentar a previsibilidade do atendimento por meio de uma solução digital acessível e inclusiva?**
 
-**Nome da solução:** Em votação via enquete no grupo (prazo: 17/06/2026).  
-Sugestão anterior de Rios: Sistema Inteligente de Gestão de Filas Presenciais e Acessibilidade para Serviços de Saúde (será atualizado após a votação).
+**Nome da solução:** FilaClara ✅ (definido em enquete encerrada em 25/06/2026)  
+Sugestões da enquete: FilaAcessível (Deivison), Sistema Inteligente de Gestão de Filas Presenciais e Acessibilidade (Rios), Minha Fila (Marcos Vinícius). **Vencedor: FilaClara**.
 
 **Resumo executivo do problema (baseado no texto de Rios):**
 
@@ -53,7 +53,7 @@ O problema não é novo e projetos anteriores não resolveram de forma satisfat�
 
 ### 2. O que o App Propõe Ser
 
-O app (nome provisório / em votação até 17/06/2026) é um **sistema de acompanhamento de filas em tempo real** focado em **transparência + acessibilidade**.
+O **FilaClara** é um sistema de acompanhamento de filas em tempo real focado em **transparência + acessibilidade**.
 
 **Ideia central:**
 - O paciente chega, faz um cadastro rápido (ou importa do Meu SUS Digital).

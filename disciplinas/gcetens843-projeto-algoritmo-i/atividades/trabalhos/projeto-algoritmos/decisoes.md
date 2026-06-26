@@ -113,7 +113,7 @@ Marcos Vinicius    ?  ?  ?  ?  ?  ?  ?  ?  │ 🆕 novo
 
 ### 5.1 Tema
 - [x] **Tema oficial:** Filas Inteligentes em Serviços de Saúde com Foco em Acessibilidade (refinado para "Filas Presenciais" conforme fundamentação de Rios)
-- [ ] **Nome do projeto:** Em votação (enquete prevista para 17/06/2026). Nenhuma sugestão anterior (ex: FilaClara) está oficializada.
+- [x] **Nome do projeto:** **FilaClara** ✅ (definido em enquete encerrada em 25/06/2026).
 - [x] **Acessibilidade:** incluída como diferencial obrigatório do projeto
 - [x] Artur, Nubia e Uelinton cientes e confortáveis com o tema
 
