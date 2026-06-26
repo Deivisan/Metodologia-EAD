@@ -1,83 +1,17 @@
 # Fluxograma do Sistema — FilaClara
 
 > **Status:** ✅ Finalizado
-> **Arquivo:** [`assets/fluxograma.jpeg`](assets/fluxograma.jpeg)
+> **Arquivo original:** [`assets/fluxograma.jpeg`](assets/fluxograma.jpeg)
+> **Criado por:** Artur + Marcos Vinicius
 > **Data:** 25/06/2026
 
 ---
 
-## 📊 Visão Geral do Fluxo
+## 🖼️ Fluxograma Completo
 
-O fluxograma descreve o percurso completo do usuário no sistema FilaClara,
-desde a entrada até o atendimento, incluindo a lógica de prioridade e
-notificação.
+![Fluxograma FilaClara](assets/fluxograma.jpeg)
 
-```
-┌─────────────────────────────┐
-│           INÍCIO            │
-└─────────────┬───────────────┘
-              ▼
-┌─────────────────────────────┐
-│   User entra no sistema     │
-└─────────────┬───────────────┘
-              ▼
-┌─────────────────────────────┐
-│ User se cadastra / Loga     │
-│      no sistema             │
-└─────────────┬───────────────┘
-              ▼
-┌─────────────────────────────┐
-│ User solicita atendimento   │
-│       desejado              │
-└─────────────┬───────────────┘
-              ▼
-       ┌──────────────┐
-       │ É prioridade?│
-       └──┬───────┬───┘
-          │       │
-        Sim       Não
-          │       │
-          ▼       ▼
-  ┌──────────┐ ┌──────────┐
-  │Fila      │ │Fila      │
-  │Prioritária│ │Convencio-│
-  │          │ │nal       │
-  └────┬─────┘ └────┬─────┘
-       │            │
-       └──────┬─────┘
-              ▼
-┌─────────────────────────────┐
-│  Sistema gera a senha e     │
-│  põe user no final da fila  │
-└─────────────┬───────────────┘
-              ▼
-┌─────────────────────────────┐
-│  User no topo da fila       │
-│       é chamado             │
-└─────────────┬───────────────┘
-              ▼
-┌─────────────────────────────┐
-│  2º user na fila recebe     │
-│  notificação p/ comparecer  │
-└─────────────┬───────────────┘
-              ▼
-┌─────────────────────────────┐
-│  Sistema calcula tempo      │
-│  médio de atendimento e     │
-│         exibe               │
-└─────────────┬───────────────┘
-              ▼
-┌─────────────────────────────┐
-│  User é atendido e          │
-│  excluído da fila           │
-└─────────────┬───────────────┘
-              ▼
-┌─────────────────────────────┐
-│      Fila atualiza          │
-└─────────────┬───────────────┘
-              ▼
-              FIM
-```
+*Clique na imagem para visualizar em tamanho real (715×1511 px)*
 
 ---
 
@@ -114,13 +48,10 @@ notificação.
 - Fila é atualizada automaticamente
 - Próximo usuário no topo é chamado
 
----
-
-## 🖼️ Fluxograma Original
-
-![Fluxograma FilaClara](assets/fluxograma.jpeg)
-
-> Fluxograma criado originalmente por **Artur + Marcos Vinicius**, refatorado e documentado em 25/06/2026.
+### 7. Retorno (Feedback Loop) 🔄
+- Se o usuário **não comparece** quando chamado → retorna ao passo de solicitação de atendimento
+- Se o atendimento é concluído → sistema oferece opção de **retorno** (nova solicitação)
+- O fluxo reinicia a partir da etapa de escolha do tipo de atendimento
 
 ---
 
@@ -133,6 +64,7 @@ notificação.
 - [x] Painel de acompanhamento
 - [x] Cálculo de tempo médio
 - [x] Atualização automática da fila
+- [x] Retorno / feedback loop (não comparecimento + nova solicitação)
 
 ---
 
