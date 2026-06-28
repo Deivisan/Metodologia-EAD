@@ -5,7 +5,7 @@ import {
 
 const team = [
   { name: 'Deivison de Lima Santana', role: 'Proposta, Documentação, Protótipo' },
-  { name: 'Ausiane de Oliveira Costa', role: 'Casos, Protótipo' },
+  { name: 'Ausiane de Oliveira Costa', role: 'Casos Existentes' },
   { name: 'Raimon Rios da Silva', role: 'Pesquisa, Proposta' },
   { name: 'Núbia Rosália de Souza Ramos', role: 'Pesquisa, Casos' },
   { name: 'Artur Campos', role: 'Fluxograma' },
