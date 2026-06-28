@@ -33,8 +33,8 @@
 | 1 | **Deivison** | Proposta, documentação, protótipo geral, repositório, refatoração do fluxograma | Ativo |
 | 2 | **Raimon Rios da Silva** | Pesquisa de campo, proposta (experiência em saúde), problema real | Ativo |
 | 3 | **Ausiane de Oliveira Costa** | Casos existentes, protótipo (acessibilidade), documentação de acessibilidade | Ativo |
-| 4 | **Núbia** | Pesquisa e casos existentes (inclusão e diagnóstico tardio) | Ativo |
-| 5 | **Artur** | Fluxograma do sistema | Ativo |
+| 4 | **Núbia Rosália de Souza Ramos** | Pesquisa e casos existentes (inclusão e diagnóstico tardio) | Ativo |
+| 5 | **Artur Campos** | Fluxograma do sistema | Ativo |
 | 6 | **Marcos Vinícius dos Santos Sena** | Fluxograma do sistema | Ativo |
 | 7 | **Uélinton Cardoso Santana** | Protótipo de telas e slides da apresentação | Ativo |
 | 8 | **Wallace Ribeiro Lima** | Slides da apresentação | Ativo |
@@ -47,16 +47,16 @@
 
 | Item | Exigido | Situação |
 |:-----|:-------:|:--------:|
-| Problema real definido | Sim | Concluído |
-| Casos existentes (mercado) | Sim | Em andamento |
-| Proposta/solução | Sim | Em andamento |
-| Fluxograma do sistema | Sim | Concluído |
-| Protótipo de telas | Sim | Em andamento |
-| Apresentação ao vivo | Sim | **29/06 às 20h** |
+| Problema real definido | Sim | ✅ Concluído (.docx) |
+| Casos existentes (mercado) | Sim | ✅ Concluído |
+| Proposta/solução | Sim | ✅ Concluído (.docx) |
+| Fluxograma do sistema | Sim | ✅ Concluído (.docx + JPEG) |
+| Protótipo de telas | Sim | ✅ Concluído (HTML funcional) |
+| Apresentação ao vivo | Sim | 🔴 **29/06 às 20h** |
 
 ---
 
-## 4. Roadmap (25/06/2026)
+## 4. Roadmap (28/06/2026)
 
 ### Concluído
 
@@ -66,23 +66,19 @@
 | Tarefas distribuídas | [`divisao-de-tarefas.md`](divisao-de-tarefas.md) | Deivison |
 | Decisões registradas | [`decisoes.md`](decisoes.md) | Deivison |
 | Nome oficial definido | **MinhaFila** | Grupo |
-| Histórico do WhatsApp | [`historico-whatsapp.json`](historico-whatsapp.json) (519 mensagens) | Deivison |
-| Problema real | [`problema-real.md`](problema-real.md) | Rios |
-| Fluxograma do sistema | [`fluxograma.md`](fluxograma.md) + [`assets/fluxograma.jpeg`](assets/fluxograma.jpeg) | Artur, Marcos, Deivison |
-| Protótipo interativo | [`prototipo-minhafila/index.html`](prototipo-minhafila/index.html) | Deivison |
-
-### Em andamento
-
-| O quê | Responsáveis | Local |
-|:------|:-------------|:------|
-| Casos existentes | Ausiane + Núbia | [Google Doc](https://docs.google.com/document/d/1mSFvxPnuMh5f13xKnHx1B3A1n4uhkBJokg0afE9Tdgw/edit?usp=sharing) |
-| Proposta e diferencial | Deivison + Rios | [`proposta.md`](proposta.md) |
+| Histórico do WhatsApp | [`historico-whatsapp.json`](historico-whatsapp.json) | Deivison |
+| Problema real | [`problema-real.md`](problema-real.md) → [`problema-real.docx`](https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/Deivisan/Metodologia-EAD/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/problema-real.docx&wdDownloadButton=1) | Rios, Deivison |
+| Fluxograma do sistema | [`fluxograma.md`](fluxograma.md) + [`fluxograma.docx`](https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/Deivisan/Metodologia-EAD/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/fluxograma.docx&wdDownloadButton=1) | Artur, Marcos, Deivison |
+| Protótipo interativo | [`prototipo-minhafila/index.html`](prototipo-minhafila/index.html) | Deivison + Ausiane + Uélinton |
+| Proposta e diferencial | [`proposta.md`](proposta.md) → [`proposta.docx`](https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/Deivisan/Metodologia-EAD/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/proposta.docx&wdDownloadButton=1) | Deivison + Rios |
+| Hub/landing page do projeto | [`minhafila/`](https://deivisan.github.io/Metodologia-EAD/minhafila/) | Deivison |
+| Casos existentes | [`casos-existentes.md`](casos-existentes.md) | Ausiane + Núbia |
+| Molde UFRB aplicado | Todos os .docx | Deivison |
 
 ### Pendente (prazo: 28-29/06)
 
 | O quê | Responsáveis | Prazo |
 |:------|:-------------|:-----:|
-| Protótipo de telas (Figma) | Ausiane + Uélinton | 28/06 |
 | Slides da apresentação | Uélinton + Wallace | 28/06 |
 | Roteiro de apresentação | Uélinton + Wallace | 28/06 |
 
@@ -92,14 +88,14 @@
 
 | Documento | Formato | Situação |
 |:----------|:--------|:--------:|
-| Problema Real | DOCX | Converter |
-| Casos Existentes | DOCX | Em elaboração |
-| Proposta | DOCX | Finalizar e converter |
-| Fluxograma | PDF + JPEG + DOCX | Converter |
-| Protótipo | PDF com prints | Em produção no Figma |
-| Slides | PPTX | Criar |
-| Roteiro | DOCX | Criar |
-| Relatório do Projeto | DOCX + PDF | 📦 Arquivado (extra) |
+| Problema Real | DOCX | ✅ Finalizado (molde UFRB) · [ver](https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/Deivisan/Metodologia-EAD/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/problema-real.docx&wdDownloadButton=1) |
+| Casos Existentes | DOCX | 📄 md disponível |
+| Proposta | DOCX | ✅ Finalizado (molde UFRB) · [ver](https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/Deivisan/Metodologia-EAD/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/proposta.docx&wdDownloadButton=1) |
+| Fluxograma | DOCX + JPEG | ✅ Finalizado (molde UFRB) · [ver](https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/Deivisan/Metodologia-EAD/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/fluxograma.docx&wdDownloadButton=1) |
+| Protótipo | HTML funcional | ✅ Disponível no hub |
+| Slides | PPTX | ⏳ Uélinton + Wallace |
+| Roteiro | DOCX | ⏳ Uélinton + Wallace |
+| Relatório do Projeto | DOCX + PDF | 📦 Arquivado |
 
 ---
 
@@ -108,10 +104,10 @@
 - **Nome do projeto:** MinhaFila (substitui FilaClara — escopo ampliado para múltiplos setores)
 - **Escopo:** bancos, unidades de saúde, faculdades, comércio, serviços públicos
 - **Acessibilidade:** recurso importante do produto (não é mais o pilar central); inclui suporte para TEA, deficiência auditiva, baixa visão, idosos e gestantes
-- **Fluxograma:** finalizado e documentado
-- **Protótipo:** versão inicial disponível em [`prototipo-minhafila/`](prototipo-minhafila/)
-- **Histórico do WhatsApp:** 519 mensagens (05/06 a 25/06) em [`historico-whatsapp.json`](historico-whatsapp.json)
-- **GitHub Pages:** https://deivisan.github.io/Metodologia-EAD/
+- **Hub do projeto:** https://deivisan.github.io/Metodologia-EAD/minhafila/ (landing page com todos os links)
+- **Protótipo:** versão HTML com molde iPhone 15 disponível no hub
+- **Documentos .docx:** todos com molde UFRB (logo, cores, Times New Roman) — abrem direto no navegador via Office Online
+- **Apresentação final:** **29/06/2026 às 20h**
 
 ---
 
@@ -127,14 +123,12 @@ O problema real está fundamentado em literatura consolidada (Aggarwal, Chianca,
 
 | O quê | Link |
 |:------|:-----|
-| Site do projeto (GitHub Pages) | https://deivisan.github.io/Metodologia-EAD/ |
-| Protótipo MinhaFila | [`prototipo-minhafila/index.html`](prototipo-minhafila/index.html) |
-| Tema completo | [`tema-escolhido.md`](tema-escolhido.md) |
-| Divisão de tarefas | [`divisao-de-tarefas.md`](divisao-de-tarefas.md) |
-| Decisões do projeto | [`decisoes.md`](decisoes.md) |
-| Fluxograma | [`fluxograma.md`](fluxograma.md) |
-| Proposta | [`proposta.md`](proposta.md) |
-| Problema real | [`problema-real.md`](problema-real.md) |
+| 🏠 Hub do projeto (landing page) | https://deivisan.github.io/Metodologia-EAD/minhafila/ |
+| 📋 Problema Real (.docx) | https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/Deivisan/Metodologia-EAD/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/problema-real.docx&wdDownloadButton=1 |
+| 💡 Proposta (.docx) | https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/Deivisan/Metodologia-EAD/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/proposta.docx&wdDownloadButton=1 |
+| 🌊 Fluxograma (.docx) | https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/Deivisan/Metodologia-EAD/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/fluxograma.docx&wdDownloadButton=1 |
+| 📱 Protótipo MinhaFila | [`prototipo-minhafila/index.html`](prototipo-minhafila/index.html) |
+| 🎤 Slides | https://docs.google.com/presentation/d/1tiaZ7SRLPvVglSnaWAuX7mTcRaERZuAtp9iSgXoPR6Q/edit |
 
 | Histórico WhatsApp | [`historico-whatsapp.json`](historico-whatsapp.json) |
 | Documentação geral | [`documentacao-geral-projeto-algoritmos.md`](documentacao-geral-projeto-algoritmos.md) |
@@ -142,4 +136,4 @@ O problema real está fundamentado em literatura consolidada (Aggarwal, Chianca,
 
 ---
 
-*Última atualização: 25/06/2026 — rebranding para MinhaFila, escopo multissetorial, acessibilidade como recurso importante, preparação para apresentação final em 29/06.*
+*Última atualização: 28/06/2026 — hub no ar, .docx com molde UFRB, tudo pronto para apresentação final em 29/06.*
