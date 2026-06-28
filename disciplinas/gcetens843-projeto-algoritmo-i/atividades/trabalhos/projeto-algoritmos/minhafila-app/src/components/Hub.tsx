@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion'
 import {
-  FileText, Lightbulb, GitBranch, Smartphone, Presentation, Search, Users
+  FileText, Lightbulb, GitBranch, Smartphone, Presentation, Search, Users, BookOpen
 } from 'lucide-react'
 
 const team = [
@@ -68,6 +68,19 @@ export default function Hub() {
         'Diferenciais competitivos do MinhaFila',
       ],
       link: 'https://github.com/Deivisan/Metodologia-EAD/blob/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/casos-existentes.md',
+    },
+    {
+      id: 'index',
+      title: 'Index Geral',
+      icon: BookOpen,
+      description: 'Documento central do grupo: status do projeto, integrantes, entregáveis e roadmap completo.',
+      details: [
+        'Visão consolidada de todo o projeto MinhaFila',
+        'Integrantes e atribuições',
+        'Requisitos da disciplina e situação de entrega',
+        'Roadmap e decisões registradas',
+      ],
+      link: 'https://github.com/Deivisan/Metodologia-EAD/blob/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/Index-Geral.md',
     },
     {
       id: 'prototipo',
