@@ -29,7 +29,7 @@ Esta divisão de tarefas não foi sorteada. Ela foi construída a partir de:
 | 2 | 📂 **Casos Existentes** | **Ausiane + Nubia** | 🟢 Dupla fixa |
 | 3 | ✍️ **Proposta e Diferencial da Solução** | **Deivison + Rios** | 🟢 Dupla fixa |
 | 4 | 🔀 **Fluxograma do Sistema** | **Artur + Marcos Vinicius** | 🟢 Dupla fixa |
-| 5 | 🎨 **Protótipo de Telas (Mockups)** | **Ausiane + Uélinton** (Uélinton Cardoso Santana) | 🟢 Dupla fixa |
+| 5 | 🎨 **Protótipo de Telas (Mockups)** | **Uélinton** (Uélinton Cardoso Santana) | 🟢 Pendente |
 | 6 | 💻 **Código em C** | **—** | ❌ **Cancelado** (decisão oficial do grupo em 12/06/2026) | Foco 100% nos entregáveis obrigatórios. Artur e Marcos Vinicius liberados.
 | 7 | 📊 **Slides e Apresentação** | **Uelinton + Wallace** | 🟢 Dupla fixa |
 | 8 | 📁 **Organização e Documentação** | **Deivison** | 🔵 Individual |
@@ -163,7 +163,7 @@ Artur e Marcos Vinicius foram liberados dessa tarefa e permanecerão responsáve
 |:-------|:--------|:----:|:----------|
 | **Deivison** | Proposta (3) + Documentação (8) | **2** | ✅ equilibrado |
 | **Rios** | Pesquisa (1) + Proposta (3) | **2** | ✅ equilibrado |
-| **Ausiane** | Casos (2) + Protótipo (5) | **2** | ✅ equilibrado |
+| **Ausiane** | Casos (2) | **2** | ✅ equilibrado |
 | **Nubia** | Pesquisa (1) + Casos (2) | **2** | ✅ equilibrado (tinha 4, foi aliviada) |
 | **Artur** | Fluxograma (4) | **1** | ✅ liberado do Código C (decisão 12/06) |
 | **Marcos Vinicius** | Fluxograma (4) | **1** | ✅ liberado do Código C (decisão 12/06) |

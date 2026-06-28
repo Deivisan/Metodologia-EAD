@@ -13,7 +13,7 @@
 |---|---|---|---|
 | **Deivison** | Filas + Acessibilidade | Sim | Protótipo Telas, Slides |
 | **Rios** | Filas + Acessibilidade | Sim | Pesquisa, Slides |
-| **Ausiane** | Filas + Acessibilidade | Sim | Pesquisa, Casos, Protótipo |
+| **Ausiane** | Filas + Acessibilidade | Sim | Pesquisa, Casos |
 | **Artur Campos** | Org. Acadêmica EAD | Sim | Fluxograma, Protótipo, Código C *(histórico — Código C cancelado pelo grupo em 12/06/2026)* |
 | **Nubia** | Educação + Acessibilidade | Sim | Pesquisa, Casos, Proposta, Documentação |
 | **Uelinton** | Educação + Acessibilidade | Sim | Slides |

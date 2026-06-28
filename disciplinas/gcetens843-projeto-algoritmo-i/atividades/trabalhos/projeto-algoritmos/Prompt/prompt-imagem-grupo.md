@@ -93,7 +93,7 @@ TAREFAS:
 2. Casos — Ausiane + Nubia
 3. Proposta — Deivison + Rios
 4. Fluxograma — Artur + Marcos
-5. Prototipo — Ausiane + Uelinton
+5. Prototipo — Uélinton
 6. Codigo C (opcional) — Artur + Marcos
 7. Slides — Uelinton + Wallace
 8. Documentacao — Deivison

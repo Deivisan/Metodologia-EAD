@@ -17,7 +17,7 @@
 | 5 | **Proposta MinhaFila** — solução multissetorial, como funciona | Nubia | 2min |
 | 6 | **Diferenciais** — acessibilidade, acompanhamento em tempo real, notificações | Deivison | 1min |
 | 7 | **Fluxograma** — lógica do sistema | Artur ou Marcos | 2min |
-| 8 | **Protótipo de telas** — demonstração visual | Ausiane ou Uelinton | 2min |
+| 8 | **Protótipo de telas** — demonstração visual | Uélinton | 2min |
 | 9 | **Conclusão** — impacto esperado, limitações, próximos passos | Rios ou Deivison | 1min |
 
 > **Observação:** Uelinton e Wallace são os responsáveis pela criação dos slides. O roteiro acima é uma sugestão de divisão — a equipe pode ajustar conforme a produção dos slides.

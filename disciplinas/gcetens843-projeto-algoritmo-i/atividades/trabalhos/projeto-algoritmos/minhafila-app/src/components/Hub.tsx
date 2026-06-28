@@ -11,7 +11,7 @@ interface HubProps {
 
 const team = [
   { name: 'Deivison de Lima Santana', role: 'Proposta, Documentação, Protótipo' },
-  { name: 'Ausiane de Oliveira Costa', role: 'Casos, Protótipo (Acessibilidade)' },
+  { name: 'Ausiane de Oliveira Costa', role: 'Casos' },
   { name: 'Raimon Rios da Silva', role: 'Pesquisa, Proposta' },
   { name: 'Nubia de Asiká', role: 'Pesquisa, Casos' },
   { name: 'Artur Campos', role: 'Fluxograma' },
