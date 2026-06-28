@@ -8,7 +8,7 @@
     :root {
       --bg: #f5f6fa; --surface: #fff; --fg: #111827; --fg-2: #374151; --muted: #6b7280;
       --accent: #1d4ed8; --accent-on: #fff; --success: #059669; --border: #e2e5ef;
-      --warning: #d97706; --danger: #dc2626;
+      --warning: #d97706; --danger: #dc2626; --accent-light: #eef1ff;
       --font: Inter, system-ui, -apple-system, sans-serif; --radius: 14px; --radius-sm: 8px;
     }
     * { box-sizing: border-box; }
@@ -25,7 +25,6 @@
       padding: 40px 0 32px;
     }
 
-    /* ── Header ── */
     header {
       display: flex;
       align-items: center;
@@ -43,33 +42,12 @@
       height: auto;
     }
 
-    header .info {
-      display: flex;
-      flex-direction: column;
-      gap: 2px;
-    }
+    header .info { display: flex; flex-direction: column; gap: 2px; }
+    header .info .nome { font-size: 20px; font-weight: 800; letter-spacing: -0.025em; color: var(--fg); }
+    header .info .desc { font-size: 14px; color: var(--muted); }
+    header .info .desc strong { color: var(--fg-2); }
 
-    header .info .nome {
-      font-size: 20px;
-      font-weight: 800;
-      letter-spacing: -0.025em;
-      color: var(--fg);
-    }
-
-    header .info .desc {
-      font-size: 14px;
-      color: var(--muted);
-    }
-
-    header .info .desc strong {
-      color: var(--fg-2);
-    }
-
-    /* ── Hero ── */
-    .hero {
-      margin-bottom: 44px;
-    }
-
+    .hero { margin-bottom: 44px; }
     .hero h1 {
       font-size: clamp(26px, 4vw, 38px);
       font-weight: 800;
@@ -77,49 +55,30 @@
       line-height: 1.15;
       margin: 0 0 14px;
     }
-
     .hero .sub {
       color: var(--fg-2);
       font-size: 16px;
-      max-width: 58ch;
+      max-width: 62ch;
       line-height: 1.65;
       margin: 0;
     }
+    .hero .sub strong { color: var(--fg); }
 
-    .hero .sub strong {
-      color: var(--fg);
-    }
-
-    /* ── Cards ── */
     .card {
       background: var(--surface);
       border: 1px solid var(--border);
       border-radius: var(--radius);
       padding: 32px;
-      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04), 0 8px 24px rgba(17, 24, 39, 0.06);
-      transition: box-shadow 0.2s;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.04), 0 8px 24px rgba(17,24,39,0.06);
     }
+    .card h2 { margin: 0 0 6px; font-size: 22px; letter-spacing: -0.02em; line-height: 1.25; }
+    .card p { color: var(--fg-2); margin: 0 0 18px; line-height: 1.65; }
 
-    .card h2 {
-      margin: 0 0 6px;
-      font-size: 22px;
-      letter-spacing: -0.02em;
-      line-height: 1.25;
-    }
-
-    .card p {
-      color: var(--fg-2);
-      margin: 0 0 18px;
-      line-height: 1.65;
-    }
-
-    /* ── Card destaque ── */
     .card-destaque {
       border: 2px solid var(--accent);
       position: relative;
       padding-top: 38px;
     }
-
     .card-destaque .ribbon {
       position: absolute;
       top: -12px;
@@ -135,25 +94,11 @@
       align-items: center;
       gap: 6px;
       white-space: nowrap;
-      box-shadow: 0 2px 8px rgba(29, 78, 216, 0.25);
+      box-shadow: 0 2px 8px rgba(29,78,216,0.25);
     }
+    .card-destaque .titulo-projeto { font-size: 26px; font-weight: 800; letter-spacing: -0.025em; margin: 4px 0 0; }
+    .card-destaque .desc-projeto { font-size: 15px; max-width: 55ch; color: var(--fg-2); line-height: 1.65; margin: 8px 0 0; }
 
-    .card-destaque .titulo-projeto {
-      font-size: 26px;
-      font-weight: 800;
-      letter-spacing: -0.025em;
-      margin: 4px 0 0;
-    }
-
-    .card-destaque .desc-projeto {
-      font-size: 15px;
-      max-width: 50ch;
-      color: var(--fg-2);
-      line-height: 1.65;
-      margin: 8px 0 0;
-    }
-
-    /* ── Tags ── */
     .tag {
       display: inline-block;
       padding: 3px 10px;
@@ -163,30 +108,11 @@
       letter-spacing: 0.02em;
       margin-bottom: 8px;
     }
+    .tag-blue { background: #dbeafe; color: #1d4ed8; }
+    .tag-green { background: #d1fae5; color: #065f46; }
+    .tag-orange { background: #fef3c7; color: #92400e; }
+    .tag-group { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 6px; }
 
-    .tag-blue {
-      background: #dbeafe;
-      color: #1d4ed8;
-    }
-
-    .tag-green {
-      background: #d1fae5;
-      color: #065f46;
-    }
-
-    .tag-orange {
-      background: #fef3c7;
-      color: #92400e;
-    }
-
-    .tag-group {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 6px;
-      margin-bottom: 6px;
-    }
-
-    /* ── Deadline ── */
     .deadline {
       display: inline-flex;
       align-items: center;
@@ -200,7 +126,58 @@
       font-size: 14px;
     }
 
-    /* ── Section label ── */
+    /* ― step row (trilha da apresentação) ― */
+    .step-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 18px;
+    }
+    .step {
+      flex: 1 1 160px;
+      min-width: 140px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      padding: 16px 18px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      text-decoration: none;
+      color: var(--fg);
+      transition: box-shadow 0.15s, border-color 0.15s, transform 0.15s;
+    }
+    .step:hover {
+      box-shadow: 0 4px 14px rgba(0,0,0,0.07);
+      border-color: var(--accent);
+      transform: translateY(-2px);
+    }
+    .step .step-num {
+      font-size: 11px;
+      font-weight: 800;
+      color: var(--muted);
+      letter-spacing: 0.04em;
+    }
+    .step .step-title {
+      font-weight: 700;
+      font-size: 14px;
+      line-height: 1.3;
+    }
+    .step .step-desc {
+      font-size: 12px;
+      color: var(--muted);
+      line-height: 1.4;
+    }
+    .step .step-badge {
+      font-size: 10px;
+      font-weight: 700;
+      padding: 2px 8px;
+      border-radius: 999px;
+      background: var(--accent-light);
+      color: var(--accent);
+      align-self: flex-start;
+    }
+
     .section-label {
       font-size: 12px;
       color: var(--muted);
@@ -210,12 +187,10 @@
       margin-bottom: 10px;
       display: block;
     }
+    .section-label-space { margin-top: 28px; }
 
-    .section-label-space {
-      margin-top: 26px;
-    }
+    .links { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 16px; }
 
-    /* ── Botoes ── */
     .btn {
       display: inline-flex;
       align-items: center;
@@ -230,61 +205,22 @@
       text-decoration: none;
       transition: background 0.15s, box-shadow 0.15s;
     }
+    .btn:active { transform: translateY(1px); }
+    .btn-primary { background: var(--accent); color: var(--accent-on); }
+    .btn-primary:hover { background: #1e40af; }
+    .btn-secondary { background: var(--surface); color: var(--fg); box-shadow: 0 0 0 1px var(--border); }
+    .btn-secondary:hover { background: #f9fafb; }
+    .btn-outline { background: transparent; color: var(--accent); box-shadow: 0 0 0 1.5px var(--accent); }
+    .btn-outline:hover { background: #eff6ff; }
+    .btn-sm { min-height: 36px; font-size: 13px; padding: 0 16px; }
 
-    .btn:active {
-      transform: translateY(1px);
-    }
-
-    .btn-primary {
-      background: var(--accent);
-      color: var(--accent-on);
-    }
-
-    .btn-primary:hover {
-      background: #1e40af;
-    }
-
-    .btn-secondary {
-      background: var(--surface);
-      color: var(--fg);
-      box-shadow: 0 0 0 1px var(--border);
-    }
-
-    .btn-secondary:hover {
-      background: #f9fafb;
-    }
-
-    .btn-outline {
-      background: transparent;
-      color: var(--accent);
-      box-shadow: 0 0 0 1.5px var(--accent);
-    }
-
-    .btn-outline:hover {
-      background: #eff6ff;
-    }
-
-    .btn-sm {
-      min-height: 36px;
-      font-size: 13px;
-      padding: 0 16px;
-    }
-
-    .links {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 10px;
-      margin-top: 16px;
-    }
-
-    /* ── Material grid ── */
+    /* ---- Material grid ---- */
     .materials-grid {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(175px, 1fr));
       gap: 8px;
       margin-top: 14px;
     }
-
     .material-item {
       display: flex;
       align-items: center;
@@ -299,59 +235,26 @@
       font-size: 13px;
       transition: box-shadow 0.15s, border-color 0.15s;
     }
-
-    .material-item:hover {
-      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
-      border-color: var(--accent);
-    }
-
-    .material-item .icon {
-      font-size: 17px;
-      line-height: 1;
-    }
-
+    .material-item:hover { box-shadow: 0 2px 8px rgba(0,0,0,0.06); border-color: var(--accent); }
+    .material-item .icon { font-size: 17px; line-height: 1; }
     .material-item .ext {
-      font-size: 10px;
-      font-weight: 800;
-      padding: 2px 7px;
-      border-radius: 5px;
-      background: #dbeafe;
-      color: #1d4ed8;
-      white-space: nowrap;
-      margin-left: auto;
+      font-size: 10px; font-weight: 800; padding: 2px 7px;
+      border-radius: 5px; background: #dbeafe; color: #1d4ed8;
+      white-space: nowrap; margin-left: auto;
     }
 
-    /* ── Grid disciplinas ── */
     .grid {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
       gap: 18px;
       margin-top: 18px;
     }
+    .grid .card { padding: 22px; }
+    .grid .card h2 { font-size: 17px; margin-bottom: 4px; }
+    .grid .card p { font-size: 13px; line-height: 1.55; margin-bottom: 0; }
 
-    .grid .card {
-      padding: 22px;
-    }
+    .divider { border: 0; height: 1px; background: var(--border); margin: 0 0 40px; }
 
-    .grid .card h2 {
-      font-size: 17px;
-      margin-bottom: 4px;
-    }
-
-    .grid .card p {
-      font-size: 13px;
-      line-height: 1.55;
-      margin-bottom: 0;
-    }
-
-    .divider {
-      border: 0;
-      height: 1px;
-      background: var(--border);
-      margin: 0 0 40px;
-    }
-
-    /* ── Footer ── */
     footer {
       margin-top: auto;
       padding: 40px 0 28px;
@@ -361,23 +264,10 @@
       border-top: 1px solid var(--border);
       margin-top: 56px;
     }
+    footer .nome-footer { font-weight: 700; color: var(--fg-2); }
+    footer a { color: var(--accent); text-decoration: none; font-weight: 600; }
+    footer a:hover { text-decoration: underline; }
 
-    footer .nome-footer {
-      font-weight: 700;
-      color: var(--fg-2);
-    }
-
-    footer a {
-      color: var(--accent);
-      text-decoration: none;
-      font-weight: 600;
-    }
-
-    footer a:hover {
-      text-decoration: underline;
-    }
-
-    /* ── Responsivo ── */
     @media (max-width: 640px) {
       .container { width: min(100% - 28px, 960px); }
       header { flex-direction: column; align-items: flex-start; gap: 12px; }
@@ -385,7 +275,8 @@
       .card { padding: 24px; }
       .card-destaque { padding-top: 48px; }
       .card-destaque .ribbon { left: 16px; font-size: 11px; }
-      .materials-grid { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); }
+      .step { flex: 1 1 100%; }
+      .materials-grid { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); }
       .grid { grid-template-columns: 1fr; }
     }
   </style>
@@ -394,7 +285,7 @@
 
   <div class="container">
 
-    <!-- ═══════════════ HEADER ═══════════════ -->
+    <!-- ═══ HEADER ═══ -->
     <header>
       <img class="logo-ufrb"
            src="templates/logo-ufrb-20-anos.png"
@@ -409,25 +300,26 @@
       </div>
     </header>
 
-    <!-- ═══════════════ HERO ═══════════════ -->
+    <!-- ═══ HERO ═══ -->
     <div class="hero">
       <h1>Repositório Acadêmico</h1>
       <p class="sub">
-        Este repositório reúne os projetos, trabalhos, atividades e materiais
-        que produzo como aluno do Bacharelado em Sistemas de Informação (EAD)
-        da <strong>UFRB</strong> — Universidade Federal do Recôncavo da Bahia.
+        Projetos, trabalhos e materiais que produzo como aluno do
+        <strong>Bacharelado em Sistemas de Informação (EAD)</strong> da UFRB.
         Cada disciplina com seu conteúdo organizado, versionado e disponível
         nos formatos acadêmicos exigidos.
       </p>
     </div>
 
-    <!-- ═══════════════ MINHAFILA — DESTAQUE ═══════════════ -->
+    <!-- ════════════════════════════════════════════════════════
+         MINHAFILA — TRILHA DE APRESENTAÇÃO
+         ════════════════════════════════════════════════════════ -->
     <div class="card card-destaque">
       <div class="ribbon">📌 Projeto em Destaque</div>
 
       <div class="tag-group">
         <span class="tag tag-green">GCETENS843</span>
-        <span class="tag tag-orange">1ª Entrega · Projeto Algoritmo I</span>
+        <span class="tag tag-orange">Projeto Algoritmo I</span>
       </div>
 
       <h2 class="titulo-projeto">MinhaFila</h2>
@@ -435,14 +327,67 @@
         Sistema inteligente de gestão de filas para múltiplos setores
         (saúde, bancos, comércio, governo, educação), com transparência,
         acessibilidade e acompanhamento em tempo real.
-        Protótipo interativo, fluxograma, relatório acadêmico e apresentação.
       </p>
 
       <div class="deadline">
         <span>⏰ Apresentação ao vivo: <strong>29/06/2026 às 20h</strong></span>
       </div>
 
-      <!-- Protótipo -->
+      <!-- ── TRILHA DE APRESENTAÇÃO ── -->
+      <span class="section-label section-label-space">📋 Roteiro da Apresentação</span>
+      <div class="step-row">
+
+        <a class="step"
+           href="disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/problema-real.pdf">
+          <span class="step-num">Passo 1</span>
+          <span class="step-title">Problema Real</span>
+          <span class="step-desc">O problema que motivou a solução</span>
+          <span class="step-badge">PDF</span>
+        </a>
+
+        <a class="step"
+           href="https://github.com/Deivisan/Metodologia-EAD/blob/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/casos-existentes.md">
+          <span class="step-num">Passo 2</span>
+          <span class="step-title">Casos Existentes</span>
+          <span class="step-desc">O que já existe no mercado</span>
+          <span class="step-badge">MD</span>
+        </a>
+
+        <a class="step"
+           href="disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/proposta.pdf">
+          <span class="step-num">Passo 3</span>
+          <span class="step-title">Proposta</span>
+          <span class="step-desc">Nossa solução e diferencial</span>
+          <span class="step-badge">PDF</span>
+        </a>
+
+        <a class="step"
+           href="disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/assets/fluxograma.jpeg">
+          <span class="step-num">Passo 4</span>
+          <span class="step-title">Fluxograma</span>
+          <span class="step-desc">Lógica da solução</span>
+          <span class="step-badge">JPEG</span>
+        </a>
+
+        <a class="step"
+           href="disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/prototipo-minhafila/index.html">
+          <span class="step-num">Passo 5</span>
+          <span class="step-title">Protótipo</span>
+          <span class="step-desc">Fluxo do paciente + Painel</span>
+          <span class="step-badge">HTML</span>
+        </a>
+
+        <a class="step"
+           href="disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/apresentacao-minhafila.pptx">
+          <span class="step-num">Passo 6</span>
+          <span class="step-title">Apresentação</span>
+          <span class="step-desc">Slides ao vivo — 29/06</span>
+          <span class="step-badge">PPTX</span>
+        </a>
+
+      </div>
+
+      <!-- ── PROTÓTIPO ── -->
       <span class="section-label section-label-space">🧪 Protótipo Interativo</span>
       <div class="links">
         <a class="btn btn-primary"
@@ -451,50 +396,54 @@
         </a>
         <a class="btn btn-secondary"
            href="disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/prototipo-minhafila/admin.html">
-          Painel da clínica
-        </a>
-        <a class="btn btn-outline"
-           href="disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/assets/fluxograma.jpeg">
-          🖼️ Fluxograma
+          Painel administrativo
         </a>
       </div>
 
-      <!-- Materiais acadêmicos -->
-      <span class="section-label section-label-space">📦 Materiais Acadêmicos</span>
+      <!-- ── ENTREGÁVEIS (PDF/DOCX) ── -->
+      <span class="section-label section-label-space">📦 Entregáveis</span>
       <div class="materials-grid">
         <a class="material-item"
-           href="disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/relatorio-academico-minhafila.docx">
-          <span class="icon">📄</span> Relatório <span class="ext">DOCX</span>
-        </a>
-        <a class="material-item"
-           href="disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/relatorio-academico-minhafila.pdf">
-          <span class="icon">📕</span> Relatório <span class="ext">PDF</span>
-        </a>
-        <a class="material-item"
-           href="disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/apresentacao-minhafila.pptx">
-          <span class="icon">📽️</span> Slides <span class="ext">PPTX</span>
-        </a>
-        <a class="material-item"
-           href="disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/fluxograma.pdf">
-          <span class="icon">📊</span> Fluxograma <span class="ext">PDF</span>
+           href="disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/problema-real.pdf">
+          <span class="icon">🔍</span> Problema Real <span class="ext">PDF</span>
         </a>
         <a class="material-item"
            href="disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/proposta.pdf">
           <span class="icon">📋</span> Proposta <span class="ext">PDF</span>
         </a>
         <a class="material-item"
-           href="disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/problema-real.pdf">
-          <span class="icon">🔍</span> Problema Real <span class="ext">PDF</span>
+           href="disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/relatorio-academico-minhafila.pdf">
+          <span class="icon">📕</span> Relatório <span class="ext">PDF</span>
+        </a>
+        <a class="material-item"
+           href="disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/relatorio-academico-minhafila.docx">
+          <span class="icon">📄</span> Relatório <span class="ext">DOCX</span>
+        </a>
+        <a class="material-item"
+           href="disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/apresentacao-minhafila.pptx">
+          <span class="icon">📽️</span> Slides <span class="ext">PPTX</span>
         </a>
       </div>
 
-      <!-- Documentação -->
-      <span class="section-label section-label-space">📋 Documentação do Projeto</span>
+      <!-- ── DOCUMENTAÇÃO ── -->
+      <span class="section-label section-label-space">📋 Documentação</span>
       <div class="links">
-        <a class="btn btn-secondary btn-sm" href="disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/Index-Geral.md">Index Geral</a>
-        <a class="btn btn-secondary btn-sm" href="disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/ata-decisoes.md">Atas</a>
-        <a class="btn btn-secondary btn-sm" href="disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/divisao-de-tarefas.md">Tarefas</a>
-        <a class="btn btn-secondary btn-sm" href="disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/Identidade-visual.md">Identidade Visual</a>
+        <a class="btn btn-secondary btn-sm"
+           href="https://github.com/Deivisan/Metodologia-EAD/blob/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/Index-Geral.md">
+          Index Geral
+        </a>
+        <a class="btn btn-secondary btn-sm"
+           href="https://github.com/Deivisan/Metodologia-EAD/blob/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/ata-decisoes.md">
+          Atas de Decisões
+        </a>
+        <a class="btn btn-secondary btn-sm"
+           href="https://github.com/Deivisan/Metodologia-EAD/blob/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/divisao-de-tarefas.md">
+          Divisão de Tarefas
+        </a>
+        <a class="btn btn-secondary btn-sm"
+           href="https://github.com/Deivisan/Metodologia-EAD/blob/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/tema-escolhido.md">
+          Tema Escolhido
+        </a>
       </div>
     </div>
 
@@ -506,7 +455,7 @@
       <div class="card">
         <span class="tag tag-green">GCETENS843</span>
         <h2>Projeto Algoritmo I</h2>
-        <p><strong>MinhaFila</strong> — filas inteligentes multissetoriais com acessibilidade. Projeto em grupo com protótipo, fluxograma, relatório e apresentação ao vivo.</p>
+        <p><strong>MinhaFila</strong> — filas inteligentes multissetoriais. Equipe: Deivison, Raimon Rios, Ausiane, Nubia, Artur, Marcos Vinícius, Uélinton, Wallace.</p>
       </div>
       <div class="card">
         <span class="tag tag-blue">GCETENS839</span>

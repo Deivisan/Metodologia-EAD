@@ -31,9 +31,9 @@ Equipe completa com **8 integrantes**:
 | **Deivison de Lima Santana** | Organização, documentação, repositório e centralização |
 | **Ausiane** | Casos Existentes + Protótipo (acessibilidade e design). Experiência no NAI, TEA + deficiência auditiva unilateral |
 | **Nubia de Asiká** | Pesquisa + Casos Existentes (inclusão e diagnósticos tardios) |
-| **Rios** | Pesquisa + Proposta (experiência em saúde e educação) |
+| **Raimon Rios da Silva** | Pesquisa + Proposta (experiência em saúde e educação) |
 | **Artur Campos** | Fluxograma (perfil técnico) |
-| **Marcos Vinicius** | Fluxograma |
+| **Marcos Vinícius dos Santos Sena** | Fluxograma |
 | **Uelinton** | Protótipo de Telas + Slides |
 | **Wallace** | Slides (apoio) |
 

@@ -31,11 +31,11 @@
 | # | Integrante | Atribuições | Status |
 |:-:|:-----------|:------------|:------:|
 | 1 | **Deivison** | Proposta, documentação, protótipo geral, repositório, refatoração do fluxograma | Ativo |
-| 2 | **Rios** | Pesquisa de campo, proposta (experiência em saúde), problema real | Ativo |
+| 2 | **Raimon Rios da Silva** | Pesquisa de campo, proposta (experiência em saúde), problema real | Ativo |
 | 3 | **Ausiane** | Casos existentes, protótipo (design e acessibilidade), documentação de acessibilidade | Ativo |
 | 4 | **Nubia** | Pesquisa e casos existentes (inclusão e diagnóstico tardio) | Ativo |
 | 5 | **Artur** | Fluxograma do sistema | Ativo |
-| 6 | **Marcos Vinicius** | Fluxograma do sistema | Ativo |
+| 6 | **Marcos Vinícius dos Santos Sena** | Fluxograma do sistema | Ativo |
 | 7 | **Uélinton** | Protótipo de telas e slides da apresentação | Ativo |
 | 8 | **Wallace** | Slides da apresentação | A definir |
 
