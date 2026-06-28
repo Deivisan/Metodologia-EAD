@@ -1,23 +1,9 @@
-import { useState } from 'react'
-import { motion, AnimatePresence } from 'framer-motion'
+import { motion } from 'framer-motion'
 import {
-  FileText, Lightbulb, GitBranch, Smartphone, Presentation,
-  X, Users
+  FileText, Lightbulb, GitBranch, Smartphone, Presentation
 } from 'lucide-react'
 
-const team = [
-  { name: 'Deivison de Lima Santana', role: 'Proposta, Documentação, Protótipo' },
-  { name: 'Ausiane de Oliveira Costa', role: 'Casos, Protótipo' },
-  { name: 'Raimon Rios da Silva', role: 'Pesquisa, Proposta' },
-  { name: 'Núbia Rosália de Souza Ramos', role: 'Pesquisa, Casos' },
-  { name: 'Artur Campos', role: 'Fluxograma' },
-  { name: 'Marcos Vinícius dos Santos Sena', role: 'Fluxograma' },
-  { name: 'Uélinton Cardoso Santana', role: 'Protótipo, Slides' },
-  { name: 'Wallace Ribeiro Lima', role: 'Slides, Apresentação' },
-]
-
 export default function Hub() {
-  const [showTeam, setShowTeam] = useState(false)
 
   const cards = [
     {
@@ -95,30 +81,6 @@ export default function Hub() {
 
   return (
     <div className="min-h-screen bg-surface">
-      {/* Header */}
-      <header className="sticky top-0 z-50 backdrop-blur-xl bg-surface/80 border-b border-surface-3">
-        <div className="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between">
-          <div className="flex items-center gap-3">
-            <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-brand-400 to-brand-600 flex items-center justify-center text-xs font-bold text-white tracking-tight">
-              MF
-            </div>
-            <div>
-              <h1 className="text-sm font-semibold text-text-primary">MinhaFila</h1>
-              <p className="text-[10px] text-text-muted">GCETENS843 — Projeto Algoritmo I</p>
-            </div>
-          </div>
-          <div className="flex items-center gap-3">
-            <button
-              onClick={() => setShowTeam(true)}
-              className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-medium text-text-secondary hover:text-text-primary hover:bg-surface-2 transition-colors"
-            >
-              <Users size={14} />
-              Equipe
-            </button>
-          </div>
-        </div>
-      </header>
-
       {/* Hero */}
       <section className="relative overflow-hidden">
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top_right,rgba(90,127,186,0.06),transparent_50%)]" />
@@ -173,58 +135,6 @@ export default function Hub() {
           ))}
         </div>
       </section>
-
-      {/* Team Modal */}
-      <AnimatePresence>
-        {showTeam && (
-          <motion.div
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            exit={{ opacity: 0 }}
-            className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/60 backdrop-blur-sm"
-            onClick={() => setShowTeam(false)}
-          >
-            <motion.div
-              initial={{ opacity: 0, scale: 0.95 }}
-              animate={{ opacity: 1, scale: 1 }}
-              exit={{ opacity: 0, scale: 0.95 }}
-              onClick={e => e.stopPropagation()}
-              className="relative w-full max-w-md rounded-xl bg-surface-2 border border-surface-3 shadow-2xl"
-            >
-              <div className="p-6">
-                <div className="flex items-center justify-between mb-5">
-                  <div className="flex items-center gap-3">
-                    <div className="w-9 h-9 rounded-lg bg-surface-3 flex items-center justify-center">
-                      <Users size={18} className="text-brand-400" />
-                    </div>
-                    <div>
-                      <h2 className="text-sm font-semibold text-text-primary">Equipe</h2>
-                      <p className="text-[10px] text-text-muted">GCETENS843 — 2026.1</p>
-                    </div>
-                  </div>
-                  <button
-                    onClick={() => setShowTeam(false)}
-                    className="p-1 rounded-lg hover:bg-surface-3 transition-colors"
-                  >
-                    <X size={16} className="text-text-muted" />
-                  </button>
-                </div>
-                <div className="space-y-0.5">
-                  {team.map((m, i) => (
-                    <div
-                      key={i}
-                      className="flex items-center justify-between p-2.5 rounded-lg hover:bg-surface-3/50 transition-colors"
-                    >
-                      <span className="text-sm font-medium text-text-primary">{m.name}</span>
-                      <span className="text-[11px] text-text-muted text-right max-w-[180px]">{m.role}</span>
-                    </div>
-                  ))}
-                </div>
-              </div>
-            </motion.div>
-          </motion.div>
-        )}
-      </AnimatePresence>
 
       {/* Footer */}
       <footer className="border-t border-surface-3">
