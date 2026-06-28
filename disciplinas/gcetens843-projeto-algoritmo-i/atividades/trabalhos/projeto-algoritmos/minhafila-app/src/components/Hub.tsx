@@ -31,7 +31,7 @@ export default function Hub() {
         'Pessoas com deficiência são as mais afetadas',
         'Sistemas atuais são isolados por setor',
       ],
-      link: 'https://github.com/Deivisan/Metodologia-EAD/raw/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/problema-real.docx',
+      link: 'https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/Deivisan/Metodologia-EAD/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/problema-real.docx&wdDownloadButton=1',
     },
     {
       id: 'proposta',
@@ -44,7 +44,7 @@ export default function Hub() {
         'Acessibilidade: Libras, contraste, leitores de tela',
         'Estimativa de espera baseada em tempo real',
       ],
-      link: 'https://github.com/Deivisan/Metodologia-EAD/raw/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/proposta.docx',
+      link: 'https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/Deivisan/Metodologia-EAD/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/proposta.docx&wdDownloadButton=1',
     },
     {
       id: 'fluxograma',
@@ -57,8 +57,7 @@ export default function Hub() {
         'Notificações automáticas via push/SMS',
         'Painel de monitoramento em tempo real',
       ],
-      link: 'https://github.com/Deivisan/Metodologia-EAD/raw/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/fluxograma.docx',
-      imageUrl: 'https://raw.githubusercontent.com/Deivisan/Metodologia-EAD/main/minhafila/assets/fluxograma.jpeg',
+      link: 'https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/Deivisan/Metodologia-EAD/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/fluxograma.docx&wdDownloadButton=1',
     },
     {
       id: 'prototipo',
@@ -89,9 +88,7 @@ export default function Hub() {
   ]
 
   const handleCardClick = (card: typeof cards[0]) => {
-    if (card.imageUrl) {
-      window.open(card.imageUrl, '_blank')
-    } else if (card.link && card.link !== '#') {
+    if (card.link && card.link !== '#') {
       window.open(card.link, '_blank')
     }
   }
