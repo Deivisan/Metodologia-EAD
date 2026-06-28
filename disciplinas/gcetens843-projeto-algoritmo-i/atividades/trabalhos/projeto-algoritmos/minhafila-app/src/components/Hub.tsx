@@ -71,7 +71,7 @@ export default function Hub() {
         'Visão do paciente e visão do funcionário',
         'Design responsivo e acessível',
       ],
-      link: 'https://deivisan.github.io/Metodologia-EAD/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/prototipo-minhafila/',
+      link: '/Metodologia-EAD/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/prototipo-minhafila/',
     },
     {
       id: 'slides',
