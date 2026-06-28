@@ -1,3 +1,6 @@
+> 📦 **ARQUIVADO** — Documento extra, não é entregável obrigatório do professor.
+> Os entregáveis obrigatórios são: Problema Real · Casos Existentes · Proposta · Fluxograma · Protótipo · Apresentação
+
 <div class="cabecalho-atividade">
 <img src="templates/logo-ufrb-20-anos.png" alt="UFRB" style="max-width: 55%;" />
 <span class="inst">Universidade Federal do Recôncavo da Bahia — UFRB</span><br/>
@@ -24,13 +27,13 @@
 | Nome | Função |
 |---|---|
 | Deivison de Lima Santana | Organização, documentação, proposta e protótipo |
-| Ausiane | Pesquisa e acessibilidade |
+| Ausiane de Oliveira Costa | Pesquisa e acessibilidade |
 | Nubia de Asiká | Pesquisa e referências |
-| Rios | Pesquisa e fundamentação |
+| Raimon Rios da Silva | Pesquisa e fundamentação |
 | Artur Campos | Fluxograma |
-| Marcos Vinícius | Fluxograma |
+| Marcos Vinícius dos Santos Sena | Fluxograma |
 | Uélinton Cardoso Santana | Protótipo e identidade visual |
-| Wallace | Apresentação e slides |
+| Wallace Ribeiro Lima | Apresentação e slides |
 
 ---
 

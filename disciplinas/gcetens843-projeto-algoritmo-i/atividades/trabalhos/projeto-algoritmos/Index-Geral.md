@@ -6,7 +6,7 @@
 
 ![Foto do grupo](imagens-grupo/nova-foto-grupo.png)
 
-*Grupo: Deivison, Ausiane, Rios, Artur, Uélinton, Nubia, Marcos Vinicius e Wallace.*
+*Grupo: Deivison, Ausiane de Oliveira Costa, Raimon Rios da Silva, Artur Campos, Uélinton Cardoso Santana, Nubia de Asiká, Marcos Vinícius dos Santos Sena e Wallace Ribeiro Lima.*
 
 ---
 
@@ -32,12 +32,12 @@
 |:-:|:-----------|:------------|:------:|
 | 1 | **Deivison** | Proposta, documentação, protótipo geral, repositório, refatoração do fluxograma | Ativo |
 | 2 | **Raimon Rios da Silva** | Pesquisa de campo, proposta (experiência em saúde), problema real | Ativo |
-| 3 | **Ausiane** | Casos existentes, protótipo (design e acessibilidade), documentação de acessibilidade | Ativo |
+| 3 | **Ausiane de Oliveira Costa** | Casos existentes, protótipo (design e acessibilidade), documentação de acessibilidade | Ativo |
 | 4 | **Nubia** | Pesquisa e casos existentes (inclusão e diagnóstico tardio) | Ativo |
 | 5 | **Artur** | Fluxograma do sistema | Ativo |
 | 6 | **Marcos Vinícius dos Santos Sena** | Fluxograma do sistema | Ativo |
-| 7 | **Uélinton** | Protótipo de telas e slides da apresentação | Ativo |
-| 8 | **Wallace** | Slides da apresentação | A definir |
+| 7 | **Uélinton Cardoso Santana** | Protótipo de telas e slides da apresentação | Ativo |
+| 8 | **Wallace Ribeiro Lima** | Slides da apresentação | Ativo |
 
 > [Divisão de tarefas completa com justificativas](divisao-de-tarefas.md)
 
@@ -99,7 +99,7 @@
 | Protótipo | PDF com prints | Em produção no Figma |
 | Slides | PPTX | Criar |
 | Roteiro | DOCX | Criar |
-| Relatório do Projeto | DOCX + PDF | Consolidar |
+| Relatório do Projeto | DOCX + PDF | 📦 Arquivado (extra) |
 
 ---
 
@@ -135,7 +135,7 @@ O problema real está fundamentado em literatura consolidada (Aggarwal, Chianca,
 | Fluxograma | [`fluxograma.md`](fluxograma.md) |
 | Proposta | [`proposta.md`](proposta.md) |
 | Problema real | [`problema-real.md`](problema-real.md) |
-| Identidade visual | [`Identidade-visual.md`](Identidade-visual.md) |
+
 | Histórico WhatsApp | [`historico-whatsapp.json`](historico-whatsapp.json) |
 | Documentação geral | [`documentacao-geral-projeto-algoritmos.md`](documentacao-geral-projeto-algoritmos.md) |
 | Imagens do grupo | [`imagens-grupo/`](imagens-grupo/) |
