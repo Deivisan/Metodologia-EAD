@@ -23,6 +23,7 @@ ARQUIVOS = [
     'proposta',
     'fluxograma',
     'casos-existentes',
+    'Projeto-Algoritmo-1-V2',
 ]
 
 AZUL_UFRB_HEX = '003D6B'
