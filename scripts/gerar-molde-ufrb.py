@@ -22,6 +22,7 @@ ARQUIVOS = [
     'problema-real',
     'proposta',
     'fluxograma',
+    'casos-existentes',
 ]
 
 AZUL_UFRB_HEX = '003D6B'

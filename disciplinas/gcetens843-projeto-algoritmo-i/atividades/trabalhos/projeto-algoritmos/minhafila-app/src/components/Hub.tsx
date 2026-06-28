@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion'
 import {
-  FileText, Lightbulb, GitBranch, Smartphone, Presentation, Users
+  FileText, Lightbulb, GitBranch, Smartphone, Presentation, Search, Users
 } from 'lucide-react'
 
 const team = [
@@ -55,6 +55,19 @@ export default function Hub() {
         'Painel de monitoramento em tempo real',
       ],
       link: 'https://raw.githubusercontent.com/Deivisan/Metodologia-EAD/main/minhafila/assets/fluxograma.jpeg',
+    },
+    {
+      id: 'casos',
+      title: 'Casos Existentes',
+      icon: Search,
+      description: 'Análise de soluções de mercado e iniciativas governamentais: QMS, TOTVS, Wavetec, Senha Fácil e mais.',
+      details: [
+        '5 sistemas QMS de mercado analisados',
+        '3 iniciativas governamentais brasileiras',
+        'Critérios comparativos por setor',
+        'Diferenciais competitivos do MinhaFila',
+      ],
+      link: 'https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/Deivisan/Metodologia-EAD/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/casos-existentes.docx&wdDownloadButton=1',
     },
     {
       id: 'prototipo',
