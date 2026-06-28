@@ -1,7 +1,18 @@
 import { motion } from 'framer-motion'
 import {
-  FileText, Lightbulb, GitBranch, Smartphone, Presentation
+  FileText, Lightbulb, GitBranch, Smartphone, Presentation, Users
 } from 'lucide-react'
+
+const team = [
+  { name: 'Deivison de Lima Santana', role: 'Proposta, Documentação, Protótipo' },
+  { name: 'Ausiane de Oliveira Costa', role: 'Casos, Protótipo' },
+  { name: 'Raimon Rios da Silva', role: 'Pesquisa, Proposta' },
+  { name: 'Núbia Rosália de Souza Ramos', role: 'Pesquisa, Casos' },
+  { name: 'Artur Campos', role: 'Fluxograma' },
+  { name: 'Marcos Vinícius dos Santos Sena', role: 'Fluxograma' },
+  { name: 'Uélinton Cardoso Santana', role: 'Protótipo, Slides' },
+  { name: 'Wallace Ribeiro Lima', role: 'Slides, Apresentação' },
+]
 
 export default function Hub() {
 
@@ -132,6 +143,28 @@ export default function Hub() {
               <h3 className="text-sm font-semibold text-text-primary mb-1">{card.title}</h3>
               <p className="text-[11px] text-text-muted leading-relaxed">{card.description}</p>
             </motion.button>
+          ))}
+        </div>
+      </section>
+
+      {/* Equipe */}
+      <section className="max-w-4xl mx-auto px-6 pb-16">
+        <div className="flex items-center gap-2 mb-6 justify-center">
+          <Users size={16} className="text-brand-400" />
+          <h2 className="text-sm font-semibold text-text-primary tracking-wide uppercase">Equipe</h2>
+        </div>
+        <div className="grid grid-cols-2 sm:grid-cols-4 gap-2">
+          {team.map((m, i) => (
+            <motion.div
+              key={i}
+              initial={{ opacity: 0, y: 8 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.3, delay: 0.03 * i }}
+              className="p-3 rounded-lg bg-surface-2 border border-surface-3 text-center"
+            >
+              <p className="text-xs font-medium text-text-primary leading-tight">{m.name}</p>
+              <p className="text-[10px] text-text-muted mt-0.5">{m.role}</p>
+            </motion.div>
           ))}
         </div>
       </section>
