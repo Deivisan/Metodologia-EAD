@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Aplica molde UFRB a arquivos .docx do zero:
    1. Regenera .docx via pandoc a partir do .md (limpo)
-   2. Aplica header com logo UFRB (substituindo header existente)
+   2. Insere capa com logo UFRB no início (única)
+   3. Aplica estilos e rodapé.
 """
 
 import sys
@@ -57,43 +58,27 @@ def gerar_docx_via_pandoc(nome):
     return docx_path
 
 
-def aplicar_header_ufrb(docx_path):
-    """Abre .docx e substitui/adiciona header com logo UFRB + texto."""
+def aplicar_capa_e_estilos(docx_path):
+    """Abre .docx, insere capa com logo UFRB (uma vez) no topo, aplica estilos e rodapé."""
     from docx import Document
-    from docx.shared import Inches, Pt, RGBColor, Emu
+    from docx.shared import Inches, Pt, RGBColor
     from docx.enum.text import WD_ALIGN_PARAGRAPH
-    from docx.oxml.ns import qn, nsdecls
+    from docx.oxml.ns import nsdecls
     from docx.oxml import parse_xml
-    import copy
 
     doc = Document(docx_path)
 
-    # ========== HEADER ==========
-    section = doc.sections[0]
+    # ========== INSERIR CAPA NO INÍCIO ==========
+    # Criar tabela de capa (1 linha, 2 colunas)
+    capa_tbl = doc.add_table(rows=1, cols=2)
+    capa_tbl.autofit = False
 
-    # Remove header existente (se houver) — apaga conteudo do paragrafo padrao
-    header = section.header
-    header.is_linked_to_previous = False
-
-    # Limpa TODOS os elementos do header (remove paragrafos antigos)
-    for p in header.paragraphs:
-        p.clear()
-
-    # Remove tabelas antigas do header
-    for tbl in header.tables:
-        tbl._element.getparent().remove(tbl._element)
-
-    # --- Monta header com tabela: logo | texto ---
-    tbl = header.add_table(rows=1, cols=2, width=Inches(6.5))
-    tbl.autofit = True
-
-    # Remove bordas da tabela
-    tbl_pr = tbl._tbl.tblPr
+    # Remover bordas da tabela
+    tbl_pr = capa_tbl._tbl.tblPr
     if tbl_pr is None:
         tbl_pr = parse_xml(f'<w:tblPr {nsdecls("w")}/>')
-        tbl._tbl.insert(0, tbl_pr)
+        capa_tbl._tbl.insert(0, tbl_pr)
 
-    # Borda none
     borders = parse_xml(
         f'<w:tblBorders {nsdecls("w")}>'
         '  <w:top w:val="none" w:sz="0" w:space="0" w:color="auto"/>'
@@ -104,30 +89,26 @@ def aplicar_header_ufrb(docx_path):
     )
     tbl_pr.append(borders)
 
-    # Celula 0: Logo
-    cell_logo = tbl.cell(0, 0)
+    # Célula esquerda: logo
+    cell_logo = capa_tbl.cell(0, 0)
     cell_logo.width = Inches(1.4)
-    # Clear default paragraph
-    cell_logo.paragraphs[0].clear()
     p_logo = cell_logo.paragraphs[0]
     p_logo.alignment = WD_ALIGN_PARAGRAPH.LEFT
-
     if os.path.exists(LOGO_PATH):
         run_logo = p_logo.add_run()
         run_logo.add_picture(LOGO_PATH, width=Inches(1.25))
 
-    # Celula 1: Texto institucional
-    cell_texto = tbl.cell(0, 1)
+    # Célula direita: texto institucional
+    cell_texto = capa_tbl.cell(0, 1)
     cell_texto.width = Inches(5.0)
-    # Clear default
-    cell_texto.paragraphs[0].clear()
+    p1 = cell_texto.paragraphs[0]
+    p1.alignment = WD_ALIGN_PARAGRAPH.LEFT
 
     def add_texto(parag, texto, size, bold, color_hex):
         run = parag.add_run(texto)
         run.font.size = Pt(size)
         run.font.name = 'Times New Roman'
         run.bold = bold
-        from docx.shared import RGBColor
         run.font.color.rgb = RGBColor(
             int(color_hex[0:2], 16),
             int(color_hex[2:4], 16),
@@ -135,26 +116,29 @@ def aplicar_header_ufrb(docx_path):
         )
         return run
 
-    p1 = cell_texto.paragraphs[0]
-    p1.alignment = WD_ALIGN_PARAGRAPH.LEFT
     add_texto(p1, "UNIVERSIDADE FEDERAL DO RECÔNCAVO DA BAHIA — UFRB", 8, True, AZUL_UFRB_HEX)
-
     p2 = cell_texto.add_paragraph()
     p2.alignment = WD_ALIGN_PARAGRAPH.LEFT
     add_texto(p2, "CENTRO DE CIÊNCIA E TECNOLOGIA — CETENS", 7.5, True, AZUL_CLARO_HEX)
-
     p3 = cell_texto.add_paragraph()
     p3.alignment = WD_ALIGN_PARAGRAPH.LEFT
     add_texto(p3, "BACHARELADO EM SISTEMAS DE INFORMAÇÃO (EAD)", 7, False, CINZA_HEX)
-
     p4 = cell_texto.add_paragraph()
     p4.alignment = WD_ALIGN_PARAGRAPH.LEFT
     add_texto(p4, "─" * 80, 4, False, DOURADO_HEX)
 
-    # ========== RODAPE ==========
+    # Mover a tabela para o início do documento
+    tbl_element = capa_tbl._tbl
+    if doc.paragraphs:
+        first_para = doc.paragraphs[0]._element
+        first_para.addprevious(tbl_element)
+    else:
+        doc._body._element.append(tbl_element)
+
+    # ========== RODAPÉ ==========
+    section = doc.sections[0]
     footer = section.footer
     footer.is_linked_to_previous = False
-    # Limpa rodape
     for p in footer.paragraphs:
         p.clear()
     for tbl in footer.tables:
@@ -165,10 +149,10 @@ def aplicar_header_ufrb(docx_path):
     r_footer = p_footer.add_run("MinhaFila — GCETENS843 — 2026.1")
     r_footer.font.size = Pt(7)
     r_footer.font.name = 'Times New Roman'
-    r_footer.font.color.rgb = RGBColor(int(CINZA_HEX[0:2], 16), int(CINZA_HEX[2:4], 16), int(CINZA_HEX[4:6], 16))
+    r_footer.font.color.rgb = RGBColor(int(CINZA_HEX[0:2],16), int(CINZA_HEX[2:4],16), int(CINZA_HEX[4:6],16))
     r_footer.italic = True
 
-    # ========== ESTILOS ==========
+    # ========== ESTILOS DO DOCUMENTO ==========
     style = doc.styles['Normal']
     style.font.name = 'Times New Roman'
     style.font.size = Pt(12)
@@ -186,7 +170,7 @@ def aplicar_header_ufrb(docx_path):
             h.font.name = 'Times New Roman'
             h.font.size = Pt(size)
             h.font.bold = True
-            h.font.color.rgb = RGBColor(int(chex[0:2], 16), int(chex[2:4], 16), int(chex[4:6], 16))
+            h.font.color.rgb = RGBColor(int(chex[0:2],16), int(chex[2:4],16), int(chex[4:6],16))
             h.paragraph_format.line_spacing = 1.5
         except KeyError:
             pass
@@ -206,13 +190,14 @@ def main():
         print(f"\n📄 {nome}:")
         docx = gerar_docx_via_pandoc(nome)
         if docx:
-            aplicar_header_ufrb(docx)
+            aplicar_capa_e_estilos(docx)
 
     print(f"\n✅ Pronto! Verifique os arquivos em:")
     for nome in ARQUIVOS:
         path = os.path.join(BASE, f'{nome}.docx')
-        size = os.path.getsize(path)
-        print(f"   • {nome}.docx ({size/1024:.0f} KB)")
+        if os.path.exists(path):
+            size = os.path.getsize(path)
+            print(f"   • {nome}.docx ({size/1024:.0f} KB)")
 
 
 if __name__ == '__main__':

@@ -1,7 +1,8 @@
 # Problema Real — MinhaFila
 
 > **Responsáveis:** Raimon Rios da Silva, Deivison de Lima Santana  
-> **Última atualização:** 28/06/2026
+> **Última atualização:** 28/06/2026  
+> **Fonte-base:** Documento "Projeto Algoritmo 1 V2" (Rios, 2026)
 
 ---
 

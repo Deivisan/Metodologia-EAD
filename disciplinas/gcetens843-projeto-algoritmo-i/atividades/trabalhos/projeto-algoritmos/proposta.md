@@ -3,17 +3,16 @@
 > **Documento de Proposta** — Gerenciamento Inteligente de Filas para Múltiplos Setores
 > **Última atualização:** 26/06/2026
 > **Status:** Proposta consolidada
+> **Elaboração:** Esta proposta foi desenvolvida com base no documento "Projeto Algoritmo I V2" elaborado por Raimon Rios da Silva (2026), com contribuições de todos os integrantes do grupo MinhaFila.
 
 ---
 
 ## 1. Identificação
 
-| Item | Descrição |
-|------|-----------|
-| **Nome do Projeto** | MinhaFila |
-| **Tema** | Gerenciamento Inteligente de Filas para Múltiplos Setores |
-| **Disciplina** | GCETENS843 — Projeto Algoritmo I |
-| **Instituição** | UFRB — CETENS — Bacharelado em Sistemas de Informação (EAD) |
+**Nome do Projeto:** MinhaFila  
+**Tema:** Gerenciamento Inteligente de Filas para Múltiplos Setores  
+**Disciplina:** GCETENS843 — Projeto Algoritmo I  
+**Instituição:** UFRB — CETENS — Bacharelado em Sistemas de Informação (EAD)
 
 ---
 
@@ -28,7 +27,7 @@ Filas presenciais são uma realidade comum em bancos, hospitais, faculdades, com
 5. Não pode se ausentar do local com segurança — corre o risco de perder a vez.
 6. Pessoas com deficiência auditiva perdem chamadas sonoras; pessoas com baixa visão têm dificuldade para ler painéis; pessoas com TEA sofrem com o excesso de estímulos em ambientes lotados.
 
-**Consequências observadas:**
+Consequências observadas:
 
 - Sensação de injustiça e opacidade no atendimento
 - Ansiedade gerada pela imprevisibilidade da espera
@@ -37,7 +36,7 @@ Filas presenciais são uma realidade comum em bancos, hospitais, faculdades, com
 - Experiência negativa independentemente da qualidade do serviço prestado
 - Exclusão de pessoas com deficiência que não conseguem acompanhar o sistema tradicional
 
-**Problemas existentes nas soluções atuais:**
+Problemas existentes nas soluções atuais:
 
 - Sistemas de senha física não fornecem informações em tempo real
 - Painéis eletrônicos têm alcance limitado e não são acessíveis
@@ -48,7 +47,7 @@ Filas presenciais são uma realidade comum em bancos, hospitais, faculdades, com
 
 ## 3. A Solução
 
-O **MinhaFila** é um sistema de senha virtual com acompanhamento em tempo real, notificações e painéis de gestão, projetado para funcionar em **múltiplos setores**: bancos, unidades de saúde, instituições de ensino, comércio e repartições governamentais.
+O MinhaFila é um sistema de senha virtual com acompanhamento em tempo real, notificações e painéis de gestão, projetado para funcionar em **múltiplos setores**: bancos, unidades de saúde, instituições de ensino, comércio e repartições governamentais.
 
 ### Conceito Central
 
@@ -78,14 +77,14 @@ O usuário chega ao local, realiza um cadastro rápido e recebe uma senha virtua
 
 ## 4. Diferenciais
 
-| Diferencial | Descrição |
-|-------------|-----------|
-| **Transparência** | O usuário vê exatamente sua posição e o tempo estimado, eliminando a sensação de injustiça |
-| **Mobilidade** | O usuário pode aguardar fora do local e ser notificado quando estiver próximo |
-| **Multissetorial** | Funciona em bancos, saúde, educação, comércio e governo com um único sistema |
-| **Dados Analíticos** | Gestores obtêm relatórios de fluxo, horários de pico, tempo médio de espera e desempenho |
-| **Acessibilidade** | Modos para baixa visão, alto contraste, surdos (alertas visuais) e TEA (baixo estímulo) |
-| **Baixa Fricção** | Cadastro rápido sem burocracia; QR Code elimina necessidade de digitar URLs |
+O MinhaFila apresenta os seguintes diferenciais em relação às soluções existentes:
+
+- **Transparência:** O usuário vê exatamente sua posição e o tempo estimado, eliminando a sensação de injustiça.
+- **Mobilidade:** O usuário pode aguardar fora do local e ser notificado quando estiver próximo.
+- **Multissetorial:** Funciona em bancos, saúde, educação, comércio e governo com um único sistema.
+- **Dados Analíticos:** Gestores obtêm relatórios de fluxo, horários de pico, tempo médio de espera e desempenho.
+- **Acessibilidade:** Modos para baixa visão, alto contraste, surdos (alertas visuais) e TEA (baixo estímulo).
+- **Baixa Fricção:** Cadastro rápido sem burocracia; QR Code elimina necessidade de digitar URLs.
 
 ---
 
@@ -93,32 +92,26 @@ O usuário chega ao local, realiza um cadastro rápido e recebe uma senha virtua
 
 ### Módulo Usuário
 
-| Funcionalidade | Descrição |
-|----------------|-----------|
-| Cadastro rápido | Nome, telefone, serviço desejado e preferências de acessibilidade |
-| Senha virtual | Geração automática de senha ao entrar na fila |
-| Acompanhamento em tempo real | Posição atualizada, tempo estimado, pessoas à frente |
-| Notificação push | Alerta quando faltar 2-3 pessoas para ser chamado |
-| Histórico | Consulta de atendimentos anteriores |
-| Perfil de acessibilidade | Configurações de alto contraste, fonte ampliada, modo silencioso |
+- **Cadastro rápido:** Nome, telefone, serviço desejado e preferências de acessibilidade.
+- **Senha virtual:** Geração automática de senha ao entrar na fila.
+- **Acompanhamento em tempo real:** Posição atualizada, tempo estimado, pessoas à frente.
+- **Notificação push:** Alerta quando faltar 2-3 pessoas para ser chamado.
+- **Histórico:** Consulta de atendimentos anteriores.
+- **Perfil de acessibilidade:** Configurações de alto contraste, fonte ampliada, modo silencioso.
 
 ### Módulo Gestor
 
-| Funcionalidade | Descrição |
-|----------------|-----------|
-| Painel de fila | Visualização completa das senhas ativas por serviço/guichê |
-| Chamada | Botão para chamar próximo usuário |
-| Gestão de guichês | Abrir/fechar guichês, alocar servidores |
-| Relatórios | Tempo médio de espera, horários de pico, volume por período |
-| Configurações | Regras de prioridade, capacidade, categorias de serviço |
+- **Painel de fila:** Visualização completa das senhas ativas por serviço/guichê.
+- **Chamada:** Botão para chamar próximo usuário.
+- **Gestão de guichês:** Abrir/fechar guichês, alocar servidores.
+- **Relatórios:** Tempo médio de espera, horários de pico, volume por período.
+- **Configurações:** Regras de prioridade, capacidade, categorias de serviço.
 
 ### Módulo Painel Público (TV)
 
-| Funcionalidade | Descrição |
-|----------------|-----------|
-| Senha do momento | Exibe a senha sendo chamada no guichê |
-| Próximas senhas | Lista das próximas 5-10 senhas previstas |
-| Informações complementares | Horário, avisos institucionais |
+- **Senha do momento:** Exibe a senha sendo chamada no guichê.
+- **Próximas senhas:** Lista das próximas 5-10 senhas previstas.
+- **Informações complementares:** Horário, avisos institucionais.
 
 ---
 
@@ -178,27 +171,25 @@ Usuário retorna → É chamado normalmente
 
 ## 8. Arquitetura Tecnológica
 
-| Componente | Tecnologia |
-|------------|------------|
-| **Frontend (usuário)** | Web responsivo com tecnologia PWA (instalável como app) |
-| **Frontend (gestor)** | Dashboard web responsivo |
-| **Painel TV** | Página web otimizada para telas grandes |
-| **Backend** | API REST |
-| **Notificações** | Push notification via Service Worker (PWA) |
-| **Identificação** | QR Code estático por estabelecimento + código único por senha |
-| **Banco de Dados** | Relacional (estrutura de fila, usuários, estabelecimentos, atendimentos) |
+A arquitetura técnica do MinhaFila é composta pelos seguintes componentes e tecnologias:
+
+- **Frontend (usuário):** Web responsivo com tecnologia PWA (instalável como app).
+- **Frontend (gestor):** Dashboard web responsivo.
+- **Painel TV:** Página web otimizada para telas grandes.
+- **Backend:** API REST.
+- **Notificações:** Push notification via Service Worker (PWA).
+- **Identificação:** QR Code estático por estabelecimento + código único por senha.
+- **Banco de Dados:** Relacional (estrutura de fila, usuários, estabelecimentos, atendimentos).
 
 ---
 
 ## 9. Casos de Uso por Setor
 
-| Setor | Exemplo de Uso |
-|-------|---------------|
-| **Bancos** | Senha para caixa, gerente, serviços específicos (abertura de conta, cartão) |
-| **Saúde** | Chegada na recepção, aguardo de consulta, exames, retornos |
-| **Educação** | Matrícula, secretaria, atendimento ao aluno, protocolo |
-| **Comércio** | Atendimento prioritário, retirada de pedidos, SAC |
-| **Governo** | Protocolo, atendimento presencial, serviços públicos |
+- **Bancos:** Senha para caixa, gerente, serviços específicos (abertura de conta, cartão).
+- **Saúde:** Chegada na recepção, aguardo de consulta, exames, retornos.
+- **Educação:** Matrícula, secretaria, atendimento ao aluno, protocolo.
+- **Comércio:** Atendimento prioritário, retirada de pedidos, SAC.
+- **Governo:** Protocolo, atendimento presencial, serviços públicos.
 
 ---
 
@@ -213,6 +204,5 @@ Usuário retorna → É chamado normalmente
 
 ---
 
-> **Documento base do projeto MinhaFila**
+> **Documento base:** Projeto-Algoritmo-1-V2.docx (Rios, 2026)  
 > Repositório: `disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/`
-> Arquivos relacionados: [`Index-Geral.md`](Index-Geral.md), [`problema-real.md`](problema-real.md)
