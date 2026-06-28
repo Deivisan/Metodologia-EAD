@@ -1,6 +1,8 @@
-# Prompt — Identidade Visual FilaClara (Estilo Infográfico)
+# Prompt — Identidade Visual MinhaFila (Estilo Infográfico) [ARQUIVADO]
 
-> **Objetivo:** Gerar imagens em estilo infográfico limpo, profissional e fácil de comparar para o grupo votar na identidade visual do projeto.
+> **⚠️ Cancelado.** A identidade visual do MinhaFila foi descontinuada. Este arquivo mantém os prompts originais como referência histórica.
+>
+> **Objetivo original:** Gerar imagens em estilo infográfico limpo, profissional e fácil de comparar para o grupo votar na identidade visual do projeto.
 > 
 > **Ferramenta recomendada:** Notebook LM (ou qualquer gerador de imagem com bons prompts como Flux, Midjourney, Leonardo, GPT-4o, etc.)
 >
@@ -13,7 +15,7 @@
 ```text
 Crie uma imagem em estilo infográfico moderno, limpo e profissional.
 
-Mostre as 5 cores do Protocolo de Manchester para o app FilaClara em grandes círculos ou swatches bem organizados.
+Mostre as 5 cores do Protocolo de Manchester para o app MinhaFila em grandes círculos ou swatches bem organizados.
 
 Cores exatas:
 - Vermelho (Emergência): #C62828

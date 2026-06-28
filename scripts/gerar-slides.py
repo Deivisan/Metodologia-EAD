@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Gerar slides .pptx para apresentação do FilaClara."""
+"""Gerar slides .pptx para apresentação do MinhaFila."""
 
 from pptx import Presentation
 from pptx.util import Inches, Pt
@@ -8,9 +8,9 @@ from pptx.enum.text import PP_ALIGN
 import os
 
 SLIDES_DIR = "/home/deivi/Projetos/Metodologia-EAD/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos"
-OUTPUT = os.path.join(SLIDES_DIR, "apresentacao-filaclara.pptx")
+OUTPUT = os.path.join(SLIDES_DIR, "apresentacao-minhafila.pptx")
 
-# Cores do FilaClara
+# Cores do MinhaFila
 COR_FUNDO = RGBColor(0x0F, 0x17, 0x2A)  # azul escuro
 COR_BRANCO = RGBColor(0xFF, 0xFF, 0xFF)
 COR_ACENTO = RGBColor(0x4F, 0x46, 0xE5)  # indigo
@@ -60,7 +60,7 @@ shapes = slide.shapes
 # Titulo principal
 txBox = shapes.add_textbox(Inches(1.5), Inches(1.5), Inches(10), Inches(2))
 tf = txBox.text_frame; tf.word_wrap = True
-p = tf.paragraphs[0]; p.text = "FilaClara"; p.font.size = Pt(72); p.font.bold = True; p.font.color.rgb = COR_VERDE
+p = tf.paragraphs[0]; p.text = "MinhaFila"; p.font.size = Pt(72); p.font.bold = True; p.font.color.rgb = COR_VERDE
 p2 = tf.add_paragraph(); p2.text = "Filas Inteligentes para Serviços de Saúde com Acessibilidade"
 p2.font.size = Pt(28); p2.font.color.rgb = COR_BRANCO; p2.space_before = Pt(12)
 # Info
@@ -89,7 +89,7 @@ add_slide("O Problema", [
 ], COR_VERDE)
 
 # 3. Solução
-add_slide("Nossa Solução: FilaClara", [
+add_slide("Nossa Solução: MinhaFila", [
     "• Sistema de acompanhamento de filas em tempo real",
     "",
     "• Retirada de senha virtual pelo celular — sem necessidade",

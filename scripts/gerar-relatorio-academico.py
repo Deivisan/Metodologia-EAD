@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Gera relatorio academico FilaClara .docx com formatacao ABNT."""
+"""Gera relatorio academico MinhaFila .docx com formatacao ABNT."""
 import os
 from docx import Document
 from docx.shared import Pt, Cm, Inches, RGBColor
@@ -8,7 +8,7 @@ from docx.enum.section import WD_ORIENT
 from docx.oxml.ns import qn
 from docx.oxml import OxmlElement
 
-OUTPUT = "/home/deivi/Projetos/Metodologia-EAD/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/relatorio-academico-filaclara.docx"
+OUTPUT = "/home/deivi/Projetos/Metodologia-EAD/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/relatorio-academico-minhafila.docx"
 LOGO = "/home/deivi/Projetos/Metodologia-EAD/templates/logo-ufrb-20-anos.png"
 
 doc = Document()
@@ -95,7 +95,7 @@ run.font.size = Pt(10)
 p.paragraph_format.space_after = Pt(36)
 
 # Titulo do trabalho
-add_para('FilaClara:', bold=False, size=18, align='center', space_after=6)
+add_para('MinhaFila:', bold=False, size=18, align='center', space_after=6)
 add_para('Sistema de Gerenciamento Inteligente de Filas Presenciais', bold=False, size=18, align='center', space_after=4)
 add_para('em Serviços de Saúde com Foco em Acessibilidade', bold=False, size=18, align='center', space_after=36)
 
@@ -123,7 +123,7 @@ doc.add_page_break()
 add_heading('Resumo', level=1)
 
 add_para(
-    'O presente trabalho apresenta o FilaClara, um sistema de gerenciamento inteligente de filas '
+    'O presente trabalho apresenta o MinhaFila, um sistema de gerenciamento inteligente de filas '
     'presenciais para serviços de saúde, desenvolvido com foco em transparência, acessibilidade e '
     'inclusão. A solução propõe o acompanhamento de filas em tempo real por meio de dispositivo '
     'móvel, com geração de senha virtual, notificação antecipada de atendimento e recursos de '
@@ -174,7 +174,7 @@ add_para(
 )
 
 add_para(
-    'Diante desse cenário, o presente projeto propõe o FilaClara, um sistema de gerenciamento '
+    'Diante desse cenário, o presente projeto propõe o MinhaFila, um sistema de gerenciamento '
     'inteligente de filas presenciais para serviços de saúde, desenvolvido com transparência radical '
     'e acessibilidade como pilares centrais. A pergunta que orienta esta pesquisa é: como reduzir o '
     'tempo de permanência física dos usuários nas unidades de saúde e aumentar a previsibilidade do '
@@ -277,12 +277,12 @@ add_para(
 # 4. PROPOSTA DE SOLUCAO
 # ════════════════════════════════════════
 
-add_heading('4. Proposta de Solução: FilaClara', level=1)
+add_heading('4. Proposta de Solução: MinhaFila', level=1)
 
 add_heading('4.1 Visão Geral', level=2)
 
 add_para(
-    'O FilaClara é um sistema de acompanhamento de filas em tempo real para serviços de saúde, '
+    'O MinhaFila é um sistema de acompanhamento de filas em tempo real para serviços de saúde, '
     'com foco em transparência e acessibilidade. A solução permite que o paciente: (a) realize um '
     'cadastro rápido ao chegar à unidade de saúde; (b) receba uma senha virtual diretamente em '
     'seu dispositivo móvel; (c) acompanhe em tempo real sua posição na fila e o tempo estimado '
@@ -344,7 +344,7 @@ for item in [
 add_heading('4.3 Diferenciais', level=2)
 
 add_para(
-    'O FilaClara se diferencia das soluções existentes por quatro aspectos principais. '
+    'O MinhaFila se diferencia das soluções existentes por quatro aspectos principais. '
     'Primeiro, a acessibilidade como pilar central: modos específicos para pessoas com deficiência '
     'auditiva, visual, TEA, idosos e gestantes. Segundo, a transparência radical: exibição da '
     'posição real e cores de risco das pessoas à frente, sem identificação nominal. Terceiro, '
@@ -361,7 +361,7 @@ add_para(
 add_heading('5. Fluxograma do Sistema', level=1)
 
 add_para(
-    'O fluxograma do sistema descreve o percurso completo do usuário no FilaClara, desde a '
+    'O fluxograma do sistema descreve o percurso completo do usuário no MinhaFila, desde a '
     'entrada até o atendimento, incluindo a lógica de prioridade e notificação. O fluxo é '
     'composto pelas seguintes etapas:',
     size=12, align='justify', space_after=6
@@ -401,7 +401,7 @@ add_para(
 add_heading('6. Protótipo de Telas', level=1)
 
 add_para(
-    'O protótipo do FilaClara foi desenvolvido com foco na experiência do usuário e nos princípios '
+    'O protótipo do MinhaFila foi desenvolvido com foco na experiência do usuário e nos princípios '
     'de acessibilidade. As telas principais do fluxo do paciente incluem: tela de splash com a '
     'identidade visual do sistema; onboarding com apresentação das funcionalidades principais; '
     'home com opções de clínicas e atendimentos disponíveis; cadastro com formulário para dados '
@@ -430,7 +430,7 @@ add_para(
 add_heading('7. Considerações Finais', level=1)
 
 add_para(
-    'O FilaClara apresenta-se como uma solução viável e necessária para o problema das filas '
+    'O MinhaFila apresenta-se como uma solução viável e necessária para o problema das filas '
     'presenciais em serviços de saúde, combinando tecnologia móvel, transparência e acessibilidade '
     'em um único sistema. A abordagem proposta responde diretamente à pergunta central do projeto, '
     'oferecendo meios para reduzir o tempo de permanência física dos usuários nas unidades de '
@@ -441,7 +441,7 @@ add_para(
 add_para(
     'A pesquisa realizada pela equipe evidenciou que as soluções existentes no mercado não '
     'incorporam a acessibilidade como pilar central do design, deixando desassistidas pessoas com '
-    'deficiência auditiva, visual e TEA. O FilaClara preenche essa lacuna ao oferecer recursos '
+    'deficiência auditiva, visual e TEA. O MinhaFila preenche essa lacuna ao oferecer recursos '
     'específicos para cada tipo de necessidade.',
     size=12, align='justify', space_after=6
 )

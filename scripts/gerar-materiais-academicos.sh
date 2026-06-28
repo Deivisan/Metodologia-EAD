@@ -61,7 +61,7 @@ pandoc_clean() {
 }
 
 echo "============================================"
-echo "  Gerando Materiais Acadêmicos - FilaClara  "
+echo "  Gerando Materiais Acadêmicos - MinhaFila  "
 echo "============================================"
 echo ""
 
@@ -69,7 +69,7 @@ echo ""
 echo "[1/6] Fluxograma → .docx..."
 pandoc_clean "$PROJETO/fluxograma.md" \
   "$PROJETO/fluxograma.docx" \
-  --metadata title="Fluxograma - FilaClara"
+  --metadata title="Fluxograma - MinhaFila"
 
 # 2. Fluxograma → .pdf (ABNT)
 echo "[2/6] Fluxograma → .pdf (ABNT)..."
@@ -78,14 +78,14 @@ pandoc_clean "$PROJETO/fluxograma.md" \
   --pdf-engine=weasyprint \
   -c "$CSS_ABNT" \
   --resource-path="$PROJETO" \
-  --metadata title="Fluxograma do Sistema FilaClara"
+  --metadata title="Fluxograma do Sistema MinhaFila"
 
 # 3. Problema Real → .docx
 echo "[3/6] Problema Real → .docx..."
 if [ -f "$PROJETO/problema-real.md" ]; then
   pandoc_clean "$PROJETO/problema-real.md" \
     "$PROJETO/problema-real.docx" \
-    --metadata title="Problema Real - FilaClara"
+    --metadata title="Problema Real - MinhaFila"
 else
   echo "  ⚠️  problema-real.md não encontrado. Pulando."
 fi
@@ -95,14 +95,14 @@ echo "[4/8] Proposta → .docx..."
 if [ -f "$PROJETO/proposta.md" ]; then
   pandoc_clean "$PROJETO/proposta.md" \
     "$PROJETO/proposta.docx" \
-    --metadata title="Proposta - FilaClara"
+    --metadata title="Proposta - MinhaFila"
   echo "[5/8] Proposta → .pdf (ABNT)..."
   pandoc_clean "$PROJETO/proposta.md" \
     "$PROJETO/proposta.pdf" \
     --pdf-engine=weasyprint \
     -c "$CSS_ABNT" \
     --resource-path="$PROJETO" \
-    --metadata title="Proposta - FilaClara"
+    --metadata title="Proposta - MinhaFila"
 else
   echo "  ⚠️  proposta.md não encontrado. Pulando."
 fi
@@ -115,7 +115,7 @@ if [ -f "$PROJETO/problema-real.md" ]; then
     --pdf-engine=weasyprint \
     -c "$CSS_ABNT" \
     --resource-path="$PROJETO" \
-    --metadata title="Problema Real - FilaClara"
+    --metadata title="Problema Real - MinhaFila"
 else
   echo "  ⚠️  problema-real.md não encontrado. Pulando."
 fi
@@ -124,7 +124,7 @@ fi
 echo "[7/8] Index-Geral → .docx..."
 pandoc_clean "$PROJETO/Index-Geral.md" \
   "$PROJETO/Index-Geral.docx" \
-  --metadata title="Index Geral - FilaClara"
+  --metadata title="Index Geral - MinhaFila"
 
 # 7. Gerar slides .pptx via Python
 echo "[8/8] Gerando slides .pptx..."

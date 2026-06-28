@@ -26,4 +26,4 @@ Abra o arquivo `index.html` no navegador e siga o fluxo:
 
 ## Observação
 
-Este protótipo foi gerado originalmente para o projeto **FilaClara** (escopo saúde). Está programada uma atualização para o escopo multissetorial do **MinhaFila** via OpenDesign. Os dados atuais são fictícios.
+Este protótipo foi gerado para o projeto **MinhaFila** — filas inteligentes multissetoriais (saúde, bancos, comércio, governo, educação). Os dados atuais são fictícios.
