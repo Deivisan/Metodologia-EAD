@@ -28,7 +28,7 @@
 |---|---|
 | Deivison de Lima Santana | Organização, documentação, proposta e protótipo |
 | Ausiane de Oliveira Costa | Pesquisa e acessibilidade |
-| Nubia de Asiká | Pesquisa e referências |
+| Núbia Rosália de Souza Ramos | Pesquisa e referências |
 | Raimon Rios da Silva | Pesquisa e fundamentação |
 | Artur Campos | Fluxograma |
 | Marcos Vinícius dos Santos Sena | Fluxograma |

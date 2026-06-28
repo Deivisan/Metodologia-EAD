@@ -15,8 +15,8 @@
 | **Rios** | Filas + Acessibilidade | Sim | Pesquisa, Slides |
 | **Ausiane** | Filas + Acessibilidade | Sim | Pesquisa, Casos |
 | **Artur Campos** | Org. Acadêmica EAD | Sim | Fluxograma, Protótipo, Código C *(histórico — Código C cancelado pelo grupo em 12/06/2026)* |
-| **Nubia** | Educação + Acessibilidade | Sim | Pesquisa, Casos, Proposta, Documentação |
-| **Uelinton** | Educação + Acessibilidade | Sim | Slides |
+| **Núbia** | Educação + Acessibilidade | Sim | Pesquisa, Casos, Proposta, Documentação |
+| **Uélinton** | Educação + Acessibilidade | Sim | Slides |
 
 ### ❌ NÃO RESPONDEU: Wallace
 
@@ -27,7 +27,7 @@
 | Tema | Votos |
 |---|---|
 | **Filas Inteligentes + Acessibilidade** 🟢🟢🟢 | **3 votos** (Deivison, Rios, Ausiane) |
-| **Educação, Acessibilidade e Inclusão** 🟢🟢 | **2 votos** (Nubia, Uelinton) |
+| **Educação, Acessibilidade e Inclusão** 🟢🟢 | **2 votos** (Núbia, Uélinton) |
 | **Organização Acadêmica EAD** 🟢 | **1 voto** (Artur) |
 
 ⚠️ *Wallace ainda pode decidir o desempate!*
@@ -40,13 +40,13 @@
 
 | Tarefa | Quem marcou |
 |---|---|
-| **1. Pesquisa e Definição do Problema** | Nubia, Rios, Ausiane |
-| **2. Casos Existentes** | Nubia, Ausiane |
-| **3. Proposta e Diferencial da Solução** | Nubia |
+| **1. Pesquisa e Definição do Problema** | Núbia, Rios, Ausiane |
+| **2. Casos Existentes** | Núbia, Ausiane |
+| **3. Proposta e Diferencial da Solução** | Núbia |
 | **4. Fluxograma** | Artur |
 | **5. Protótipo de Telas** | Artur, Deivison, Ausiane |
 | **6. Código em C** | Artur |
-| **7. Slides e Apresentação** | Deivison, Rios, Uelinton |
-| **8. Organização e Documentação** | Nubia |
+| **7. Slides e Apresentação** | Deivison, Rios, Uélinton |
+| **8. Organização e Documentação** | Núbia |
 
 ============================================================

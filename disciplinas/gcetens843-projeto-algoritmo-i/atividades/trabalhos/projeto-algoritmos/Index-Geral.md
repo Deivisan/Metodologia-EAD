@@ -6,7 +6,7 @@
 
 ![Foto do grupo](imagens-grupo/nova-foto-grupo.png)
 
-*Grupo: Deivison, Ausiane de Oliveira Costa, Raimon Rios da Silva, Artur Campos, Uélinton Cardoso Santana, Nubia de Asiká, Marcos Vinícius dos Santos Sena e Wallace Ribeiro Lima.*
+*Grupo: Deivison, Ausiane de Oliveira Costa, Raimon Rios da Silva, Artur Campos, Uélinton Cardoso Santana, Núbia Rosália de Souza Ramos, Marcos Vinícius dos Santos Sena e Wallace Ribeiro Lima.*
 
 ---
 
@@ -32,8 +32,8 @@
 |:-:|:-----------|:------------|:------:|
 | 1 | **Deivison** | Proposta, documentação, protótipo geral, repositório, refatoração do fluxograma | Ativo |
 | 2 | **Raimon Rios da Silva** | Pesquisa de campo, proposta (experiência em saúde), problema real | Ativo |
-| 3 | **Ausiane de Oliveira Costa** | Casos existentes, protótipo (design e acessibilidade), documentação de acessibilidade | Ativo |
-| 4 | **Nubia** | Pesquisa e casos existentes (inclusão e diagnóstico tardio) | Ativo |
+| 3 | **Ausiane de Oliveira Costa** | Casos existentes, protótipo (acessibilidade), documentação de acessibilidade | Ativo |
+| 4 | **Núbia** | Pesquisa e casos existentes (inclusão e diagnóstico tardio) | Ativo |
 | 5 | **Artur** | Fluxograma do sistema | Ativo |
 | 6 | **Marcos Vinícius dos Santos Sena** | Fluxograma do sistema | Ativo |
 | 7 | **Uélinton Cardoso Santana** | Protótipo de telas e slides da apresentação | Ativo |
@@ -75,7 +75,7 @@
 
 | O quê | Responsáveis | Local |
 |:------|:-------------|:------|
-| Casos existentes | Ausiane + Nubia | [Google Doc](https://docs.google.com/document/d/1mSFvxPnuMh5f13xKnHx1B3A1n4uhkBJokg0afE9Tdgw/edit?usp=sharing) |
+| Casos existentes | Ausiane + Núbia | [Google Doc](https://docs.google.com/document/d/1mSFvxPnuMh5f13xKnHx1B3A1n4uhkBJokg0afE9Tdgw/edit?usp=sharing) |
 | Proposta e diferencial | Deivison + Rios | [`proposta.md`](proposta.md) |
 
 ### Pendente (prazo: 28-29/06)

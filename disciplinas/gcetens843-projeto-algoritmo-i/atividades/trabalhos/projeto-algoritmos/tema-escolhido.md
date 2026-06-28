@@ -70,7 +70,7 @@ Na mesma noite, **Rios** deu um passo além, propondo um modelo mais inovador:
 
 ### 08/06 — A decisão
 
-Com as ideias amadurecidas, **Deivison** criou uma enquete no Google Forms para formalizar a escolha. **Nubia** contribuiu com sua perspectiva social:
+Com as ideias amadurecidas, **Deivison** criou uma enquete no Google Forms para formalizar a escolha. **Núbia** contribuiu com sua perspectiva social:
 
 > *"Acho interessante o tema sobre educação e acessibilidade, sobretudo nesse momento, no qual várias pessoas estão tendo alguns diagnósticos 'tardios' que se tivessem ocorrido antes evitariam tantos 'traumas'."*
 
@@ -85,7 +85,7 @@ Após a apuração dos votos (6 respondentes de 7 integrantes, com um 8º entran
 | Colocação | Tema | Votos |
 |:---------:|:-----|:-----:|
 | 1º | **Filas Inteligentes com Acessibilidade** | **3** (Deivison, Rios, Ausiane) |
-| 2º | Educação, Acessibilidade e Inclusão | 2 (Nubia, Uelinton) |
+| 2º | Educação, Acessibilidade e Inclusão | 2 (Núbia, Uélinton) |
 | 3º | Organização Acadêmica para Estudantes EAD | 1 (Artur) |
 
 A inclusão de acessibilidade no projeto foi aprovada por unanimidade: 6/6 votaram "Sim".
@@ -138,9 +138,9 @@ O **MinhaFila** é um sistema de gerenciamento inteligente de filas que torna o 
 | **Deivison de Lima Santana** | Idealizou o tema das filas a partir de experiência pessoal; criou o protótipo funcional do sistema e centralizou a documentação |
 | **Rios** | Expandiu a ideia com o modelo de fichas virtuais e agendamento por horário; trouxe experiência da área da saúde e da educação |
 | **Ausiane** | Propôs e defendeu a inclusão da acessibilidade como diferencial do projeto; contribuiu com perspectiva de TEA e deficiência auditiva |
-| **Nubia** | Reforçou a importância social do tema com a perspectiva dos diagnósticos tardios |
+| **Núbia** | Reforçou a importância social do tema com a perspectiva dos diagnósticos tardios |
 | **Artur** | Apoiou o tema e contribuiu com visão técnica |
-| **Uelinton** | Apoiou o tema e se dispôs a contribuir ativamente |
+| **Uélinton** | Apoiou o tema e se dispôs a contribuir ativamente |
 | **Marcos Vinicius** | Chegou ao grupo com a decisão tomada e acatou o tema |
 | **Wallace** | Integrante do grupo, alocado como apoio nos slides |
 

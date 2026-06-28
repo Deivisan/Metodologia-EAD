@@ -413,7 +413,7 @@ disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritm
 |---|---|
 | Deivison de Lima Santana | Organização inicial, documentação e participação ativa no projeto. |
 | Ausiane | TEA + deficiência auditiva unilateral. Trabalhou no NAI (Núcleo de Acessibilidade e Inclusão). Educação, inclusão, acessibilidade. |
-| Nubia de Asiká | Apoiou tema de educação/acessibilidade (diagnósticos tardios). |
+| Núbia Rosália de Souza Ramos | Apoiou tema de educação/acessibilidade (diagnósticos tardios). |
 | Rios | Experiência em educação e saúde. Sugeriu filas inteligentes com fichas virtuais. Concordou em incluir acessibilidade. |
 | Wallace | Integrante confirmado; aguardando posicionamento. |
 | Artur Campos | Entrou em 08/06/2026. Aguardando. |

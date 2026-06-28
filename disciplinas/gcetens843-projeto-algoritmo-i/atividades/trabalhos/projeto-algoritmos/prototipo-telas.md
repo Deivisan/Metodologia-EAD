@@ -1,6 +1,6 @@
 # Protótipo de Telas — MinhaFila
 
-> **Responsáveis:** Ausiane + Uelinton
+> **Responsáveis:** Ausiane + Uélinton
 > **Status:** ✅ Protótipo inicial importado do Open Designer
 > **Prazo:** 25/06/2026
 

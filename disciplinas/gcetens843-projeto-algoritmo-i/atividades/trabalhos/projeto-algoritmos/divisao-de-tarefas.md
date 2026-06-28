@@ -25,13 +25,13 @@ Esta divisão de tarefas não foi sorteada. Ela foi construída a partir de:
 
 | # | Tarefa | Responsáveis | Tipo |
 |:-:|:-------|:-------------|:----:|
-| 1 | 🔍 **Pesquisa e Definição do Problema** | **Rios + Nubia** | 🟢 Dupla fixa |
-| 2 | 📂 **Casos Existentes** | **Ausiane + Nubia** | 🟢 Dupla fixa |
+| 1 | 🔍 **Pesquisa e Definição do Problema** | **Rios + Núbia** | 🟢 Dupla fixa |
+| 2 | 📂 **Casos Existentes** | **Ausiane + Núbia** | 🟢 Dupla fixa |
 | 3 | ✍️ **Proposta e Diferencial da Solução** | **Deivison + Rios** | 🟢 Dupla fixa |
 | 4 | 🔀 **Fluxograma do Sistema** | **Artur + Marcos Vinicius** | 🟢 Dupla fixa |
 | 5 | 🎨 **Protótipo de Telas (Mockups)** | **Uélinton** (Uélinton Cardoso Santana) | 🟢 Pendente |
 | 6 | 💻 **Código em C** | **—** | ❌ **Cancelado** (decisão oficial do grupo em 12/06/2026) | Foco 100% nos entregáveis obrigatórios. Artur e Marcos Vinicius liberados.
-| 7 | 📊 **Slides e Apresentação** | **Uelinton + Wallace** | 🟢 Dupla fixa |
+| 7 | 📊 **Slides e Apresentação** | **Uélinton + Wallace** | 🟢 Dupla fixa |
 | 8 | 📁 **Organização e Documentação** | **Deivison** | 🔵 Individual |
 
 ### Legenda
@@ -44,7 +44,7 @@ Esta divisão de tarefas não foi sorteada. Ela foi construída a partir de:
 ## 3. 🧠 A História de Cada Decisão
 
 ### Tarefa 1 — Pesquisa e Definição do Problema
-**Responsáveis: Rios + Nubia**
+**Responsáveis: Rios + Núbia**
 
 **Rios** foi quem primeiro mobilizou o grupo para pensar no problema prático:
 
@@ -54,16 +54,16 @@ Sua experiência na área da saúde o credencia naturalmente para esta tarefa:
 
 > *"Eu também sou do campo da educação e da saúde."*
 
-**Nubia** também se voluntariou para Pesquisa na enquete e trouxe uma perspectiva única sobre o impacto social do problema:
+**Núbia** também se voluntariou para Pesquisa na enquete e trouxe uma perspectiva única sobre o impacto social do problema:
 
 > *"Acho interessante o tema sobre educação e acessibilidade, sobretudo nesse momento, no qual várias pessoas estão tendo alguns diagnósticos 'tardios' que se tivessem ocorrido antes evitariam tantos 'traumas'."*
 
-**Justificativa da dupla:** Rios traz o conhecimento prático do ambiente de atendimento ao público; Nubia contribui com a visão social e de inclusão. Juntos, conseguem definir o problema com profundidade técnica e humana.
+**Justificativa da dupla:** Rios traz o conhecimento prático do ambiente de atendimento ao público; Núbia contribui com a visão social e de inclusão. Juntos, conseguem definir o problema com profundidade técnica e humana.
 
 ---
 
 ### Tarefa 2 — Casos Existentes
-**Responsáveis: Ausiane + Nubia**
+**Responsáveis: Ausiane + Núbia**
 
 **Ausiane** tem vivência prática com acessibilidade em plataformas digitais:
 
@@ -73,9 +73,9 @@ Ela também observou a falta de acessibilidade em sistemas existentes:
 
 > *"Vejo que muitos sistemas assim, apesar de serem bons, não têm acessibilidade nenhuma. E não são muito intuitivos."*
 
-**Nubia**, além de ter se voluntariado para esta tarefa na enquete, traz o olhar atento às necessidades de públicos vulneráveis.
+**Núbia**, além de ter se voluntariado para esta tarefa na enquete, traz o olhar atento às necessidades de públicos vulneráveis.
 
-**Justificativa da dupla:** Ausiane pode pesquisar sistemas existentes com um olhar crítico de acessibilidade; Nubia complementa com a visão de inclusão. Juntas, conseguem mapear o que já existe e identificar lacunas.
+**Justificativa da dupla:** Ausiane pode pesquisar sistemas existentes com um olhar crítico de acessibilidade; Núbia complementa com a visão de inclusão. Juntas, conseguem mapear o que já existe e identificar lacunas.
 
 ---
 
@@ -108,7 +108,7 @@ Ela também observou a falta de acessibilidade em sistemas existentes:
 ---
 
 ### Tarefa 5 — Protótipo de Telas (Mockups)
-**Responsáveis: Ausiane + Uelinton**
+**Responsáveis: Ausiane + Uélinton**
 
 **Ausiane** revelou ter habilidades e interesse em design de interfaces:
 
@@ -118,11 +118,11 @@ Ela também demonstrou conhecimento da ferramenta certa para o trabalho:
 
 > *(Sobre o Figma) "Tava pensando nele mesmo."*
 
-**Uelinton** se voluntariou para esta tarefa de prontidão, demonstrando energia para contribuir:
+**Uélinton** se voluntariou para esta tarefa de prontidão, demonstrando energia para contribuir:
 
 > *"Obrigado, estou feliz por fazer parte do grupo. Contem comigo!"*
 
-**Justificativa da dupla:** Ausiane lidera a parte visual com suas ideias de design e acessibilidade; Uelinton a apoia na execução. O protótipo será feito no Figma, conforme discutido no grupo, e deve priorizar contraste, legibilidade e simplicidade.
+**Justificativa da dupla:** Ausiane lidera a parte visual com suas ideias de design e acessibilidade; Uélinton a apoia na execução. O protótipo será feito no Figma, conforme discutido no grupo, e deve priorizar contraste, legibilidade e simplicidade.
 
 ---
 
@@ -136,13 +136,13 @@ Artur e Marcos Vinicius foram liberados dessa tarefa e permanecerão responsáve
 ---
 
 ### Tarefa 7 — Slides e Apresentação
-**Responsáveis: Uelinton + Wallace**
+**Responsáveis: Uélinton + Wallace**
 
-**Uelinton** já havia selecionado esta tarefa na enquete e se mostrou comunicativo e motivado no grupo.
+**Uélinton** já havia selecionado esta tarefa na enquete e se mostrou comunicativo e motivado no grupo.
 
 **Wallace** é membro do grupo desde o início, mas **não enviou nenhuma mensagem no WhatsApp** durante todo o período de discussão. Não respondeu à enquete nem se manifestou sobre o tema. Por isso, foi alocado nos Slides — uma tarefa que não exige conhecimento técnico prévio e permite que ele contribua sem precisar dominar ferramental específico.
 
-**Justificativa da dupla:** Uelinton lidera a produção dos slides com seu engajamento; Wallace fica como apoio, podendo contribuir com revisão, formatação e apresentação.
+**Justificativa da dupla:** Uélinton lidera a produção dos slides com seu engajamento; Wallace fica como apoio, podendo contribuir com revisão, formatação e apresentação.
 
 ---
 
@@ -164,15 +164,15 @@ Artur e Marcos Vinicius foram liberados dessa tarefa e permanecerão responsáve
 | **Deivison** | Proposta (3) + Documentação (8) | **2** | ✅ equilibrado |
 | **Rios** | Pesquisa (1) + Proposta (3) | **2** | ✅ equilibrado |
 | **Ausiane** | Casos (2) | **2** | ✅ equilibrado |
-| **Nubia** | Pesquisa (1) + Casos (2) | **2** | ✅ equilibrado (tinha 4, foi aliviada) |
+| **Núbia** | Pesquisa (1) + Casos (2) | **2** | ✅ equilibrado (tinha 4, foi aliviada) |
 | **Artur** | Fluxograma (4) | **1** | ✅ liberado do Código C (decisão 12/06) |
 | **Marcos Vinicius** | Fluxograma (4) | **1** | ✅ liberado do Código C (decisão 12/06) |
-| **Uelinton** | Protótipo (5) + Slides (7) | **2** | ✅ equilibrado |
+| **Uélinton** | Protótipo (5) + Slides (7) | **2** | ✅ equilibrado |
 | **Wallace** | Slides (7) | **1** | 🟡 apoio |
 
 ### Como a carga foi equilibrada
 
-A distribuição original da enquete deixava **Nubia sobrecarregada** (4 tarefas), enquanto **Uelinton e Wallace** tinham apenas 1. A redistribuição final buscou:
+A distribuição original da enquete deixava **Núbia sobrecarregada** (4 tarefas), enquanto **Uélinton e Wallace** tinham apenas 1. A redistribuição final buscou:
 
 - ✅ **Ninguém com mais de 2 tarefas** (exceto Deivison, que acumula a organização geral)
 - ✅ **Cada tarefa com pelo menos 2 responsáveis** (exceto Documentação, que é centralizada)

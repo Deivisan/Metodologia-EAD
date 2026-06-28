@@ -20,7 +20,7 @@
 |---|---|---|
 | Deivison de Lima Santana | Filas ou Educação | Sugeriu filas inteligentes; tem afinidade com ambos. |
 | Ausiane | Filas Inteligentes + Acessibilidade | Disse "Topo esse, tbm" e perguntou se pode incluir acessibilidade. |
-| Nubia de Asiká | Educação/Acessibilidade | Falou sobre diagnósticos tardios e traumas educacionais. |
+| Núbia Rosália de Souza Ramos | Educação/Acessibilidade | Falou sobre diagnósticos tardios e traumas educacionais. |
 | Rios | Filas Inteligentes | Sugeriu agendamento por horário com fichas virtuais. Concordou em incluir acessibilidade. |
 | Wallace | Pendente | Aguardando posicionamento. |
 | Artur Campos | Pendente | Acabou de entrar no grupo (08/06). |

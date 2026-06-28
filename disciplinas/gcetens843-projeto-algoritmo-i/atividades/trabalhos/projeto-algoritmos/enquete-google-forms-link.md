@@ -11,7 +11,7 @@
 
 > **Criada em:** 08/06/2026  
 > **Criador:** Deivison Santana  
-> **Respostas:** apenas os 7 integrantes (Deivison, Ausiane, Nubia, Rios, Wallace, Artur, Uelinton)
+> **Respostas:** apenas os 7 integrantes (Deivison, Ausiane, Núbia, Rios, Wallace, Artur, Uélinton)
 
 ---
 

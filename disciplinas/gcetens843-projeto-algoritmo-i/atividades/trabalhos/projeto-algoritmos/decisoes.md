@@ -31,8 +31,8 @@
 | 1 | **Deivison de Lima Santana** | Início | ✅ Sim | 🏆 Filas Inteligentes + Acessibilidade |
 | 2 | **Ausiane** | Início | ✅ Sim | 🏆 Filas Inteligentes + Acessibilidade |
 | 3 | **Rios** | Início | ✅ Sim | 🏆 Filas Inteligentes + Acessibilidade |
-| 4 | **Nubia de Asiká** | Início | ✅ Sim | Educação, Acessibilidade e Inclusão |
-| 5 | **Uelinton** | 08/06 | ✅ Sim | Educação, Acessibilidade e Inclusão |
+| 4 | **Núbia Rosália de Souza Ramos** | Início | ✅ Sim | Educação, Acessibilidade e Inclusão |
+| 5 | **Uélinton** | 08/06 | ✅ Sim | Educação, Acessibilidade e Inclusão |
 | 6 | **Artur Campos** | 08/06 | ✅ Sim | Organização Acadêmica para Estudantes EAD |
 | 7 | **Wallace** | Início | ❌ **Não respondeu** | — |
 | 8 | **Marcos Vinicius** | 🆕 **09/06** | ❌ **Não estava no grupo** | — |
@@ -50,7 +50,7 @@ Realizada via Google Forms em 08/06/2026.
 | Tema | Votos | Quem votou |
 |:-----|:-----:|:-----------|
 | 🥇 **Filas Inteligentes + Acessibilidade** | **3** | Deivison, Rios, Ausiane |
-| 🥈 Educação, Acessibilidade e Inclusão | 2 | Nubia, Uelinton |
+| 🥈 Educação, Acessibilidade e Inclusão | 2 | Núbia, Uélinton |
 | 🥉 Organização Acadêmica para Estudantes EAD | 1 | Artur |
 
 **Observação:** Wallace não votou. Marcos Vinicius entrou depois.
@@ -68,8 +68,8 @@ Pessoa             1  2  3  4  5  6  7  8  │ Tema que votou
 Deivison           .  .  .  .  ✅ .  ✅ .  │ 🏆 Filas+Ac ✅
 Ausiane            ✅ ✅ .  .  ✅ .  .  .  │ 🏆 Filas+Ac ✅
 Rios               ✅ .  .  .  .  .  ✅ .  │ 🏆 Filas+Ac ✅
-Nubia              ✅ ✅ ✅ .  .  .  .  ✅  │ Educação/Ac
-Uelinton           .  .  .  .  .  .  ✅ .  │ Educação/Ac
+Núbia              ✅ ✅ ✅ .  .  .  .  ✅  │ Educação/Ac
+Uélinton           .  .  .  .  .  .  ✅ .  │ Educação/Ac
 Artur              .  .  .  ✅ ✅ ✅ .  .  │ Org. EAD
 Wallace            ?  ?  ?  ?  ?  ?  ?  ?  │ ❌ não respondeu
 Marcos Vinicius    ?  ?  ?  ?  ?  ?  ?  ?  │ 🆕 novo
@@ -93,16 +93,16 @@ Marcos Vinicius    ?  ?  ?  ?  ?  ?  ?  ?  │ 🆕 novo
 
 | Tarefa | Quem se voluntariou | Qtde | Risco |
 |:-------|:-------------------|:----:|:-----:|
-| **3. Proposta e Diferencial** | Só Nubia | **1** | 🔴 Crítico — proposta é o coração do projeto |
+| **3. Proposta e Diferencial** | Só Núbia | **1** | 🔴 Crítico — proposta é o coração do projeto |
 | **4. Fluxograma** | Só Artur | **1** | 🟠 Médio |
 | **6. Código em C** | — | — | ❌ Cancelado (decisão oficial 12/06/2026) |
-| **8. Organização e Documentação** | Só Nubia | **1** | 🟠 Médio |
+| **8. Organização e Documentação** | Só Núbia | **1** | 🟠 Médio |
 
 ### Sobrecarga Individual
 
 | Pessoa | Tarefas | Situação |
 |:-------|:-------:|:---------|
-| **Nubia** | Pesquisa (1) + Casos (2) + Proposta (3) + Documentação (8) | 🔴 **4 tarefas!** |
+| **Núbia** | Pesquisa (1) + Casos (2) + Proposta (3) + Documentação (8) | 🔴 **4 tarefas!** |
 | **Artur** | Fluxograma (4) | 🟢 1 tarefa (liberado do Código C em 12/06) |
 | **Ausiane** | Pesquisa (1) + Casos (2) + Protótipo (5) | 🟡 3 tarefas |
 
@@ -114,19 +114,19 @@ Marcos Vinicius    ?  ?  ?  ?  ?  ?  ?  ?  │ 🆕 novo
 - **Tema oficial:** MinhaFila — Gerenciamento Inteligente de Filas Multissetorial
 - **Nome do projeto:** **MinhaFila** (definido em enquete encerrada em 25/06/2026)
 - **Acessibilidade:** incluída como diferencial obrigatório do projeto
-- Artur, Nubia e Uelinton cientes e confortáveis com o tema
+- Artur, Núbia e Uélinton cientes e confortáveis com o tema
 
 ### 5.2 Distribuição de Tarefas Final (atualizada 12/06)
 
 | # | Tarefa | Responsáveis | Situação | Observação |
 |:-:|--------|-------------|:--------:|------------|
-| 1 | **Pesquisa e Definição do Problema** | Rios + Nubia | ✅ Em andamento | Trabalho principal no Google Doc |
-| 2 | **Casos Existentes** | Ausiane + Nubia | ✅ Em andamento | Trabalho principal no Google Doc |
+| 1 | **Pesquisa e Definição do Problema** | Rios + Núbia | ✅ Em andamento | Trabalho principal no Google Doc |
+| 2 | **Casos Existentes** | Ausiane + Núbia | ✅ Em andamento | Trabalho principal no Google Doc |
 | 3 | **Proposta e Diferencial da Solução** | Deivison + Rios | 🔄 A iniciar | — |
 | 4 | **Fluxograma do Sistema** | Artur + Marcos Vinicius | 🔄 A iniciar | — |
-| 5 | **Protótipo de Telas (Mockups)** | Ausiane + Uelinton | 🔄 A iniciar | — |
+| 5 | **Protótipo de Telas (Mockups)** | Ausiane + Uélinton | 🔄 A iniciar | — |
 | 6 | **Código em C** | — | ❌ **Cancelado** | Decisão do grupo em 12/06 |
-| 7 | **Slides e Apresentação** | Uelinton + Wallace | 🔄 A iniciar | — |
+| 7 | **Slides e Apresentação** | Uélinton + Wallace | 🔄 A iniciar | — |
 | 8 | **Organização e Documentação** | Deivison | ✅ Contínuo | Atualizações constantes no repo + Docs |
 
 ### 5.3 Marcos Vinicius
@@ -162,13 +162,13 @@ Marcos Vinicius    ?  ?  ?  ?  ?  ?  ?  ?  │ 🆕 novo
 
 | Tarefa | Responsáveis | Tipo |
 |:-------|:-------------|:----:|
-| **1. Pesquisa** | Rios + Nubia | 🟢 Dupla fixa |
-| **2. Casos** | Ausiane + Nubia | 🟢 Dupla fixa |
+| **1. Pesquisa** | Rios + Núbia | 🟢 Dupla fixa |
+| **2. Casos** | Ausiane + Núbia | 🟢 Dupla fixa |
 | **3. Proposta** | Deivison + Rios | 🟢 Dupla fixa |
 | **4. Fluxograma** | Artur + Marcos Vinicius | 🟢 Dupla fixa |
-| **5. Protótipo** | Ausiane + Uelinton | 🟢 Dupla fixa |
+| **5. Protótipo** | Ausiane + Uélinton | 🟢 Dupla fixa |
 | **6. Código C** | — | ❌ **Cancelado** (decisão do grupo 12/06/2026) |
-| **7. Slides** | Uelinton + Wallace | 🟢 Dupla fixa |
+| **7. Slides** | Uélinton + Wallace | 🟢 Dupla fixa |
 | **8. Documentação** | Deivison | 🔵 Individual |
 
 ### Carga por Pessoa (atualizada 12/06)
@@ -178,9 +178,9 @@ Marcos Vinicius    ?  ?  ?  ?  ?  ?  ?  ?  │ 🆕 novo
 | **Deivison** | Proposta (3) + Documentação (8) | **2** | ✅ |
 | **Rios** | Pesquisa (1) + Proposta (3) | **2** | ✅ |
 | **Ausiane** | Casos (2) + Protótipo (5) | **2** | ✅ |
-| **Nubia** | Pesquisa (1) + Casos (2) | **2** | ✅ |
+| **Núbia** | Pesquisa (1) + Casos (2) | **2** | ✅ |
 | **Artur** | Fluxograma (4) | **1** | ✅ (libertado do Código C) |
-| **Uelinton** | Protótipo (5) + Slides (7) | **2** | ✅ |
+| **Uélinton** | Protótipo (5) + Slides (7) | **2** | ✅ |
 | **Wallace** | Slides (7) | **1** | 🟡 Apoio |
 | **Marcos Vinicius** | Fluxograma (4) | **1** | ✅ (libertado do Código C) |
 
@@ -202,17 +202,17 @@ Marcos Vinicius    ?  ?  ?  ?  ?  ?  ?  ?  │ 🆕 novo
 | Status | Documento | Responsável | Observação |
 |:------:|:----------|:-----------:|------------|
 | ✅ Pronto | **Tema Escolhido** (`tema-escolhido.md`) | Deivison | Decisão de 08/06 — MinhaFila |
-| ✅ Pronto | **Problema Real** (`problema-real.md`) | Rios + Nubia | Reescrito e finalizado |
+| ✅ Pronto | **Problema Real** (`problema-real.md`) | Rios + Núbia | Reescrito e finalizado |
 | ✅ Pronto | **Relatório Acadêmico MinhaFila** (`relatorio-academico-minhafila.md`) | Deivison | Documento finalizado |
 | ✅ Pronto | **Divisão de Tarefas** (`divisao-de-tarefas.md`) | Deivison | Atualizado com decisão sobre Código C |
 | ✅ Pronto | **Decisões do Projeto** (`decisoes.md`) | Deivison | Este arquivo (atualizado 26/06) |
-| 🔄 Em andamento | **Casos Existentes** (`casos-existentes.md`) | Ausiane + Nubia | Trabalho principal no Google Doc |
+| 🔄 Em andamento | **Casos Existentes** (`casos-existentes.md`) | Ausiane + Núbia | Trabalho principal no Google Doc |
 | ✅ Pronto | **Proposta de Solução** (`proposta.md`) | Deivison + Rios | Reescrita e finalizada |
-| 🔄 Em andamento | **Referências** (`referencias-web.md`) | Nubia + Rios | Trabalho principal no Google Doc |
+| 🔄 Em andamento | **Referências** (`referencias-web.md`) | Núbia + Rios | Trabalho principal no Google Doc |
 | ✅ Pronto | **Fluxograma** (`fluxograma.md`) | Deivison (revisão a partir do original) | 25/06/2026 |
-| 🔒 Pendente | **Protótipo de Telas** (`prototipo-telas.md`) | Ausiane + Uelinton | A iniciar |
+| 🔒 Pendente | **Protótipo de Telas** (`prototipo-telas.md`) | Ausiane + Uélinton | A iniciar |
 | ❌ Cancelado | **Código C** | — | Decisão do grupo: NÃO faremos |
-| 🔒 Pendente | **Roteiro de Apresentação** (`roteiro-apresentacao.md`) | Uelinton + Wallace | A iniciar |
+| 🔒 Pendente | **Roteiro de Apresentação** (`roteiro-apresentacao.md`) | Uélinton + Wallace | A iniciar |
 | 🔒 Pendente | **Apresentação Final** (`apresentacao-final.md`) | Grupo | A fazer |
 | 🔒 Pendente | **Ata de Decisões** (`ata-decisoes.md`) | Deivison | Em construção |
 | 🔒 Pendente | **Dúvidas e Perguntas** (`duvidas-e-perguntas.md`) | Grupo | Em uso no chat |
@@ -234,9 +234,9 @@ Marcos Vinicius    ?  ?  ?  ?  ?  ?  ?  ?  │ 🆕 novo
 | **Deivison** | Idealizou tema filas + acessibilidade, criou repositório, documentação, enquete, centralizou a organização |
 | **Rios** | Sugeriu fichas virtuais com agendamento por horário, experiência em atendimento e educação, apoiou acessibilidade |
 | **Ausiane** | TEA + def. auditiva unilateral, trabalhou no NAI, propôs incluir acessibilidade, tem ideias visuais (Figma) |
-| **Nubia** | Foco em educação, acessibilidade e diagnósticos tardios |
+| **Núbia** | Foco em educação, acessibilidade e diagnósticos tardios |
 | **Artur** | Perfil técnico, mencionou Figma para protótipos, se voluntariou para Fluxograma e Protótipo (antes da decisão de cancelar Código C em 12/06) |
-| **Uelinton** | Motivado, "Contem comigo!", disponível para contribuir |
+| **Uélinton** | Motivado, "Contem comigo!", disponível para contribuir |
 | **Wallace** | Presente no grupo mas sem interação registrada — alocado em Slides como apoio |
 | **Marcos Vinicius** | Entrou em 09/06, se voluntariou para Código C + Fluxograma (antes da decisão de cancelar Código C em 12/06; agora alocado apenas em Fluxograma) |
 

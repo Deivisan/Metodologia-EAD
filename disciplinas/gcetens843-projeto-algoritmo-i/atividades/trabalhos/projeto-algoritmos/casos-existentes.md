@@ -1,6 +1,6 @@
 # Casos Existentes — MinhaFila
 
-> **Responsáveis:** Ausiane + Nubia  
+> **Responsáveis:** Ausiane + Núbia  
 > **Fontes principais:** Google Docs (atualizado em tempo real)  
 > **Última sincronização do repositório:** 26/06/2026
 
@@ -59,4 +59,4 @@ Cada caso está sendo analisado com:
 
 > 🔗 [Voltar ao Index Geral](Index-Geral.md)
 
-*Este documento é atualizado a partir do Google Doc de trabalho da equipe (Ausiane + Nubia).*
+*Este documento é atualizado a partir do Google Doc de trabalho da equipe (Ausiane + Núbia).*

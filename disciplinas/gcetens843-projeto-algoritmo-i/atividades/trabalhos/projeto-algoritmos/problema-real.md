@@ -1,6 +1,6 @@
 # Contextualização do Problema — Filas de Atendimento em Múltiplos Setores
 
-> **Elaborado por:** Grupo MinhaFila (Deivison, Rios, Ausiane, Nubia, Wallace, Artur)
+> **Elaborado por:** Grupo MinhaFila (Deivison, Rios, Ausiane, Núbia, Wallace, Artur)
 > **Data:** 26/06/2026
 > **Intenção:** Contextualização do problema real de filas de atendimento em múltiplos setores
 

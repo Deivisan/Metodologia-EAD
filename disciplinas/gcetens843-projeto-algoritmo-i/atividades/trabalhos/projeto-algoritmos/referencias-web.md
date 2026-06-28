@@ -1,6 +1,6 @@
 # Referências e Links — MinhaFila
 
-> **Responsáveis:** Nubia + Rios  
+> **Responsáveis:** Núbia + Rios  
 > **Fontes principais:** Google Docs + pesquisas na web  
 > **Última sincronização do repositório:** 26/06/2026
 
@@ -60,4 +60,4 @@ Esses são os documentos onde a pesquisa está sendo construída coletivamente:
 
 > 🔗 [Voltar ao Index Geral](Index-Geral.md)
 
-*Este arquivo é atualizado a partir dos Google Docs de trabalho da equipe (Nubia + Ausiane).*
+*Este arquivo é atualizado a partir dos Google Docs de trabalho da equipe (Núbia + Ausiane).*

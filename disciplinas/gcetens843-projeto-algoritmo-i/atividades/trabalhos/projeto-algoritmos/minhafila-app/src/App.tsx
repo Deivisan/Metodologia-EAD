@@ -12,7 +12,7 @@ export default function App() {
   }
 
   if (view.screen === 'hub') {
-    return <Hub onNavigate={handleNavigate} />
+    return <Hub />
   }
 
   if (view.screen === 'admin') {

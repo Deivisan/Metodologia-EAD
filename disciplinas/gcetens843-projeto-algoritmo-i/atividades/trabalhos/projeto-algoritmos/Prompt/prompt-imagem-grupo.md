@@ -53,7 +53,7 @@ Disposicao na mesa (da esquerda para a direita, em semicirculo):
 - Postura: Com um notebook aberto na frente, olhando para o quadro.
 - Expressao: Concentrado.
 
-### Posicao 6 — Uelinton (extrema direita)
+### Posicao 6 — Uélinton (extrema direita)
 - Idade: ~30 anos
 - Aparencia: Homem negro, cabelo raspado ou curto. Camisa social cinza ou azul.
 - Postura: Maos na mesa, olhando para a camera.
@@ -78,8 +78,8 @@ JA CONCLUIDO:
   * Documentacao inicial
 
 EM ANDAMENTO (09-13/06):
-  * Pesquisa (Rios + Nubia)
-  * Casos existentes (Ausiane + Nubia)
+  * Pesquisa (Rios + Núbia)
+  * Casos existentes (Ausiane + Núbia)
 
 PROXIMOS PASSOS:
   * Fluxograma — 18/06
@@ -89,13 +89,13 @@ PROXIMOS PASSOS:
 ### 3.3 Divisao de Tarefas (centro/lado direito, caneta verde)
 
 TAREFAS:
-1. Pesquisa — Rios + Nubia
-2. Casos — Ausiane + Nubia
+1. Pesquisa — Rios + Núbia
+2. Casos — Ausiane + Núbia
 3. Proposta — Deivison + Rios
 4. Fluxograma — Artur + Marcos
 5. Prototipo — Uélinton
 6. Codigo C (opcional) — Artur + Marcos
-7. Slides — Uelinton + Wallace
+7. Slides — Uélinton + Wallace
 8. Documentacao — Deivison
 
 ### 3.4 Decisoes (canto superior direito, caneta vermelha)
@@ -135,4 +135,4 @@ DECISOES:
 5. Variacao de pose: Cada pessoa numa pose ligeiramente diferente — algumas olhando para a camera, outras para o quadro, algumas gesticulando.
 6. Sem logos ou marcas: Nenhuma logo de empresa, universidade ou marca visivel nas roupas ou no ambiente.
 7. Proporcao: 16:9 (widescreen).
-8. Apenas as 6 pessoas listadas: Nao adicionar pessoas extras. Nubia e Wallace nao estao na foto porque nao enviaram suas imagens de referencia.
+8. Apenas as 6 pessoas listadas: Nao adicionar pessoas extras. Núbia e Wallace nao estao na foto porque nao enviaram suas imagens de referencia.
