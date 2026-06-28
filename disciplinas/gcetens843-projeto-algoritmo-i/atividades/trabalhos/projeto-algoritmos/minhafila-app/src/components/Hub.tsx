@@ -54,7 +54,7 @@ export default function Hub() {
         'Notificações automáticas via push/SMS',
         'Painel de monitoramento em tempo real',
       ],
-      link: 'https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/Deivisan/Metodologia-EAD/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/fluxograma.docx&wdDownloadButton=1',
+      link: 'https://raw.githubusercontent.com/Deivisan/Metodologia-EAD/main/minhafila/assets/fluxograma.jpeg',
     },
     {
       id: 'prototipo',
