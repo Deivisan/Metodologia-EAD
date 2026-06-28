@@ -31,7 +31,7 @@ export default function Hub() {
         'Pessoas com deficiência são as mais afetadas',
         'Sistemas atuais são isolados por setor',
       ],
-      link: 'https://github.com/Deivisan/Metodologia-EAD/blob/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/problema-real.md',
+      link: 'https://github.com/Deivisan/Metodologia-EAD/raw/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/problema-real.docx',
     },
     {
       id: 'proposta',
@@ -44,7 +44,7 @@ export default function Hub() {
         'Acessibilidade: Libras, contraste, leitores de tela',
         'Estimativa de espera baseada em tempo real',
       ],
-      link: 'https://github.com/Deivisan/Metodologia-EAD/blob/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/proposta.md',
+      link: 'https://github.com/Deivisan/Metodologia-EAD/raw/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/proposta.docx',
     },
     {
       id: 'fluxograma',
@@ -57,7 +57,7 @@ export default function Hub() {
         'Notificações automáticas via push/SMS',
         'Painel de monitoramento em tempo real',
       ],
-      link: 'https://github.com/Deivisan/Metodologia-EAD/blob/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/fluxograma.md',
+      link: 'https://github.com/Deivisan/Metodologia-EAD/raw/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/fluxograma.docx',
       imageUrl: 'https://raw.githubusercontent.com/Deivisan/Metodologia-EAD/main/minhafila/assets/fluxograma.jpeg',
     },
     {
