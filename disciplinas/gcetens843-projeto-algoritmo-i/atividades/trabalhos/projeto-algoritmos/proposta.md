@@ -15,17 +15,6 @@
 | **Disciplina** | GCETENS843 — Projeto Algoritmo I |
 | **Instituição** | UFRB — CETENS — Bacharelado em Sistemas de Informação (EAD) |
 
-### Créditos da Proposta
-
-| Integrante | Contribuição |
-|------------|-------------|
-| **Deivison de Lima Santana** | Idealizador do conceito MinhaFila, criador do protótipo e organizador da documentação |
-| **Rios** | Pesquisador e proponente das fichas virtuais como alternativa às senhas físicas |
-| **Ausiane** | Defensora da acessibilidade como requisito essencial para inclusão de PCDs |
-| **Nubia de Asiká** | Apoio ao recorte de educação e acessibilidade para diagnósticos tardios |
-| **Wallace** | Integrante — aguardando posicionamento |
-| **Artur Campos** | Integrante — aguardando posicionamento |
-
 ---
 
 ## 2. O Problema
