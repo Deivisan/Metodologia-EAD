@@ -1,19 +1,19 @@
 # Meu Roteiro - Deivison de Lima Santana
 
-> Slides: 1, 2, 5, 6, 8, 9, 10, 11, 14
-> Duracao total: ~8min
+> Slides: 2, 5, 6, 8, 9, 10, 11, 14
+> Duracao total: ~7min
 
 ## Ordem Geral
 
 | # | Slide | Quem | Duracao |
 |:-:|:------|:----:|:-------:|
-| 1 | Capa | EU | 30s |
+| 1 | Capa | Artur | 30s |
 | 2 | Missao | EU | 30s |
 | 3 | Problema | Rios | 1min30 |
 | 4 | Casos | Rios | 1min30 |
 | 5 | Proposta | EU | 1min |
 | 6 | Ecossistema | EU | 1min |
-| 7 | Fluxograma | Rios | 1min30 |
+| 7 | Fluxograma | Artur | 1min30 |
 | 8 | Arquitetura | EU | 1min30 |
 | 9 | Jornada | EU | 1min30 |
 | 10 | Prototipo | EU | 1min30 |
@@ -26,11 +26,9 @@
 
 ## Minhas Falas
 
-### Slide 1 - Capa (30s)
-
-"Boa noite, professor Alex, boa noite a todos. Somos o grupo MinhaFila, da disciplina Projeto Algoritmo I. Nosso grupo tem 8 integrantes: eu, Deivison Santana; Raimon Rios; Ausiane Costa; Nubia Ramos; Artur Campos; Marcos Sena; Uelinton Santana e Wallace Lima. Somos todos do Bacharelado em Sistemas de Informacao EAD da UFRB."
-
 ### Slide 2 - Missao (30s)
+
+(entra depois do Artur)
 
 "A gente comecou este projeto com uma pergunta simples: por que esperar em fila ainda e uma experiencia tao frustrante e desorganizada? A nossa missao com o MinhaFila e transformar o tempo de espera — de uma frustracao imprevisivel para uma experiencia previsivel, justa e inclusiva. E o Rios vai mostrar agora por que a gente acredita que isso e necessario."
 
@@ -50,13 +48,13 @@
 
 O modulo do gestor funciona como uma central de operacao: o painel mostra todas as senhas ativas por guiche, o atendente chama o proximo com um clique, e o sistema gera relatorios de tempo medio, horarios de pico e performance. E basicamente dar visibilidade completa pra quem ta operando a fila."
 
-(seta) "Rios, o fluxograma do sistema."
+(seta) "Artur, o fluxograma do sistema."
 
 ---
 
 ### Slide 8 - Arquitetura (1min30)
 
-(entra depois do Rios)
+(entra depois do Artur)
 
 "A arquitetura do MinhaFila foi pensada em quatro camadas que se comunicam com um nucleo central. Esse nucleo e o MinhaFila Core, que concentra as regras de negocio — a logica de priorizacao, o calculo de tempo estimado, o gerenciamento de posicoes.
 
@@ -100,15 +98,33 @@ O painel da equipe, que funciona num aplicativo movel, exibe metricas em tempo r
 
 ---
 
-## O que Rios fala (pra eu saber o contexto)
+## O que os outros falam (pra eu saber o contexto)
 
-> Slide 3 — Problema: Os 5 problemas do modelo tradicional — opacidade, prisao fisica, comunicacao falha, aglomeracao, exclusao. Baseado em dados da Waitwhile, Queberry, e na Lei 10.048.
+> **Artur**
+> Slide 1 - Capa (30s): Abre a apresentacao, apresenta os 8 integrantes e passa pra voce.
+>
+> Slide 7 - Fluxograma (1min30): Entrada no sistema, verificacao de prioridade legal (PcD, idoso, gestante, TEA), distribuicao entre fila prioritaria ou convencional, calculo dinâmico de ETA.
+
+> **Rios**
+> Slide 3 - Problema: Os 5 problemas do modelo tradicional — opacidade, prisao fisica, comunicacao falha, aglomeracao, exclusao. Baseado em dados da Waitwhile, Queberry, e na Lei 10.048.
 >
 > Slide 4 — Casos: NextQS (totens), Fila Online (notificacoes), Vizitor (check-in). Lacuna: nenhuma oferece posicao + tempo real + fora + multissetorial + acessivel.
 >
-> Slide 7 — Fluxograma: Entrada no sistema, verificacao de prioridade legal (PcD, idoso, gestante, TEA), distribuicao entre fila prioritaria ou convencional, calculo dinâmico de ETA.
->
 > Slide 12 — Beneficios: 64% reducao na fila presencial, economia de US$ 2M/ano, conformidade com Lei 10.048 e normas Febraban, bem-estar fisico e mental.
+
+---
+
+## Checklist Pessoal
+
+- [ ] Li meu roteiro completo (8 slides)
+- [ ] Sei quando entro: 2, 5, 6, 8, 9, 10, 11, 14
+- [ ] Sei quando os outros entram
+- [ ] Transicao: Artur (slide 1) -> eu (slide 2)
+- [ ] Transicao: eu (slide 6) -> Artur (slide 7)
+- [ ] Transicao: Artur (slide 7) -> eu (slide 8)
+- [ ] Transicao: eu (slide 11) -> Rios (slide 12)
+- [ ] Sei o slide 13 (referencias) — apenas exibir, sem falar
+- [ ] Sei o slide 14 — encerramento
 
 ---
 

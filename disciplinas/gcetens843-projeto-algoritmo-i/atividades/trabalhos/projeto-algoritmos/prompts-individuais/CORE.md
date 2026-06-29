@@ -9,13 +9,13 @@
 
 | # | Slide | Responsavel | Duracao |
 |:-:|:------|:-----------:|:-------:|
-| 1 | Capa - Gestao Inteligente e Acessivel de Espera | Deivison | 30s |
+| 1 | Capa - Gestao Inteligente e Acessivel de Espera | **Artur** | 30s |
 | 2 | Missao - "Transformar espera em experiencia previsivel, justa e inclusiva" | Deivison | 30s |
 | 3 | Problema Real - Modelo Tradicional Esgotado (5 problemas) | Rios | 1min30 |
 | 4 | Casos Existentes (NextQS, Fila Online, Vizitor + Lacuna) | Rios | 1min30 |
 | 5 | Proposta MinhaFila (QR Code, transparencia, mobilidade, multissetorial) | Deivison | 1min |
 | 6 | Ecossistema Integrado (Modulo Usuario + Gestor) | Deivison | 1min |
-| 7 | Fluxograma - Arquitetura do Fluxo de Decisao | Rios | 1min30 |
+| 7 | Fluxograma - Arquitetura do Fluxo de Decisao | **Artur** | 1min30 |
 | 8 | Arquitetura - Engenharia Limpa (PWA, API, BD, Infra + Core) | Deivison | 1min30 |
 | 9 | Jornada do Usuario (QR Code, senha, 3 cliques) | Deivison | 1min30 |
 | 10 | Visibilidade Total e Inclusao - Prototipo | Deivison | 1min30 |
@@ -24,18 +24,18 @@
 | 13 | Referencias Bibliograficas | (exibir) | 30s |
 | 14 | Fim - Perguntas | Deivison | 30s |
 
-> Total: Deivison (9 slides ~8min) + Rios (4 slides ~5min30) = ~14min
+> Total: Artur (2 slides ~2min) + Deivison (8 slides ~7min) + Rios (3 slides ~4min) = ~13min
 > Slide 13 (referencias) apenas exibido, sem fala dedicada
 
 ## Status dos Integrantes
 
 | Integrante | Arquivo | Slides | Status |
 |:-----------|:--------|:------:|:------:|
-| Deivison de Lima Santana | deivison-santana.md | 1, 2, 5, 6, 8, 9, 10, 11, 14 | Confirmado |
-| Raimon Rios da Silva | raimon-rios.md | 3, 4, 7, 12 | Confirmado |
+| Artur Campos | artur-campos.md | 1, 7 | **Confirmado** |
+| Deivison de Lima Santana | deivison-santana.md | 2, 5, 6, 8, 9, 10, 11, 14 | Confirmado |
+| Raimon Rios da Silva | raimon-rios.md | 3, 4, 12 | Confirmado |
 | Ausiane de Oliveira Costa | - | - | Aguardando |
 | Nubia Rosalia de Souza Ramos | - | - | Aguardando |
-| Artur Campos | - | - | Aguardando |
 | Marcos Vinicius dos Santos Sena | - | - | Aguardando |
 | Uelinton Cardoso Santana | - | - | Aguardando |
 | Wallace Ribeiro Lima | - | - | Aguardando |
