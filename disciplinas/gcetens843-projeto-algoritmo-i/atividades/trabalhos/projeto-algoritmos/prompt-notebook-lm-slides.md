@@ -20,7 +20,7 @@ Os slides DEVEM conter estas palavras em DESTAQUE (negrito, cor diferente, ou ba
 
 | Palavra-chave | Onde aparece |
 |:---------------|:-------------|
-| **Problema Real** | Slides 3, 4, 5 |
+| **Problema Real** | Slides 4, 5 |
 | **Casos Existentes** | Slide 6 |
 | **Proposta** | Slides 7, 8 |
 
@@ -36,7 +36,13 @@ Dois slides devem ter **espaços reservados (lacunas) visíveis** para inserir f
 Além da lacuna no slide 11, os **slides 11 e 12** são para demonstrar o protótipo com imagens.
 Sugerir legendas e disposição para prints de tela (estilo iPhone 15 frame).
 
-### 5. Estilo Visual
+### 5. Código em C (menção sutil)
+No slide de **Contexto do Trabalho** (slide 3), incluir uma linha sutil:
+- *Código em C: opcional — grupo optou por não desenvolver*
+- Apenas uma linha informativa, sem justificativa longa, sem destaque exagerado.
+- Nos demais slides, **não mencionar** código em C.
+
+### 6. Estilo Visual
 - Paleta: índigo `#4f46e5` (primária), verde `#10b981` (destaques positivos)
 - Fundo claro, fonte sem serifa (Inter ou similar)
 - Bullets concisos, no máximo 6 pontos por slide
@@ -298,20 +304,20 @@ Recurso estrutural do MinhaFila (presente em todo o protótipo):
 | # | Slide | Conteúdo Principal | 🔑 Keyword | 📸 Lacuna |
 |:-:|:------|:-------------------|:----------:|:---------:|
 | 1 | **🎨 ARTE DE CAPA** | Arte visual com nome **MinhaFila**, logotipo conceitual (icone de senha/fila), "GCETENS843 — Projeto Algoritmo I", "Prof. Alex Ferreira", nomes dos **8 integrantes** em grid | — | — |
-| 2 | **Agenda** | Tópicos da apresentação com as 3 keywords em destaque visual | — | — |
-| 3 | **🔑 Problema Real** | O problema das filas ineficientes: contexto, dados (90%, 61%, US$ 38bi), consequências | **Problema Real** | — |
-| 4 | **Impacto e Dados** | Estatísticas detalhadas: abandono, perda financeira, tempo percebido 36% maior | **Problema Real** | — |
-| 5 | **Setores Afetados** | Bancos (23,85%), saúde, educação, comércio (US$ 2mi/loja/ano), serviços públicos | **Problema Real** | — |
+| 2 | **📋 Agenda** | Tópicos da apresentação com as 3 keywords em destaque visual | — | — |
+| 3 | **📋 Contexto do Trabalho** | O que o professor pediu: problema real, casos existentes, proposta, fluxograma, protótipo. Código em C: opcional — grupo optou por não desenvolver | — | — |
+| 4 | **🔑 Problema Real** | O problema das filas ineficientes: contexto, dados (90%, 61%, US$ 38bi), consequências | **Problema Real** | — |
+| 5 | **📊 Impacto por Setor** | Dados de impacto + setores: bancos (23,85%), comércio (US$ 2mi/loja/ano), saúde, educação, governo | **Problema Real** | — |
 | 6 | **🔑 Casos Existentes** | NextQS, Fila Online, Vizitor — tabela com funções e limitações + lacuna principal | **Casos Existentes** | — |
 | 7 | **🔑 Proposta: MinhaFila** | Conceito, jornada do usuário (7 passos), jornada do gestor | **Proposta** | — |
-| 8 | **Diferenciais** | 6 diferenciais em destaque: Transparência, Mobilidade, Multissetorial, Dados, Acessibilidade, Baixa Fricção | **Proposta** | — |
+| 8 | **🏆 Diferenciais** | 6 diferenciais em destaque: Transparência, Mobilidade, Multissetorial, Dados, Acessibilidade, Baixa Fricção | **Proposta** | — |
 | 9 | **📸 Fluxograma — Visão Geral** | **LACUNA central para inserir FOTO DO FLUXOGRAMA.** Quadro grande com borda tracejada e texto "[Inserir foto do fluxograma do sistema]". Abaixo: legenda "Fluxograma desenvolvido por Artur Campos e Marcos Vinícius" | — | ✅ Fluxograma |
-| 10 | **Fluxograma — Lógica** | Explicação textual do algoritmo: entrada → classificação → senha → notificação → atendimento → feedback loop | — | — |
+| 10 | **🔄 Fluxograma — Lógica** | Explicação textual do algoritmo: entrada → classificação → senha → notificação → atendimento → feedback loop | — | — |
 | 11 | **📸 Protótipo — Telas do Usuário** | **LACUNA para FOTO DO PROTÓTIPO.** Espaço para print das telas (mockup iPhone 15). Legenda: "[Inserir foto do protótipo — telas do usuário]". Listar ao lado: Splash, Home, Ticket, Acompanhamento, Alerta, Acessibilidade | — | ✅ Protótipo |
-| 12 | **Protótipo — Painel Gestor** | Dashboard, fila completa, chamar próximo, configurações. Sugerir print do admin.html | — | — |
-| 13 | **Acessibilidade** | 7 recursos: alto contraste, texto ampliado, modo simples, alerta visual, vibração, leitura por voz, modo TEA | — | — |
-| 14 | **Conclusão** | Impacto esperado, limitações, próximos passos, agradecimentos | — | — |
-| 15 | **Perguntas** | "Obrigado! Estamos abertos a perguntas." + contato/repositório (QR code sugerido) | — | — |
+| 12 | **🖥️ Protótipo — Painel Gestor** | Dashboard, fila completa, chamar próximo, configurações. Sugerir print do admin.html | — | — |
+| 13 | **♿ Acessibilidade** | 7 recursos: alto contraste, texto ampliado, modo simples, alerta visual, vibração, leitura por voz, modo TEA | — | — |
+| 14 | **🎯 Conclusão** | Impacto esperado, limitações, próximos passos, agradecimentos | — | — |
+| 15 | **❓ Perguntas** | "Obrigado! Estamos abertos a perguntas." + contato/repositório (QR code sugerido) | — | — |
 
 ---
 
@@ -326,23 +332,37 @@ Recurso estrutural do MinhaFila (presente em todo o protótipo):
 - **NÃO colocar lacuna de fluxograma aqui** — o fluxograma tem slide próprio (slide 9)
 
 ### Slide 2 — Agenda
-- Listar em ordem: Problema Real → Casos Existentes → Proposta → Fluxograma → Protótipo → Acessibilidade → Conclusão
+- Listar em ordem: Contexto → Problema Real → Casos Existentes → Proposta → Fluxograma → Protótipo → Acessibilidade → Conclusão
 - As 3 keywords **Problema Real**, **Casos Existentes** e **Proposta** DEVEM aparecer com destaque visual (badge ou cor diferente)
 
-### Slide 3 — 🔑 Problema Real
+### Slide 3 — 📋 Contexto do Trabalho
+- **Título:** "O Que o Professor Pediu"
+- Checklist do enunciado:
+  - ✅ Problema real definido
+  - ✅ Casos existentes no mercado
+  - ✅ Proposta de solução computacional
+  - ✅ Fluxograma do sistema
+  - ✅ Protótipo de telas
+  - ◻️ Código em C: opcional — grupo optou por não desenvolver
+- **Tom:** Apenas informativo, uma linha sutil sobre o C (sem justificativa elaborada)
+- **Importância:** Mostra que o grupo entendeu e atendeu o enunciado da disciplina
+
+### Slide 4 — 🔑 Problema Real
 - **Badge/tag no topo:** "🔑 Problema Real"
 - Título: "O Problema das Filas Ineficientes"
 - Bullets: 90% enfrentam filas, 61% abandonam, mercado de US$ 38bi
-- Imagem sugerida: ilustração de fila/pessoas esperando
-
-### Slide 4 — Impacto e Dados
-- **Badge/tag no topo:** "🔑 Problema Real"
 - Dados em destaque: tempo percebido 36% maior, US$ 2mi/ano perdidos por loja
 - Frase de impacto: "A espera sem informação parece 36% mais longa do que realmente é"
+- Imagem sugerida: ilustração de fila/pessoas esperando
 
-### Slide 5 — Setores Afetados
+### Slide 5 — 📊 Impacto por Setor
 - **Badge/tag no topo:** "🔑 Problema Real"
-- Mostrar bancos (23,85%), saúde, educação, comércio, governo
+- Tabela ou cards com setores e dados:
+  - 🏦 **Bancos** — 23,85% do mercado global de QMS
+  - 🏪 **Comércio** — US$ 2 milhões/loja/ano em perdas
+  - 🏥 **Saúde** — Aglomeração e absenteísmo
+  - 🏫 **Educação** — Matrículas e secretaria sem previsibilidade
+  - 🏛️ **Governo** — Alta demanda + horários restritos
 - Ícone/ilustração para cada setor
 
 ### Slide 6 — 🔑 Casos Existentes
@@ -421,7 +441,7 @@ Recurso estrutural do MinhaFila (presente em todo o protótipo):
 5. **Lacunas:** Moldura tracejada em cinza, texto interno em itálico centralizado
 6. **Bullets:** Máximo 6 por slide, concisos, sem parágrafos longos
 7. **Demonstração ao vivo:** Os slides de protótipo DEVEM abrir o HTML real no navegador. As lacunas são placeholder para caso a demonstração ao vivo falhe.
-8. **Código em C:** Não mencionar em nenhum slide.
+8. **Código em C:** Menção sutil apenas no slide 3 (Contexto do Trabalho): "opcional — grupo optou por não desenvolver". Não mencionar nos demais slides.
 9. **Distribuição das falas:** Todos os 8 integrantes falam. A atribuição está na tabela da seção 2.
 
 ---

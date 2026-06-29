@@ -11,21 +11,21 @@
 
 | # | Slide | Quem fala | Duração |
 |:-:|:------|:----------|:-------:|
-| 1 | **Capa** — MinhaFila, GCETENS843, Prof. Alex Ferreira, nomes dos 8 integrantes | Deivison | 30s |
-| 2 | **Agenda** — O que vamos apresentar (visão geral dos tópicos) | Deivison | 30s |
-| 3 | **Contexto do trabalho** — O que o professor pediu (problema real, casos, proposta, fluxograma, protótipo) | Wallace | 1min |
-| 4 | **O problema: filas ineficientes** — 90% enfrentam filas, 61% abandonam, mercado de US$ 38 bi | Rios | 1min30 |
-| 5 | **Impacto por setor** — Bancos (23,85% do mercado), comércio (US$ 2mi/loja/ano), serviços públicos, educação | Rios | 1min30 |
-| 6 | **Casos existentes** — NextQS, Fila Online, Vizitor — o que fazem e a lacuna | Ausiane | 1min30 |
-| 7 | **Proposta MinhaFila** — Senha virtual, acompanhamento em tempo real, notificação, painel gestor, multissetorial | Núbia | 2min |
-| 8 | **Diferenciais** — Transparência, mobilidade, multissetorial, dados analíticos, acessibilidade, baixa fricção | Deivison | 1min |
-| 9 | **Fluxograma — Visão geral** — Etapas: entrada → solicitação → prioridade → senha → notificação → atendimento → retorno | Artur | 1min30 |
-| 10 | **Fluxograma — Detalhamento** — Algoritmo de chamada, fila prioritária vs convencional, notificação antecipada, feedback loop | Marcos | 1min30 |
-| 11 | **Protótipo — Usuário** — Demonstração ao vivo (splash, home, ticket, fila, alerta, painel público) | Deivison | 2min |
-| 12 | **Protótipo — Gestor** — Demonstração ao vivo (dashboard, métricas, fila completa, chamar próximo, config) | Deivison | 1min |
-| 13 | **Acessibilidade** — Alto contraste, modo TEA, vibração, leitura por voz, modo simples | Uélinton ou Wallace | 1min |
-| 14 | **Conclusão** — Impacto esperado, limitações, próximos passos, agradecimentos | Rios | 1min |
-| 15 | **Perguntas** — "Obrigado! Estamos abertos a perguntas." + QR code do repositório | Todos | — |
+| 1 | **🎨 Capa** — MinhaFila, GCETENS843, Prof. Alex Ferreira, nomes dos 8 integrantes | Deivison | 30s |
+| 2 | **📋 Agenda** — O que vamos apresentar (visão geral dos tópicos) | Deivison | 30s |
+| 3 | **📋 Contexto do trabalho** — O que o professor pediu: problema real, casos, proposta, fluxograma, protótipo. Código C: opcional — grupo optou por não fazer | Wallace | 1min |
+| 4 | **🔑 Problema real** — 90% enfrentam filas, 61% abandonam, mercado de US$ 38 bi, impacto financeiro | Rios | 1min30 |
+| 5 | **📊 Impacto por setor** — Bancos (23,85% do mercado), comércio (US$ 2mi/loja/ano), saúde, educação, governo | Rios | 1min30 |
+| 6 | **🔑 Casos existentes** — NextQS, Fila Online, Vizitor — o que fazem e a lacuna | Ausiane | 1min30 |
+| 7 | **🔑 Proposta MinhaFila** — Senha virtual, acompanhamento em tempo real, notificação, painel gestor, multissetorial | Núbia | 2min |
+| 8 | **🏆 Diferenciais** — Transparência, mobilidade, multissetorial, dados analíticos, acessibilidade, baixa fricção | Deivison | 1min |
+| 9 | **📸 Fluxograma — Visão geral** — LACUNA para foto do fluxograma. Etapas: entrada → solicitação → prioridade → senha → notificação → atendimento → retorno | Artur | 1min30 |
+| 10 | **🔄 Fluxograma — Detalhamento** — Algoritmo de chamada, fila prioritária vs convencional, notificação antecipada, feedback loop | Marcos | 1min30 |
+| 11 | **📸 Protótipo — Usuário** — LACUNA para foto do protótipo + demonstração ao vivo (splash, home, ticket, fila, alerta, painel público) | Deivison | 2min |
+| 12 | **🖥️ Protótipo — Gestor** — Demonstração ao vivo (dashboard, métricas, fila completa, chamar próximo, config) | Deivison | 1min |
+| 13 | **♿ Acessibilidade** — Alto contraste, modo TEA, vibração, leitura por voz, modo simples | Uélinton ou Wallace | 1min |
+| 14 | **🎯 Conclusão** — Impacto esperado, limitações, próximos passos, agradecimentos | Rios | 1min |
+| 15 | **❓ Perguntas** — "Obrigado! Estamos abertos a perguntas." + QR code do repositório | Todos | — |
 
 ---
 
@@ -71,11 +71,11 @@
   - ✅ Proposta de solução computacional
   - ✅ Fluxograma do sistema
   - ✅ Protótipo de telas
-  - ❌ Código em C cancelado (decisão do grupo)
+  - ◻️ Código em C: opcional — grupo optou por não desenvolver
 - Prazo: 29/06/2026 — apresentação AO VIVO (vale 10 pontos)
 
 **Fala do apresentador:**
-"O professor Alex Ferreira nos pediu um trabalho completo: identificar um problema real, pesquisar soluções existentes, propor a nossa própria, explicar a lógica com um fluxograma e apresentar um protótipo de telas. O código em C foi discutido no início, mas o grupo decidiu concentrar esforços nos entregáveis obrigatórios para garantir a qualidade do projeto conceitual e do protótipo funcional."
+"O professor Alex Ferreira nos pediu um trabalho completo: identificar um problema real, pesquisar soluções existentes, propor a nossa própria, explicar a lógica com um fluxograma e apresentar um protótipo de telas. Havia também a opção de desenvolver código em C, mas o grupo optou por focar nos entregáveis obrigatórios para garantir a qualidade do projeto conceitual e do protótipo funcional."
 
 ---
 
@@ -161,11 +161,12 @@
 
 ---
 
-### Slide 9 — Fluxograma: Visão Geral (1min30) — Artur
+### Slide 9 — 📸 Fluxograma: Visão Geral (1min30) — Artur
 
 **Texto do slide:**
-[Exibir imagem do fluxograma]
+📸 **[LACUNA — Inserir foto do fluxograma do sistema]**
 
+Etapas principais:
 1. **Entrada** → Cadastro ou login
 2. **Solicitação** → Escolhe estabelecimento e serviço
 3. **É prioridade?** → Desvia para fila prioritária ou convencional
@@ -175,7 +176,7 @@
 7. **Retorno** → Se não comparecer, volta ao início
 
 **Fala do apresentador:**
-"O fluxograma do sistema foi desenvolvido por mim, Artur, em parceria com o Marcos. Ele começa com a entrada do usuário, que pode fazer login ou cadastro rápido. Depois, ele solicita o atendimento escolhendo o estabelecimento e o tipo de serviço. O sistema então decide se o usuário vai para a fila prioritária ou para a convencional — com base em critérios legais como idade, gestação e deficiência. Uma senha única é gerada com uma previsão inicial de atendimento. Quando o usuário atinge o topo da fila, ele é notificado. Após o atendimento, o sistema o remove da fila e chama o próximo. Se o usuário não comparece, ele pode solicitar novamente."
+"Aqui temos o fluxograma do sistema, desenvolvido por mim, Artur, em parceria com o Marcos. [apontar para a imagem do fluxograma] Ele começa com a entrada do usuário, que pode fazer login ou cadastro rápido. Depois, ele solicita o atendimento escolhendo o estabelecimento e o tipo de serviço. O sistema então decide se o usuário vai para a fila prioritária ou para a convencional — com base em critérios legais como idade, gestação e deficiência. Uma senha única é gerada com uma previsão inicial de atendimento. Quando o usuário atinge o topo da fila, ele é notificado. Após o atendimento, o sistema o remove da fila e chama o próximo. Se o usuário não comparece, ele pode solicitar novamente."
 
 ---
 
@@ -193,10 +194,12 @@
 
 ---
 
-### Slide 11 — Protótipo: Usuário (2min) — Deivison
+### Slide 11 — 📸 Protótipo: Usuário (2min) — Deivison
 
 **Texto do slide:**
-[MOSTRAR AO VIVO o `index.html` no navegador — NÃO usar imagens estáticas]
+📸 **[LACUNA — Inserir foto do protótipo (telas do usuário)]**
+
+Demonstração ao vivo: abrir `index.html` no navegador.
 
 Fluxo a percorrer:
 1. **Splash** → Começar
