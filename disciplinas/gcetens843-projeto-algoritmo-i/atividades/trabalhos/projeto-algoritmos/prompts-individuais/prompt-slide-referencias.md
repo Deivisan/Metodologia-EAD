@@ -1,55 +1,45 @@
 # prompt slide referencias
 
-## texto limpo (copiar e colar no google slides)
+gere uma imagem de slide de apresentacao com fundo indigo escuro (#4f46e5), titulo "referencias bibliograficas" em branco, fonte sans-serif limpa (inter ou similar), tamanho 16:9 (1280x720), com o texto abaixo organizado em blocos separados por espacamento vertical.
 
-```
-referencias bibliograficas
+o usuario vai te enviar uma imagem de fundo pronta. escreva o texto sobre ela mantendo o padrao visual dos slides existentes (fonte branca, alinhamento a esquerda, hierarquia clara).
 
+## blocos de texto (em ordem)
+
+### teoria de base
 shortle, j. f.; thompson, j. m.; gross, d.; harris, c. m.
 fundamentals of queueing theory. 5. ed. hoboken: john wiley & sons, 2018.
 
+### dados de mercado
 waitwhile. consumer survey: the state of waiting in line (2024).
 waitwhile blog, 4 dez. 2024.
-waitwhile.com/blog/consumer-survey-waiting-in-line-2024
 
 queberry. how long wait times cost you customers (and how to fix it).
 queberry blog, 23 jan. 2026.
-queberry.com/blogs/how-long-wait-times-cost-you-customers
 
 mordor intelligence. queue management system market size & share analysis:
 growth trends and forecast (2026-2031). hyderabad, jan. 2026.
-mordorintelligence.com/industry-reports/queue-management-system-market
 
+### acessibilidade e inclusao
 farias, t. m. o. et al. o estreito acesso das pessoas com deficiencia
 aos servicos de saude em uma capital nordestina. ciencia & saude coletiva,
 rio de janeiro, v. 28, n. 5, p. 1539-1548, 2023.
 
+### legislacao
 brasil. lei no 10.048, de 8 de novembro de 2000.
-planalto.gov.br/ccivil_03/leis/l10048.htm
 
 febraban. normativo sarb no 004. tempo maximo de espera em filas
 de instituicoes financeiras.
 
-nextqs. nextqs.com.br
-fila online. filaonline.com.br
-vizitor. vizitor.com.br
-```
+### casos analisados
+nextqs | fila online | vizitor
 
-## como fazer no google slides
+---
 
-1. abra a apresentacao
-2. clique em "slide" > "nova" ou duplique o ultimo slide
-3. va em insercao > caixa de texto
-4. cole o texto acima
-5. formate:
-   - fonte: inter ou arial (12pt pro corpo)
-   - titulo "referencias bibliograficas" em negrito 18pt
-   - cor da fonte: branco
-   - fundo do slide: indigo (#4f46e5) igual aos outros slides
-   - espacamento simples entre linhas
-6. se nao couber em um slide, faca dois: "referencias (1/2)" e "referencias (2/2)"
-
-## dica
-
-se tiver com duvida no tamanho, faz fonte 10pt e espacamento simples
-que cabe tudo em um slide 16:9.
+## instrucoes de layout
+- titulo em negrito 20pt, centralizado no topo
+- subtitulos das secoes (teoria de base, dados de mercado etc.) em negrito 12pt, cor branca com opacidade 80%
+- corpo do texto em 9pt, branco, espacamento simples
+- margens: 3cm superior, 2cm laterais
+- separar cada bloco com uma linha fina ou espaco dobrado
+- se nao couber tudo, priorizar os blocos "teoria de base", "dados de mercado" e "acessibilidade" no primeiro slide e "legislacao" + "casos" no segundo
