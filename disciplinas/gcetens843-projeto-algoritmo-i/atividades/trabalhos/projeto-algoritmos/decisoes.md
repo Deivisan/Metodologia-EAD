@@ -209,7 +209,7 @@ Marcos Vinicius    ?  ?  ?  ?  ?  ?  ?  ?  │ 🆕 novo
 | 🔄 Em andamento | **Casos Existentes** (`casos-existentes.md`) | Ausiane + Núbia | Trabalho principal no Google Doc |
 | ✅ Pronto | **Proposta de Solução** (`proposta.md`) | Deivison + Rios | Reescrita e finalizada |
 | 🔄 Em andamento | **Referências** (`referencias-web.md`) | Núbia + Rios | Trabalho principal no Google Doc |
-| ✅ Pronto | **Fluxograma** (`fluxograma.md`) | Deivison (revisão a partir do original) | 25/06/2026 |
+| ✅ Pronto | **Fluxograma** (`fluxograma.md`) | Artur, Marcos | 25/06/2026 |
 | 🔒 Pendente | **Protótipo de Telas** (`prototipo-telas.md`) | Ausiane + Uélinton | A iniciar |
 | ❌ Cancelado | **Código C** | — | Decisão do grupo: NÃO faremos |
 | 🔒 Pendente | **Roteiro de Apresentação** (`roteiro-apresentacao.md`) | Uélinton + Wallace | A iniciar |

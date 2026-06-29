@@ -4,6 +4,8 @@
 **Fonte-base:** Documento "Projeto Algoritmo 1 V2" (Rios, 2026)  
 **Última atualização:** 28/06/2026
 
+## 1. Introdução
+
 A transformação digital tem promovido mudanças significativas em diversos setores da sociedade. Apesar dos avanços tecnológicos, a espera em filas de atendimento é uma experiência universal e cotidiana. O estudo matemático das filas foi formalizado por Agner Krarup Erlang no início do século XX, a partir da análise do tráfego telefônico na Copenhagen Telephone Exchange, dando origem à teoria das filas (*queueing theory*), um ramo da pesquisa operacional que busca modelar, prever e otimizar o comportamento de sistemas de espera (Gross et al., 2008). Desde então, a teoria das filas tem sido aplicada em setores tão diversos como telecomunicações, engenharia de tráfego, manufatura, *call centers* e serviços de atendimento ao público.
 
 Pesquisas recentes indicam que 90% dos consumidores enfrentam filas ao menos algumas vezes por mês, e 64% lidam com filas múltiplas vezes por semana (Waitwhile, 2024). Seja para ser atendido em um banco, realizar uma matrícula em uma instituição de ensino, aguardar um procedimento em um serviço de saúde, ser chamado em uma repartição pública ou privada ou efetuar o pagamento em um estabelecimento comercial, a fila é um elemento estrutural da interação entre cidadãos e organizações prestadoras de serviços.

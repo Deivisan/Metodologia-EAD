@@ -30,7 +30,7 @@
 
 | # | Integrante | Atribuições | Status |
 |:-:|:-----------|:------------|:------:|
-| 1 | **Deivison** | Proposta, documentação, protótipo geral, repositório, refatoração do fluxograma | Ativo |
+| 1 | **Deivison** | Proposta, documentação, protótipo geral, repositório | Ativo |
 | 2 | **Raimon Rios da Silva** | Pesquisa de campo, proposta (experiência em saúde), problema real | Ativo |
 | 3 | **Ausiane de Oliveira Costa** | Casos existentes, protótipo (acessibilidade), documentação de acessibilidade | Ativo |
 | 4 | **Núbia Rosália de Souza Ramos** | Pesquisa e casos existentes (inclusão e diagnóstico tardio) | Ativo |
@@ -68,7 +68,7 @@
 | Nome oficial definido | **MinhaFila** | Grupo |
 | Histórico do WhatsApp | [`historico-whatsapp.json`](historico-whatsapp.json) | Deivison |
 | Problema real | [`problema-real.md`](problema-real.md) → [`problema-real.docx`](https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/Deivisan/Metodologia-EAD/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/problema-real.docx&wdDownloadButton=1) | Rios, Deivison |
-| Fluxograma do sistema | [`fluxograma.md`](fluxograma.md) + [`fluxograma.docx`](https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/Deivisan/Metodologia-EAD/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/fluxograma.docx&wdDownloadButton=1) | Artur, Marcos, Deivison |
+| Fluxograma do sistema | [`fluxograma.md`](fluxograma.md) + [`fluxograma.docx`](https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/Deivisan/Metodologia-EAD/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/fluxograma.docx&wdDownloadButton=1) | Artur, Marcos |
 | Protótipo interativo | [`prototipo-minhafila/index.html`](prototipo-minhafila/index.html) | Deivison + Ausiane + Uélinton |
 | Proposta e diferencial | [`proposta.md`](proposta.md) → [`proposta.docx`](https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/Deivisan/Metodologia-EAD/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/proposta.docx&wdDownloadButton=1) | Deivison + Rios |
 | Hub/landing page do projeto | [`minhafila/`](https://deivisan.github.io/Metodologia-EAD/minhafila/) | Deivison |
