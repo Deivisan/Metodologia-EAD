@@ -1,29 +1,33 @@
-# Protótipo MinhaFila — Open Designer
+# Protótipo MinhaFila
 
-> Código importado do projeto **Web Prototype** do Open Designer.
+> Protótipo funcional em HTML puro + CSS + JS vanilla.
 
 ## Arquivos
 
 | Arquivo | Função |
-|---|---|
-| `index.html` | Protótipo principal no frame do iPhone 15, com fluxo clicável do usuário |
-| `admin.html` | Painel demonstrativo do estabelecimento para gestão da fila |
+|---------|--------|
+| `index.html` | Protótipo do usuário no frame iPhone 15 — onboarding, retirar senha, acompanhar fila, painel público, acessibilidade |
+| `admin.html` | Painel da equipe no frame iPhone 15 — métricas, chamar próxima senha, fila completa, config multissetorial |
 
 ## Como testar
 
-Abra o arquivo `index.html` no navegador e siga o fluxo:
+Abra `index.html` no navegador e siga o fluxo do usuário:
 
-1. começar;
-2. onboarding;
-3. retirar senha;
-4. escolher estabelecimento;
-5. escolher tipo de atendimento;
-6. acompanhar fila;
-7. simular chamada próxima;
-8. ver painel público;
-9. testar acessibilidade;
-10. abrir painel do estabelecimento.
+1. começar → onboarding → home
+2. retirar senha → escolher estabelecimento → tipo de atendimento
+3. acompanhar fila em tempo real
+4. simular chamada próxima → ver painel público
+5. testar acessibilidade (alto contraste, texto ampliado, TEA)
+6. abrir painel da equipe
+
+Ou abra `admin.html` direto para testar o painel administrativo:
+
+1. dashboard com métricas e chamada atual
+2. chamar próxima senha (avança a fila)
+3. ver fila completa
+4. configurar nome/setor do estabelecimento (multissetorial)
+5. acessibilidade (contraste, modo simples)
 
 ## Observação
 
-Este protótipo foi gerado para o projeto **MinhaFila** — filas inteligentes multissetoriais (saúde, bancos, comércio, governo, educação). Os dados atuais são fictícios.
+Os dados são fictícios. O protótipo é multissetorial — funciona para bancos, saúde, educação, comércio, serviços públicos.
