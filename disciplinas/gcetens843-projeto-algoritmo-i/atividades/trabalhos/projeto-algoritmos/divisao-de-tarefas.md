@@ -29,7 +29,7 @@ Esta divisão de tarefas não foi sorteada. Ela foi construída a partir de:
 | 2 | 📂 **Casos Existentes** | **Ausiane + Núbia** | 🟢 Dupla fixa |
 | 3 | ✍️ **Proposta e Diferencial da Solução** | **Deivison + Rios** | 🟢 Dupla fixa |
 | 4 | 🔀 **Fluxograma do Sistema** | **Artur + Marcos Vinicius** | 🟢 Dupla fixa |
-| 5 | 🎨 **Protótipo de Telas (Mockups)** | **Uélinton** (Uélinton Cardoso Santana) | 🟢 Pendente |
+| 5 | 🎨 **Protótipo de Telas (Mockups)** | **Deivison** | 🟢 Concluído |
 | 6 | 💻 **Código em C** | **—** | ❌ **Cancelado** (decisão oficial do grupo em 12/06/2026) | Foco 100% nos entregáveis obrigatórios. Artur e Marcos Vinicius liberados.
 | 7 | 📊 **Slides e Apresentação** | **Uélinton + Wallace** | 🟢 Dupla fixa |
 | 8 | 📁 **Organização e Documentação** | **Deivison** | 🔵 Individual |
@@ -108,21 +108,11 @@ Ela também observou a falta de acessibilidade em sistemas existentes:
 ---
 
 ### Tarefa 5 — Protótipo de Telas (Mockups)
-**Responsáveis: Ausiane + Uélinton**
+**Responsável: Deivison**
 
-**Ausiane** revelou ter habilidades e interesse em design de interfaces:
+**Deivison** desenvolveu o protótipo funcional do MinhaFila no Open Designer, com HTML clicável no formato iPhone 15, abrangendo o fluxo completo do usuário e o painel administrativo. O protótipo priorizou contraste, legibilidade, simplicidade e acessibilidade.
 
-> *"Depois que fizermos, tenho umas ideias visuais. Tipo como seria nosso app e tals."*
-
-Ela também demonstrou conhecimento da ferramenta certa para o trabalho:
-
-> *(Sobre o Figma) "Tava pensando nele mesmo."*
-
-**Uélinton** se voluntariou para esta tarefa de prontidão, demonstrando energia para contribuir:
-
-> *"Obrigado, estou feliz por fazer parte do grupo. Contem comigo!"*
-
-**Justificativa da dupla:** Ausiane lidera a parte visual com suas ideias de design e acessibilidade; Uélinton a apoia na execução. O protótipo será feito no Figma, conforme discutido no grupo, e deve priorizar contraste, legibilidade e simplicidade.
+**Justificativa:** Deivison centralizou a documentação e o repositório, e tinha familiaridade com ferramentas de prototipação rápida. O protótipo foi gerado diretamente em HTML para ser hospedado junto com o hub do projeto.
 
 ---
 
@@ -161,13 +151,13 @@ Artur e Marcos Vinicius foram liberados dessa tarefa e permanecerão responsáve
 
 | Pessoa | Tarefas | Qtde | Avaliação |
 |:-------|:--------|:----:|:----------|
-| **Deivison** | Proposta (3) + Documentação (8) | **2** | ✅ equilibrado |
+| **Deivison** | Proposta (3) + Protótipo (5) + Documentação (8) | **3** | 🔵 central |
 | **Rios** | Pesquisa (1) + Proposta (3) | **2** | ✅ equilibrado |
-| **Ausiane** | Casos (2) | **2** | ✅ equilibrado |
+| **Ausiane** | Casos (2) | **1** | ✅ equilibrado |
 | **Núbia** | Pesquisa (1) + Casos (2) | **2** | ✅ equilibrado (tinha 4, foi aliviada) |
 | **Artur** | Fluxograma (4) | **1** | ✅ liberado do Código C (decisão 12/06) |
 | **Marcos Vinicius** | Fluxograma (4) | **1** | ✅ liberado do Código C (decisão 12/06) |
-| **Uélinton** | Protótipo (5) + Slides (7) | **2** | ✅ equilibrado |
+| **Uélinton** | Slides (7) | **1** | ✅ equilibrado |
 | **Wallace** | Slides (7) | **1** | 🟡 apoio |
 
 ### Como a carga foi equilibrada

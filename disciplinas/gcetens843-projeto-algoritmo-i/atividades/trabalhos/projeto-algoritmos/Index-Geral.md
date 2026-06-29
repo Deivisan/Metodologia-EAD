@@ -32,11 +32,11 @@
 |:-:|:-----------|:------------|:------:|
 | 1 | **Deivison** | Proposta, documentação, protótipo geral, repositório | Ativo |
 | 2 | **Raimon Rios da Silva** | Pesquisa de campo, proposta (experiência em saúde), problema real | Ativo |
-| 3 | **Ausiane de Oliveira Costa** | Casos existentes, protótipo (acessibilidade), documentação de acessibilidade | Ativo |
+| 3 | **Ausiane de Oliveira Costa** | Casos existentes | Ativo |
 | 4 | **Núbia Rosália de Souza Ramos** | Pesquisa e casos existentes (inclusão e diagnóstico tardio) | Ativo |
 | 5 | **Artur Campos** | Fluxograma do sistema | Ativo |
 | 6 | **Marcos Vinícius dos Santos Sena** | Fluxograma do sistema | Ativo |
-| 7 | **Uélinton Cardoso Santana** | Protótipo de telas e slides da apresentação | Ativo |
+| 7 | **Uélinton Cardoso Santana** | Slides da apresentação | Ativo |
 | 8 | **Wallace Ribeiro Lima** | Slides da apresentação | Ativo |
 
 > [Divisão de tarefas completa com justificativas](divisao-de-tarefas.md)
@@ -69,7 +69,7 @@
 | Histórico do WhatsApp | [`historico-whatsapp.json`](historico-whatsapp.json) | Deivison |
 | Problema real | [`problema-real.md`](problema-real.md) → [`problema-real.docx`](https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/Deivisan/Metodologia-EAD/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/problema-real.docx&wdDownloadButton=1) | Rios, Deivison |
 | Fluxograma do sistema | [`fluxograma.md`](fluxograma.md) + [`fluxograma.docx`](https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/Deivisan/Metodologia-EAD/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/fluxograma.docx&wdDownloadButton=1) | Artur, Marcos |
-| Protótipo interativo | [`prototipo-minhafila/index.html`](prototipo-minhafila/index.html) | Deivison + Ausiane + Uélinton |
+| Protótipo interativo | [`prototipo-minhafila/index.html`](prototipo-minhafila/index.html) | Deivison |
 | Proposta e diferencial | [`proposta.md`](proposta.md) → [`proposta.docx`](https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/Deivisan/Metodologia-EAD/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/proposta.docx&wdDownloadButton=1) | Deivison + Rios |
 | Hub/landing page do projeto | [`minhafila/`](https://deivisan.github.io/Metodologia-EAD/minhafila/) | Deivison |
 | Casos existentes | [`casos-existentes.md`](casos-existentes.md) | Ausiane + Núbia |

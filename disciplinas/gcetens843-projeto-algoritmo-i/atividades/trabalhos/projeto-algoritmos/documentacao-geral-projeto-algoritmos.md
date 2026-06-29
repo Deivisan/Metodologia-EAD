@@ -34,7 +34,7 @@ Equipe completa com **8 integrantes**:
 | **Raimon Rios da Silva** | Pesquisa + Proposta (experiência em saúde e educação) |
 | **Artur Campos** | Fluxograma (perfil técnico) |
 | **Marcos Vinícius dos Santos Sena** | Fluxograma |
-| **Uélinton Cardoso Santana** | Protótipo de Telas + Slides |
+| **Uélinton Cardoso Santana** | Slides |
 | **Wallace Ribeiro Lima** | Slides (apoio) |
 
 ---

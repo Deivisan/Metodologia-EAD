@@ -27,12 +27,12 @@
 | Nome | Função |
 |---|---|
 | Deivison de Lima Santana | Organização, documentação, proposta e protótipo |
-| Ausiane de Oliveira Costa | Pesquisa e acessibilidade |
+| Ausiane de Oliveira Costa | Casos existentes |
 | Núbia Rosália de Souza Ramos | Pesquisa e referências |
 | Raimon Rios da Silva | Pesquisa e fundamentação |
 | Artur Campos | Fluxograma |
 | Marcos Vinícius dos Santos Sena | Fluxograma |
-| Uélinton Cardoso Santana | Protótipo e identidade visual |
+| Uélinton Cardoso Santana | Slides e identidade visual |
 | Wallace Ribeiro Lima | Apresentação e slides |
 
 ---

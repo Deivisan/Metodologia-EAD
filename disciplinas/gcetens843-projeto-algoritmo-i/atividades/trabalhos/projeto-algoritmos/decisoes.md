@@ -104,7 +104,7 @@ Marcos Vinicius    ?  ?  ?  ?  ?  ?  ?  ?  │ 🆕 novo
 |:-------|:-------:|:---------|
 | **Núbia** | Pesquisa (1) + Casos (2) + Proposta (3) + Documentação (8) | 🔴 **4 tarefas!** |
 | **Artur** | Fluxograma (4) | 🟢 1 tarefa (liberado do Código C em 12/06) |
-| **Ausiane** | Pesquisa (1) + Casos (2) + Protótipo (5) | 🟡 3 tarefas |
+| **Ausiane** | Casos (2) | 🟢 1 tarefa |
 
 ---
 
@@ -124,7 +124,7 @@ Marcos Vinicius    ?  ?  ?  ?  ?  ?  ?  ?  │ 🆕 novo
 | 2 | **Casos Existentes** | Ausiane + Núbia | ✅ Em andamento | Trabalho principal no Google Doc |
 | 3 | **Proposta e Diferencial da Solução** | Deivison + Rios | 🔄 A iniciar | — |
 | 4 | **Fluxograma do Sistema** | Artur + Marcos Vinicius | 🔄 A iniciar | — |
-| 5 | **Protótipo de Telas (Mockups)** | Ausiane + Uélinton | 🔄 A iniciar | — |
+| 5 | **Protótipo de Telas (Mockups)** | Deivison | ✅ Concluído | Protótipo funcional em HTML |
 | 6 | **Código em C** | — | ❌ **Cancelado** | Decisão do grupo em 12/06 |
 | 7 | **Slides e Apresentação** | Uélinton + Wallace | 🔄 A iniciar | — |
 | 8 | **Organização e Documentação** | Deivison | ✅ Contínuo | Atualizações constantes no repo + Docs |
@@ -166,7 +166,7 @@ Marcos Vinicius    ?  ?  ?  ?  ?  ?  ?  ?  │ 🆕 novo
 | **2. Casos** | Ausiane + Núbia | 🟢 Dupla fixa |
 | **3. Proposta** | Deivison + Rios | 🟢 Dupla fixa |
 | **4. Fluxograma** | Artur + Marcos Vinicius | 🟢 Dupla fixa |
-| **5. Protótipo** | Ausiane + Uélinton | 🟢 Dupla fixa |
+| **5. Protótipo** | Deivison | 🔵 Individual |
 | **6. Código C** | — | ❌ **Cancelado** (decisão do grupo 12/06/2026) |
 | **7. Slides** | Uélinton + Wallace | 🟢 Dupla fixa |
 | **8. Documentação** | Deivison | 🔵 Individual |
@@ -175,12 +175,12 @@ Marcos Vinicius    ?  ?  ?  ?  ?  ?  ?  ?  │ 🆕 novo
 
 | Pessoa | Tarefas | Qtde | Avaliação |
 |--------|---------|:----:|:----------|
-| **Deivison** | Proposta (3) + Documentação (8) | **2** | ✅ |
+| **Deivison** | Proposta (3) + Protótipo (5) + Documentação (8) | **3** | 🔵 Central |
 | **Rios** | Pesquisa (1) + Proposta (3) | **2** | ✅ |
-| **Ausiane** | Casos (2) + Protótipo (5) | **2** | ✅ |
+| **Ausiane** | Casos (2) | **1** | ✅ |
 | **Núbia** | Pesquisa (1) + Casos (2) | **2** | ✅ |
 | **Artur** | Fluxograma (4) | **1** | ✅ (libertado do Código C) |
-| **Uélinton** | Protótipo (5) + Slides (7) | **2** | ✅ |
+| **Uélinton** | Slides (7) | **1** | ✅ |
 | **Wallace** | Slides (7) | **1** | 🟡 Apoio |
 | **Marcos Vinicius** | Fluxograma (4) | **1** | ✅ (libertado do Código C) |
 
@@ -210,7 +210,7 @@ Marcos Vinicius    ?  ?  ?  ?  ?  ?  ?  ?  │ 🆕 novo
 | ✅ Pronto | **Proposta de Solução** (`proposta.md`) | Deivison + Rios | Reescrita e finalizada |
 | 🔄 Em andamento | **Referências** (`referencias-web.md`) | Núbia + Rios | Trabalho principal no Google Doc |
 | ✅ Pronto | **Fluxograma** (`fluxograma.md`) | Artur, Marcos | 25/06/2026 |
-| 🔒 Pendente | **Protótipo de Telas** (`prototipo-telas.md`) | Ausiane + Uélinton | A iniciar |
+| ✅ Pronto | **Protótipo de Telas** (`prototipo-telas.md`) | Deivison | Finalizado |
 | ❌ Cancelado | **Código C** | — | Decisão do grupo: NÃO faremos |
 | 🔒 Pendente | **Roteiro de Apresentação** (`roteiro-apresentacao.md`) | Uélinton + Wallace | A iniciar |
 | 🔒 Pendente | **Apresentação Final** (`apresentacao-final.md`) | Grupo | A fazer |
