@@ -129,6 +129,7 @@ O problema real está fundamentado em literatura consolidada (Aggarwal, Chianca,
 | 🌊 Fluxograma (.docx) | https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/Deivisan/Metodologia-EAD/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/fluxograma.docx&wdDownloadButton=1 |
 | 📱 Protótipo MinhaFila | [`prototipo-minhafila/index.html`](prototipo-minhafila/index.html) |
 | 🎤 Slides | https://docs.google.com/presentation/d/1tiaZ7SRLPvVglSnaWAuX7mTcRaERZuAtp9iSgXoPR6Q/edit |
+| 🤖 Prompt Notebook LM (slides) | [`prompt-notebook-lm-slides.md`](prompt-notebook-lm-slides.md) |
 
 | Histórico WhatsApp | [`historico-whatsapp.json`](historico-whatsapp.json) |
 | Documentação geral | [`documentacao-geral-projeto-algoritmos.md`](documentacao-geral-projeto-algoritmos.md) |
