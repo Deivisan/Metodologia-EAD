@@ -128,7 +128,7 @@ O problema real está fundamentado em literatura consolidada (Aggarwal, Chianca,
 | 💡 Proposta (.docx) | https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/Deivisan/Metodologia-EAD/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/proposta.docx&wdDownloadButton=1 |
 | 🌊 Fluxograma (.docx) | https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/Deivisan/Metodologia-EAD/main/disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos/projeto-algoritmos/fluxograma.docx&wdDownloadButton=1 |
 | 📱 Protótipo MinhaFila | [`prototipo-minhafila/index.html`](prototipo-minhafila/index.html) |
-| 🎤 Slides | https://docs.google.com/presentation/d/1tiaZ7SRLPvVglSnaWAuX7mTcRaERZuAtp9iSgXoPR6Q/edit |
+| 🎤 Slides | https://docs.google.com/presentation/d/1FZsGPMlpfy140FEU6ZX20Ym10PJeZN82V2d2D77-ILA/edit?slide=id.p15 |
 | 🤖 Prompt Notebook LM (slides) | [`prompt-notebook-lm-slides.md`](prompt-notebook-lm-slides.md) |
 
 | Histórico WhatsApp | [`historico-whatsapp.json`](historico-whatsapp.json) |

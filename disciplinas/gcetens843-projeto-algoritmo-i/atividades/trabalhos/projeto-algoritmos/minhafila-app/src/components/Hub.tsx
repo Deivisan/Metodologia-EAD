@@ -106,7 +106,7 @@ export default function Hub() {
         'Proposta MinhaFila com diferencial de acessibilidade',
         'Demonstração do protótipo ao vivo',
       ],
-      link: 'https://docs.google.com/presentation/d/1tiaZ7SRLPvVglSnaWAuX7mTcRaERZuAtp9iSgXoPR6Q/edit',
+      link: 'https://docs.google.com/presentation/d/1FZsGPMlpfy140FEU6ZX20Ym10PJeZN82V2d2D77-ILA/edit?slide=id.p15#slide=id.p15',
     },
   ]
 
