@@ -3,50 +3,52 @@
 > Slides: 1, 2, 5, 6, 8, 9, 10, 11, 14
 > Duracao total: ~8min
 
-## Ordem da Apresentacao (eu e Rios)
+## Ordem Geral
 
 | # | Slide | Quem | Duracao |
 |:-:|:------|:----:|:-------:|
 | 1 | Capa | EU | 30s |
 | 2 | Missao | EU | 30s |
-| 3 | Problema - Modelo Esgotado | Rios | 1min30 |
-| 4 | Casos Existentes | Rios | 1min30 |
-| 5 | Proposta MinhaFila | EU | 1min |
-| 6 | Ecossistema Integrado | EU | 1min |
+| 3 | Problema | Rios | 1min30 |
+| 4 | Casos | Rios | 1min30 |
+| 5 | Proposta | EU | 1min |
+| 6 | Ecossistema | EU | 1min |
 | 7 | Fluxograma | Rios | 1min30 |
 | 8 | Arquitetura | EU | 1min30 |
-| 9 | Jornada do Usuario | EU | 1min30 |
-| 10 | Prototipo - Inclusao | EU | 1min30 |
+| 9 | Jornada | EU | 1min30 |
+| 10 | Prototipo | EU | 1min30 |
 | 11 | Dashboard | EU | 1min |
 | 12 | Beneficios | Rios | 1min |
-| 13 | Referencias | (apenas exibir) | - |
-| 14 | Fim / Perguntas | EU | 30s |
+| 13 | Referencias | (exibir) | - |
+| 14 | Fim | EU | 30s |
 
 ---
 
-## Meus Slides - Fala Detalhada
+## Minhas Falas
 
 ### Slide 1 - Capa (30s)
 
-"Boa noite. Somos o grupo MinhaFila - Gestao Inteligente e Acessivel de Espera. Disciplina GCETENS843 - Projeto Algoritmo I, professor Alex Ferreira. Somos 8 integrantes do Bacharelado em Sistemas de Informacao da UFRB."
+"Boa noite, professor Alex, boa noite a todos. Somos o grupo MinhaFila, da disciplina Projeto Algoritmo I. Nosso grupo tem 8 integrantes: eu, Deivison Santana; Raimon Rios; Ausiane Costa; Nubia Ramos; Artur Campos; Marcos Sena; Uelinton Santana e Wallace Lima. Somos todos do Bacharelado em Sistemas de Informacao EAD da UFRB."
 
 ### Slide 2 - Missao (30s)
 
-"Nossa missao e transformar o tempo de espera - de uma frustracao imprevisivel para uma experiencia previsivel, justa e inclusiva."
+"A gente comecou este projeto com uma pergunta simples: por que esperar em fila ainda e uma experiencia tao frustrante e desorganizada? A nossa missao com o MinhaFila e transformar o tempo de espera — de uma frustracao imprevisivel para uma experiencia previsivel, justa e inclusiva. E o Rios vai mostrar agora por que a gente acredita que isso e necessario."
 
-(seta) "Rios, vou passar pra voce falar sobre o problema real que a gente identificou."
+(seta) "Rios, o problema real."
 
 ---
 
-### Slide 5 - Proposta MinhaFila (1min)
+### Slide 5 - Proposta (1min)
 
-(entra depois que Rios terminar casos existentes)
+(entra depois do Rios)
 
-"E ai que entra o MinhaFila. Um sistema de senha virtual com acompanhamento remoto, projetado pra funcionar em multiplos setores de forma unificada. O cadastro e sem friccao - o usuario le um QR Code na recepcao e ja entra na fila. Transparencia total: posicao em tempo real e tempo estimado. O usuario aguarda onde quiser, nao preso no saguao. Funciona em saude, bancos, varejo e governo."
+"Entao, com base nesse problema e na lacuna que o Rios mostrou, a gente desenvolveu o MinhaFila. E um sistema de senha virtual com acompanhamento remoto. A ideia e simples: o usuario chega no local, le um QR Code na recepcao, faz um cadastro rapido — nome, telefone, servico desejado — e ja entra na fila. A partir dai ele acompanha a posicao e o tempo estimado direto no celular, sem precisar ficar preso no saguao. O sistema funciona em bancos, saude, varejo, governo — a ideia e ser multissetorial mesmo, um sistema unico que se adapta a qualquer tipo de estabelecimento."
 
-### Slide 6 - Ecossistema Integrado (1min)
+### Slide 6 - Ecossistema (1min)
 
-"O sistema tem dois modulos principais. O modulo do usuario: acompanhamento em tempo real com posicao, tempo estimado e pessoas a frente; alertas inteligentes de proximidade tipo 'faltam 3 pessoas'; e um perfil inclusivo com alto contraste, fonte ampliada, leitura de voz e modo baixo estimulo pra TEA. O modulo do gestor: um painel completo de senhas e guiches ativos, chamada simplificada com um clique, e relatorios de pico, tempo medio e performance operacional."
+"A gente dividiu o sistema em dois modulos. O modulo do usuario tem tres recursos principais: acompanhamento em tempo real com posicao e tempo estimado; alertas inteligentes de proximidade, tipo 'faltam 3 pessoas'; e um perfil inclusivo com alto contraste, fonte ampliada, leitura de voz e modo baixo estimulo pra pessoas com TEA.
+
+O modulo do gestor funciona como uma central de operacao: o painel mostra todas as senhas ativas por guiche, o atendente chama o proximo com um clique, e o sistema gera relatorios de tempo medio, horarios de pico e performance. E basicamente dar visibilidade completa pra quem ta operando a fila."
 
 (seta) "Rios, o fluxograma do sistema."
 
@@ -54,79 +56,59 @@
 
 ### Slide 8 - Arquitetura (1min30)
 
-(entra depois do Rios falar do fluxograma)
+(entra depois do Rios)
 
-"Nossa arquitetura tem quatro camadas que se comunicam em torno de um core central:
+"A arquitetura do MinhaFila foi pensada em quatro camadas que se comunicam com um nucleo central. Esse nucleo e o MinhaFila Core, que concentra as regras de negocio — a logica de priorizacao, o calculo de tempo estimado, o gerenciamento de posicoes.
 
-1. Frontend PWA - aplicativo web responsivo que funciona como app, sem download. Acesso via QR Code na recepcao. Inclui notificacoes push por Service Worker.
-2. Backend API REST - processa as requisicoes do Core, gerencia posicoes em tempo real e calcula estimativas de espera.
-3. Banco de Dados Relacional - garante integridade dos dados: senhas, estabelecimentos, historico de atendimento.
-4. Infraestrutura Cloud - roda onde precisar: na nuvem pra redes grandes ou servidor local pra clinicas menores.
-
-E no centro o MinhaFila Core - o cerebro que concentra as regras de negocio, priorizacao e logica do sistema."
+Em volta dele: o Frontend PWA, que e um aplicativo web responsivo que funciona como app sem precisar de download, acessivel via QR Code, com notificacoes push por Service Worker; o Backend API REST, que processa as requisicoes do Core, gerencia posicoes em tempo real e calcula as estimativas; o Banco de Dados Relacional, que garante a integridade das senhas, estabelecimentos e historico; e a Infraestrutura Cloud, que pode rodar na nuvem pra redes grandes ou num servidor local pra estabelecimentos menores."
 
 ### Slide 9 - Jornada do Usuario (1min30)
 
-"A jornada e simples e direta. Tres passos:
+"Na pratica, a jornada do usuario tem tres passos. Primeiro, a tela inicial: o usuario escaneia o QR Code na recepcao ou seleciona o local via GPS, que ja mostra a distancia e o tempo estimado. Segundo, a retirada de senha: ele escolhe a categoria de atendimento — Comum, Rapido, Prioritario, Retorno ou Triagem. Terceiro, a emissao imediata: em 3 cliques o usuario ja esta na fila virtual, sem burocracia, sem papel, sem ficha.
 
-1. Tela inicial - o usuario escaneia o QR Code ou seleciona o local via GPS, que ja mostra distancia e tempo estimado.
-2. Retirada de senha - escolhe a categoria: Comum, Rapido, Prioritario, Retorno ou Triagem.
-3. Emissao imediata - em 3 cliques o usuario entra na fila virtual, sem burocracia.
-
-O conceito e: acompanhe sua vez sem ficar preso na fila."
+O conceito central e esse: acompanhe sua vez sem ficar preso na fila. O usuario sai do saguao, vai resolver outras coisas, e quando a vez ta chegando o celular avisa."
 
 ### Slide 10 - Prototipo - Inclusao (1min30)
 
-"Aqui a gente ve tres funcionalidades na pratica:
+"Aqui da pra ver na pratica como fica. O painel do usuario mostra as informacoes em linguagem simples: 'Posicao 8, Previsao 18 minutos, Faltam 3 pessoas'. Nada de codigo confuso, e direto.
 
-Primeiro, o painel do usuario - visualizacao clara em linguagem simples: 'Posicao 8, Previsao 18 minutos, Faltam 3 pessoas'.
+A notificacao de proximidade dispara um aviso sonoro e visual quando a vez se aproxima. O usuario nao fica refem do saguao.
 
-Segundo, notificacao de proximidade - aviso sonoro e visual quando a vez se aproxima. O usuario nao fica preso no saguao.
+E os modos inclusivos: a gente implementou opcoes de texto ampliado, alto contraste, vibracao e reducao de estimulos visuais pra pessoas com TEA. E acionamento instantaneo, sem precisar ficar caçando em menu.
 
-Terceiro, modos inclusivos - opcoes de texto ampliado, alto contraste, vibracao e reducao de estimulos visuais pra TEA, tudo instantaneo."
+Essa parte de acessibilidade nao e um adicional — a gente tratou como requisito de produto desde o inicio."
 
 ### Slide 11 - Dashboard (1min)
 
-"Dois paineis. O painel publico na TV da recepcao: mostra a senha sendo chamada, as proximas 5 senhas previstas e um QR Code pra acompanhar a fila em tempo real. Isso reduz a suspeita de favorecimento.
+"Tem dois paineis. O painel publico, que fica numa TV na recepcao, mostra a senha sendo chamada no guiche, as proximas 5 senhas previstas e um QR Code pra acompanhar a fila em tempo real. O principal beneficio disso e reduzir aquela suspeita de favorecimento ou de furar fila — e tudo visivel.
 
-O painel da equipe no aplicativo movel: metricas em tempo real, volume de atendimento, botao 'Chamar Proximo' e gerenciamento dinamico da fila. Auditoria automatizada de prioridades."
+O painel da equipe, que funciona num aplicativo movel, exibe metricas em tempo real: volume de atendimento, senhas ativas, tempo medio. O atendente tem um botao 'Chamar Proximo' e faz o gerenciamento dinâmico da fila. Tudo registrado e auditavel."
 
 (seta) "Rios, os beneficios."
 
 ---
 
-### Slide 13 - Referencias (apenas exibir, sem fala)
+### Slide 13 - Referencias
 
-(apenas deixe o slide aparecer por alguns segundos enquanto voce faz uma pausa ou diz "nossas referencias estao ai")
+(sem fala — exiba o slide por alguns segundos enquanto faz uma pausa natural)
 
-### Slide 14 - Fim / Perguntas (30s)
+### Slide 14 - Fim (30s)
 
-(depois do Rios terminar os beneficios)
+(depois do Rios)
 
-"E era isso, pessoal.Ficamos abertos a perguntas. Obrigado!"
-
----
-
-## O que Rios Fala (meu contexto)
-
-> Slide 3 - Modelo Esgotado (1min30): Rios apresenta os 5 problemas - opacidade, prisao fisica, comunicacao falha, aglomeracao, exclusao.
->
-> Slide 4 - Casos Existentes (1min30): NextQS (totens fisicos), Fila Online (solo alertas), Vizitor (check-in corporativo). Lacuna: nenhuma oferece posicao + tempo real + fora + multissetorial + acessivel.
->
-> Slide 7 - Fluxograma (1min30): Explica o fluxo logico: entrada, verificacao de prioridade legal, distribuicao entre fila prioritaria ou convencional, calculo dinâmico de ETA.
->
-> Slide 12 - Beneficios (1min): Reducao de 64% na fila presencial, economia de US$ 2M/ano, conformidade legal, bem-estar.
+"Entao e isso, pessoal. Ficamos a disposicao pra perguntas. Obrigado!"
 
 ---
 
-## Checklist Pessoal
+## O que Rios fala (pra eu saber o contexto)
 
-- [ ] Li meu roteiro completo (9 slides)
-- [ ] Sei quando entro: 1, 2, 5, 6, 8, 9, 10, 11, 14
-- [ ] Sei quando Rios entra: 3, 4, 7, 12
-- [ ] Prototipo index.html aberto antes de comecar
-- [ ] admin.html pra mostrar se der tempo
-- [ ] Slide 13 (referencias) e mudo - deixa passar natural
+> Slide 3 — Problema: Os 5 problemas do modelo tradicional — opacidade, prisao fisica, comunicacao falha, aglomeracao, exclusao. Baseado em dados da Waitwhile, Queberry, e na Lei 10.048.
+>
+> Slide 4 — Casos: NextQS (totens), Fila Online (notificacoes), Vizitor (check-in). Lacuna: nenhuma oferece posicao + tempo real + fora + multissetorial + acessivel.
+>
+> Slide 7 — Fluxograma: Entrada no sistema, verificacao de prioridade legal (PcD, idoso, gestante, TEA), distribuicao entre fila prioritaria ou convencional, calculo dinâmico de ETA.
+>
+> Slide 12 — Beneficios: 64% reducao na fila presencial, economia de US$ 2M/ano, conformidade com Lei 10.048 e normas Febraban, bem-estar fisico e mental.
 
 ---
 
