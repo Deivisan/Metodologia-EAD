@@ -1,152 +1,136 @@
-# 🎤 Meu Roteiro — Raimon Rios da Silva
+# Meu Roteiro - Raimon Rios da Silva
 
-> **Slides:** 3, 4, 5, 8, 13
-> **Duração total:** ~6min
+> Slides: 3, 4, 7, 12
+> Duracao total: ~5min30
 
----
+## Ordem da Apresentacao (eu e Deivison)
 
-## Ordem da Apresentação (eu e Deivison)
-
-| # | Slide | Quem | Duração |
+| # | Slide | Quem | Duracao |
 |:-:|:------|:----:|:-------:|
-| 1 | 🎬 Capa | Deivison | 30s |
-| 2 | 🎯 Missão | Deivison | 30s |
-| 3 | 🔴 **Problema — Modelo Esgotado** | **EU** | 1min30 |
-| 4 | 🔴 **Problema — Impacto (dados)** | **EU** | 1min30 |
-| 5 | 📊 **Casos Existentes** | **EU** | 1min |
-| 6 | 🟢 Proposta MinhaFila | Deivison | 1min |
-| 7 | ⚙️ Ecossistema Integrado | Deivison | 1min |
-| 8 | 🔁 **Fluxograma** | **EU** | 1min |
-| 9 | 🏗️ Arquitetura | Deivison | 1min30 |
-| 10 | 📱 Jornada do Usuário | Deivison | 1min30 |
-| 11 | 🖥️ Protótipo — Inclusão | Deivison | 1min30 |
-| 12 | 📺 Dashboard de Transparência | Deivison | 1min |
-| 13 | 💰 **Benefícios** | **EU** | 1min |
-| 14 | 🏁 Fim / Perguntas | Deivison | 30s |
+| 1 | Capa | Deivison | 30s |
+| 2 | Missao | Deivison | 30s |
+| 3 | Problema - Modelo Esgotado | EU | 1min30 |
+| 4 | Casos Existentes | EU | 1min30 |
+| 5 | Proposta MinhaFila | Deivison | 1min |
+| 6 | Ecossistema Integrado | Deivison | 1min |
+| 7 | Fluxograma | EU | 1min30 |
+| 8 | Arquitetura | Deivison | 1min30 |
+| 9 | Jornada do Usuario | Deivison | 1min30 |
+| 10 | Prototipo - Inclusao | Deivison | 1min30 |
+| 11 | Dashboard | Deivison | 1min |
+| 12 | Beneficios | EU | 1min |
+| 13 | Referencias | (apenas exibir) | - |
+| 14 | Fim / Perguntas | Deivison | 30s |
 
 ---
 
-## SUA ABERTURA — Leia quando Deivison terminar o slide 2
+## SUA ABERTURA - Leia quando Deivison terminar o slide 2
 
-*(Prepara o tom pro problema real)*
+"Bom, o Deivison falou da missao do MinhaFila. Agora eu vou mostrar por que a gente decidiu criar esse sistema - o problema real que todo mundo conhece mas ninguem resolve direito."
 
-> *"Bom, o Deivison falou da missão do MinhaFila. Agora eu vou mostrar por que a gente decidiu criar esse sistema — o problema real que todo mundo conhece mas ninguém resolve direito."*
-
-➡️ **Vire para o slide 3.**
+(seta) Vire para o slide 3.
 
 ---
 
-## Seus Slides — Fala Detalhada
+## Seus Slides - Fala Detalhada
 
-### Slide 3 — Problema Real: Modelo Esgotado (1min30)
+### Slide 3 - Problema Real: Modelo Esgotado (1min30)
 
-*"O modelo tradicional de filas está esgotado. A gente identificou cinco problemas centrais:*
+"O modelo tradicional de filas esta esgotado. A gente identificou cinco problemas centrais:
 
-1. *Opacidade — o usuário não sabe sua posição exata nem o tempo estimado.*
-2. *Prisão física — não pode se ausentar sob risco de perder a vez.*
-3. *Comunicação falha — painéis difíceis de ler e chamadas que ninguém ouve.*
-4. *Aglomeração — espaços de espera superlotados desnecessariamente.*
-5. *Exclusão — falta de acessibilidade pra deficiência auditiva, visual e TEA."*
+1. Opacidade - o usuario nao sabe sua posicao exata nem o tempo estimado.
+2. Prisao fisica - nao pode se ausentar sob risco de perder a vez.
+3. Comunicacao falha - paineis dificeis de ler e chamadas que ninguem ouve.
+4. Aglomeracao - espacos de espera superlotados desnecessariamente.
+5. Exclusao - falta de acessibilidade pra deficiencia auditiva, visual e TEA."
 
-💡 *Fale pausadamente, um item por vez. Dê uma pausa entre cada um.*
+(dica: fale pausadamente, um item por vez)
 
-➡️ **"E não é só impressão — os dados confirmam a gravidade."**
-
----
-
-### Slide 4 — Impacto Multissetorial (1min30)
-
-*(continuação natural)*
-
-*"Os números são expressivos. Primeiro, o custo da ineficiência: uma loja de médio porte perde até 2 milhões de dólares por ano em receita por abandono de fila. 61% dos consumidores já desistiram de esperar antes do atendimento. O setor bancário representa quase 24% do mercado global de gestão de filas.*
-
-*Segundo, a falha na acessibilidade: pacientes com doenças crônicas, idosos, gestantes e PcD enfrentam barreiras físicas e digitais graves. A falta de informação sobre o tempo de espera aumenta em 36% a percepção de dor e estresse. A ausência de chamadas multimodais — visuais, sonoras e táteis — exclui permanentemente pessoas com deficiência visual ou auditiva.*
-
-*O mercado de sistemas de gerenciamento de filas está projetado pra chegar a 77 bilhões de dólares em 2031, crescendo 12% ao ano. Isso mostra que o mercado reconhece o problema."*
-
-➡️ **"E o que já existe hoje no mercado? Vou mostrar."**
+(seta) "E o que ja existe no mercado pra resolver isso? Vou mostrar."
 
 ---
 
-### Slide 5 — Casos Existentes (1min)
+### Slide 4 - Casos Existentes (1min30)
 
-*"A gente analisou as principais soluções do mercado:*
+"A gente analisou as principais solucoes do mercado:
 
-- *NextQS — foco restrito a totens e painéis físicos locais.*
-- *Fila Online — alertas simples por notificação, sem ecossistema completo.*
-- *Vizitor — focado em check-in corporativo e recepção, não em fluxo multissetorial.*
+- NextQS - foco restrito a totens e paineis fisicos locais.
+- Fila Online - alertas simples por notificacao, sem ecossistema completo.
+- Vizitor - focado em check-in corporativo e recepcao, nao em fluxo multissetorial.
 
-*A grande lacuna que a gente identificou: nenhuma das plataformas populares informa ao usuário o tempo aproximado de espera em tempo real e a posição exata durante a jornada fora do estabelecimento de forma multissetorial e totalmente acessível.*
+A grande lacuna que a gente identificou: nenhuma das plataformas populares informa ao usuario o tempo aproximado de espera em tempo real e a posicao exata durante a jornada fora do estabelecimento de forma multissetorial e totalmente acessivel.
 
-*É aí que o MinhaFila entra."*
+E ai que o MinhaFila entra."
 
-➡️ **"Deivison, a proposta."**
-
----
-
-### Slide 8 — Fluxograma (1min)
-
-*(entra depois do Deivison falar do ecossistema)*
-
-*"Aqui a gente vê a lógica por trás do sistema. O fluxograma mostra o algoritmo de entrada, priorização legal e atendimento:*
-
-*O usuário entra no sistema, escolhe o serviço desejado. O sistema verifica se o usuário tem prioridade legal — PcD, idoso, gestante — e distribui entre fila prioritária ou convencional. A distribuição é baseada em serviço e prioridade. O sistema calcula dinamicamente o Tempo Estimado de Atendimento — ETA — que se atualiza a cada movimentação na fila."*
-
-💡 *Se possível, aponte pro fluxograma no slide enquanto explica o caminho.*
-
-➡️ **"Deivison, a arquitetura do sistema."**
+(seta) "Deivison, a proposta."
 
 ---
 
-### Slide 13 — Benefícios + Conclusão (1min)
+### Slide 7 - Fluxograma (1min30)
 
-*(último slide antes do encerramento)*
+(entra depois do Deivison falar do ecossistema)
 
-*"O MinhaFila vai muito além de uma senha digital. Quatro benefícios principais:*
+"Aqui a gente ve a logica por tras do sistema. O fluxograma mostra o algoritmo de entrada, priorizacao legal e atendimento:
 
-1. *Redução de 64% na fila presencial — clientes esperam onde quiserem, o saguão fica livre.*
-2. *Economia de receita — reduz significativamente a evasão de clientes no varejo, onde as perdas chegam a 2 milhões de dólares por ano por loja.*
-3. *Conformidade legal ativa — atende facilmente legislações estaduais de tempo de espera e cota de prioridades pra PcD e idosos.*
-4. *Bem-estar físico e mental — reduz a hostilidade no atendimento, preserva a saúde mental dos funcionários e acalma os usuários.*
+O usuario entra no sistema e seleciona o servico desejado. O sistema verifica se o usuario tem prioridade legal - PcD, idoso, gestante, pessoa com TEA - e distribui entre fila prioritaria ou convencional. A distribuicao e baseada em servico e prioridade. O sistema calcula dinamicamente o Tempo Estimado de Atendimento - ETA - que se atualiza a cada movimentacao na fila."
 
-*MinhaFila: o seu tempo importa."*
+(dica: aponte pro fluxograma no slide enquanto explica o caminho)
 
-➡️ *(Olhe pro Deivison pra ele encerrar)*
+(seta) "Deivison, a arquitetura do sistema."
 
 ---
 
-## 🔗 O que Deivison Fala (seu contexto)
+### Slide 12 - Beneficios (1min)
 
-> **Slide 1 — Capa (30s):** Deivison abre a apresentação, apresenta o grupo e a disciplina.
+(ultimo slide seu antes do encerramento)
+
+"O MinhaFila vai muito alem de uma senha digital. Quatro beneficios principais:
+
+1. Reducao de 64% na fila presencial - clientes esperam onde quiserem, o saguao fica livre.
+2. Economia de receita - reduz significativamente a evasao de clientes no varejo, onde as perdas chegam a 2 milhoes de dolares por ano por loja.
+3. Conformidade legal ativa - atende facilmente legislacoes estaduais de tempo de espera e cota de prioridades pra PcD e idosos.
+4. Bem-estar fisico e mental - reduz a hostilidade no atendimento, preserva a saude mental dos funcionarios e acalma os usuarios.
+
+MinhaFila: o seu tempo importa."
+
+(olhe pro Deivison pra ele encerrar)
+
+---
+
+## O que Deivison Fala (meu contexto)
+
+> Slide 1 - Capa (30s): Deivison abre, apresenta o grupo e a disciplina.
 >
-> **Slide 2 — Missão (30s):** Explica a missão — transformar espera em experiência previsível, justa e inclusiva. Três pilares. Depois te chama.
+> Slide 2 - Missao (30s): Explica a missao - transformar espera em experiencia justa e inclusiva. Depois te chama.
 >
-> **Slide 6 — Proposta (1min):** Apresenta o MinhaFila como sistema de senha virtual com QR Code, transparência, mobilidade e atuação multissetorial.
+> Slide 5 - Proposta (1min): Apresenta o MinhaFila (QR Code, transparencia, mobilidade, multissetorial).
 >
-> **Slide 7 — Ecossistema (1min):** Mostra os dois módulos — Usuário (acompanhamento, alertas, perfil inclusivo) e Gestor (dashboard, chamada 1 clique, relatórios).
+> Slide 6 - Ecossistema (1min): Modulo Usuario (acompanhamento, alertas, perfil inclusivo) + Gestor (dashboard, chamada 1 clique, relatorios).
 >
-> **Slide 9 — Arquitetura (1min30):** Explica as 4 camadas (PWA, API REST, BD, Infra) com o MinhaFila Core no centro.
+> Slide 8 - Arquitetura (1min30): 4 camadas (PWA, API, BD, Infra) + MinhaFila Core no centro.
 >
-> **Slide 10 — Jornada (1min30):** Demonstra o passo a passo do usuário: QR Code, escolha de categoria, emissão em 3 cliques.
+> Slide 9 - Jornada (1min30): QR Code, escolha de categoria, emissao em 3 cliques.
 >
-> **Slide 11 — Protótipo (1min30):** Mostra o painel do usuário, notificação de proximidade e modos inclusivos.
+> Slide 10 - Prototipo (1min30): Painel usuario, notificacao de proximidade, modos inclusivos.
 >
-> **Slide 12 — Dashboard (1min):** Painel público na TV e painel da equipe com métricas e chamada em 1 clique.
+> Slide 11 - Dashboard (1min): Painel publico TV + painel equipe app movel.
 >
-> **Slide 14 — Fim (30s):** Deivison encerra e abre pra perguntas.
+> Slide 13 - Referencias: apenas exibido, sem fala.
+>
+> Slide 14 - Fim (30s): Deivison encerra e abre pra perguntas.
 
 ---
 
-## ✅ Checklist Pessoal
+## Checklist Pessoal
 
-- [ ] Li meu roteiro completo (5 slides)
-- [ ] Sei exatamente quando entro: slides 3, 4, 5, 8, 13
-- [ ] Sei quando Deivison entra: 1, 2, 6, 7, 9, 10, 11, 12, 14
-- [ ] Domino os números: 90%, 61%, +36%, US$ 77bi, US$ 2M
-- [ ] Sei a lacuna de mercado de cor (posição + tempo real + fora + multissetorial + acessível)
-- [ ] Pratiquei a transição entre slides 3→4 e 4→5 (são sequenciais)
-- [ ] Respirei fundo e confio no roteiro 🚀
+- [ ] Li meu roteiro completo (4 slides)
+- [ ] Sei quando entro: 3, 4, 7, 12
+- [ ] Sei quando Deivison entra: 1, 2, 5, 6, 8, 9, 10, 11, 14
+- [ ] Sei os 5 problemas do slide 3 de cor
+- [ ] Sei a lacuna de mercado: posicao + tempo real + fora + multissetorial + acessivel
+- [ ] Sei os 4 beneficios: 64% + US$ 2M + conformidade + bem-estar
+- [ ] Pratiquei as transicoes entre meus slides (3->4 direto, sem pausa)
 
 ---
 
-*MinhaFila — Apresentação 29/06/2026 — Baseado no PDF (2) de 14 slides*
+*MinhaFila - 29/06/2026 - Baseado no PDF (3)*

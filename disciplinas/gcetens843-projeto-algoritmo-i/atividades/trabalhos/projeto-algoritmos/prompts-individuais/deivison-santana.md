@@ -1,163 +1,133 @@
-# 🎤 Meu Roteiro — Deivison de Lima Santana
+# Meu Roteiro - Deivison de Lima Santana
 
-> **Slides:** 1, 2, 6, 7, 9, 10, 11, 12, 14
-> **Duração total:** ~8min
+> Slides: 1, 2, 5, 6, 8, 9, 10, 11, 14
+> Duracao total: ~8min
 
----
+## Ordem da Apresentacao (eu e Rios)
 
-## Ordem da Apresentação (eu e Rios)
-
-| # | Slide | Quem | Duração |
+| # | Slide | Quem | Duracao |
 |:-:|:------|:----:|:-------:|
-| 1 | 🎬 **Capa** | **EU** | 30s |
-| 2 | 🎯 **Missão** | **EU** | 30s |
-| 3 | 🔴 Problema — Modelo Esgotado | **Rios** | 1min30 |
-| 4 | 🔴 Problema — Impacto (dados) | **Rios** | 1min30 |
-| 5 | 📊 Casos Existentes | **Rios** | 1min |
-| 6 | 🟢 **Proposta MinhaFila** | **EU** | 1min |
-| 7 | ⚙️ **Ecossistema Integrado** | **EU** | 1min |
-| 8 | 🔁 Fluxograma | **Rios** | 1min |
-| 9 | 🏗️ **Arquitetura** | **EU** | 1min30 |
-| 10 | 📱 **Jornada do Usuário** | **EU** | 1min30 |
-| 11 | 🖥️ **Protótipo — Inclusão** | **EU** | 1min30 |
-| 12 | 📺 **Dashboard de Transparência** | **EU** | 1min |
-| 13 | 💰 Benefícios | **Rios** | 1min |
-| 14 | 🏁 Fim / Perguntas | **EU** | 30s |
+| 1 | Capa | EU | 30s |
+| 2 | Missao | EU | 30s |
+| 3 | Problema - Modelo Esgotado | Rios | 1min30 |
+| 4 | Casos Existentes | Rios | 1min30 |
+| 5 | Proposta MinhaFila | EU | 1min |
+| 6 | Ecossistema Integrado | EU | 1min |
+| 7 | Fluxograma | Rios | 1min30 |
+| 8 | Arquitetura | EU | 1min30 |
+| 9 | Jornada do Usuario | EU | 1min30 |
+| 10 | Prototipo - Inclusao | EU | 1min30 |
+| 11 | Dashboard | EU | 1min |
+| 12 | Beneficios | Rios | 1min |
+| 13 | Referencias | (apenas exibir) | - |
+| 14 | Fim / Perguntas | EU | 30s |
 
 ---
 
-## Meus Slides — Fala Detalhada
+## Meus Slides - Fala Detalhada
 
-### Slide 1 — Capa (30s)
+### Slide 1 - Capa (30s)
 
-*"Boa noite. Somos o grupo MinhaFila — Gestão Inteligente e Acessível de Espera. Disciplina GCETENS843 — Projeto Algoritmo I, professor Alex Ferreira. Somos 8 integrantes do Bacharelado em Sistemas de Informação da UFRB."*
+"Boa noite. Somos o grupo MinhaFila - Gestao Inteligente e Acessivel de Espera. Disciplina GCETENS843 - Projeto Algoritmo I, professor Alex Ferreira. Somos 8 integrantes do Bacharelado em Sistemas de Informacao da UFRB."
 
-💡 *Aponte rapidamente para os nomes no slide enquanto fala.*
+### Slide 2 - Missao (30s)
 
-➡️ **"Vou começar com a nossa missão."**
+"Nossa missao e transformar o tempo de espera - de uma frustracao imprevisivel para uma experiencia previsivel, justa e inclusiva."
 
----
-
-### Slide 2 — Missão (30s)
-
-*"Nossa missão é transformar o tempo de espera — de uma frustração imprevisível para uma experiência previsível, justa e inclusiva. Três pilares sustentam isso: multissetorial, foco no usuário e acessibilidade nativa."*
-
-➡️ **"Rios, vou passar pra você falar sobre o problema real que a gente identificou."**
+(seta) "Rios, vou passar pra voce falar sobre o problema real que a gente identificou."
 
 ---
 
-### Slide 6 — Proposta MinhaFila (1min)
+### Slide 5 - Proposta MinhaFila (1min)
 
-*(entra depois que Rios terminar casos existentes)*
+(entra depois que Rios terminar casos existentes)
 
-*"E é aí que entra o MinhaFila. Um sistema de senha virtual com acompanhamento remoto, projetado pra funcionar em múltiplos setores de forma unificada. O cadastro é sem fricção — o usuário lê um QR Code na recepção e já entra na fila. Tem transparência total: posição em tempo real e tempo estimado. O usuário aguarda onde quiser, não preso no saguão. Funciona em saúde, bancos, varejo e governo."*
+"E ai que entra o MinhaFila. Um sistema de senha virtual com acompanhamento remoto, projetado pra funcionar em multiplos setores de forma unificada. O cadastro e sem friccao - o usuario le um QR Code na recepcao e ja entra na fila. Transparencia total: posicao em tempo real e tempo estimado. O usuario aguarda onde quiser, nao preso no saguao. Funciona em saude, bancos, varejo e governo."
 
-➡️ **"Vou mostrar agora como esse ecossistema se organiza."**
+### Slide 6 - Ecossistema Integrado (1min)
 
----
+"O sistema tem dois modulos principais. O modulo do usuario: acompanhamento em tempo real com posicao, tempo estimado e pessoas a frente; alertas inteligentes de proximidade tipo 'faltam 3 pessoas'; e um perfil inclusivo com alto contraste, fonte ampliada, leitura de voz e modo baixo estimulo pra TEA. O modulo do gestor: um painel completo de senhas e guiches ativos, chamada simplificada com um clique, e relatorios de pico, tempo medio e performance operacional."
 
-### Slide 7 — Ecossistema Integrado (1min)
-
-*"O sistema tem dois módulos principais. O módulo do usuário: acompanhamento em tempo real com posição, tempo estimado e pessoas à frente; alertas inteligentes de proximidade tipo 'faltam 3 pessoas'; e um perfil inclusivo com alto contraste, fonte ampliada, leitura de voz e modo baixo estímulo pra TEA.*
-
-*O módulo do gestor: um painel completo de senhas e guichês ativos, chamada simplificada com um clique, e relatórios de pico, tempo médio e performance operacional."*
-
-➡️ **"Rios, o fluxograma do sistema."**
+(seta) "Rios, o fluxograma do sistema."
 
 ---
 
-### Slide 9 — Arquitetura — Engenharia Limpa e Escalável (1min30)
+### Slide 8 - Arquitetura (1min30)
 
-*(entra depois do Rios falar do fluxograma)*
+(entra depois do Rios falar do fluxograma)
 
-*"Nossa arquitetura tem quatro camadas que se comunicam em torno de um core central:*
+"Nossa arquitetura tem quatro camadas que se comunicam em torno de um core central:
 
-1. *Frontend PWA — aplicativo web responsivo que funciona como app, sem download. Acesso via QR Code na recepção. Inclui notificações push por Service Worker.*
-2. *Backend API REST — processa as requisições do Core, gerencia posições em tempo real e calcula estimativas de espera.*
-3. *Banco de Dados Relacional — garante integridade dos dados: senhas, estabelecimentos, histórico de atendimento.*
-4. *Infraestrutura Cloud — roda onde precisar: na nuvem pra redes grandes ou servidor local pra clínicas menores.*
+1. Frontend PWA - aplicativo web responsivo que funciona como app, sem download. Acesso via QR Code na recepcao. Inclui notificacoes push por Service Worker.
+2. Backend API REST - processa as requisicoes do Core, gerencia posicoes em tempo real e calcula estimativas de espera.
+3. Banco de Dados Relacional - garante integridade dos dados: senhas, estabelecimentos, historico de atendimento.
+4. Infraestrutura Cloud - roda onde precisar: na nuvem pra redes grandes ou servidor local pra clinicas menores.
 
-*E no centro o MinhaFila Core — o cérebro que concentra as regras de negócio, priorização e lógica do sistema."*
+E no centro o MinhaFila Core - o cerebro que concentra as regras de negocio, priorizacao e logica do sistema."
 
-💡 *Se puder, aponte pra cada camada no slide enquanto fala.*
+### Slide 9 - Jornada do Usuario (1min30)
 
-➡️ **"Vou mostrar agora como funciona na prática, na jornada do usuário."**
+"A jornada e simples e direta. Tres passos:
 
----
+1. Tela inicial - o usuario escaneia o QR Code ou seleciona o local via GPS, que ja mostra distancia e tempo estimado.
+2. Retirada de senha - escolhe a categoria: Comum, Rapido, Prioritario, Retorno ou Triagem.
+3. Emissao imediata - em 3 cliques o usuario entra na fila virtual, sem burocracia.
 
-### Slide 10 — Jornada do Usuário (1min30)
+O conceito e: acompanhe sua vez sem ficar preso na fila."
 
-*"A jornada é simples e direta. Três passos:*
+### Slide 10 - Prototipo - Inclusao (1min30)
 
-1. *Tela inicial — o usuário escaneia o QR Code ou seleciona o local via GPS, que já mostra distância e tempo estimado.*
-2. *Retirada de senha — escolhe a categoria: Comum, Rápido, Prioritário, Retorno ou Triagem.*
-3. *Emissão imediata — em 3 cliques o usuário entra na fila virtual, sem burocracia.*
+"Aqui a gente ve tres funcionalidades na pratica:
 
-*O conceito é: acompanhe sua vez sem ficar preso na fila."*
+Primeiro, o painel do usuario - visualizacao clara em linguagem simples: 'Posicao 8, Previsao 18 minutos, Faltam 3 pessoas'.
 
-➡️ **"Vou mostrar o protótipo de como isso fica na tela."**
+Segundo, notificacao de proximidade - aviso sonoro e visual quando a vez se aproxima. O usuario nao fica preso no saguao.
 
----
+Terceiro, modos inclusivos - opcoes de texto ampliado, alto contraste, vibracao e reducao de estimulos visuais pra TEA, tudo instantaneo."
 
-### Slide 11 — Visibilidade Total e Inclusão — Protótipo (1min30)
+### Slide 11 - Dashboard (1min)
 
-*"Aqui a gente vê três funcionalidades na prática:*
+"Dois paineis. O painel publico na TV da recepcao: mostra a senha sendo chamada, as proximas 5 senhas previstas e um QR Code pra acompanhar a fila em tempo real. Isso reduz a suspeita de favorecimento.
 
-*Primeiro, o painel do usuário — visualização clara em linguagem simples: 'Posição 8, Previsão 18 minutos, Faltam 3 pessoas'.*
+O painel da equipe no aplicativo movel: metricas em tempo real, volume de atendimento, botao 'Chamar Proximo' e gerenciamento dinamico da fila. Auditoria automatizada de prioridades."
 
-*Segundo, notificação de proximidade — aviso sonoro e visual quando a vez se aproxima. O usuário não fica preso no saguão.*
-
-*Terceiro, modos inclusivos — opções de texto ampliado, alto contraste, vibração e redução de estímulos visuais pra TEA, tudo instantâneo."*
-
-➡️ **"E tem também o dashboard pros gestores acompanharem tudo."**
+(seta) "Rios, os beneficios."
 
 ---
 
-### Slide 12 — Dashboard de Transparência (1min)
+### Slide 13 - Referencias (apenas exibir, sem fala)
 
-*"Dois painéis. O painel público na TV da recepção: mostra a senha sendo chamada, as próximas 5 senhas previstas e um QR Code pra acompanhar a fila em tempo real. Isso reduz a suspeita de favorecimento.*
+(apenas deixe o slide aparecer por alguns segundos enquanto voce faz uma pausa ou diz "nossas referencias estao ai")
 
-*O painel da equipe no aplicativo móvel: métricas em tempo real, volume de atendimento, botão 'Chamar Próximo' e gerenciamento dinâmico da fila. Auditoria automatizada de prioridades."*
+### Slide 14 - Fim / Perguntas (30s)
 
-💡 *Se der tempo, abre rapidinho o `admin.html` pra mostrar.*
+(depois do Rios terminar os beneficios)
 
-➡️ **"Rios, os benefícios."**
-
----
-
-### Slide 14 — Fim / Perguntas (30s)
-
-*(depois do Rios terminar os benefícios)*
-
-*"Era isso, pessoal. Fica aqui nosso espaço pra perguntas. Obrigado!"*
-
-💡 *Mantenha o `index.html` aberto caso perguntem sobre funcionalidades específicas.*
+"E era isso, pessoal.Ficamos abertos a perguntas. Obrigado!"
 
 ---
 
-## 🔗 O que Rios Fala (meu contexto)
+## O que Rios Fala (meu contexto)
 
-> **Slide 3 — Modelo Esgotado (1min30):** Rios apresenta os 5 problemas do modelo tradicional: opacidade (não sabe posição), prisão física (não pode sair), comunicação falha (painéis ruins), aglomeração (espaços lotados), exclusão (falta acessibilidade PcD/TEA).
+> Slide 3 - Modelo Esgotado (1min30): Rios apresenta os 5 problemas - opacidade, prisao fisica, comunicacao falha, aglomeracao, exclusao.
 >
-> **Slide 4 — Impacto (1min30):** Dados — 90% enfrentam filas todo mês, 61% abandonam, +36% percepção de dor, mercado de US$ 77bi em 2031. Custo da ineficiência e falha de acessibilidade.
+> Slide 4 - Casos Existentes (1min30): NextQS (totens fisicos), Fila Online (solo alertas), Vizitor (check-in corporativo). Lacuna: nenhuma oferece posicao + tempo real + fora + multissetorial + acessivel.
 >
-> **Slide 5 — Casos Existentes (1min):** NextQS (totens físicos), Fila Online (só alertas), Vizitor (check-in corporativo). Lacuna: nenhuma oferece posição + tempo real + fora do estabelecimento + multissetorial + acessível.
+> Slide 7 - Fluxograma (1min30): Explica o fluxo logico: entrada, verificacao de prioridade legal, distribuicao entre fila prioritaria ou convencional, calculo dinâmico de ETA.
 >
-> **Slide 8 — Fluxograma (1min):** Explica o fluxo lógico: entrada do usuário no sistema, verificação de prioridade legal, distribuição entre fila prioritária ou convencional, cálculo dinâmico de ETA.
->
-> **Slide 13 — Benefícios (1min):** Redução de 64% na fila presencial, economia de US$ 2M/ano em abandono, conformidade legal (cotas PcD/Idosos), bem-estar físico e mental.
+> Slide 12 - Beneficios (1min): Reducao de 64% na fila presencial, economia de US$ 2M/ano, conformidade legal, bem-estar.
 
 ---
 
-## ✅ Checklist Pessoal
+## Checklist Pessoal
 
 - [ ] Li meu roteiro completo (9 slides)
-- [ ] Sei exatamente quando entro (1, 2, 6, 7, 9, 10, 11, 12, 14)
-- [ ] Sei quando Rios entra (3, 4, 5, 8, 13)
-- [ ] Protótipo `index.html` aberto antes de começar
-- [ ] `admin.html` pra mostrar rápido se der tempo
-- [ ] Respirei fundo e confio no roteiro 🚀
+- [ ] Sei quando entro: 1, 2, 5, 6, 8, 9, 10, 11, 14
+- [ ] Sei quando Rios entra: 3, 4, 7, 12
+- [ ] Prototipo index.html aberto antes de comecar
+- [ ] admin.html pra mostrar se der tempo
+- [ ] Slide 13 (referencias) e mudo - deixa passar natural
 
 ---
 
-*MinhaFila — Apresentação 29/06/2026 — Baseado no PDF (2) de 14 slides*
+*MinhaFila - 29/06/2026 - Baseado no PDF (3)*
