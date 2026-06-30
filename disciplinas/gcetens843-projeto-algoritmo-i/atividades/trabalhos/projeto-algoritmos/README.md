@@ -87,11 +87,11 @@ Arquivo | Descrição
 | Artur Campos | Apresentação (Capa + Fluxograma) |
 | Ausiane Costa | Apresentação (Casos Existentes) |
 | Deivison Santana | Documentação, protótipo, apresentação |
-| Marcos Sena | — |
-| Núbia Ramos | — |
+| Marcos Sena | Membro ativo |
+| Núbia Ramos | Apoio ao tema (educação/acessibilidade) |
 | Raimon Rios | Documentação base, apresentação (Problema + Benefícios) |
-| Uélinton Santana | — |
-| Wallace Lima | — |
+| Uélinton Santana | Membro ativo |
+| Wallace Lima | Membro ativo |
 
 ---
 
