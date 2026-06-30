@@ -12,7 +12,9 @@
 |---------|------|
 | 📊 **Slides (Google Slides)** | [Abrir apresentação](https://docs.google.com/presentation/d/1FZsGPMlpfy140FEU6ZX20Ym10PJeZN82V2d2D77-ILA/edit) |
 | 🏠 **Hub do projeto (landing page)** | [deivisan.github.io/Metodologia-EAD/minhafila/](https://deivisan.github.io/Metodologia-EAD/minhafila/) |
-| 📦 **ZIP completo para download** | [`projeto-algoritmos-1-minhafila.zip`](projeto-algoritmos-1-minhafila.zip) |
+| 📦 **ZIP completo** | [`projeto-algoritmos-1-minhafila.zip`](projeto-algoritmos-1-minhafila.zip) |
+| 📄 **Slides PPTX** | [`slides/minhafila-apresentacao.pptx`](slides/minhafila-apresentacao.pptx) |
+| 📄 **Slides PDF** | [`slides/minhafila-apresentacao.pdf`](slides/minhafila-apresentacao.pdf) |
 
 ---
 
@@ -22,10 +24,9 @@
 
 Arquivo | Descrição
 :-------|:---------
-[`slides/MinhaFila_Smart_Waiting (1).pptx`](slides/MinhaFila_Smart_Waiting%20(1).pptx) | Slides em PowerPoint (abrir no PowerPoint / Google Slides)
-[`slides/MinhaFila_Smart_Waiting (3).pdf`](slides/MinhaFila_Smart_Waiting%20(3).pdf) | Slides em PDF (14 páginas)
+[`slides/minhafila-apresentacao.pptx`](slides/minhafila-apresentacao.pptx) | Slides em PowerPoint
+[`slides/minhafila-apresentacao.pdf`](slides/minhafila-apresentacao.pdf) | Slides em PDF (14 páginas)
 [`slides-pdf/`](slides-pdf/) | Imagens PNG de cada slide (página por página)
-[`apresentacao-minhafila.pptx`](apresentacao-minhafila.pptx) | Versão anterior dos slides
 [`roteiro-apresentacao.md`](roteiro-apresentacao.md) | Roteiro completo da apresentação
 
 ### 📝 Documentação do Projeto
