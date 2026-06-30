@@ -15,7 +15,7 @@
 | **Disciplina** | **GCETENS843 — Projeto Algoritmo I** |
 | **Curso** | **Bacharelado em Sistemas de Informação** |
 | **Semestre** | **2026.1** |
-| **Professor(a)** | A confirmar no Moodle/AVA |
+| **Professor(a)** | Prof. Alex Ferreira |
 | **Fonte-base** | Vídeo do professor: <https://www.youtube.com/watch?v=Aa5xV9GRsig> |
 | **Transcrição de apoio** | [`transcricao-video-aa5xv9grsig.md`](../../../../../transcricao-video-aa5xv9grsig.md) |
 | **Status** | Documento inicial para planejamento do grupo |

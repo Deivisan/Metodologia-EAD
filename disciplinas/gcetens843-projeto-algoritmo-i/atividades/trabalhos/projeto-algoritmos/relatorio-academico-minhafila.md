@@ -16,7 +16,7 @@
 | | |
 |---|---|
 | **Disciplina:** | GCETENS843 — Projeto Algoritmo I |
-| **Docente:** | Prof. Luis Paulo Morais Conceição |
+| **Docente:** | Prof. Alex Ferreira |
 | **Semestre:** | 2026.1 |
 | **Data:** | 29 de junho de 2026 |
 

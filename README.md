@@ -50,7 +50,7 @@ O repositório atualmente concentra os esforços no **Projeto Algoritmo I**, tra
 | GCETENS839 | Fundamentos de Sistemas de Informação | Profª. Me. Daiana Conceição Souza |
 | GCETENS841 | Algoritmos e Programação I | Luis Paulo Morais Conceição |
 | GCETENS842 | Lógica Matemática Discreta | Anderon Melhor Miranda |
-| GCETENS843 | **Projeto Algoritmo I** ⬅️ ativo | A confirmar no Moodle/AVA |
+| GCETENS843 | **Projeto Algoritmo I** ⬅️ ativo | Prof. Alex Ferreira |
 
 ---
 
