@@ -101,7 +101,11 @@ J ───────┤  ②   │         │
 
 ## 4. Simulação no CircuitVerse
 
-Montei o circuito no simulador online CircuitVerse usando 3 entradas nomeadas T, H e J, 3 portas NAND de 2 entradas e 1 LED de saída nomeado S (Alarme). Os prints abaixo são capturas reais do circuito rodando no software, em dois estados distintos, conforme exigido no roteiro:
+Montei o circuito no simulador online CircuitVerse usando 3 entradas nomeadas T, H e J, 3 portas NAND de 2 entradas e 1 LED de saída nomeado S (Alarme). A figura abaixo é a captura de tela do circuito montado no simulador (print do autor). Em seguida, os dois prints mostram o circuito rodando em estados distintos, conforme exigido no roteiro.
+
+**Circuito montado no CircuitVerse (captura de tela do autor):**
+
+![Circuito NAND montado no CircuitVerse — captura do autor](disciplinas/gcetens842-logica/atividades/exercicios/circuito-nand-print-usuario.png)
 
 **Estado ativo (S = 1):** T = 1, H = 0, J = 1 — temperatura alta e janela aberta (alarme acende).
 
