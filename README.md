@@ -47,10 +47,11 @@ O repositório atualmente concentra os esforços no **Projeto Algoritmo I**, tra
 
 | Código | Disciplina | Professor(a) |
 |--------|-----------|-------------|
+| GCETENS838 | **Lógica para Computação** ⬅️ ativo | Nilmar de Souza |
 | GCETENS839 | Fundamentos de Sistemas de Informação | Profª. Me. Daiana Conceição Souza |
 | GCETENS841 | Algoritmos e Programação I | Luis Paulo Morais Conceição |
 | GCETENS842 | Lógica Matemática Discreta | Anderon Melhor Miranda |
-| GCETENS843 | **Projeto Algoritmo I** ⬅️ ativo | Prof. Alex Ferreira |
+| GCETENS843 | **Projeto Algoritmo I** | Prof. Alex Ferreira |
 
 ---
 
@@ -113,6 +114,7 @@ Disponíveis em `disciplinas/gcetens843-projeto-algoritmo-i/atividades/trabalhos
 | GCETENS842 | Atividade Indução/Recorrência | [`gcetens842-atividade-inducao-recorencia-deivison-de-lima-santana.pdf`](disciplinas/gcetens842-logica/atividades/exercicios/gcetens842-atividade-inducao-recorencia-deivison-de-lima-santana.pdf) | ✅ PDF gerado |
 | GCETENS841 | Lista 5 - Vetores em C | [`gcetens841-lista-5-vetores-deivison-de-lima-santana.pdf`](disciplinas/gcetens841-algoritmos/avaliacoes/gcetens841-lista-8-gabarito-deivison-santana.pdf) | ✅ PDF gerado |
 | GCETENS842 | Atividade 6 - Grafos no Cotidiano | [`gcetens842-atividade-grafos-cotidiano-deivison-de-lima-santana.pdf`](disciplinas/gcetens842-logica/atividades/exercicios/gcetens842-atividade-grafos-cotidiano-deivison-de-lima-santana.pdf) | ✅ PDF gerado |
+| GCETENS838 | Simulação 01 - Circuitos Lógicos | [`gcetens838-simulacao-01-relatorio-deivison-santana.pdf`](disciplinas/gcetens842-logica/atividades/exercicios/gcetens838-simulacao-01-relatorio-deivison-santana.pdf) | ✅ PDF gerado |
 
 ---
 

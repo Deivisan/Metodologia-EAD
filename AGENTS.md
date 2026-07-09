@@ -369,10 +369,11 @@ Use tags HTML para elementos estruturais que o markdown puro não cobre:
 
 ### 🏫 Disciplinas Ativas — UFRB 2026.1
 
-O aluno está matriculado em **4 disciplinas** no semestre 2026.1 (30/03 a 16/05/2026):
+O aluno está matriculado em **5 disciplinas** no semestre 2026.1 (períodos: 30/03 a 16/05/2026 para a maioria; 18/05 a 18/07/2026 para GCETENS838):
 
 | Código | Disciplina | Professor(a) |
 |--------|-----------|--------------|
+| GCETENS838 | Lógica para Computação | Nilmar de Souza |
 | GCETENS839 | Fundamentos de Sistemas de Informação | Profª. Me. Daiana Conceição Souza |
 | GCETENS841 | Algoritmos e Programação I | Luis Paulo Morais Conceição |
 | GCETENS842 | Lógica Matemática Discreta | Anderon Melhor Miranda |
@@ -465,6 +466,9 @@ Quando o usuário enviar novas conversas do grupo:
 #### 🟡 17/05/2026 (domingo)
 - **GCETENS841** — Avaliação 5 - 100% da Nota — **Lista 5 - Vetores em C** ✅ **PDF gerado** (enviar até 17/05 23:59)
 - **GCETENS842** — Atividade Avaliativa 06 — **Grafos no Cotidiano** ✅ **PDF gerado** (enviar até 17/05 23:59)
+
+#### ✅ ENVIADAS — 09/07/2026
+- **GCETENS838** — Simulação 01 — Circuitos Lógicos com Portas Universais ✅ **PDF + DOCX gerados**
 
 #### 🟢 31/05/2026 (final do prazo)
 - **GCETENS841** — Avaliação 7 - 100% da Nota — **Lista de Funções em C** (Lista_7_FUNCAO.pdf)

@@ -109,6 +109,7 @@ Discente:
 |--------|-----------|---------|
 | GCETENS839 | Fundamentos de Sistemas de Informação | Profª. Me. Daiana Conceição Souza |
 | GCETENS841 | Algoritmos e Programação I | (verificar no Moodle atual) |
+| GCETENS838 | Lógica para Computação | Nilmar de Souza |
 | GCETENS842 | Lógica Matemática Discreta | Anderon Melhor Miranda |
 
 ---
