@@ -86,17 +86,9 @@ O circuito usa 3 portas NAND:
 
 ## 4. Simulacao no CircuitVerse
 
-Montei o circuito no CircuitVerse com 3 entradas (T, H, J), 3 portas NAND de 2 entradas e um LED de saida (S). A imagem abaixo mostra o circuito montado no simulador.
+Montei o circuito no CircuitVerse com 3 entradas (T, H, J), 3 portas NAND de 2 entradas e um LED de saida (S). A imagem abaixo mostra o circuito montado no simulador com os estados ativo e inativo do alarme.
 
-![Circuito montado no CircuitVerse](disciplinas/gcetens838-logica-para-computacao/atividades/exercicios/circuito-nand-print-usuario.png)
-
-**Estado ativo (S = 1):** T = 1, H = 0, J = 1 — temperatura alta e janela aberta, alarme acende.
-
-![Circuito com alarme ativo](disciplinas/gcetens838-logica-para-computacao/atividades/exercicios/circuito-nand-ativo.png)
-
-**Estado inativo (S = 0):** T = 0, H = 0, J = 0 — situacao normal, alarme desligado.
-
-![Circuito com alarme inativo](disciplinas/gcetens838-logica-para-computacao/atividades/exercicios/circuito-nand-inativo.png)
+![Circuito montado no CircuitVerse — prints do autor](disciplinas/gcetens838-logica-para-computacao/atividades/exercicios/circuito-nand-print-usuario.png)
 
 Testei as 8 combinacoes de entrada e o LED acendeu exatamente nos casos previstos na tabela-verdade, entao o circuito esta funcionando como esperado.
 
