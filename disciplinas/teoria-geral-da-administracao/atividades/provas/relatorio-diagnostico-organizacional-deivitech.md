@@ -15,13 +15,7 @@
 | **Semestre:** | 2026.1 |
 | **Data:** | 12/07/2026 |
 
-**Integrantes:**
-- Deivison de Lima Santana
-- [Nome do Integrante 2]
-- [Nome do Integrante 3]
-- [Nome do Integrante 4]
-- [Nome do Integrante 5]
-- [Nome do Integrante 6]
+**Discente:** Deivison de Lima Santana
 
 ---
 
