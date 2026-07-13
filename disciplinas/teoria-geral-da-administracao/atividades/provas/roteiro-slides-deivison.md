@@ -1,7 +1,8 @@
 # 🎤 Roteiro dos Slides — Pitch DeiviTech
 
 > **Apresentador:** Deivison de Lima Santana  
-> **Estilo:** Fala livre, natural, de quem domina o assunto  
+> **Pra quem:** Somente o Prof. André (1 pessoa — tom de conversa direta)  
+> **Estilo:** Fala natural, sem decoreba. Texto é apoio, não script.  
 > **Duração:** ~3 minutos
 
 ---
@@ -10,9 +11,7 @@
 
 > **Diagnóstico Organizacional — DeiviTech**
 
-"Então, pessoal... vou apresentar pra vocês o diagnóstico organizacional da **DeiviTech**, que é minha empresa. Microempresa de TI, aqui de Feira de Santana, Bahia. Bora lá."
-
-*(transição rápida, já parte pro próximo)*
+"Professor André, vou apresentar o diagnóstico organizacional da **DeiviTech**, que é minha empresa de TI. Microempresa, digital, aqui de Feira de Santana. Vou falar um pouco sobre como eu trabalho e o que as teorias da administração têm a ver com isso."
 
 ---
 
@@ -20,23 +19,25 @@
 
 > **DeiviTech — Minha História**
 
-"Deixa eu me apresentar melhor. Eu sou **técnico de TI** — trabalho com isso há anos, e há **5 anos** resolvi montar a **DeiviTech**. É uma empresa **100% digital**, tudo feito à distância: suporte técnico remoto, manutenção de sistemas, formatação, desenvolvimento de soluções digitais, automação de processos. Basicamente, se tem um computador envolvido e o cliente precisa de solução, eu tô dentro.
+"Eu sou **técnico de TI** — me envolvo com tecnologia desde **2010**, quando ganhei meu primeiro notebook e comecei a ajudar família e amigos com soluções práticas. Já passei por **Core3 Tecnologia** (suporte remoto pra um dos maiores provedores do interior da Bahia), por **Santa Casa e Meddi** (suporte técnico especializado em saúde), e há **5 anos** fundei a **DeiviTech**.
 
-A empresa é **enxuta**, sou eu na maior parte do tempo, mas tenho parceiros e prestadores pra demandas maiores. Tudo funcionando com **presença digital consolidada** — site no GitHub, WhatsApp Business pra atendimento, e uma boa carteira de clientes fiéis aqui de Feira de Santana e região."
+A empresa é **100% digital** — tudo remoto. Presto suporte técnico, formatação, manutenção, desenvolvimento de soluções web, automação Python... basicamente, se envolve computador e o cliente precisa de solução, eu resolvo.
+
+Tenho **presença digital consolidada**: site no GitHub Pages, loja online (FreelancerDeiviTech), WhatsApp Business, portfólio de projetos no GitHub (@Deivisan, 27 repositórios). A empresa é enxuta — eu na maior parte do tempo, com parceiros técnicos quando a demanda cresce."
 
 ---
 
 ## SLIDE 3 — TAYLOR, FAYOL E WEBER
 
-> **O que Taylor, Fayol e Weber têm a ver com TI?**
+> **Clássicos da Administração no meu dia a dia**
 
-"Beleza, mas o que três caras do século passado — Taylor, Fayol e Weber — têm a ver com uma microempresa de TI em Feira de Santana? **Tudo.**
+"Professor, o que Taylor, Fayol e Weber têm a ver com uma microempresa de TI em Feira de Santana? Na prática, **tudo.**
 
-**Taylor** aparece na **divisão do trabalho** — eu não saio fazendo tudo de qualquer jeito. Cada serviço é segmentado: diagnóstico, orçamento, execução, entrega. Tenho procedimentos padronizados pra cada tipo de atendimento. É a tal da **eficiência operacional** que o Taylor pregava — adaptada pro mundo digital.
+**Taylor** aparece na **divisão do trabalho e eficiência**. Meus serviços são segmentados: diagnóstico, orçamento, execução, entrega. Cada tipo de atendimento tem seu fluxo padronizado. É a administração científica aplicada ao suporte técnico — sem desperdiçar tempo, sem retrabalho.
 
-**Fayol** tá no **planejamento e na organização**. Mesmo sendo uma microempresa, eu tenho que pensar: quais serviços vou oferecer esse mês? Preciso de peças? Tem demanda sazonal? Isso é a função administrativa de **previsão** que o Fayol descreveu. E na **organização** — cada coisa no seu lugar: ferramentas, documentos, prazos.
+**Fayol** tá na **organização e no planejamento**. Mesmo sendo pequeno, preciso pensar: quais serviços oferecer esse mês? Preciso de peças? Tem demanda sazonal? Isso é a função de **previsão** que o Fayol descreveu. E a **organização** — cada ferramenta, cada documento, cada processo no seu lugar.
 
-**Weber** aparece na **hierarquia e na impessoalidade**. Mesmo sendo pequeno, tenho uma estrutura: eu sou o gestor, tenho técnicos parceiros, cada um com sua função. E no atendimento, o tratamento é **padronizado** — independente de quem é o cliente, o orçamento segue a mesma tabela, o serviço segue o mesmo padrão de qualidade. Isso é a burocracia weberiana na prática."
+**Weber** aparece na **hierarquia e impessoalidade**. Tenho uma estrutura clara: eu como gestor, técnicos parceiros, cada um com sua função. E o atendimento segue **padrão** — a tabela de preços é a mesma pra todo mundo, o procedimento é o mesmo, independente de quem é o cliente. Tratamento igual pra todos. Isso é burocracia weberiana na prática, sem o lado pesado."
 
 ---
 
@@ -44,29 +45,27 @@ A empresa é **enxuta**, sou eu na maior parte do tempo, mas tenho parceiros e p
 
 > **Nem só de Taylor vive o gestor**
 
-"Agora, se eu fosse só Taylor e Weber, minha empresa seria fria, roboticamente eficiente, mas sem alma. E não é assim que funciona.
+"Mas se eu fosse só Taylor e Weber, a DeiviTech seria fria, robotizada. E não é assim que funciona.
 
-**Mayo** (Relações Humanas) aparece no **atendimento próximo**. Eu uso WhatsApp Business pra manter contato direto com os clientes. Mando mensagem perguntando se o serviço resolveu, se precisa de algo mais. Isso gera **fidelização** — o cliente volta porque confia, não porque é o mais barato.
+**Mayo** (Relações Humanas) — meu atendimento é **próximo**. Uso WhatsApp Business pra manter contato direto com cada cliente. Mando mensagem perguntando se resolveu, se precisa de mais algo, se tá tudo certo. Isso **fideliza** — o cliente volta porque **confia**, não porque é o mais barato.
 
-**Teoria dos Sistemas** — minha empresa é um **sistema aberto**. Entra demanda (insumo), passa pelo processo (diagnóstico + reparo), sai resultado (cliente satisfeito). E o **feedback** do cliente realimenta o sistema — se algo deu errado, eu ajusto.
+**Teoria dos Sistemas** — minha empresa é um **sistema aberto**. Chega uma demanda (entrada), passa pelo processo (diagnóstico + reparo), sai um resultado (cliente satisfeito). E o **feedback** do cliente realimenta o sistema — se deu errado, eu ajusto. Tudo conectado.
 
-**Contingência** — essa é a mais legal. **Não existe um jeito único de administrar.** Em época de alta demanda (volta às aulas, final de ano), eu viro Taylor — foco em produtividade, Service Desk, atender rápido. Em época mais calma, viro Mayo — foco em relacionamento, conversar com cliente, entender necessidade. **A abordagem certa depende da situação.**"
+**Contingência** — essa é a chave. **Não existe uma fórmula única.** Em época de alta demanda (volta às aulas, final de ano), viro Taylor — foco em produtividade, atender rápido. Em época mais calma, viro Mayo — foco em relacionamento, entender a necessidade. A abordagem certa **depende da situação**."
 
 ---
 
 ## SLIDE 5 — PODC NA PRÁTICA
 
-> **Planejamento, Organização, Direção e Controle no dia a dia**
+> **Planejamento, Organização, Direção e Controle**
 
-"Agora, como isso se traduz no PODC?
+**Planejamento** — aprendi na prática: janeiro/fevereiro aumenta formatação (volta às aulas). Novembro/dezembro aumenta manutenção (presentes de Natal, computadores velhos). Então já me preparo com estoque de peças e capacidade de atendimento.
 
-**Planejamento** — eu antecipo demandas. Sei que em janeiro/fevereiro aumenta procura por formatação (volta às aulas). Em novembro/dezembro, aumenta manutenção (presentes de Natal, computadores velhos). Então me preparo com antecedência.
+**Organização** — estrutura enxuta mas clara. Cada serviço tem seu fluxo documentado. Quando aparece algo mais complexo, ativo parceiros específicos. Ninguém fica perdido sobre o que fazer.
 
-**Organização** — estrutura enxuta mas clara. Cada serviço tem seu fluxo. Quando aparece um serviço mais complexo que foge do meu escopo, eu ativo parceiros específicos. Todo mundo sabe o que fazer.
+**Direção** — comunicação direta, sem frescura. Nada de reunião formal — grupo no WhatsApp, chamada rápida, resolução na hora. Dou **autonomia** pros parceiros resolverem sem me consultar a cada passo. Isso motiva e agiliza.
 
-**Direção** — liderança direta, comunicação ágil. Não tem reunião formal — é grupo no WhatsApp, chamada rápida, resolução na hora. Dou autonomia pros parceiros resolverem sem ficar me perguntando cada detalhe. Isso motiva e agiliza.
-
-**Controle** — não tenho dashboard bonito, mas tenho indicadores reais: **feedback dos clientes**, **tempo médio de resposta**, **taxa de reincidência de problemas**. Se um cliente volta com o mesmo problema, algo errado no processo — e eu corrijo."
+**Controle** — não tenho dashboard bonito, mas tenho **indicadores reais**: feedback dos clientes, tempo médio de resposta, taxa de reincidência. Se um cliente volta com o mesmo problema, é sinal de que algo no processo precisa ser ajustado."
 
 ---
 
@@ -74,16 +73,32 @@ A empresa é **enxuta**, sou eu na maior parte do tempo, mas tenho parceiros e p
 
 > **O maior desafio de crescer**
 
-"Agora, a parte honesta: **o maior gargalo da DeiviTech sou eu.** É bonito falar de empreendedorismo, mas a real é que **centralizo demais**. Tudo passa por mim: orçamento, execução, suporte, pós-venda. Isso funciona até um ponto, mas **limita o crescimento**.
+"Agora a parte honesta: **o maior gargalo sou eu.**
 
-Se eu quiser escalar, preciso fazer o que o **Weber** sugeriu: **formalizar processos e delegar.** Não precisa virar uma burocracia pesada — mas ter um **manual simples de procedimentos**, definir **níveis de autoridade**, capacitar um **técnico-líder** pra absorver parte das decisões.
+É bonito falar de empreendedorismo, mas a real é que **centralizo demais**. Tudo passa por mim: orçamento, execução, suporte, pós-venda. Isso funciona até certo ponto, mas **limita o crescimento**.
 
-É um equilíbrio: manter a **eficiência taylorista**, o **atendimento humanizado de Mayo**, e a **organização weberiana** pra crescer sem perder a alma da empresa.
+**A solução?** Aplicar **Weber de forma leve**. Não precisa virar uma burocracia pesada — mas ter **procedimentos documentados**, **delegar responsabilidades**, capacitar um técnico de confiança pra absorver parte das decisões.
 
-E é isso. **DeiviTech — diagnóstico feito, desafio mapeado, e o próximo passo é crescer com estratégia.** Obrigado, pessoal."
+O equilíbrio é esse: manter a **eficiência taylorista** nos processos, o **atendimento humanizado** que o Mayo defende, e a **organização weberiana** pra conseguir escalar sem perder a essência.
+
+**DeiviTech — diagnóstico feito, desafio mapeado. O próximo passo é estruturar pra crescer.**
+
+Professor, é isso. Obrigado pela atenção."
 
 ---
 
-> ⏱ **Total aproximado:** 3 min (10s + 40s + 50s + 45s + 35s + 40s + fechamento)
->
-> 💡 **Dica:** Não decore. Leia uma vez pra pegar o fluxo, depois fala naturalmente. O texto é seu apoio, não seu script. Você vive isso — a confiança vem da prática.
+## ⏱ Cronometragem
+
+| Slide | Conteúdo | Tempo |
+|-------|----------|-------|
+| 1 | Abertura | ~5s |
+| 2 | Quem sou eu | ~45s |
+| 3 | Taylor, Fayol, Weber | ~50s |
+| 4 | Humanas, Sist, Conting | ~40s |
+| 5 | PODC | ~35s |
+| 6 | Gargalo + Solução | ~30s |
+| | **Total** | **~3 min** ✅ |
+
+---
+
+> 💡 **Dica:** O prof vai assistir sozinho. Então fala como se estivesse explicando pra ele numa conversa de orientação — olho no olho (mesmo sendo pela câmera), natural, sem pressa. O texto é seu roteiro de apoio, não precisa decorar. Você VIVE isso.
