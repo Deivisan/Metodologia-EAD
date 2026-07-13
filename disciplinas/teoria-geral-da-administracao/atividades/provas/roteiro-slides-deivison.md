@@ -19,7 +19,7 @@
 
 > **DeiviTech — Minha História**
 
-"Eu sou **técnico de TI** — me envolvo com tecnologia desde **2010**, quando ganhei meu primeiro notebook e comecei a ajudar família e amigos com soluções práticas. Já passei por **Core3 Tecnologia** (suporte remoto pra um dos maiores provedores do interior da Bahia), por **Santa Casa e Meddi** (suporte técnico especializado em saúde), e há **5 anos** fundei a **DeiviTech**.
+"Eu sou **técnico de TI** — me envolvo com tecnologia desde **2010**, quando ganhei meu primeiro notebook e comecei a ajudar família e amigos com soluções práticas. Há **5 anos** fundei a **DeiviTech**.
 
 A empresa é **100% digital** — tudo remoto. Presto suporte técnico, formatação, manutenção, desenvolvimento de soluções web, automação Python... basicamente, se envolve computador e o cliente precisa de solução, eu resolvo.
 
