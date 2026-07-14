@@ -126,7 +126,7 @@ X + Y   = NAND( NAND(X,X), NAND(Y,Y) )
 
 Montei o circuito no **CircuitVerse** (circuitverse.org) com 4 entradas (A, B, C, T), 4 portas NAND de 2 entradas e um LED de saida (S). A imagem abaixo mostra o circuito montado e em funcionamento.
 
-*[Placeholder: inserir print do circuito montado no CircuitVerse/Digisim.io]*
+![Circuito e validacao das 16 combinacoes](disciplinas/gcetens838-logica-para-computacao/atividades/exercicios/gcetens838-simulacao-02-prints.png)
 
 ### Validacao dos 16 estados
 
