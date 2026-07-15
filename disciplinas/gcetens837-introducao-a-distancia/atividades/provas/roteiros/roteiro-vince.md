@@ -7,7 +7,7 @@
 
 **Fala:**
 
-"Sou Vince. Deixamos 3 orientações práticas pra Ana ter sucesso no EAD:"
+"Sou Vincente. Deixamos 3 orientações práticas pra Ana ter sucesso no EAD:"
 
 "**Primeiro:** criar uma **rotina de estudos** de pelo menos 30 minutos por dia no celular, com alarme e lembrete. O segredo é a consistência, não a quantidade."
 
