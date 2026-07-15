@@ -110,16 +110,6 @@ Aproveite momentos com internet estável (casa de parente, centro da cidade) pra
 
 ---
 
-## ⏱ CRONOGRAMA (40 min total)
-
-| Momento | Tempo | O que fazer |
-|---------|-------|-------------|
-| **1 — Conhecer** | 10 min | Escolher perfil + discutir características |
-| **2 — Missão** | 20 min | Responder as 5 perguntas |
-| **3 — Socializar** | 10 min | Porta-voz apresenta (2 min) |
-
----
-
 ## 📊 CRITÉRIOS DE AVALIAÇÃO
 
 | Critério | Nota |
@@ -133,14 +123,8 @@ Aproveite momentos com internet estável (casa de parente, centro da cidade) pra
 
 ---
 
-## 🎤 ROTEIROS INDIVIDUAIS — Apresentação (2 min)
+## 🚀 ENTREGA
 
-| Ordem | Quem | O que fala | ⏱ | Link |
-|-------|------|-----------|----|------|
-| 1º | **Deivison** | Abertura + Quem é Ana + Características da EAD | ~25s | [📄 Roteiro](roteiros/roteiro-deivison.md) |
-| 2º | **Brunna** | Dificuldades + Como a EAD supera | ~25s | [📄 Roteiro](roteiros/roteiro-bruna.md) |
-| 3º | **Lucas** | Recursos tecnológicos + Fase da evolução (Internet) | ~30s | [📄 Roteiro](roteiros/roteiro-lucas.md) |
-| 4º | **Vincente** | 3 Orientações práticas + Encerramento | ~25s | [📄 Roteiro](roteiros/roteiro-vince.md) |
-| 5º | Pendente | Apoio/complemento | ~15s | [📄 Roteiro](roteiros/roteiro-extra-5-integrante.md) |
+O formato final é um **arquivo de slides** gerado pelo **NotebookLM** que responde cada pergunta com argumentos.
 
-> 💡 **Dica:** Treinem em casa com cronômetro! 2 minutos passam rápido. Cada roteiro tem a fala completa — é só ler e praticar.
+**Deivison** vai gerar os slides pelo NotebookLM usando o prompt abaixo e submeter. ✅
