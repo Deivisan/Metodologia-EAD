@@ -92,15 +92,3 @@ Zona rural | Internet só pelo celular | Nunca usou AVA
 | Criatividade das soluções | 2,0 |
 | Clareza da apresentação | 2,0 |
 | **TOTAL** | **10,0** |
-
----
-
-## 🧠 DICA DEV SAN
-
-> **Cada perfil tem um "gancho" diferente.**  
-> Escolham um que o grupo tenha mais afinidade pra justificar bem!
->
-> - **A** → Flexibilidade de horário + autonomia
-> - **B** → Tecnologia como aliada + gamificação
-> - **C** → Formação continuada + aproveitamento de tempo
-> - **D** → Recursos mobile + AVA otimizado pra celular
