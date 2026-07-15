@@ -250,6 +250,22 @@ git ls-remote --heads origin main
 
 Esta regra foi adicionada porque o usuário trabalha de múltiplos PCs e pediu explicitamente contexto fresco do remote várias vezes. O agente deve chegar já sabendo o estado real sem que o usuário precise pedir "git status com remote".
 
+### 1.6. JITPool — Atalho de Sincronização Instantânea
+
+Quando o usuário disfar **"JITPool"** (ou variações como `gitpull *`, `jitpool`), o agente DEVE executar automaticamente **sem perguntar**:
+
+```bash
+git fetch --all --prune
+git pull --all --prune
+```
+
+**Regras:**
+- **Não pergunte** se pode fazer o pull. Apenas execute.
+- Execute **imediatamente** ao ouvir a palavra JITPool.
+- Após o pull, reporte um resumo do que mudou (quantos commits, arquivos alterados).
+- Atualize o AGENTS.md se o pull trouxe mudanças que afetam o contexto do repositório.
+- O JITPool substitui a necessidade de perguntar "quer fazer pull?" — o próprio usuário já deu o sinal verde.
+
 ### 2. Geração de Documentos
 
 Ao criar documentos, siga esta pipeline sempre que possível:
@@ -362,10 +378,11 @@ Use tags HTML para elementos estruturais que o markdown puro não cobre:
 
 ## 🧭 Contexto Atual (última atualização)
 
-- **Data da última atualização**: 14/06/2026
+- **Data da última atualização**: 15/07/2026
 - **Status do repositório**: estrutura consolidada, templates ABNT criados, logo UFRB 20 anos disponível
 - **Ferramenta de divulgação**: BrowserOS + Composio integrados
 - **Skill local criada**: `.opencode/skills/humanizar-trabalhos/SKILL.md` — usar quando trabalhos acadêmicos estiverem com linguagem artificial/"cara de IA". A skill orienta revisão ética, preservação do enunciado, voz de estudante EAD/UFRB e geração de versão `-versao-humanizada` quando necessário.
+- **Metodologia NotebookLM 2.0**: `templates/metodologia-notebooklm-v2.md` — guia padronizado de uso do Google NotebookLM para geração de slides, resumos, mapas mentais e podcasts acadêmicos.
 
 ### 🏫 Disciplinas Ativas — UFRB 2026.1
 
@@ -377,6 +394,7 @@ O aluno está matriculado em **5 disciplinas** no semestre 2026.1 (períodos: 30
 | GCETENS839 | Fundamentos de Sistemas de Informação | Profª. Me. Daiana Conceição Souza |
 | GCETENS841 | Algoritmos e Programação I | Luis Paulo Morais Conceição |
 | GCETENS842 | Lógica Matemática Discreta | Anderon Melhor Miranda |
+| GCETENS837 | Introdução à Educação a Distância | — |
 | GCETENS843 | Projeto Algoritmo I | Prof. Alex Ferreira |
 
 ### 📌 Disciplinas Adicionais — Identificadas
@@ -468,7 +486,15 @@ Quando o usuário enviar novas conversas do grupo:
 - **GCETENS842** — Atividade Avaliativa 06 — **Grafos no Cotidiano** ✅ **PDF gerado** (enviar até 17/05 23:59)
 
 #### ✅ ENVIADAS — 09/07/2026
-- **GCETENS838** — Simulação 01 — Circuitos Lógicos com Portas Universais ✅ **PDF + DOCX gerados**
+- **GCETENS838** — Simulação 01 — Circuitos Lógicos com Portas Universais ✅ **PDF + DOCX gerados e enviados**
+
+#### 📝 SENDO PREPARADAS — 15/07/2026
+- **GCETENS838** — Simulação 02 — Circuitos com Python + PDF ABNT ✅ **Relatório, roteiro de vídeo e guia passo-a-passo criados** (veio do remote pelo JITPool)
+- **GCETENS840** — Atividade Final — **Prompts NotebookLM + Transcrição de orientações** (materiais de apoio criados)
+
+#### ⏰ VENCE HOJE — 15/07/2026 (23:59)
+- **GCETENS837 — Trilha 3** — Produção de mapa mental / reflexão crítica sobre aprendizagem online ✅ **Prompt NotebookLM criado** (slides via NotebookLM Studio → Slide Decks)
+  - Prompt: `disciplinas/gcetens837-introducao-a-distancia/atividades/provas/prompt-notebooklm-mapa-mental.md`
 
 #### 🟢 31/05/2026 (final do prazo)
 - **GCETENS841** — Avaliação 7 - 100% da Nota — **Lista de Funções em C** (Lista_7_FUNCAO.pdf)
