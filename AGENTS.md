@@ -266,6 +266,23 @@ git pull --all --prune
 - Atualize o AGENTS.md se o pull trouxe mudanças que afetam o contexto do repositório.
 - O JITPool substitui a necessidade de perguntar "quer fazer pull?" — o próprio usuário já deu o sinal verde.
 
+### 1.7. Regra de Encerramento — Push Automático
+
+Quando o usuário indicar **encerramento** (ex: "já deu push", "encerra", "finaliza", "submete", ou quando o agente identificar que o ciclo de trabalho foi concluído), o agente DEVE:
+
+```bash
+git add -A
+git commit -m "<tipo>: <descrição>"
+git push
+```
+
+**Regras:**
+- **Não pergunte** se pode fazer push — apenas execute.
+- O push faz parte do encerramento, assim como o JITPool faz parte da abertura.
+- O workflow padrão fica: **JITPool (início)** → trabalho → **Push (encerramento)**.
+- Reporte o link do commit após o push (ex: `https://github.com/Deivisan/Metodologia-EAD/commit/<hash>`).
+- Se o usuário pedir o prompt do NotebookLM, considere como sinal de que o ciclo está próximo do encerramento — prepare o push.
+
 ### 2. Geração de Documentos
 
 Ao criar documentos, siga esta pipeline sempre que possível:
