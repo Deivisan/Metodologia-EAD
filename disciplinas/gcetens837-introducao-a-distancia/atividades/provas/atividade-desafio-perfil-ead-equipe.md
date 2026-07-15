@@ -7,13 +7,13 @@
 
 ## 👥 EQUIPE
 
-| Nome | Papel |
-|------|-------|
-| Deivison de Lima Santana | Organização / NotebookLM |
-| Bruna | — |
-| Lucas | — |
-| Vince | — |
-| _(+ 1 pendente)_ | — |
+| Nome | Papel | Roteiro |
+|------|-------|---------|
+| Deivison de Lima Santana | Abertura + Perfil + Características | [🎤 Roteiro](roteiros/roteiro-deivison.md) |
+| Bruna | Dificuldades + Superação EAD | [🎤 Roteiro](roteiros/roteiro-bruna.md) |
+| Lucas | Recursos Tecnológicos + Fase Evolução | [🎤 Roteiro](roteiros/roteiro-lucas.md) |
+| Vince | 3 Orientações Práticas + Encerramento | [🎤 Roteiro](roteiros/roteiro-vince.md) |
+| _(+ 1 pendente)_ | Apoio / Complemento | [🎤 Roteiro](roteiros/roteiro-extra-5-integrante.md) |
 
 ---
 
@@ -130,3 +130,17 @@ Aproveite momentos com internet estável (casa de parente, centro da cidade) pra
 | Criatividade das soluções | 2,0 |
 | Clareza da apresentação | 2,0 |
 | **TOTAL** | **10,0** |
+
+---
+
+## 🎤 ROTEIROS INDIVIDUAIS — Apresentação (2 min)
+
+| Ordem | Quem | O que fala | ⏱ | Link |
+|-------|------|-----------|----|------|
+| 1º | **Deivison** | Abertura + Quem é Ana + Características da EAD | ~25s | [📄 Roteiro](roteiros/roteiro-deivison.md) |
+| 2º | **Bruna** | Dificuldades + Como a EAD supera | ~25s | [📄 Roteiro](roteiros/roteiro-bruna.md) |
+| 3º | **Lucas** | Recursos tecnológicos + Fase da evolução (Internet) | ~30s | [📄 Roteiro](roteiros/roteiro-lucas.md) |
+| 4º | **Vince** | 3 Orientações práticas + Encerramento | ~25s | [📄 Roteiro](roteiros/roteiro-vince.md) |
+| 5º | Pendente | Apoio/complemento | ~15s | [📄 Roteiro](roteiros/roteiro-extra-5-integrante.md) |
+
+> 💡 **Dica:** Treinem em casa com cronômetro! 2 minutos passam rápido. Cada roteiro tem a fala completa — é só ler e praticar.
